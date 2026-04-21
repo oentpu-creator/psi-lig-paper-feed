@@ -67,6 +67,9 @@ def _ss_search(query: str, limit: int = 20) -> list[dict]:
             resp = requests.get(url, params={"query": query, "limit": limit, "fields": fields},
                                 headers=headers, timeout=30)
             if resp.status_code == 429:
+                if not SS_API_KEY:
+                    print("    [SS] rate-limited (no API key) — skipping query")
+                    return []
                 wait = 60 * (attempt + 1)
                 print(f"    [SS] rate-limited, waiting {wait}s...")
                 time.sleep(wait)
