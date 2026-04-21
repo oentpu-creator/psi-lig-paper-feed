@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PSi / LIG 論文資料庫</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --border: #2d3147;
+      --accent: #4f8ef7;
+      --green: #3ecf8e;
+      --orange: #f59e0b;
+      --text: #e2e8f0;
+      --muted: #8892a4;
+      --radius: 10px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      line-height: 1.6;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    header h1 { font-size: 1.4rem; font-weight: 700; }
+    header h1 span { color: var(--accent); }
+    #stats-bar {
+      font-size: 0.85rem;
+      color: var(--muted);
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    #stats-bar strong { color: var(--text); }
+
+    .toolbar {
+      padding: 20px 32px 0;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    input[type="text"] {
+      flex: 1;
+      min-width: 220px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      padding: 9px 14px;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color .2s;
+    }
+    input[type="text"]:focus { border-color: var(--accent); }
+
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 0.82rem;
+      padding: 6px 14px;
+      transition: all .2s;
+    }
+    .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .filter-btn:hover:not(.active) { border-color: var(--accent); color: var(--accent); }
+
+    #sort-select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+
+    #count-label {
+      font-size: 0.85rem;
+      color: var(--muted);
+      padding: 12px 32px 4px;
+    }
+
+    #paper-list {
+      padding: 8px 32px 40px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .paper-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 20px;
+      transition: border-color .2s;
+    }
+    .paper-card:hover { border-color: var(--accent); }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 8px;
+    }
+    .material-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      border-radius: 6px;
+      padding: 3px 8px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+    .badge-PSi    { background: #1e3a5f; color: #60a5fa; }
+    .badge-LIG    { background: #1a3a28; color: var(--green); }
+    .badge-hybrid { background: #3a2a10; color: var(--orange); }
+    .badge-other  { background: #2a2a3a; color: var(--muted); }
+
+    .paper-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .paper-title:hover { color: var(--accent); }
+
+    .paper-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+    .paper-meta span + span::before { content: " · "; }
+
+    .paper-abstract {
+      font-size: 0.82rem;
+      color: #a0aec0;
+      margin-top: 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      margin-top: 10px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .chip {
+      font-size: 0.75rem;
+      border-radius: 6px;
+      padding: 3px 10px;
+      background: #1e2233;
+      color: var(--muted);
+      border: 1px solid var(--border);
+      text-decoration: none;
+    }
+    .chip:hover { border-color: var(--accent); color: var(--accent); }
+
+    #no-results {
+      text-align: center;
+      color: var(--muted);
+      padding: 60px 0;
+      display: none;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 80px;
+      color: var(--muted);
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>PSi / <span>LIG</span> 論文資料庫</h1>
+  <div id="stats-bar">
+    <span>共 <strong id="total-count">—</strong> 篇</span>
+    <span>最後更新：<strong id="last-update">—</strong></span>
+    <span>今日新增：<strong id="new-today">—</strong></span>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input type="text" id="search-box" placeholder="搜尋標題 / 作者 / 關鍵字..." />
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="filter-btn active" data-mat="all">全部</button>
+    <button class="filter-btn" data-mat="PSi">多孔矽 PSi</button>
+    <button class="filter-btn" data-mat="LIG">雷射石墨烯 LIG</button>
+    <button class="filter-btn" data-mat="hybrid">混合</button>
+    <button class="filter-btn" data-mat="other">其他</button>
+  </div>
+  <select id="sort-select">
+    <option value="year-desc">年份（新→舊）</option>
+    <option value="year-asc">年份（舊→新）</option>
+    <option value="title-asc">標題 A→Z</option>
+  </select>
+</div>
+
+<div id="count-label"></div>
+<div id="paper-list"><div class="loading">載入中...</div></div>
+<div id="no-results">找不到符合的論文</div>
+
+<script>
+let allPapers = [];
+let currentMat = "all";
+let currentSort = "year-desc";
+let searchQuery = "";
+
+const BASE = location.hostname === "localhost" ? ".." : ".";
+
+async function loadData() {
+  try {
+    const [papersRes, statsRes] = await Promise.all([
+      fetch(`${BASE}/data/papers.json`),
+      fetch(`${BASE}/data/stats.json`),
+    ]);
+    allPapers = await papersRes.json();
+
+    if (statsRes.ok) {
+      const stats = await statsRes.json();
+      document.getElementById("total-count").textContent = stats.total ?? allPapers.length;
+      document.getElementById("new-today").textContent   = stats.new_today ?? 0;
+      const d = new Date(stats.last_run);
+      document.getElementById("last-update").textContent =
+        d.toLocaleDateString("zh-TW", {year:"numeric",month:"2-digit",day:"2-digit",
+          hour:"2-digit", minute:"2-digit", timeZone:"Asia/Taipei"});
+    }
+
+    render();
+  } catch(e) {
+    document.getElementById("paper-list").innerHTML =
+      '<div class="loading">無法載入資料 — 請確認 data/papers.json 已存在</div>';
+  }
+}
+
+function getFiltered() {
+  let list = allPapers;
+  if (currentMat !== "all") list = list.filter(p => p.material === currentMat);
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    list = list.filter(p =>
+      (p.title   || "").toLowerCase().includes(q) ||
+      (p.abstract|| "").toLowerCase().includes(q) ||
+      (p.authors || []).some(a => a.toLowerCase().includes(q)) ||
+      (p.journal || "").toLowerCase().includes(q)
+    );
+  }
+  list = [...list].sort((a, b) => {
+    if (currentSort === "year-desc") return (b.year||0) - (a.year||0);
+    if (currentSort === "year-asc")  return (a.year||0) - (b.year||0);
+    return (a.title||"").localeCompare(b.title||"");
+  });
+  return list;
+}
+
+function render() {
+  const list    = getFiltered();
+  const el      = document.getElementById("paper-list");
+  const noRes   = document.getElementById("no-results");
+  const countLbl= document.getElementById("count-label");
+
+  countLbl.textContent = `顯示 ${list.length} / ${allPapers.length} 篇`;
+
+  if (!list.length) {
+    el.innerHTML = "";
+    noRes.style.display = "block";
+    return;
+  }
+  noRes.style.display = "none";
+
+  el.innerHTML = list.map(p => {
+    const authors = (p.authors||[]).slice(0,3).join(", ")
+                  + ((p.authors||[]).length > 3 ? " et al." : "");
+    const mat     = p.material || "other";
+    const matLabel= {PSi:"多孔矽",LIG:"LIG",hybrid:"混合型",other:"其他"}[mat] || mat;
+    const link    = p.url || (p.doi ? `https://doi.org/${p.doi}` : "#");
+    const abstract= p.abstract
+      ? `<div class="paper-abstract">${esc(p.abstract)}</div>` : "";
+
+    const chips = [];
+    if (p.doi)
+      chips.push(`<a class="chip" href="https://doi.org/${p.doi}" target="_blank">DOI</a>`);
+    if (p.pdf_url)
+      chips.push(`<a class="chip" href="${p.pdf_url}" target="_blank">PDF</a>`);
+    if (p.url && p.url !== link)
+      chips.push(`<a class="chip" href="${p.url}" target="_blank">${p.source === "semantic_scholar" ? "S2" : p.source}</a>`);
+
+    return `
+    <div class="paper-card">
+      <div class="card-header">
+        <span class="material-badge badge-${mat}">${matLabel}</span>
+        <a class="paper-title" href="${link}" target="_blank">${esc(p.title)}</a>
+      </div>
+      <div class="paper-meta">
+        <span>${esc(authors)}</span>
+        <span>${esc(p.journal||p.source||"")}</span>
+        <span>${p.year||"—"}</span>
+      </div>
+      ${abstract}
+      ${chips.length ? `<div class="card-footer">${chips.join("")}</div>` : ""}
+    </div>`;
+  }).join("");
+}
+
+function esc(s) {
+  return String(s||"")
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;");
+}
+
+// Events
+document.getElementById("search-box").addEventListener("input", e => {
+  searchQuery = e.target.value.trim();
+  render();
+});
+
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentMat = btn.dataset.mat;
+    render();
+  });
+});
+
+document.getElementById("sort-select").addEventListener("change", e => {
+  currentSort = e.target.value;
+  render();
+});
+
+loadData();
+</script>
+</body>
+</html>

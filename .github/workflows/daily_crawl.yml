@@ -1,0 +1,70 @@
+name: Daily PSi/LIG Paper Crawler
+
+on:
+  schedule:
+    # 每天台灣時間 08:00 執行 (UTC 00:00)
+    - cron: "0 0 * * *"
+  workflow_dispatch:   # 允許手動觸發
+
+permissions:
+  contents: write    # 需要寫入 data/papers.json
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run crawler
+        env:
+          # 選填：Semantic Scholar API Key（免費申請可提高速率限制）
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SS_API_KEY }}
+          MAX_PER_QUERY: "25"
+        run: python crawler/fetch_papers.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & push new papers
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/papers.json data/stats.json
+          NEW=$(python -c "import json; s=json.load(open('data/stats.json')); print(s['new_today'])")
+          git commit -m "chore: add ${NEW} new PSi/LIG papers [$(date -u +%Y-%m-%d)]"
+          git push
+
+      - name: No new papers
+        if: steps.changes.outputs.changed != 'true'
+        run: echo "No new papers found today."
+
+      - name: Write job summary
+        if: always()
+        run: |
+          python - <<'EOF'
+          import json, pathlib
+          stats_file = pathlib.Path("data/stats.json")
+          if stats_file.exists():
+              s = json.loads(stats_file.read_text())
+              print(f"## Crawler Summary")
+              print(f"- **Total papers:** {s['total']}")
+              print(f"- **New today:** {s['new_today']}")
+              print(f"- **By material:** {s['by_material']}")
+          EOF
