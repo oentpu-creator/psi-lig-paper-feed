@@ -1,6 +1,8 @@
 {
-  "last_run": "—",
-  "total": 0,
-  "new_today": 0,
-  "by_material": {}
+  "last_run": "2026-04-22T06:25:13.620252+00:00",
+  "total": 9,
+  "new_today": 9,
+  "by_material": {
+    "other": 9
+  }
 }

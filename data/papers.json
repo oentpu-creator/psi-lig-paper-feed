@@ -1,1 +1,180 @@
-[]
+[
+  {
+    "paper_id": "arxiv_2604.19397v1",
+    "source": "arxiv",
+    "title": "VIVA Stimuli: A Web-Based Platform for Eye Tracking Stimuli",
+    "authors": [
+      "Suleyman Ozdel",
+      "Virmarie Maquiling",
+      "Kadir Burak Buldu",
+      "Yasmeen Abdrabou",
+      "Enkelejda Kasneci"
+    ],
+    "year": 2026,
+    "abstract": "Reproducibility in eye-tracking research is increasingly important as researchers conduct diverse experiments and seek to validate or replicate findings. However, exact replication remains challenging due to differences in laboratory practices and experimental setups. Inconsistent stimulus presentation can yield divergent metrics from identical oculomotor behavior, yet the stimulus layer remains largely unstandardized. Existing tools often require programming expertise or depend on specific hardware vendors. We introduce VIVA Stimuli, a web-based platform for standardized eye-tracking stimulus presentation. It provides configurable task types, including fixation, smooth pursuit, cognitive load, blink, slippage, content display, and questionnaires within a unified environment. The platform ",
+    "doi": "10.1145/3797246.3805692",
+    "pdf_url": "https://arxiv.org/pdf/2604.19397v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.19397v1",
+    "fetched_at": "2026-04-22T06:24:03.718285+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19361v1",
+    "source": "arxiv",
+    "title": "Physical Analysis of Bennu Samples Reveals Regolith Production by Collisional Disruption on Near-Earth Asteroids",
+    "authors": [
+      "R. -L. Ballouz",
+      "A. J. Ryan",
+      "R. J. Macke",
+      "O. S. Barnouin",
+      "M. Lê",
+      "J. Moreno"
+    ],
+    "year": 2026,
+    "abstract": "Owing to the extremely low gravity of small near-Earth asteroids (NEAs), it has been assumed that impact-generated rock fragments escape into space and thus do not contribute to the accumulation of regolith. However, centimeter-sized stones returned from the small NEA Bennu by NASA's OSIRIS-REx mission exhibit impact craters up to a few millimeters wide, implying that impact fragments and impact-processed rocks are retained despite the microgravity environment. To understand how, we combined detailed physical analysis of Bennu samples, laboratory experiments of impacts into simulant rocks, and 3D numerical simulations of disruptive impacts into boulders. We find that the majority (85% by mass) of impact fragments eject toward and penetrate the asteroid's weak, porous surface, leading to th",
+    "doi": "10.3847/PSJ/ae4fad",
+    "pdf_url": "https://arxiv.org/pdf/2604.19361v1",
+    "journal": "The Planetary Science Journal,7:87(30pp, 2026 April",
+    "url": "http://arxiv.org/abs/2604.19361v1",
+    "fetched_at": "2026-04-22T06:24:03.718461+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.17723v1",
+    "source": "arxiv",
+    "title": "Poling-free Spontaneous Parametric Down Conversion without for Silicon Carbide and Lithium Niobate photonics",
+    "authors": [
+      "Tim F. Weiss",
+      "Hamed Arianfard",
+      "Yang Yang",
+      "Alberto Peruzzo"
+    ],
+    "year": 2026,
+    "abstract": "State-of-the-art photon sources based on spontaneous parametric down-conversion (SPDC) currently rely on artificial structuring of the material nonlinearity to satisfy phase-matching conditions. This technique, known as periodic poling, is available only in a limited number of material platforms and introduces additional fabrication steps and errors, which are detrimental to up-scaling efforts. Here, we present a device architecture that enables SPDC of a wide range of frequencies without the need for periodic poling. We present explicit designs and calculations for 4H Silicon Carbide on-insulator, in which SPDC photon generation is so far unavailable, and thin-film Lithium Niobate on-insulator, a state-of-the-art quantum photonics platform. Our design, based on mode conversion and subsequ",
+    "doi": "10.1038/s41598-025-92705-2",
+    "pdf_url": "https://arxiv.org/pdf/2604.17723v1",
+    "journal": "Scientific Reports 15.1 (2025): 10136",
+    "url": "http://arxiv.org/abs/2604.17723v1",
+    "fetched_at": "2026-04-22T06:24:10.419100+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19424v1",
+    "source": "arxiv",
+    "title": "Seeing Your Mindless Face: How Viewing One's Live Self Interrupts Mindless Short-Form Video Scrolling",
+    "authors": [
+      "Kyungjin Kim",
+      "Minjeong Kim",
+      "Soobeen Jeong",
+      "Jiyeon So",
+      "Hayeon Song"
+    ],
+    "year": 2026,
+    "abstract": "The widespread, addictive consumption of short-form videos, which allegedly causes \"brain rot,\" has become an urgent public concern. This study proposes that self-related cues serve as an intrinsic, self-reflective strategy that enhances self-control over media overuse. We developed an app that de-immerses users by periodically displaying different self-related cues (live camera, selfie, name in text, and black screen) and tested their effects in a laboratory experiment (N=84). Overall, findings show that self-related cues effectively disrupt mindless viewing, enabling users to voluntarily stop short-form video consumption. Interestingly, the black screen, intended as a control, elicited the greatest intention to use the app: Participants noted in the follow-up interview that they preferre",
+    "doi": "10.1145/3772363.3798907",
+    "pdf_url": "https://arxiv.org/pdf/2604.19424v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.19424v1",
+    "fetched_at": "2026-04-22T06:24:27.450823+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.18334v1",
+    "source": "arxiv",
+    "title": "Reliability of AI Bots Footprints in GitHub Actions CI/CD Workflows",
+    "authors": [
+      "Syed Muhammad Ashhar Shah",
+      "Sehrish Habib",
+      "Muizz Hussain",
+      "Maryam Abdul Ghafoor",
+      "Abdul Ali Bangash"
+    ],
+    "year": 2026,
+    "abstract": "Continuous Integration and Deployment (CI/CD) workflows are central to modern software delivery, yet the reliability of agentic AI bots operating within these workflows remain underexplored. Using pull requests (PRs), commits, and repositories from the AIDev dataset, we retrieved associated CI/CD workflow runs via the GitHub Actions API and analyzed 61,837 runs from 2,355 repositories, all triggered by PRs generated by five AI bots: Claude, Devin, Cursor, Copilot, and Codex. We observed substantial agent-dependent differences in workflow reliability, with Copilot and Codex achieving the highest success rates ~93% and ~94% respectively. At the repository level, we find a negative correlation between AI agent contribution frequency and workflow success rate, suggesting that a higher frequenc",
+    "doi": "10.1145/3793302.3793569",
+    "pdf_url": "https://arxiv.org/pdf/2604.18334v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.18334v1",
+    "fetched_at": "2026-04-22T06:24:33.645006+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19588v1",
+    "source": "arxiv",
+    "title": "Magnetic coupling between nuclear motion and nuclear spins in molecules",
+    "authors": [
+      "Matthias Diez",
+      "Johannes K. Krondorfer",
+      "Albert Hirtenfelder",
+      "Andreas W. Hauser"
+    ],
+    "year": 2026,
+    "abstract": "Among the possible types of magnetic dipole interactions in molecular systems, couplings between nuclear motion and the nuclear spin have probably received the least attention in molecular spectroscopy. Although very small in comparison to effects related to electron spin, this type of hyperfine interaction plays an important role in the NMR spectroscopy of molecular systems. While measurement and prediction of spin-rotation tensors are a common place, vibrationally induced effects still lack a comprehensive description.   In this article we develop a generic, theoretical framework that is well embedded in modern electronic structure theory and inspired by the Breit-Pauli Hamiltonian for electronic interactions, distinguishing between nuclear spin-orbit and spin-other-orbit contributions. ",
+    "doi": "10.1080/00268976.2025.2600464",
+    "pdf_url": "https://arxiv.org/pdf/2604.19588v1",
+    "journal": "Molecular Physics, 2025, Article e2600464",
+    "url": "http://arxiv.org/abs/2604.19588v1",
+    "fetched_at": "2026-04-22T06:24:39.337010+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19293v1",
+    "source": "arxiv",
+    "title": "Energy Efficient LSTM Accelerators for Embedded FPGAs through Parameterised Architecture Design",
+    "authors": [
+      "Chao Qian",
+      "Tianheng Ling",
+      "Gregor Schiele"
+    ],
+    "year": 2026,
+    "abstract": "Long Short-term Memory Networks (LSTMs) are a vital Deep Learning technique suitable for performing on-device time series analysis on local sensor data streams of embedded devices. In this paper, we propose a new hardware accelerator design for LSTMs specially optimised for resource-scarce embedded Field Programmable Gate Arrays (FPGAs). Our design improves the execution speed and reduces energy consumption compared to related work. Moreover, it can be adapted to different situations using a number of optimisation parameters, such as the usage of DSPs or the implementation of activation functions. We present our key design decisions and evaluate the performance. Our accelerator achieves an energy efficiency of 11.89 GOP/s/W during a real-time inference with 32873 samples/s.",
+    "doi": "10.1007/978-3-031-42785-5_1",
+    "pdf_url": "https://arxiv.org/pdf/2604.19293v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.19293v1",
+    "fetched_at": "2026-04-22T06:25:01.960758+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19025v1",
+    "source": "arxiv",
+    "title": "RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices",
+    "authors": [
+      "Seok Joon Kim",
+      "Dinh Duc Cao",
+      "Federica Spinola",
+      "Se Jin Lee",
+      "Kyu Sung Cho"
+    ],
+    "year": 2026,
+    "abstract": "Widespread RGB-Depth (RGB-D) sensors and advanced 3D reconstruction technologies facilitate the capture of indoor spaces, improving the fields of augmented reality (AR), virtual reality (VR), and extended reality (XR). Nevertheless, current technologies still face limitations, such as the inability to reflect minor scene changes without a complete recapture, the lack of semantic scene understanding, and various texturing challenges that affect the 3D model's visual quality. These issues affect the realism required for VR experiences and other applications such as in interior design and real estate. To address these challenges, we introduce RoomRecon, an interactive, real-time scanning and texturing pipeline for 3D room models. We propose a two-phase texturing pipeline that integrates AR-gu",
+    "doi": "10.1109/ISMAR62088.2024.00069",
+    "pdf_url": "https://arxiv.org/pdf/2604.19025v1",
+    "journal": "Proc. IEEE Int. Symp. Mixed and Augmented Reality (ISMAR), 2024, pp. 544-553",
+    "url": "http://arxiv.org/abs/2604.19025v1",
+    "fetched_at": "2026-04-22T06:25:01.960915+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.19337v1",
+    "source": "arxiv",
+    "title": "POLAR-PIC: A Holistic Framework for Matrixized PIC with Co-Designed Compute, Layout, and Communication",
+    "authors": [
+      "Yizhuo Rao",
+      "Xingjian Cui",
+      "Shangzhi Pang",
+      "Jiabin Xie",
+      "Guangnan Feng",
+      "Jinhui Wei"
+    ],
+    "year": 2026,
+    "abstract": "Particle-in-Cell (PIC) simulations are fundamental to plasma physics but often suffer from limited scalability due to particle-grid interaction bottlenecks and particle redistribution costs. Specifically, the particle-grid interaction computations have not taken full advantage of the emerging Matrix Processing Units (MPUs), the particle motion introduces irregular memory accesses, and the bulk-synchronous redistribution further destroys long-term data locality thereby limiting parallel efficiency. To address these inefficiencies, we present POLAR-PIC, a co-designed framework for large-scale PIC simulations that (i) reformulates Field Interpolation into an MPU-friendly outer-product form, (ii) maintains a physically ordered particle layout to preserve memory contiguity, and (iii) overlaps p",
+    "doi": "10.1145/3806645.3807574",
+    "pdf_url": "https://arxiv.org/pdf/2604.19337v1",
+    "journal": "The 35th International Symposium on High-Performance Parallel and Distributed Computing (HPDC '26), July 13--16, 2026, Cleveland, OH, USA",
+    "url": "http://arxiv.org/abs/2604.19337v1",
+    "fetched_at": "2026-04-22T06:25:07.723457+00:00",
+    "material": "other"
+  }
+]
