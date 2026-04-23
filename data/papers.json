@@ -176,5 +176,135 @@
     "url": "http://arxiv.org/abs/2604.19337v1",
     "fetched_at": "2026-04-22T06:25:07.723457+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20563v1",
+    "source": "arxiv",
+    "title": "Quantum metrology via mitigation of single-photon loss using an engineered nonlinear oscillator",
+    "authors": [
+      "Tian-Le Yang",
+      "Wen Ning",
+      "Zhen-Biao Yang",
+      "Shi-Biao Zheng"
+    ],
+    "year": 2026,
+    "abstract": "The fragility of quantum metrological advantages under loss remains a major barrier to practical quantum sensing. For a two-photon-driven (TPD) Kerr resonator (TPD-Kerr model) subject to unavoidable single-photon loss (SPL), both the quantum Fisher information gain and squeezing level exhibit hard-to-track long-lived damped oscillations, restricting useful sensing and squeezing to extremely short time windows. We show that adding engineered two-photon loss (ETPL) -- forming a TPD-Kerr-ETPL hybrid model -- significantly mitigates these oscillations and converts the decay into a smooth, monotonic drop. This extends the high-sensitivity windows by over an order of magnitude. Moreover, we reveal a temporal hierarchy of quantum resources: the initial boost in metrological sensitivity arises fro",
+    "doi": "10.1007/s11432-025-4903-y",
+    "pdf_url": "https://arxiv.org/pdf/2604.20563v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.20563v1",
+    "fetched_at": "2026-04-23T06:28:56.975435+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20823v1",
+    "source": "arxiv",
+    "title": "From Meme to Method: Rethinking Animal Adoption Platforms through the Cat Distribution System",
+    "authors": [
+      "Carl Angelo Angcana",
+      "Jamlech Iram Gojo Cruz"
+    ],
+    "year": 2026,
+    "abstract": "The internet folklore of the Cat Distribution System (CDS) humorously suggests that cats are \"assigned\" to people rather than intentionally sought. Beyond its playful origins, CDS reflects a culturally resonant way people perceive and engage in adoption, and this user context can guide the redesign and improvement of adoption systems. In the Philippines, where an estimated 13.11 million stray cats and dogs place the country sixth worldwide in overpopulation, this framing offers a novel way to rethink adoption platforms. We developed a prototype application inspired by CDS principles, focusing on features such as algorithmic matchmaking, community reporting, and proximity-based discovery. An initial evaluation with potential users (n=35) indicated that the system was positively received for",
+    "doi": "10.1145/3786995.3787061",
+    "pdf_url": "https://arxiv.org/pdf/2604.20823v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.20823v1",
+    "fetched_at": "2026-04-23T06:29:19.516388+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20669v1",
+    "source": "arxiv",
+    "title": "A Field Guide to Decision Making",
+    "authors": [
+      "Richard B. Arthur"
+    ],
+    "year": 2026,
+    "abstract": "High-consequence decision making demands peak performance from individuals in positions of responsibility. Such executive authority bears the obligation to act despite uncertainty, limited resources, time constraints, and accountability risks. Tools and strategies to motivate confidence and foster risk tolerance must confront informational noise and can provide qualified accountability. Machine intelligence augments human cognition and perception to improve situational awareness, decision framing, flexibility, and coherence through agentic stewardship of contextual metadata. We examine systemic and behavioral factors crucial to address in scenarios encumbered by complexity, uncertainty, and urgency.",
+    "doi": "10.1109/MCSE.2026.3676981",
+    "pdf_url": "https://arxiv.org/pdf/2604.20669v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.20669v1",
+    "fetched_at": "2026-04-23T06:29:36.574810+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20532v1",
+    "source": "arxiv",
+    "title": "Reliability as a Design Principle: A Systematic Review and Integrated Framework for Renewable-Based Microgrids",
+    "authors": [
+      "Mohammed Zeehan Saleheen",
+      "Markus Wagner",
+      "Reza Razzaghi",
+      "Hao Wang"
+    ],
+    "year": 2026,
+    "abstract": "Reliable operation is a central motivation for deploying renewable-based microgrids. This paper presents a systematic rapid review that positions reliability as the central organizing principle for microgrid design. Specifically, this review systematically synthesizes recent literature to examine how planning assumptions, optimization formulations, operational flexibility mechanisms, and reliability assessment frameworks jointly shape reliability outcomes. The synthesis shows that reliability in renewable-based microgrids is governed primarily by chronological, time-coupled energy adequacy rather than installed capacity alone, with Dunkelflaute events emerging as a key determinant of adequacy failure. Reliability outcomes are shaped by the joint interaction of resource portfolios, storage ",
+    "doi": "10.1016/j.ecmx.2026.101878",
+    "pdf_url": "https://arxiv.org/pdf/2604.20532v1",
+    "journal": "Energy Conversion and Management: X, 2026",
+    "url": "http://arxiv.org/abs/2604.20532v1",
+    "fetched_at": "2026-04-23T06:29:36.574972+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20489v1",
+    "source": "arxiv",
+    "title": "Assessing the Challenges of Collective Perception via V2I Communications in High-Speed Scenarios with Open Road Testing",
+    "authors": [
+      "Jon Ander Iñiguez de Gordoa",
+      "Iker Alkorta",
+      "Itziar Urbieta",
+      "Gorka Velez",
+      "Andoni Mujika"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents a comprehensive end-to-end evaluation of an infrastructure-assisted collective perception (ICP) system deployed on a highway using ITS-G5 technology. Open-road tests were conducted in the Bizkaia Connected Corridor (BCC), an operational corridor which covers a winding highway, enabling a realistic assessment of system performance in diverse traffic scenarios. The evaluation included three main aspects: (1) end-to-end Vehicle-to-Everything (V2X) communication latency, with a breakdown of delays introduced by each system component; (2) the effective range of ITS-G5 communications between vehicles and infrastructure; and (3) the perception system, using an independent sensor setup for ground truth annotation to account for errors beyond the detection model, such as synchro",
+    "doi": "10.1109/TVT.2026.3672175",
+    "pdf_url": "https://arxiv.org/pdf/2604.20489v1",
+    "journal": "IEEE Transactions on Vehicular Technology (2026)",
+    "url": "http://arxiv.org/abs/2604.20489v1",
+    "fetched_at": "2026-04-23T06:29:53.557490+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20017v1",
+    "source": "arxiv",
+    "title": "Strain in Sound: Soft Corrugated Tube for Local Strain Sensing with Acoustic Resonance",
+    "authors": [
+      "Michael Chun",
+      "Ananya Nukala",
+      "Tae Myung Huh"
+    ],
+    "year": 2026,
+    "abstract": "We present a soft corrugated tube sensor designed to estimate strain in each half segment. When air flows through the tube, the internal corrugated cavities induce pressure oscillations that excite the tube's standing wave resonance mode, generating an acoustic tone. Stretching the tube affects both the resonance mode frequency, due to changes in overall length, and the frequency-flow speed relationship, due to variations in cavity width, which is particularly useful for local strain estimation. By sweeping flow rates in a controlled manner, we collected resonance frequency data across flow speeds under various local stretch conditions, enabling a machine learning algorithm (gradient boosting regressor) to estimate segmental strain with high accuracy. The dual-period tube design (3.1 mm an",
+    "doi": "10.1109/RoboSoft63089.2025.11020939",
+    "pdf_url": "https://arxiv.org/pdf/2604.20017v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.20017v1",
+    "fetched_at": "2026-04-23T06:29:53.557742+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.20124v1",
+    "source": "arxiv",
+    "title": "SPRAY: A smoothed particle radiation hydrodynamics code for modeling high intensity laser-plasma interactions",
+    "authors": [
+      "Min Ki Jung",
+      "Hakhyeon Kim",
+      "Su-San Park",
+      "Eung Soo Kim",
+      "Yong-Su Na",
+      "Sang June Hahn"
+    ],
+    "year": 2026,
+    "abstract": "Here we report the development of SPRAY, a massively parallel GPU accelerated, smoothed particle hydrodynamics (SPH)-based, radiation hydrodynamics (RHD) code designed specifically for simulating high intensity laser-plasma interactions. When a target is irradiated by an intense laser, highly complex fluid deformation occurs due to instabilities, which is challenging to study numerically. SPRAY is particle-based, mesh-free, and Lagrangian, which addresses numerical issues that posed difficulties to existing methods. Its SPH formulations for RHD governing equations are tailored toward accurate and reliable simulations of laser-target irradiation phenomena, and are solved via a time-dependent, flux-limited diffusion method. A new laser energy coupling module, which is based on the Wentzel-Kr",
+    "doi": "10.1016/j.jcp.2024.113000",
+    "pdf_url": "https://arxiv.org/pdf/2604.20124v1",
+    "journal": "J. Comput. Phys. 508, 113000 (2024)",
+    "url": "http://arxiv.org/abs/2604.20124v1",
+    "fetched_at": "2026-04-23T06:29:59.668127+00:00",
+    "material": "other"
   }
 ]
