@@ -306,5 +306,592 @@
     "url": "http://arxiv.org/abs/2604.20124v1",
     "fetched_at": "2026-04-23T06:29:59.668127+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.21846v1",
+    "source": "arxiv",
+    "title": "Broad-band High-Energy Resolution Hard X-ray Spectroscopy using Transition Edge Sensors at SPring-8",
+    "authors": [
+      "Shinya Yamada",
+      "Yuto Ichinohe",
+      "Hideyuki Tatsuno",
+      "Ryota Hayakawa",
+      "Hirotaka Suda",
+      "Takaya Ohashi"
+    ],
+    "year": 2026,
+    "abstract": "We have succeeded in operating a transition-edge sensor (TES) spectrometer and evaluating its performance at the SPring-8 synchrotron X-ray light source. The TES spectrometer consists of a 240 pixel National Institute of Standards and Technology (NIST) TES system, and 220 pixels are operated simultaneously with an energy resolution of $4$~eV at 6~keV at a rate of about 1~c/s/pixel. The tolerance for high count rates is evaluated in terms of energy resolution and live time fraction, leading to an empirical compromise of about 2 x 10^3 c/s/all pixels with an energy resolution of 5 eV at 6 keV. By utilizing the TES's wide-band spectroscopic capability, simultaneous multi-element analysis is demonstrated for a standard sample. We conducted X-ray absorption near-edge structure (XANES) analysis ",
+    "doi": "10.1063/5.0020642",
+    "pdf_url": "https://arxiv.org/pdf/2604.21846v1",
+    "journal": "Rev. Sci. Instrum. 1 January 2021; 92 (1): 013103",
+    "url": "http://arxiv.org/abs/2604.21846v1",
+    "fetched_at": "2026-04-24T06:30:21.723035+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_78e54b12fb7b91de",
+    "source": "semantic_scholar",
+    "title": "Enhanced performance of densified laser-induced graphene supercapacitor electrodes in dimpled polyimide",
+    "authors": [
+      "Changyoung Ryu",
+      "Huan Minh Do",
+      "Jung Bin In"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1016/j.apsusc.2023.158696",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/78e54b12fb7b91de9e4c51a65d0f152858d2ddd5",
+    "fetched_at": "2026-04-24T06:31:08.162204+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ef414b01a7ab0642",
+    "source": "semantic_scholar",
+    "title": "In Situ Spatially Confined Silver Nanoparticles in 3D Laser-Induced Graphene Architecture for All-in-One Planar Supercapacitor-Glucose Sensor System.",
+    "authors": [
+      "Ling Kang",
+      "Jiaming Jiang",
+      "Shude Liu",
+      "Jin Ai",
+      "Jongwoo Hong",
+      "Chenghuan Tang"
+    ],
+    "year": 2025,
+    "abstract": "Self-powered integrated systems that leverage micro-supercapacitors as power sources for sensors are vital for portable and wearable electronics; however, they often encounter compatibility issues arising from bifunctional active materials that enable high energy storage capacity and sensing performance. Herein, a spatial confinement approach is proposed for designing in situ-encased silver nanoparticles within a 3D porous laser-induced graphene framework (LIG/Ag), which serves as a bifunctional active material for all-in-one supercapacitor-sensor systems. Such engineered LIG/Ag features ample pseudocapacitive active sites, high electrical conductivity, and fast ion diffusion channels, which favor high reaction kinetics and electrode material utilization, significantly improving its electr",
+    "doi": "10.1002/smll.202412044",
+    "pdf_url": "",
+    "journal": "Small",
+    "url": "https://www.semanticscholar.org/paper/ef414b01a7ab06420017640d4192c228759175b6",
+    "fetched_at": "2026-04-24T06:31:08.162223+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_51699f7ba2ca2b9a",
+    "source": "semantic_scholar",
+    "title": "Enhanced capacitance of nickel ferrite decorated laser-induced graphene nanocomposite for symmetric supercapacitor device",
+    "authors": [
+      "Gargi Dhiman",
+      "K. Kumari",
+      "S. Dalela",
+      "Faheem Ahmed",
+      "N. Shaalan",
+      "P. A. Alvi"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.est.2024.114743",
+    "pdf_url": "",
+    "journal": "Journal of Energy Storage",
+    "url": "https://www.semanticscholar.org/paper/51699f7ba2ca2b9a3473d87108098a7f6e407d99",
+    "fetched_at": "2026-04-24T06:31:08.162228+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_bba6fd389a6ab5b8",
+    "source": "semantic_scholar",
+    "title": "Biomass-Derived Laser-Induced Graphene Doped with Nitrogen and Sulfur for Enhanced Supercapacitor Performance",
+    "authors": [
+      "Linjie Du",
+      "Bu Quan",
+      "Zhaoxuan Xu",
+      "Xin Sun",
+      "Yu Luo",
+      "J. Travas-sejdic"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.carbon.2025.120225",
+    "pdf_url": "https://doi.org/10.1016/j.carbon.2025.120225",
+    "journal": "Carbon",
+    "url": "https://www.semanticscholar.org/paper/bba6fd389a6ab5b801e4d9988ae1fd6841e452a3",
+    "fetched_at": "2026-04-24T06:31:08.162233+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_41e5d437b90e5d5b",
+    "source": "semantic_scholar",
+    "title": "Precisely engineered interface of Laser-Induced graphene and MoS2 nanosheets for enhanced supercapacitor electrode performance",
+    "authors": [
+      "Solomon A. Mensah",
+      "Ahmed M. R. Fath El-Bab",
+      "Yoichi Tominaga",
+      "Ahmed S. G. Khalil"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.apsusc.2024.162230",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/41e5d437b90e5d5b884132f5367c92026d367918",
+    "fetched_at": "2026-04-24T06:31:08.162237+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_2492ca753181c456",
+    "source": "semantic_scholar",
+    "title": "Value-added utilization of biowaste-derived lignin towards the synthesis of oxygen-enriched hierarchical laser-induced graphene and its application as a micro-supercapacitor",
+    "authors": [
+      "Samuel Katwesigye",
+      "Mohamed E El-Khouly",
+      "Nieves López-Salas",
+      "Ahmed S G Khalil"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.est.2024.114752",
+    "pdf_url": "",
+    "journal": "Journal of Energy Storage",
+    "url": "https://www.semanticscholar.org/paper/2492ca753181c456864d377c13f3c2dbb53c1773",
+    "fetched_at": "2026-04-24T06:31:08.162240+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_83c3f0b0e5773ba8",
+    "source": "semantic_scholar",
+    "title": "Self-Powered Flexible Micro-Supercapacitor based on Optimized Laser Induced Graphene Electrodes for Sustainable Energy Harvesting and Storage",
+    "authors": [
+      "F. Beigh",
+      "Vishal Singh",
+      "Bharti Singh",
+      "Dhiman Mallick"
+    ],
+    "year": 2025,
+    "abstract": "The present paper reports a single-step fabricated laser induced graphene (LIG) based interdigitated electrodes (IDE) with exceptionally low sheet resistance (5Ωsq⁻¹) for energy storage and harvesting, essential for flexible wearable devices. By optimizing LIG parameters we obtain doping-free fabrication of IDEs for Micro-supercapacitors (MSCs). Unlike conventional designs, the proposed MSCs feature self-charging capabilities using piezoelectric Polyvinylidene fluoride (PVDF) as separator and Polyvinyl Alcohol (PVA)/KOH as gel electrolyte. The LIG based self-powered MSC demonstrates an areal capacitance (CAr) of ~18mF/cm2 at 10mV/s, good cyclability (~85% retention) after 5,000 cycles, a series resistance (RSI) of 150.8Ω, and a charge transfer resistance (RCT) of ~1600 Ω, all achieved thro",
+    "doi": "10.1109/MEMS61431.2025.10917686",
+    "pdf_url": "",
+    "journal": "2025 IEEE 38th International Conference on Micro Electro Mechanical Systems (MEMS)",
+    "url": "https://www.semanticscholar.org/paper/83c3f0b0e5773ba83bca148d9c07603292a99f16",
+    "fetched_at": "2026-04-24T06:31:08.162260+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_72b11cca5acff37e",
+    "source": "semantic_scholar",
+    "title": "Sputtered thin film deposited laser induced graphene based novel micro-supercapacitor device for energy storage application",
+    "authors": [
+      "Sourav Sain",
+      "Suman Chowdhury",
+      "Sayantan Maity",
+      "G. Maity",
+      "S. S. Roy"
+    ],
+    "year": 2024,
+    "abstract": "Pioneering flexible micro-supercapacitors, designed for exceptional energy and power density, transcend conventional storage limitations. Interdigitated electrodes (IDEs) based on laser-induced graphene (LIG), augmented with metal-oxide modifiers, harness synergies with layered graphene to achieve superior capacitance. This study presents a novel one-step process for sputtered plasma deposition of HfO2, resulting in enhanced supercapacitance performance. Introducing LIG-HfO2 micro-supercapacitor (MSC) devices with varied oxygen flow rates further boosts supercapacitance performance by introducing oxygen functional groups. FESEM investigations demonstrate uniform coating of HfO2 on LIG fibers through sputtering. Specific capacitance measurements reveal 6.4 mF/cm2 at 5 mV/s and 4.5 mF/cm2 at",
+    "doi": "10.1038/s41598-024-62192-y",
+    "pdf_url": "https://doi.org/10.1038/s41598-024-62192-y",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/72b11cca5acff37e796e1a94d154f77d2cd07bc7",
+    "fetched_at": "2026-04-24T06:31:08.162268+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_dc835a9d7150149a",
+    "source": "semantic_scholar",
+    "title": "Fabrication of nitrogen-doped laser-induced graphene-based electrodes: evaluation of electrochemical energy storage performance of symmetric supercapacitor devices",
+    "authors": [
+      "Shruti Lavania",
+      "A. Aljaafari",
+      "Gargi Dhiman",
+      "Nitin Kumar Gautam",
+      "Manas Nasit",
+      "S. Dalela"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.jpcs.2025.113296",
+    "pdf_url": "",
+    "journal": "Journal of Physics and Chemistry of Solids",
+    "url": "https://www.semanticscholar.org/paper/dc835a9d7150149a7f758034b230480763b480f2",
+    "fetched_at": "2026-04-24T06:31:08.162273+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_fdd689163b78e31d",
+    "source": "semantic_scholar",
+    "title": "Green supercapacitor patterned by synthesizing MnO/laser-induced-graphene hetero-nanostructures on wood via femtosecond laser pulses",
+    "authors": [
+      "Young-Ryeul Kim",
+      "Han-Ku Nam",
+      "Younggeun Lee",
+      "Dongwook Yang",
+      "Truong‐Son Dinh Le",
+      "Seung-Woo Kim"
+    ],
+    "year": 2024,
+    "abstract": "Eco-friendly next-generation energy storage devices with high energy density are required to meet the increasing demand for sustainable and green electronics. However, their manufacturing requires a lot of chemical precursors and is usually accompanied by chemical waste; it also involves laborious and time-consuming processes such as mixing, heat treating, casting, and drying. Here, we proposed that mass production of microsupercapacitors (MSCs) for green electronics can be achieved by embedding manganese monoxide (MnO) on wood-derived laser-induced-graphene (LIG) via femtosecond laser direct writing (FsLDW) technique. The direct synthesis of MnO/LIG hetero-nanostructures on wood was realized by drop-casting a small amount of precursor between the first and second FsLDW. The preceding FsLD",
+    "doi": "10.1007/s42773-024-00320-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42773-024-00320-7.pdf",
+    "journal": "Biochar",
+    "url": "https://www.semanticscholar.org/paper/fdd689163b78e31d027ad701e58901f7d8984afb",
+    "fetched_at": "2026-04-24T06:31:08.162278+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_07b31213aae2e808",
+    "source": "semantic_scholar",
+    "title": "Highly conducting Laser-Induced Graphene-Ag nanoparticle composite as an effective supercapacitor electrode with anti-fungal properties",
+    "authors": [
+      "Abhishek Prakash",
+      "Sowmya R. Holla",
+      "S. Selvaraj",
+      "Ramakrishna Nayak",
+      "Shounak De",
+      "Mohammad Saquib"
+    ],
+    "year": 2024,
+    "abstract": "This study presents a simple and an environmentally friendly approach to make Laser-Induced Graphene (LIG) based supercapacitor electrodes anchored with abundant Silver Nanoparticles (AgNPs). LIG, was synthesized using a CO2 laser writing technique on polyimide substrate. The LIG-Ag composite was prepared using two techniques, drop-coating, and screen-printing. Ag nanoparticles prepared using the plant extract of Swietenia Macrophylla was utilized to drop-coat AgNP on LIG substrate. Screen-printing was done by using a commercial Ag-ink and a suitable mesh. The supercapacitor made from screen-printed electrodes and supercapacitor made form drop-coated electrodes showed a high specific capacitance of 118 mF/cm2, 38 mF/cm2, and a high energy density of 2.42 mWh/cm2, 0.05 mWh/cm2 respectively.",
+    "doi": "10.1038/s41598-024-79382-3",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-79382-3.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/07b31213aae2e80847b7cde2248c0054b2b8e4a0",
+    "fetched_at": "2026-04-24T06:31:08.162281+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_c18233b8e25ad48e",
+    "source": "semantic_scholar",
+    "title": "Graphene oxide assisted-MnO2 nanoparticles enhanced laser-induced graphene based electrodes for supercapacitor application",
+    "authors": [
+      "Xiu-Yan Fu",
+      "Ruo-Yu Shu",
+      "Chang-Jing Ma",
+      "Hao-Bo Jiang",
+      "Meng-Nan Yao"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.electacta.2024.143987",
+    "pdf_url": "",
+    "journal": "Electrochimica Acta",
+    "url": "https://www.semanticscholar.org/paper/c18233b8e25ad48e97260917d1c91b03585a81f0",
+    "fetched_at": "2026-04-24T06:31:08.162285+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_38b86d90648410aa",
+    "source": "semantic_scholar",
+    "title": "High-energy all-in-one stretchable micro-supercapacitor arrays based on 3D laser-induced graphene foams decorated with mesoporous ZnP nanosheets for self-powered stretchable systems",
+    "authors": [
+      "Cheng Zhang",
+      "Zhixiang Peng",
+      "Chunlei Huang",
+      "Bingwen Zhang",
+      "Chao Xing",
+      "Huamin Chen"
+    ],
+    "year": 2021,
+    "abstract": "Abstract Micro-supercapacitors are promising energy storage devices that can complement or even replace lithium-ion batteries in wearable and stretchable microelectronics. However, they often possess a relatively low energy density and limited mechanical stretchability. Here, we report an all-in-one planar micro-supercapacitor arrays (MSCAs) based on hybrid electrodes with ultrathin ZnP nanosheets anchored on 3D laser-induced graphene foams (ZnP@LIG) arranged in island-bridge device architecture. The hybrid electrodes with a large specific surface area demonstrate excellent ionic and electrical conductivities, impressive gravimetric (areal) capacitance of 1425 F g−1 (7.125 F cm−2) at 1 A g−1, and long-term stability. In addition to high energy (245 m Wh cm−2) and power (12.50 mW kg−1 at 14",
+    "doi": "10.1016/j.nanoen.2020.105609",
+    "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S2211285520311824",
+    "journal": "Nano Energy",
+    "url": "https://www.semanticscholar.org/paper/38b86d90648410aaa5c34293901d3d97ea7c3c44",
+    "fetched_at": "2026-04-24T06:31:08.162290+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_571828bf2297f223",
+    "source": "semantic_scholar",
+    "title": "Developing electrochemically proficient composite of Laser-Induced graphene and NiCo2O4 for supercapacitor applications",
+    "authors": [
+      "Waleeja Momal",
+      "J. Imtiaz",
+      "Peer Muhammad",
+      "Ameer Ali",
+      "Muhammad Kashif Naseem",
+      "Sofia Javed"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.nxmate.2025.101174",
+    "pdf_url": "",
+    "journal": "Next Materials",
+    "url": "https://www.semanticscholar.org/paper/571828bf2297f223f6366bb08070aae595946a99",
+    "fetched_at": "2026-04-24T06:31:08.162294+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a0af0d8f9c2d9fc3",
+    "source": "semantic_scholar",
+    "title": "High-performance micro supercapacitor assembled by laser-induced graphene electrode and hydrogel electrolyte with excellent interfacial wettability for high capacitance",
+    "authors": [
+      "Tiantian Liu",
+      "R. Ren",
+      "Zhixian Qi",
+      "Jingwen Hu",
+      "Ying Chen",
+      "Yue Huang"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.jpowsour.2024.234307",
+    "pdf_url": "",
+    "journal": "Journal of Power Sources",
+    "url": "https://www.semanticscholar.org/paper/a0af0d8f9c2d9fc331109a48d0d63a1ee9934d99",
+    "fetched_at": "2026-04-24T06:31:08.162298+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_22f999e3254c7139",
+    "source": "semantic_scholar",
+    "title": "Enhancing supercapacitor performance through design optimization of laser-induced graphene and MWCNT coatings for flexible and portable energy storage",
+    "authors": [
+      "Hassan Tariq",
+      "S. Awan",
+      "Danish Hussain",
+      "S. Rizwan",
+      "Saqlain A. Shah",
+      "Sana Zainab"
+    ],
+    "year": 2023,
+    "abstract": "The field of supercapacitors consistently focuses on research and challenges to improve energy efficiency, capacitance, flexibility, and stability. Low-cost laser-induced graphene (LIG) offers a promising alternative to commercially available graphene for next-generation wearable and portable devices, thanks to its remarkable specific surface area, excellent mechanical flexibility, and exceptional electrical properties. We report on the development of LIG-based flexible supercapacitors with optimized geometries, which demonstrate high capacitance and energy density while maintaining flexibility and stability. Three-dimensional porous graphene films were synthesized, and devices with optimized parameters were fabricated and tested. One type of device utilized LIG, while two other types were",
+    "doi": "10.1038/s41598-023-48518-2",
+    "pdf_url": "https://www.nature.com/articles/s41598-023-48518-2.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/22f999e3254c713905866db56d44af2a3029e277",
+    "fetched_at": "2026-04-24T06:31:08.162302+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_956824e84d24ce0c",
+    "source": "semantic_scholar",
+    "title": "Flexible micro supercapacitor and triboelectric nanogenerator based on laser-induced graphene for self-powered applications",
+    "authors": [
+      "M. C. A. de Oliveira",
+      "Andre L. Freire",
+      "I. C. Cândido",
+      "Younès Messaddeq",
+      "J. Lapointe",
+      "Julie Fréchette"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.nxener.2024.100141",
+    "pdf_url": "https://doi.org/10.1016/j.nxener.2024.100141",
+    "journal": "Next Energy",
+    "url": "https://www.semanticscholar.org/paper/956824e84d24ce0c834fc6702bfb9cd8b3bd4e21",
+    "fetched_at": "2026-04-24T06:31:08.162305+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_9f791a1265430d2a",
+    "source": "semantic_scholar",
+    "title": "Boron Doped Laser-Induced Graphene: A Suitable Substrate for Flexible and Wearable Sensor and Supercapacitor",
+    "authors": [
+      "Himanshi Awasthi",
+      "B. P. Rao",
+      "Thomas Thundat",
+      "S. Goel"
+    ],
+    "year": 2024,
+    "abstract": "In this letter, a new approach for the development of boron-doped laser-induced gra-phene (LIG) employing a blue visible light laser is presented. The doped graphitized electrode shows good electrical conductivity compared with bare LIG. The synthesized substrate is flexible and wearable, making it appropriate for different relevant applications, such as supercapacitors and sensing. Morphological analysis techniques, such as SEM and EDX, are employed for material characterization. Doped LIG shows potential for energy storage and physical sensors. Cyclic voltammetry (CV) and galvanostatic charge-discharge (GCD) techniques are employed to characterize the electrochemical characterization of the supercapacitor. These techniques assess the electrochemical performance of the devices. Electrical",
+    "doi": "10.1109/LSENS.2024.3375286",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Letters",
+    "url": "https://www.semanticscholar.org/paper/9f791a1265430d2ad1e321c546b15e32b8de7b35",
+    "fetched_at": "2026-04-24T06:31:08.162309+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_367cd2c9baf50f42",
+    "source": "semantic_scholar",
+    "title": "Effect of hatch spacing on laser-induced graphene: structural tuning and supercapacitor performance",
+    "authors": [
+      "Rasha Diab",
+      "A. Kareem",
+      "Ganjaboy S Boltaev",
+      "Mahmoud M. Kaid",
+      "Hani M. El‐Kaderi",
+      "O. El-Kadri"
+    ],
+    "year": 2026,
+    "abstract": "The optimization of the properties of laser-induced graphene (LIG) is crucial for advancing flexible supercapacitor electrodes.",
+    "doi": "10.1039/d6nj00061d",
+    "pdf_url": "",
+    "journal": "New Journal of Chemistry",
+    "url": "https://www.semanticscholar.org/paper/367cd2c9baf50f422bf66c57be229497d4e704c9",
+    "fetched_at": "2026-04-24T06:31:08.162313+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a6c6466166c1a4ff",
+    "source": "semantic_scholar",
+    "title": "Research and development of double layer P-doped laser induced graphene thin film electrode for flexible micro-supercapacitor applications",
+    "authors": [
+      "Xing Liu",
+      "Ruiwei Wang",
+      "Cong Wang",
+      "Hongyu L. He",
+      "Jie Wei",
+      "Junli Yin"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.ijoes.2024.100653",
+    "pdf_url": "https://doi.org/10.1016/j.ijoes.2024.100653",
+    "journal": "International Journal of Electrochemical Science",
+    "url": "https://www.semanticscholar.org/paper/a6c6466166c1a4ff2307669bf94eaa1e93e3a62d",
+    "fetched_at": "2026-04-24T06:31:08.162317+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a69ca704680442ae",
+    "source": "semantic_scholar",
+    "title": "High-performance electrode of ZIF-67 metal-organic framework (MOF) loaded laser-induced graphene (LIG) composite for all-solid-state supercapacitor",
+    "authors": [
+      "Wenbo Wang",
+      "Shuai Han",
+      "Nian Li",
+      "Yanping Song",
+      "Liqing Chen",
+      "Cui Liu"
+    ],
+    "year": 2023,
+    "abstract": "This work demonstrates a facile and efficient methodology to synthesize a composite material of zeolitic imidazolate frameworks (ZIFs) and laser-induced graphene (LIG). This ZIF-67 loaded LIG composite (ZIF-67/LIG) has been adequately characterized for its morphology and structure, and its electrochemical performance has been specifically examined. As supercapacitors (SCs) electrode material, the ZIF-67/LIG composite exhibits superb electrochemical performance, owing to the inherent high porosity, abundant active sites, large specific surface area of ZIF-67, and the excellent conductive three-dimensional hierarchical porous network structure provided by LIG. In three-electrode system, ZIF-67/LIG composite electrode displays outstanding areal specific capacitance (C A) of 135.6 mF cm−2 at a",
+    "doi": "10.1088/1361-6528/acd00b",
+    "pdf_url": "",
+    "journal": "Nanotechnology",
+    "url": "https://www.semanticscholar.org/paper/a69ca704680442ae6a52ce4e638a4b122ae5daad",
+    "fetched_at": "2026-04-24T06:31:08.162321+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7fd3f7e17ec97a67",
+    "source": "semantic_scholar",
+    "title": "Fabrication of functional laser-induced graphene using gelatin-2,6-diaminoanthraquinone coating for high-performance micro-supercapacitor",
+    "authors": [
+      "Rizwan Khan",
+      "Changyoung Ryu",
+      "H. Do",
+      "Jung Bin In"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.jpowsour.2024.235305",
+    "pdf_url": "",
+    "journal": "Journal of Power Sources",
+    "url": "https://www.semanticscholar.org/paper/7fd3f7e17ec97a6723f538c5a24adb81c7b90f4a",
+    "fetched_at": "2026-04-24T06:31:08.162324+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_0737a664f7d34e87",
+    "source": "semantic_scholar",
+    "title": "Rationally designed phosphorus-doped Ni3S2 nanoparticles on laser-induced graphene for scalable and flexible interdigitated micro-supercapacitor",
+    "authors": [
+      "Mariam El-Adl",
+      "A. Ibrahim",
+      "S. Samra",
+      "Awad I. Ahmed",
+      "S. A. El-Hakam",
+      "Mina Shawky Adly"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1016/j.jpowsour.2025.239180",
+    "pdf_url": "",
+    "journal": "Journal of Power Sources",
+    "url": "https://www.semanticscholar.org/paper/0737a664f7d34e8790e153f0c0da48125ee3a1a9",
+    "fetched_at": "2026-04-24T06:31:08.162327+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a670b2578bdd4178",
+    "source": "semantic_scholar",
+    "title": "Self-assembled MXene-Graphene Oxide Composite Enhanced Laser-induced Graphene based Electrodes towards Conformal Supercapacitor Applications",
+    "authors": [
+      "Xiu-Yan Fu",
+      "Ruo-Yu Shu",
+      "Chang-Jing Ma",
+      "Yu-Yin Zhang",
+      "Haoming Jiang",
+      "M. Yao"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1016/j.apsusc.2023.157549",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/a670b2578bdd417841afcc5b6f39fb37ef7941be",
+    "fetched_at": "2026-04-24T06:31:08.162330+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_30227f6fea932ce2",
+    "source": "semantic_scholar",
+    "title": "Flexible Paper and Cloth Substrates With Conductive Laser Induced Graphene Traces for Electroanalytical Sensing, Energy Harvesting and Supercapacitor Applications",
+    "authors": [
+      "Himanshi Awasthi",
+      "J. S",
+      "R. H",
+      "Mrunali D. Wagh",
+      "Avinash Kothuru",
+      "A. Srivastava"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1109/JSEN.2022.3170538",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/30227f6fea932ce2d2fdf9d68e3839f78f7cfde8",
+    "fetched_at": "2026-04-24T06:31:08.162334+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2604.21342v1",
+    "source": "arxiv",
+    "title": "Scalable surface ion trap design for magnetic quantum sensing and gradiometry",
+    "authors": [
+      "Qirat Iqbal",
+      "Altaf Hussain Nizamani"
+    ],
+    "year": 2026,
+    "abstract": "Magnetic quantum sensors based on trapped ions utilize properties of quantum mechanics which have optimized precision and beat current limits in sensor technology. Trapped ions are highly sensitive in a large span of signal ranging from DC or static B-field to the radiofrequency range in 100s of MHz and can attain the sensitivity in the range of pT to sub pT . They are tuneable to frequencies of interest and can be used as a lock-in frequency detector. This modelling and simulation based study presents an innovative design of Surface Paul Traps, enabling the use of trapped ions as ultra-sensitive sensors for magnetic field detection and precise measurement of magnetic field gradients at a sub-millimeter spatial resolution. The novel design features multiple trapping regions, allowing for t",
+    "doi": "10.1016/j.physo.2024.100208",
+    "pdf_url": "https://arxiv.org/pdf/2604.21342v1",
+    "journal": "Volume 19, May 2024, 100208",
+    "url": "http://arxiv.org/abs/2604.21342v1",
+    "fetched_at": "2026-04-24T06:31:19.714637+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.21519v1",
+    "source": "arxiv",
+    "title": "Gmd: Gaussian mixture descriptor for pair matching of 3D fragments",
+    "authors": [
+      "Meijun Xiong",
+      "Zhenguo Shi",
+      "Xinyu Zhou",
+      "Yuhe Zhang",
+      "Shunli Zhang"
+    ],
+    "year": 2026,
+    "abstract": "In the automatic reassembly of fragments acquired using laser scanners to reconstruct objects, a crucial step is the matching of fractured surfaces. In this paper, we propose a novel local descriptor that uses the Gaussian Mixture Model (GMM) to fit the distribution of points, allowing for the description and matching of fractured surfaces of fragments. Our method involves dividing a local surface patch into concave and convex regions for estimating the k value of GMM. Then the final Gaussian Mixture Descriptor (GMD) of the fractured surface is formed by merging the regional GMDs. To measure the similarities between GMDs for determining adjacent fragments, we employ the L2 distance and align the fragments using Random Sample Consensus (RANSAC) and Iterative Closest Point (ICP). The extensi",
+    "doi": "10.1007/s00530-024-01519-1",
+    "pdf_url": "https://arxiv.org/pdf/2604.21519v1",
+    "journal": "Multimedia Systems 30, 326 (2024)",
+    "url": "http://arxiv.org/abs/2604.21519v1",
+    "fetched_at": "2026-04-24T06:31:25.191708+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.21236v1",
+    "source": "arxiv",
+    "title": "Ultra-low-noise supercontinuum in normal-dispersion ZBLAN fibres pumped at 1.85 $μ$m",
+    "authors": [
+      "Shreesha Rao D. S.",
+      "Anupamaa Rampur",
+      "Ole Bang",
+      "Alexander M. Heidt"
+    ],
+    "year": 2026,
+    "abstract": "We demonstrate, for the first time to our knowledge, ultra-low-noise supercontinuum (SC) generation in normal-dispersion fluoride fibres pumped by femtosecond (fs) pulses. We have investigated two elliptical-core polarisation-maintaining (PM) ZBLAN fibres with core dimensions 6.7$\\times$2.7 $μ$m and 8.9$\\times$4.1 $μ$m, experimentally measured to have normal dispersion up to 3.77 $μ$m and 3.25 $μ$m, respectively; the smaller-core fibre yields ultra-low-noise SC spanning 1.537-2.196 $μ$m with a minimum relative-intensity noise (RIN) of 0.22% at 1.7 $μ$m, and the larger-core fibre yields 1.507-2.250 $μ$m with 0.36% at 2.0 $μ$m. To aid the generation of low-noise SC, we developed an all-PM thulium chirped-pulse amplifier delivering 58 fs pulses at 1.85 $μ$m, 210 mW average power at 40 MHz, wi",
+    "doi": "10.1364/OL.591295",
+    "pdf_url": "https://arxiv.org/pdf/2604.21236v1",
+    "journal": "Optics Letters 51, 2344-2347 (2026)",
+    "url": "http://arxiv.org/abs/2604.21236v1",
+    "fetched_at": "2026-04-24T06:31:25.191973+00:00",
+    "material": "other"
   }
 ]
