@@ -893,5 +893,1469 @@
     "url": "http://arxiv.org/abs/2604.21236v1",
     "fetched_at": "2026-04-24T06:31:25.191973+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_85554cd5af5b005b",
+    "source": "semantic_scholar",
+    "title": "Implantable, Label‐Free NIR‐Based Porous Silicon Biosensor for Monitoring Biomarkers in Interstitial Fluid",
+    "authors": [
+      "Pritam Sharma",
+      "Jann Harberts",
+      "Raquel Sánchez-Salcedo",
+      "Pouya Dehghankelishadi",
+      "N. Voelcker"
+    ],
+    "year": 2025,
+    "abstract": "The detection of biomarkers in interstitial fluid (ISF) holds significant promise for early disease diagnosis and monitoring. Porous silicon (pSi) offers a versatile platform for implantable biosensors due to its biocompatibility, high surface area, and tunable properties. This study presents the development and characterization of a label‐free pSi biosensor featuring a near‐infrared (NIR) photonic microcavity (MC) that is implanted subcutaneously in a euthanized mouse to detect insulin in real time for proof of concept. The biosensor demonstrates specific insulin detection ability with a limit of detection (LOD) of 209 nM, exhibiting excellent consistency, reproducibility, and long‐term sensing performance. Furthermore, the biosensor demonstrates the capability to detect insulin spiked in",
+    "doi": "10.1002/adsr.202500007",
+    "pdf_url": "",
+    "journal": "Advanced Sensor Research",
+    "url": "https://www.semanticscholar.org/paper/85554cd5af5b005bada87704d16d831f39847d89",
+    "fetched_at": "2026-04-26T06:30:56.789052+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_98859edd2e572029",
+    "source": "semantic_scholar",
+    "title": "Truncated PNA-functionalized porous silicon biosensor for low-cost and early detection of troponin T in myocardial infarction.",
+    "authors": [
+      "Maria Grazia Nolli",
+      "Alessio Bartocci",
+      "Caterina De Rosa",
+      "A. Falanga",
+      "V. Abbate",
+      "M. Terracciano"
+    ],
+    "year": 2025,
+    "abstract": "A label-free optical biosensor based on porous silicon (PSi) was developed for the high-sensitivity detection of human cardiac troponin T (cTnT), a key biomarker for the early diagnosis of myocardial infarction (MI). To reduce synthesis costs while maintaining binding efficiency, a truncated peptide nucleic acid (PNA) probe was designed in silico starting from a 40-base-long wild-type sequence. Computational screening identified a 12-base candidate, whose binding affinity was experimentally validated by Western blot analysis. The freshly etched PSi surface was passivated and functionalized via mild thermal hydrosilylation with 10-undecenoic acid to introduce carboxylic groups, enabling covalent PNA immobilization through the carbodiimide chemistry. Surface functionalization and stability i",
+    "doi": "10.1016/j.talanta.2025.129054",
+    "pdf_url": "",
+    "journal": "Talanta",
+    "url": "https://www.semanticscholar.org/paper/98859edd2e572029f3edc17a64bd210be8178dee",
+    "fetched_at": "2026-04-26T06:30:56.789078+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_51646db160816a66",
+    "source": "semantic_scholar",
+    "title": "Nanostructured porous silicon biosensor and smartphone integrated ELISA for sensitive detection of breast cancer biomarker",
+    "authors": [
+      "Nidhi Gupta",
+      "S. Chattopadhyay",
+      "B. Kumar",
+      "Aditi Kishor Dhamne",
+      "S. Dhanekar",
+      "Harpal Singh"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.cej.2025.172236",
+    "pdf_url": "",
+    "journal": "Chemical Engineering Journal",
+    "url": "https://www.semanticscholar.org/paper/51646db160816a6641c67110a11036823bdebf6f",
+    "fetched_at": "2026-04-26T06:30:56.789084+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_126304e3be53f87e",
+    "source": "semantic_scholar",
+    "title": "Design of a Porous Silicon Biosensor: Characterization, Modeling, and Application to the Indirect Detection of Bacteria",
+    "authors": [
+      "Roselien Vercauteren",
+      "Clémentine Gevers",
+      "J. Mahillon",
+      "Laurent A. Francis"
+    ],
+    "year": 2024,
+    "abstract": "The design of a porous silicon (PSi) biosensor is not often documented, but is of the upmost importance to optimize its performance. In this work, the motivation behind the design choices of a PSi-based optical biosensor for the indirect detection of bacteria via their lysis is detailed. The transducer, based on a PSi membrane, was characterized and models were built to simulate the analyte diffusion, depending on the porous nanostructures, and to optimize the optical properties. Once all performances and properties were analyzed and optimized, a theoretical response was calculated. The theoretical limit of detection was computed as 104 CFU/mL, based on the noise levels of the optical setup. The experimental response was measured using 106 CFU/mL of Bacillus cereus as model strain, lysed b",
+    "doi": "10.3390/bios14020104",
+    "pdf_url": "https://www.mdpi.com/2079-6374/14/2/104/pdf?version=1708156798",
+    "journal": "Biosensors",
+    "url": "https://www.semanticscholar.org/paper/126304e3be53f87e7b2ed83453d25b8182b0e189",
+    "fetched_at": "2026-04-26T06:30:56.789088+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_1c2ac7beb805294c",
+    "source": "semantic_scholar",
+    "title": "Carbon-stabilized porous silicon biosensor for the ultrasensitive label-free electrochemical detection of bacterial RNA gene fragments",
+    "authors": [
+      "Grace Pei Chin",
+      "Keying Guo",
+      "R. Vasani",
+      "N. Voelcker",
+      "B. Prieto‐Simón"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.biosx.2024.100438",
+    "pdf_url": "https://doi.org/10.1016/j.biosx.2024.100438",
+    "journal": "Biosensors and Bioelectronics: X",
+    "url": "https://www.semanticscholar.org/paper/1c2ac7beb805294c3a04e0e6d8e7b076b70e2a3e",
+    "fetched_at": "2026-04-26T06:30:56.789093+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_11072c6d599ea9e2",
+    "source": "semantic_scholar",
+    "title": "Design of a Porous Silicon Biosensor: Characterisation, Modelling and Application to the Indirect Detection of Bacteria",
+    "authors": [
+      "Roselien Vercauteren",
+      "Mahillon Jacques",
+      "L. Francis"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.2139/ssrn.4348591",
+    "pdf_url": "",
+    "journal": "SSRN Electronic Journal",
+    "url": "https://www.semanticscholar.org/paper/11072c6d599ea9e2c2ee49f5c9f65451a8d34c26",
+    "fetched_at": "2026-04-26T06:30:56.789098+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_7f34965edff520c9",
+    "source": "semantic_scholar",
+    "title": "Peptide-Based Capture of Chikungunya Virus E2 Protein Using Porous Silicon Biosensor",
+    "authors": [
+      "R. Layouni",
+      "Tengfei Cao",
+      "Matthew B. Coppock",
+      "P. E. Laibinis",
+      "S. Weiss"
+    ],
+    "year": 2021,
+    "abstract": "The detection of pathogens presents specific challenges in ensuring that biosensors remain operable despite exposure to elevated temperatures or other extreme conditions. The most vulnerable component of a biosensor is typically the bioreceptor. Accordingly, the robustness of peptides as bioreceptors offers improved stability and reliability toward harsh environments compared to monoclonal antibodies that may lose their ability to bind target molecules after such exposures. Here, we demonstrate peptide-based capture of the Chikungunya virus E2 protein in a porous silicon microcavity biosensor at room temperature and after exposure of the peptide-functionalized biosensor to high temperature. Contact angle measurements, attenuated total reflectance—Fourier transform infrared spectra, and opt",
+    "doi": "10.3390/s21248248",
+    "pdf_url": "https://www.mdpi.com/1424-8220/21/24/8248/pdf?version=1639119419",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/7f34965edff520c9e3e064f78e3db1fe2fe5d759",
+    "fetched_at": "2026-04-26T06:30:56.789108+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9b34fed27ed51eaf",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Biosensor for the Detection of Bacteria through Their Lysate",
+    "authors": [
+      "Roselien Vercauteren",
+      "Audrey Leprince",
+      "J. Mahillon",
+      "L. Francis"
+    ],
+    "year": 2020,
+    "abstract": "Porous silicon (PSi) has been widely used as a biosensor in recent years due to its large surface area and its optical properties. Most PSi biosensors consist in close-ended porous layers, and, because of the diffusion-limited infiltration of the analyte, they lack sensitivity and speed of response. In order to overcome these shortcomings, PSi membranes (PSiMs) have been fabricated using electrochemical etching and standard microfabrication techniques. In this work, PSiMs have been used for the optical detection of Bacillus cereus lysate. Before detection, the bacteria are selectively lysed by PlyB221, an endolysin encoded by the bacteriophage Deep-Blue targeting B. cereus. The detection relies on the infiltration of bacterial lysate inside the membrane, which induces a shift of the effect",
+    "doi": "10.3390/bios11020027",
+    "pdf_url": "https://www.mdpi.com/2504-3900/60/1/36/pdf?version=1606183877",
+    "journal": "Biosensors",
+    "url": "https://www.semanticscholar.org/paper/9b34fed27ed51eafd23dc9e3d8d6a5d00066e139",
+    "fetched_at": "2026-04-26T06:30:56.789115+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_be20ee8f9a5993c9",
+    "source": "semantic_scholar",
+    "title": "Non-invasive, in vitro analysis of islet insulin production enabled by an optical porous silicon biosensor.",
+    "authors": [
+      "Rinku Chhasatia",
+      "Martin J. Sweetman",
+      "F. Harding",
+      "M. Waibel",
+      "Tom Kay",
+      "H. Thomas"
+    ],
+    "year": 2017,
+    "abstract": "",
+    "doi": "10.1016/j.bios.2017.01.004",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/be20ee8f9a5993c9386617f89d7f4b631c88c606",
+    "fetched_at": "2026-04-26T06:30:56.789121+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_3c73964c8f51d3c7",
+    "source": "semantic_scholar",
+    "title": "Fabrication and Characterisation of Zinc Oxide (ZnO) Grown on Porous Silicon (PSi) Substrate Using Different Techniques for Glucose Biosensor",
+    "authors": [
+      "A. S. Hussein",
+      "F. Salem",
+      "Obaid Al Jasmi",
+      "Mohammed H. Jawad",
+      "M. Q. Fahem"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12633-025-03553-8",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/3c73964c8f51d3c78684999c4abcd6d48f9dfd84",
+    "fetched_at": "2026-04-26T06:30:56.789139+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_57ae027b501a357d",
+    "source": "semantic_scholar",
+    "title": "Screening of Transgenic Cotton Based on a Porous Silicon Biosensor.",
+    "authors": [
+      "Liangliang Chen",
+      "Peng Li",
+      "X. Lv",
+      "Ji Ma"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1007/978-1-4939-8952-2_13",
+    "pdf_url": "",
+    "journal": "Methods in molecular biology",
+    "url": "https://www.semanticscholar.org/paper/57ae027b501a357d1d157f528c48442289aef1f6",
+    "fetched_at": "2026-04-26T06:30:56.789143+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_7aef21986d4b932a",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon-based Biosensor Research Background and Applications",
+    "authors": [
+      "K. Lee"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.47116/apjcri.2025.04.41",
+    "pdf_url": "",
+    "journal": "Asia-pacific Journal of Convergent Research Interchange",
+    "url": "https://www.semanticscholar.org/paper/7aef21986d4b932a91aab436c2510e927f91089a",
+    "fetched_at": "2026-04-26T06:30:56.789146+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_5a8c9a3118c9bd31",
+    "source": "semantic_scholar",
+    "title": "Optical Biosensor Based on Porous Silicon and Tamm Plasmon Polariton for Detection of CagA Antigen of Helicobacter pylori",
+    "authors": [
+      "Guoguang Rong",
+      "A. Kavokin",
+      "Mohamad Sawan"
+    ],
+    "year": 2024,
+    "abstract": "Helicobacter pylori (H. pylori) is a common pathogen with a high prevalence of infection in human populations. The diagnosis of H. pylori infection is critical for its treatment, eradication, and prognosis. Biosensors have been demonstrated to be powerful for the rapid onsite detection of pathogens, particularly for point-of-care test (POCT) scenarios. In this work, we propose a novel optical biosensor, based on nanomaterial porous silicon (PSi) and photonic surface state Tamm Plasmon Polariton (TPP), for the detection of cytotoxin-associated antigen A (CagA) of H. pylori bacterium. We fabricated the PSi TPP biosensor, analyzed its optical characteristics, and demonstrated through experiments, with the sensing of the CagA antigen, that the TPP biosensor has a sensitivity of 100 pm/(ng/mL),",
+    "doi": "10.3390/s24165153",
+    "pdf_url": "https://doi.org/10.3390/s24165153",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/5a8c9a3118c9bd318ed6f51e4f09c91da59e8682",
+    "fetched_at": "2026-04-26T06:30:56.789149+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_d61261944c0d78f5",
+    "source": "semantic_scholar",
+    "title": "Optical Properties Modulation of Porous Silicon Microcavities for Biosensor Application",
+    "authors": [
+      "A. C. Borges",
+      "A. Quispe",
+      "Letícia Varreira Parduci",
+      "Andrea Balan Fernandes",
+      "W. Salcedo"
+    ],
+    "year": 2024,
+    "abstract": "Optical sensors and biosensors with response in the visible spectrum region are suitable for integration with excitation sources and detection devices, as laser diodes and photodiodes in the visible region are commercial devices that are easy to purchase from any optical device supplier. In this sense, the present work reports the optical modulation response of microcavity devices based on porous silicon technology, aiming to obtain microcavity response in the visible spectrum region for biosensor application. The optical modulation response of microcavities were obtained controlling the different fabrication parameters such as the doping type of silicon substrate, the number of periods of the Bragg mirror of the photonic crystal, the electrochemical solution, the current density of anodiz",
+    "doi": "10.1109/INSCIT62583.2024.10693390",
+    "pdf_url": "",
+    "journal": "2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT)",
+    "url": "https://www.semanticscholar.org/paper/d61261944c0d78f5ddd19b69fad61f67b12e247c",
+    "fetched_at": "2026-04-26T06:30:56.789153+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c33eb233c658f398",
+    "source": "semantic_scholar",
+    "title": "Porous silicon biosensor for Echinococcosis detection based on fluorescence spectroscopy",
+    "authors": [
+      "X. Lv",
+      "Jiaqing Mo",
+      "Zhenhong Jia"
+    ],
+    "year": 2016,
+    "abstract": "",
+    "doi": "10.1117/12.2243784",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/c33eb233c658f398d190d4ba0e92410d44a68ab2",
+    "fetched_at": "2026-04-26T06:30:56.789156+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_4a59420f737342c2",
+    "source": "semantic_scholar",
+    "title": "Nano-porous silicon for optical interferometric biosensor",
+    "authors": [
+      "K. Guo"
+    ],
+    "year": 2024,
+    "abstract": "Since the photoluminescence was discovery at room temperature due to the quantum confinement effects, nano-porous materials have addressed intense eye-catching research focuses. The achieved results indicate that besides the superior photoluminescence, nano-porous silicon materials fabricated by the electrochemical approach are promising candidates for the utilizations in biological sensing, energy storage, chemical and catalysis, owing to the correlated biocompatibility, biodegradability, modifiable surface and high porosity, which comprise with tunable optical porous silicon structure and the applications such as biosensing, in vivo imaging, gas sensing and solar cells. Therefore, the facile electrochemical approaches utilized to prepare nano-porous materials are addressed, particularly ",
+    "doi": "10.15406/jabb.2024.11.00374",
+    "pdf_url": "",
+    "journal": "Journal of Applied Biotechnology &amp; Bioengineering",
+    "url": "https://www.semanticscholar.org/paper/4a59420f737342c2b2e15e273f3f1c890e33b03e",
+    "fetched_at": "2026-04-26T06:30:56.789160+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c8f24056facdc174",
+    "source": "semantic_scholar",
+    "title": "Characterization of Cascaded Porous Silicon Microcavity Biosensor",
+    "authors": [
+      "C. Fu",
+      "Yajun Liu",
+      "Jiaqing Mo",
+      "Zhenhong Jia"
+    ],
+    "year": 2024,
+    "abstract": "This article proposes a cascaded optical system composed of two identical porous silicon (Psi) microcavity structures and investigates its sensing characteristics for DNA detection. In the cascaded optical system, functionalization treatment is performed on only one of the microcavity structures, and then this microcavity structure is enabled to be in contact with the analyte, while the other microcavity structure is kept not in contact with the analyte, to achieve the purpose of changing the light path, that is, changing the incident angle of light onto the microcavity which is contacted with the analyte. The sensor’s response can be obtained by measuring changes in the defect peak varying with the incident angle. Results of numerical simulations and experiments show that the cascade stru",
+    "doi": "10.1109/JSEN.2024.3378694",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/c8f24056facdc174e0240a64484c29bcbcf07f9c",
+    "fetched_at": "2026-04-26T06:30:56.789163+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_03c30b2bd7f50edd",
+    "source": "semantic_scholar",
+    "title": "Porous silicon biosensor: current status.",
+    "authors": [
+      "S. Dhanekar",
+      "Swati Jain"
+    ],
+    "year": 2013,
+    "abstract": "",
+    "doi": "10.1016/j.bios.2012.09.045",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/03c30b2bd7f50edd44bc3eb3037c860f05ecc406",
+    "fetched_at": "2026-04-26T06:30:56.789167+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_0b547d3e4154af61",
+    "source": "semantic_scholar",
+    "title": "Advancements in Porous Silicon Biosensors for Point of Care, Wearable, and Implantable Applications.",
+    "authors": [
+      "Raquel Sánchez-Salcedo",
+      "Pritam Sharma",
+      "N. Voelcker"
+    ],
+    "year": 2025,
+    "abstract": "Biosensors play a critical role in modern diagnostics, offering high sensitivity and specificity for detecting various relevant clinical analytes as well as real-time monitoring and integrability in point-of-care (POC) platforms and wearable/implantable devices. Among the numerous materials used as biosensing substrates, porous silicon (pSi) has garnered significant attention due to its tunable properties, ease of fabrication, large surface area, and versatile surface chemistry. These attributes make pSi an ideal platform for transducer development, particularly in the fabrication of optical and electrochemical biosensors. This review explores the various stages of the design of a pSi-based biosensor starting from pSi fabrication, followed by a deep study about the stabilization and functi",
+    "doi": "10.1021/acsami.4c18273",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/0b547d3e4154af61d13ef68eb0f60e9076ddcc17",
+    "fetched_at": "2026-04-26T06:30:56.789170+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_cc66cadeeee04909",
+    "source": "semantic_scholar",
+    "title": "Plasmonic Biosensor for DNA Hybridization Using Integrated Graphene-Porous Silicon Waveguide",
+    "authors": [
+      "Suchitra Vankalkunti",
+      "Mandeep Singh"
+    ],
+    "year": 2023,
+    "abstract": "This work uses the full-vectorial finite element method to study a novel 3-D integrated graphene-porous silicon (p-Si) plasmonic waveguide-based nanostructure for deoxyribonucleic acid (DNA) hybridization. In this study, a p-Si waveguide is designed using the Maxwell Garnett model and is sandwiched between two low-indexed silicon dioxide (slot) layers. Next, a single graphene layer is deposited in both slot regions to enhance the sensor’s absorption, tuneability, and sensitivity. The extraordinary optical transmission (EOT) through subwavelength nanoaperture reduces the ohmic losses and improves the optical transmission near the infrared region. Moreover, to optimize the sensor’s design, a parametric analysis involving variations in the geometric dimensions of the sensor is performed using",
+    "doi": "10.1109/JSEN.2023.3324848",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/cc66cadeeee04909fa945409ed184f17076602ac",
+    "fetched_at": "2026-04-26T06:30:56.789175+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_83c74de72badd0e9",
+    "source": "semantic_scholar",
+    "title": "P450-based porous silicon biosensor for arachidonic acid detection.",
+    "authors": [
+      "A. Giovannozzi",
+      "V. Ferrero",
+      "F. Pennecchi",
+      "S. Sadeghi",
+      "Gianfranco Gilardi",
+      "A. M. Rossi"
+    ],
+    "year": 2011,
+    "abstract": "",
+    "doi": "10.1016/j.bios.2011.07.046",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/83c74de72badd0e9acaf2bd98860f2f60009f9e5",
+    "fetched_at": "2026-04-26T06:30:56.789180+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_300639a2cea888a9",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon-Based DNA Biosensor for Human Papillomavirus Detection: Towards the Design of Fast and Portable Test",
+    "authors": [
+      "S. A. Rodríguez-Montelongo",
+      "David S. Moreno-Gutiérrez",
+      "Y. Terán-Figueroa",
+      "C. F. Gómez-Durán",
+      "A. Bañuelos-Frías",
+      "G. Palestino"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1007/s12633-022-02179-4",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/300639a2cea888a9d753c448f65b34fbcffb0d60",
+    "fetched_at": "2026-04-26T06:30:56.789183+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c9df04a0450c6017",
+    "source": "semantic_scholar",
+    "title": "Porous silicon biosensor for detection of variable domain of heavy-chain of HCAb antibody",
+    "authors": [
+      "Hongyan Zhang",
+      "Xiao-yi Lü",
+      "Zhenhong Jia",
+      "Jiang-wei Li",
+      "Fu-chun Zhang"
+    ],
+    "year": 2012,
+    "abstract": "",
+    "doi": "10.1007/S11801-012-1140-1",
+    "pdf_url": "",
+    "journal": "Optoelectronics Letters",
+    "url": "https://www.semanticscholar.org/paper/c9df04a0450c6017f166ff41f1bb6c4a30a1947c",
+    "fetched_at": "2026-04-26T06:30:56.789187+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9cbf169e267c3303",
+    "source": "semantic_scholar",
+    "title": "Porous silicon biosensor for detection of viruses.",
+    "authors": [
+      "A. Rossi",
+      "Lili Wang",
+      "V. Reipa",
+      "T. Murphy"
+    ],
+    "year": 2007,
+    "abstract": "",
+    "doi": "10.1016/J.BIOS.2007.06.004",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/9cbf169e267c33035330d09c8fc3e87f80ce641b",
+    "fetched_at": "2026-04-26T06:30:56.789203+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f6f1dfe4eaf20572",
+    "source": "semantic_scholar",
+    "title": "High-performance Bloch surface wave biosensor based on a prism-coupled porous silicon composite structure for the detection of hemoglobin.",
+    "authors": [
+      "Di Wu",
+      "Manli Wei",
+      "Sitong Liu",
+      "Runhua Li",
+      "Ji Ma"
+    ],
+    "year": 2022,
+    "abstract": "Biosensors have various potential applications in biomedical research and clinical diagnostic, especially in detection of biomolecules in highly diluted solutions. In this study, a high-performance Bloch surface wave biosensor was constructed for the detection of hemoglobin. The procedure consisted of designing a porous silicon-based Kretschmann configuration to ensure excitation of the Bloch surface wave. The performance of the resulting sensor was then optimized by adjusting the buffer layer parameters based on the impedance matching method. The results showed an increase in the quality factor and figure of merit of the biosensor as a function of the decrease in thickness and refractive index of the buffer layer. The combination of the two optimization methods resulted in the quality fac",
+    "doi": "10.1364/oe.472839",
+    "pdf_url": "https://doi.org/10.1364/oe.472839",
+    "journal": "Optics express",
+    "url": "https://www.semanticscholar.org/paper/f6f1dfe4eaf205729c8ba9dfd57e3a7556c92823",
+    "fetched_at": "2026-04-26T06:30:56.789208+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_accf1fa2d575769d",
+    "source": "semantic_scholar",
+    "title": "Optimization of porous silicon reflectance for silicon photovoltaic cells",
+    "authors": [
+      "S. Strehlke",
+      "S. Bastide",
+      "C. Lévy‐Clément"
+    ],
+    "year": 1999,
+    "abstract": "",
+    "doi": "10.1016/S0927-0248(99)00016-1",
+    "pdf_url": "",
+    "journal": "Solar Energy Materials and Solar Cells",
+    "url": "https://www.semanticscholar.org/paper/accf1fa2d575769d6f2bd4564af26649dd1a7025",
+    "fetched_at": "2026-04-26T06:31:09.260444+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_da82160243d4831d",
+    "source": "semantic_scholar",
+    "title": "Modeling and Characterization of Porous Silicon Reflectance",
+    "authors": [
+      "G. Murray"
+    ],
+    "year": 2016,
+    "abstract": "",
+    "doi": "",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/da82160243d4831dd0055456619ceb6f8af3d7dc",
+    "fetched_at": "2026-04-26T06:31:09.260466+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_67a22e805b882f43",
+    "source": "semantic_scholar",
+    "title": "Optimization of porous silicon reflectance for solar cell applications",
+    "authors": [
+      "A. Coles",
+      "R. Gerhardt",
+      "A. Rohatgi"
+    ],
+    "year": 1996,
+    "abstract": "",
+    "doi": "10.1557/PROC-426-557",
+    "pdf_url": "",
+    "journal": "MRS Proceedings",
+    "url": "https://www.semanticscholar.org/paper/67a22e805b882f435543a7d1b7b5fed7f321bc6e",
+    "fetched_at": "2026-04-26T06:31:09.260472+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_6f1cbac73d73ce21",
+    "source": "semantic_scholar",
+    "title": "Porous silicon reflectance interference filter used for liquid concentration measurement",
+    "authors": [
+      "Feng-cheng Teng",
+      "Shuxin Qiao",
+      "Yanan Cai",
+      "Tihua Wu"
+    ],
+    "year": 2006,
+    "abstract": "",
+    "doi": "10.1117/12.676886",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/6f1cbac73d73ce215ef2cde36591d48631abfd66",
+    "fetched_at": "2026-04-26T06:31:09.260476+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_d122235b02c7372c",
+    "source": "semantic_scholar",
+    "title": "Optimization of Porous Silicon Reflectance for Multicrystalline Silicon Solar Cells",
+    "authors": [
+      "J. Kwon",
+      "D. Kim",
+      "S. H. Lee"
+    ],
+    "year": 2004,
+    "abstract": "",
+    "doi": "",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/d122235b02c7372c41b754802e15b32e7b3cd505",
+    "fetched_at": "2026-04-26T06:31:09.260481+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_69ee6ffe09684299",
+    "source": "semantic_scholar",
+    "title": "Microstructure and reflectance of porous GaN distributed Bragg reflectors on silicon substrates",
+    "authors": [
+      "S. Ghosh",
+      "M. Sarkar",
+      "M. Frentrup",
+      "M. Kappers",
+      "R. Oliver"
+    ],
+    "year": 2024,
+    "abstract": "Distributed Bragg reflectors (DBRs) based on alternating layers of porous and non-porous GaN have previously been fabricated at the wafer-scale in heteroepitaxial GaN layers grown on sapphire substrates. Porosification is achieved via the electrochemical etching of highly Si-doped layers, and the etchant accesses the n+-GaN layers through nanoscale channels arising at threading dislocations that are ubiquitous in the heteroepitaxial growth process. Here, we show that the same process applies to GaN multilayer structures grown on silicon substrates. The reflectance of the resulting DBRs depends on the voltage at which the porosification process is carried out. Etching at higher voltages yields higher porosities. However, while an increase in porosity is theoretically expected to lead to pea",
+    "doi": "10.1063/5.0216672",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/69ee6ffe0968429937d95c3e823a832072668e04",
+    "fetched_at": "2026-04-26T06:31:09.260485+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_3a3bffdf226fdadc",
+    "source": "semantic_scholar",
+    "title": "Monitoring of porous silicon layers for epitaxial wafer production using inline reflectance spectroscopy",
+    "authors": [
+      "H. Vahlman",
+      "S. Al-Hajjawi",
+      "J. Haunschild",
+      "N. Wöhrle",
+      "Maxi Richter",
+      "L. Jablonka"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1063/5.0155297",
+    "pdf_url": "",
+    "journal": "SILICONPV 2022, THE 12TH INTERNATIONAL CONFERENCE ON CRYSTALLINE SILICON PHOTOVOLTAICS",
+    "url": "https://www.semanticscholar.org/paper/3a3bffdf226fdadc0a6a7b057ed0b9f6033437b2",
+    "fetched_at": "2026-04-26T06:31:09.260489+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9ab68f89500941d3",
+    "source": "semantic_scholar",
+    "title": "Synthesis of Fe3O4 NPs on Porous Silicon for Photoluminescence-Based Humidity Sensor",
+    "authors": [
+      "H. Abid",
+      "Uday M. Nayef",
+      "F. Mutlak",
+      "Abeer M. Muslim",
+      "M. Muayad"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s11468-025-03250-7",
+    "pdf_url": "",
+    "journal": "Plasmonics",
+    "url": "https://www.semanticscholar.org/paper/9ab68f89500941d3aa94bb4eb0c87526a10ab4dc",
+    "fetched_at": "2026-04-26T06:31:09.260494+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_46e3a575fd900478",
+    "source": "semantic_scholar",
+    "title": "Monitoring of Porous Silicon Layers Used for Epitaxial Wafer Production With Inline Reflectance Spectroscopy",
+    "authors": [
+      "H. Vahlman",
+      "S. Al-Hajjawi",
+      "J. Haunschild",
+      "N. Wöhrle",
+      "Maxi Richter",
+      "L. Jablonka"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1109/JPHOTOV.2022.3176429",
+    "pdf_url": "",
+    "journal": "IEEE Journal of Photovoltaics",
+    "url": "https://www.semanticscholar.org/paper/46e3a575fd900478c3e831ff41b17c627f09ade1",
+    "fetched_at": "2026-04-26T06:31:09.260500+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b9ba082ef2798ee7",
+    "source": "semantic_scholar",
+    "title": "A Molecularly Imprinted Polymer-Based Porous Silicon Optical Sensor for Quercetin Detection in Wines",
+    "authors": [
+      "T. Di Giulio",
+      "I. M. Asif",
+      "M. Corsi",
+      "Soumya Rajpal",
+      "B. Mizaikoff",
+      "N. Ditaranto"
+    ],
+    "year": 2025,
+    "abstract": "Quercetin (QU), a bioactive flavonoid with significant nutritional and antioxidant properties, plays a vital role in the quality and stability of wine. This study presents the development of a molecularly imprinted polymer (MIP)-based optical sensor for the selective and sensitive detection of quercetin in red and white wines. The sensor combines the selective molecular recognition capabilities of MIPs with the optical properties of nanostructured porous silica (PSiO2) scaffolds, which serve as the transducer. MIP synthesis was achieved through a novel room-temperature vapor-phase polymerization method using pyrrole as the functional monomer. Computational simulations were used to optimize pyrrole interactions with QU and at the polymer level, to explore the binding interactions of QU with",
+    "doi": "10.1021/acsami.4c21238",
+    "pdf_url": "",
+    "journal": "ACS Applied Materials & Interfaces",
+    "url": "https://www.semanticscholar.org/paper/b9ba082ef2798ee7895d43dc145d6c74c37db78d",
+    "fetched_at": "2026-04-26T06:31:09.260505+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_76cdc3b26c0b782f",
+    "source": "semantic_scholar",
+    "title": "Design and Investigation of Gamma Ray Dosimetry with Doped Polymer-Infused Porous Silicon Annular Photonic Crystal",
+    "authors": [
+      "A. Ameen",
+      "Abinash Panda",
+      "Ahmed M. El-Sherbeeny",
+      "A. Hajjiah",
+      "Mostafa R. Abukhadra",
+      "Wail Al Zoubi"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12633-025-03319-2",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/76cdc3b26c0b782fcfcf6754a79631c51c985f94",
+    "fetched_at": "2026-04-26T06:31:09.260510+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f9e944d7577ced68",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Working as Immobilizer of TiO2 Decorated with Metal Nanoparticles Analyzing the Absorber and Photocatalytic Activity for Dexamethasone",
+    "authors": [
+      "A. Garzon-Roman",
+      "E. Sanchez-Mora",
+      "A. Romero-López",
+      "M. E. de Anda-Reyes",
+      "C. Zuñiga-Islas"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12633-025-03264-0",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/f9e944d7577ced68c134fb3da0b770edad6c1545",
+    "fetched_at": "2026-04-26T06:31:09.260514+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f5cbc02451d9a0df",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon-Based UV Photodetectors: Enhancing Performance with Ta-Doped ZnO",
+    "authors": [
+      "Safiye Karaçam",
+      "Meltem Gör Bölen"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12633-025-03325-4",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/f5cbc02451d9a0dfcbc36fa984cae201c97280b3",
+    "fetched_at": "2026-04-26T06:31:09.260517+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_0a6b2346cfd04ade",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon on Paper: A Platform for Quantitative Rapid Diagnostic Tests",
+    "authors": [
+      "Huijin An",
+      "Simon J. Ward",
+      "R. Layouni",
+      "P. E. Laibinis",
+      "Andrea K. Locke",
+      "Sharon M. Weiss"
+    ],
+    "year": 2025,
+    "abstract": "Porous silicon (PSi) thin films on silicon substrates have been extensively investigated in the context of biosensing applications, particularly for achieving label-free optical detection of a wide range of analytes. However, mass transport challenges have made it difficult for these biosensors to achieve rapid response times and low detection limits. In this work, we introduce an approach for improving the efficiency of molecule transport in PSi by using open-ended PSi membranes atop paper substrates in a flow-through sensor scheme. The paper substrate provides structural support as well as an efficient means of draining solutions from the PSi membrane without the use of an external pump and microfluidic channels. Distinct changes in the reflectance properties of the PSi membrane are meas",
+    "doi": "10.1021/acsami.4c18940",
+    "pdf_url": "https://doi.org/10.1021/acsami.4c18940",
+    "journal": "ACS Applied Materials & Interfaces",
+    "url": "https://www.semanticscholar.org/paper/0a6b2346cfd04ade3bb384b485fcb81935886320",
+    "fetched_at": "2026-04-26T06:31:09.260521+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c4818a9bd8df66b0",
+    "source": "semantic_scholar",
+    "title": "Porous silicon photonic crystal-based interferometric chemical sensor.",
+    "authors": [
+      "I. Ivanov",
+      "V. Skryshevsky",
+      "Ali Belarouci"
+    ],
+    "year": 2025,
+    "abstract": "This work investigates an interferometric chemical sensor based on modulating optical bandgap parameters in a porous silicon photonic crystal. The proposed system features a fast, inexpensive setup using a single, narrow spectral response photodetector, which is advantageous for studying analyte adsorption/desorption kinetics compared to bulkier dispersive systems. Reflectance spectra were computed using the transfer matrix method, considering variations in refractive indices and bilayer numbers (Nbi). Modeling and experiments confirmed that reflectance oscillation frequency is proportional to analyte parameters like refractive index and evaporation rate. Short fast Fourier transformation (FFT) yielded analyte-specific spectrograms for ethanol and isopropanol. Sensitivity is enhanced for p",
+    "doi": "10.1364/oe.549742",
+    "pdf_url": "",
+    "journal": "Optics express",
+    "url": "https://www.semanticscholar.org/paper/c4818a9bd8df66b01bed05cd57b3b04169988e12",
+    "fetched_at": "2026-04-26T06:31:09.260525+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_cee600e826dd581e",
+    "source": "semantic_scholar",
+    "title": "Baseline Stability of Thermally Hydrosilated Porous Silicon with Zwitterionic Antifouling Polymer Coating for Biosensing Applications",
+    "authors": [
+      "Soren M. Smail",
+      "P. E. Laibinis",
+      "Sharon M. Weiss"
+    ],
+    "year": 2025,
+    "abstract": "Porous silicon (PSi)-based biosensors are a promising platform for quantitative rapid diagnostics, but they have not broadly realized clinically relevant limits of detection due, in part, to poor baseline stability. Baseline instability can be attributed to two major physicochemical challengeshydrolysis of PSi in aqueous solutions and fouling by unwanted biological species, both of which can obscure the detection of target molecules at low concentrations. In this work, PSi was thermally hydrosilated with vinylbenzyl chloride (VBC) to incorporate hydrolytically stable Si–C bonding and to provide an attached alkyl halide termination for further chemistry. Subsequent grafting of zwitterionic poly(sulfobetaine methacrylate) (SBMA) from this PSi-VBC layer by surface-initiated atom-transfer rad",
+    "doi": "10.1021/acsomega.5c03495",
+    "pdf_url": "",
+    "journal": "ACS Omega",
+    "url": "https://www.semanticscholar.org/paper/cee600e826dd581e841fbf4ce23e0b206d6b8a09",
+    "fetched_at": "2026-04-26T06:31:09.260588+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_13cf54fb7402f220",
+    "source": "semantic_scholar",
+    "title": "Optical properties of silicon carbide thin films deposited by atomic substitution on porous silicon",
+    "authors": [
+      "V. Kidalov",
+      "Lukas Hertling",
+      "R. Redko",
+      "V. Dzhagan",
+      "Sergii Mamykin",
+      "A. Revenko"
+    ],
+    "year": 2025,
+    "abstract": "Silicon carbide films on porous-Si/Si substrates have attracted considerable attention due to their potential use in modern high-power electronic devices. Here, SiC/porous-Si/Si heterostructures fabricated by an atomic substitution method are investigated. Scanning electron microscopy shows the formation of a continuous about 40 nm thick film of SiC, with a sharp interface to the porous Si sublayer. Energy-dispersive x-ray spectroscopy confirmed that Si, C, and O are the only constituents of the SiC film and the porous-Si underlayer. Raman spectroscopy indicated 3C and 6H polytypes in the SiC film. Spectroscopic ellipsometry in the range of 0.6–5.1 eV was performed in order to determine the refractive index (n), extinction coefficient (k), and bandgap (Eg) of the SiC layer. Macro-FTIR tran",
+    "doi": "10.1088/2053-1591/adf029",
+    "pdf_url": "",
+    "journal": "Materials Research Express",
+    "url": "https://www.semanticscholar.org/paper/13cf54fb7402f220f9d5f205b9370953499f57c1",
+    "fetched_at": "2026-04-26T06:31:09.260593+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_a63fd817ad660816",
+    "source": "semantic_scholar",
+    "title": "Low-Concentration Ethanol Vapor Sensing With Nanostructured Porous Silicon Interferometers Using Interferogram Average Over Wavelength Reflectance Spectroscopy",
+    "authors": [
+      "S. Mariani",
+      "L. Strambini",
+      "A. Paghi",
+      "G. Barillaro"
+    ],
+    "year": 2018,
+    "abstract": "Herein, we report low-concentration ethanol vapor detection with nanostructured porous silicon (PSi) interferometers using interferogram average over wavelength reflectance spectroscopy (IAWRS), a novel interferometric technique recently developed for ultrasensitive (bio)sensing applications in liquid using miniaturized integrated interferometers. Ethanol vapors at concentrations of 100, 500, and 1000 ppm (in synthetic dry air) are reliably monitored in real-time using IAWRS by monitoring changes on the reflectance spectrum of PSi interferometers after ethanol physisorption onto the nanopore surface. Good signal-to-noise ratio, high sensitivity, and low resolution are achieved at any of the tested concentrations, leading to a theoretical detection limit (DL) of 0.9 ppm. Fast response times",
+    "doi": "10.1109/JSEN.2018.2859789",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/a63fd817ad660816a4567ba2aa98b218f16d8923",
+    "fetched_at": "2026-04-26T06:31:09.260597+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_6ea05a6f427bbf5b",
+    "source": "semantic_scholar",
+    "title": "Multiscale phonon thermal transport in nano-porous silicon",
+    "authors": [
+      "B. Kurbanova",
+      "D. Chakraborty",
+      "A. Abdullaev",
+      "A. Shamatova",
+      "O. Makukha",
+      "A. Belarouci"
+    ],
+    "year": 2024,
+    "abstract": "We performed a comprehensive multi-scale phonon-mediated thermal transport study of nano-porous silicon (np-Si) films with average porosities in the range of φ = 30%–70%. This depth-resolved thermal characterization involves a combination of optical methods, including femtosecond laser-based time-domain thermo-reflectance (TDTR) with MHz modulation rates, opto-thermal micro-Raman spectroscopy, and continuum laser wave-based frequency domain thermo-reflectance (FDTR) with kHz modulation rates probing depths of studied samples over 0.5–1.2, 2–3.2, and 23–34 μm, respectively. We revealed a systematic decrease in thermal conductivity (k) with the rise of φ, i.e., with the lowering of the Si crystalline phase volumetric fraction. These data were used to validate our semi-classical phonon Monte ",
+    "doi": "10.1063/5.0205455",
+    "pdf_url": "",
+    "journal": "Applied Physics Letters",
+    "url": "https://www.semanticscholar.org/paper/6ea05a6f427bbf5b0e07dc632b448138020fc7a4",
+    "fetched_at": "2026-04-26T06:31:09.260602+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_342fab3ab281b17e",
+    "source": "semantic_scholar",
+    "title": "Determination of the complex refractive index of free-standing porous silicon and oxidized porous silicon in the Visible and Ultraviolet range",
+    "authors": [
+      "M. R. Jiménez-Vivanco",
+      "Eduardo Lugo",
+      "V. Torres-Costa",
+      "R. Martín-Palma",
+      "Maricela Santana",
+      "Raúl Herrera"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s00339-024-08129-8",
+    "pdf_url": "",
+    "journal": "Applied Physics A",
+    "url": "https://www.semanticscholar.org/paper/342fab3ab281b17ee9bfd65045056aec1f2162a1",
+    "fetched_at": "2026-04-26T06:31:09.260606+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_25f695f7603be57d",
+    "source": "semantic_scholar",
+    "title": "Decoding Hydrogen Desorption Kinetics in Porous Silicon: An Electrical Circuit Modeling Approach.",
+    "authors": [
+      "S. P. Muduli",
+      "Rama Chandra Muduli",
+      "Paresh Kale"
+    ],
+    "year": 2024,
+    "abstract": "Solid-state hydrogen storage outperforms conventional storage methods in terms of safety and on-board applications. Porous Si (PS) is the optimized Si nanostructure with ample surface area (∼400 m2 g-1) and maximum dangling sites for hydrogenation. Though solid-state hydrogen storage in Si nanostructures, especially in porous Si, is extensively studied, the thermal desorption of hydrogen is rarely reported. This work investigates and analyzes the thermal desorption of a hydrogen-terminated PS surface using attenuated total reflectance-Fourier transform infrared spectroscopy (ATR-FTIR) to optimize the temperature for efficient desorption, as FTIR is sensitive to identifying the presence of Si hydride species (SiHx). The relative peak intensities in the spectra estimate the relative hydrogen",
+    "doi": "10.1021/acsami.4c11255",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/25f695f7603be57d296379c10edd048070733df9",
+    "fetched_at": "2026-04-26T06:31:09.260611+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_4e3ff6ea1fa06c75",
+    "source": "semantic_scholar",
+    "title": "Dichloro-tin (IV) hexadeca-fluoro-phthalocyanine (F16PcSnCl2) thin film on porous silicon layers by ultrasonic spray pyrolysis, for possible application in optoelectronics devices",
+    "authors": [
+      "Diego Hernán Cuate Gómez",
+      "Abel Garzón Román",
+      "José Luis Sosa Sánchez",
+      "C. Zuñiga-Islas",
+      "Jesus Manuel Lugo Quintal"
+    ],
+    "year": 2024,
+    "abstract": "Phthalocyanines represent a significant class of organic semiconductors that have garnered attention for their potential applications in conducting polymers and organic electronics. The unique structural characteristics of phthalocyanines, coupled with the intriguing chemical behavior and variations in bandgap associated with different substitution sites, offer exciting prospects for designing novel application devices. In this study, we have successfully fabricated a heterostructure incorporating dichloro tin (IV) hexa deca fluoro phthalocyanine (F16PcSnCl2) on both porous silicon (PS) and crystalline silicon (c-Si). The PS substrate was prepared using metal-assisted chemical etching. To explore the optoelectronic applications, we thoroughly characterized the optical, electrical, and morp",
+    "doi": "10.1088/1402-4896/ad5ece",
+    "pdf_url": "",
+    "journal": "Physica Scripta",
+    "url": "https://www.semanticscholar.org/paper/4e3ff6ea1fa06c75bbab32e2723dc9159e17c488",
+    "fetched_at": "2026-04-26T06:31:09.260615+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_29794306b5e3bc9e",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon-Based Absorber Using Integration of Light Trapping and Anti-Reflective Layer",
+    "authors": [
+      "Andras Kovacs",
+      "Julien Petit",
+      "Volker Bucher",
+      "U. Mescheder"
+    ],
+    "year": 2024,
+    "abstract": "This article provides a detailed morphological and spectroscopic investigation of a porous silicon-based technique for fabricating ultra-broadband infrared (IR) optical filter elements that integrate surface and subsurface structures, and which are suitable for applications in thermal imaging, sensing and infrared spectroscopy. The porous silicon (PSi)based absorber consists of a light trapping (islet-like) surface and a multilayer structure forming quarter-wave thick layers as anti-reflective structure underneath. These integrated structures can be created and combined by two electrochemical etching processes with different etchant concentrations, current densities, and etch times to provide both, fully light absorbing, and anti-reflective coatings (ARC). The integrated porous silicon-bas",
+    "doi": "10.1109/SENSORS60989.2024.10785048",
+    "pdf_url": "",
+    "journal": "2024 IEEE SENSORS",
+    "url": "https://www.semanticscholar.org/paper/29794306b5e3bc9ec9a0b3a0050633cc4547f52b",
+    "fetched_at": "2026-04-26T06:31:09.260619+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_129c1186cb5191fa",
+    "source": "semantic_scholar",
+    "title": "Tailoring of birefringence and dichroism in anisotropic porous silicon nanostructures with free charge carriers for infrared photonic applications",
+    "authors": [
+      "Yingying Deng",
+      "Anton Ikonnikov",
+      "V. Timoshenko"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s00339-024-07981-y",
+    "pdf_url": "",
+    "journal": "Applied Physics A",
+    "url": "https://www.semanticscholar.org/paper/129c1186cb5191fadbe69706b44a208165e2da16",
+    "fetched_at": "2026-04-26T06:31:09.260623+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ce838357fafc746b",
+    "source": "semantic_scholar",
+    "title": "Study of Porous Silicon Layer Effect in Optoelectronics Properties of Multi-Crystalline Silicon for Photovoltaic Applications",
+    "authors": [
+      "Mohammed A. Almeshaal",
+      "B. Abdouli",
+      "Karim Choubani",
+      "L. Khezami",
+      "M. B. Rabha"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1007/s12633-023-02482-8",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/ce838357fafc746be46116969476f21517023bba",
+    "fetched_at": "2026-04-26T06:31:09.260627+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f8abfda7b201ac57",
+    "source": "semantic_scholar",
+    "title": "Bacterial Cellulose-Based Laser-Scribed Graphene Electrode for Hydrogen Peroxide Detection in Cancer Cells",
+    "authors": [
+      "L. F. de Lima",
+      "André L Ferreira",
+      "Letícia Ester Dos Santos",
+      "Keyla Lívian P Coelho",
+      "Keyla Teixeira Santos",
+      "Ariane Schmidt"
+    ],
+    "year": 2025,
+    "abstract": "The development of sustainable and high-performance electrochemical sensors is crucial for advancing biomedical applications. In this work, we introduce a hydrogen peroxide (H2O2) sensor based on bacterial cellulose-derived laser-scribed graphene (BC-LSG), modified with MXene and platinum nanoparticles (PtNPs). Bacterial cellulose (BC), a biodegradable and renewable material, was cultivated and transformed into a highly conductive carbon network using CO2 laser irradiation, producing a flexible, portable, and miniaturized electrochemical platform. The incorporation of MXene and PtNPs significantly enhanced the electrocatalytic response toward H2O2 oxidation, achieving a wide linear concentration range (15–95 μmol L–1) and a low detection limit (0.35 μmol L–1). Compared to traditional enzym",
+    "doi": "10.1021/acsabm.5c00825",
+    "pdf_url": "",
+    "journal": "ACS Applied Bio Materials",
+    "url": "https://www.semanticscholar.org/paper/f8abfda7b201ac571179fc3689fea92624b0e13b",
+    "fetched_at": "2026-04-26T06:31:50.388314+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_60b0be65643b7a29",
+    "source": "semantic_scholar",
+    "title": "A New Program of Voltammetry Experiment Teaching Based on Laser-Scribed Graphene Electrode",
+    "authors": [
+      "Zhen Zhou",
+      "Siyu Chen",
+      "Yi Liu",
+      "Chengguo Hu",
+      "Faqiong Zhao"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.3866/pku.dxhx202308049",
+    "pdf_url": "",
+    "journal": "Daxue Huaxue",
+    "url": "https://www.semanticscholar.org/paper/60b0be65643b7a298ccc445d3c551b90a0445fc6",
+    "fetched_at": "2026-04-26T06:31:50.388338+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_5f0de3a573588a3d",
+    "source": "semantic_scholar",
+    "title": "Miniaturisation of a laser-scribed graphene electrode enables analyte detection at ultra-low concentrations",
+    "authors": [
+      "Sarojini Prusty",
+      "S. Upadhye",
+      "Pranati Nayak"
+    ],
+    "year": 2026,
+    "abstract": "Miniaturized electrode is more efficient in detecting analyte compared to its macro counterpart.",
+    "doi": "10.1039/d6ra01797e",
+    "pdf_url": "",
+    "journal": "RSC Advances",
+    "url": "https://www.semanticscholar.org/paper/5f0de3a573588a3d12003ee31d2d1a3086419e20",
+    "fetched_at": "2026-04-26T06:31:50.388343+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_e9379bcb154fb1f1",
+    "source": "semantic_scholar",
+    "title": "Oil palm's lignin mediated silver nanoparticles decorated laser-scribed graphene electrode for biosensing dengue virus DNA",
+    "authors": [
+      "P. Ang",
+      "M. Ibrahim",
+      "V. Perumal",
+      "Rohana Adnan",
+      "S. Gopinath",
+      "Daruliza Kernain Mohd Azman"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1016/j.microc.2026.117951",
+    "pdf_url": "",
+    "journal": "Microchemical Journal",
+    "url": "https://www.semanticscholar.org/paper/e9379bcb154fb1f1213cc0f2fcb7cc74ccadb287",
+    "fetched_at": "2026-04-26T06:31:50.388348+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_e2ae2b3cca4acfb2",
+    "source": "semantic_scholar",
+    "title": "Portable 3D Laser-Scribed Graphene Electrode Functionalized by Nafion/Fe 3O 4 Nanohybrids: A Flexible Strip Electrode for the Ultrasensitive Detection of Neurotoxin Drug Clioquinol",
+    "authors": [
+      "Rajesh Madhuvilakku",
+      "Y. Yen",
+      "Wei‐Mon Yan",
+      "Guang-Wei Huang"
+    ],
+    "year": 2021,
+    "abstract": "",
+    "doi": "10.2139/ssrn.3992390",
+    "pdf_url": "",
+    "journal": "SSRN Electronic Journal",
+    "url": "https://www.semanticscholar.org/paper/e2ae2b3cca4acfb27abcc2d0949cf8b385ae62c9",
+    "fetched_at": "2026-04-26T06:31:50.388352+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_a537499464696086",
+    "source": "semantic_scholar",
+    "title": "Synthesis of Laser Scribed Graphene Electrode with Optimized Power for Biosensing",
+    "authors": [
+      "M. J. Tai",
+      "Mugashini Vasudevan",
+      "V. Perumal",
+      "Wei Wen Liu",
+      "N. M. Mohamed"
+    ],
+    "year": 2019,
+    "abstract": "Graphene is widely used in electronic devices due to its outstanding electrical properties. Although numerous synthesis methods have been reported, to produce a cost-effective graphene device is still a challenge until laser scribed graphene was introduced. This new technique is still in the development stage to be utilized in various application. In this work, we synthesized laser scribed graphene by manipulating the intensity of laser beam to study differences in morphology, structure and impedance. Field Emission Scanning Electron Microscopy images show that laser scribed graphene are highly porous when fabricated at higher power. Raman spectrum suggested higher degree of graphitization was produced by increasing the laser power and the intensity ratio ID/IG remained at 0.99 indicating ",
+    "doi": "10.1109/rsm46715.2019.8943572",
+    "pdf_url": "",
+    "journal": "2019 IEEE Regional Symposium on Micro and Nanoelectronics (RSM)",
+    "url": "https://www.semanticscholar.org/paper/a5374994646960868e472a52a66251a26f5be1ec",
+    "fetched_at": "2026-04-26T06:31:50.388356+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_5f03bd0a52304d4a",
+    "source": "semantic_scholar",
+    "title": "A Highly Sensitive Electrochemical Sensor for Cd2+ Detection Based on Prussian Blue-PEDOT-Loaded Laser-Scribed Graphene-Modified Glassy Carbon Electrode",
+    "authors": [
+      "Londhe Akash Machhindra",
+      "Y. Yen"
+    ],
+    "year": 2022,
+    "abstract": "Heavy metal ion pollution has had a serious influence on human health and the environment. Therefore, the monitoring of heavy metal ions is of great practical significance. In this work, we describe the development of an electrochemical sensor to detect cadmium (Cd2+) using a Prussian blue (PB), poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT)-loaded laser-scribed graphene (LSG) nanocomposite-modified glassy carbon electrode (GCE). In this nanocomposite material, we successfully brought together the advantages of an extraordinarily large surface area. The accumulation of PB nanoparticles results in an efficient electrochemical sensor with high sensitivity and selectivity and fast detection ability, developed for the trace-level detection of Cd2+. Electrochemical features were",
+    "doi": "10.3390/chemosensors10060209",
+    "pdf_url": "https://www.mdpi.com/2227-9040/10/6/209/pdf?version=1654156231",
+    "journal": "Chemosensors",
+    "url": "https://www.semanticscholar.org/paper/5f03bd0a52304d4a89b571869981a6efcbb93230",
+    "fetched_at": "2026-04-26T06:31:50.388360+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_69b6fbf32b443090",
+    "source": "semantic_scholar",
+    "title": "A sensitive electrochemical sensor for simultaneous voltammetric sensing of cadmium and lead based on Fe3O4/multiwalled carbon nanotube/laser scribed graphene composites functionalized with chitosan modified electrode",
+    "authors": [
+      "Zhi-Wei Xu",
+      "Xinkai Fan",
+      "Qiao Ma",
+      "Biao Tang",
+      "Zhiwei Lu",
+      "Junjun Zhang"
+    ],
+    "year": 2019,
+    "abstract": "Abstract In this work, based on a Fe3O4/multiwalled carbon nanotube/laser scribed graphene composites functionalized with chitosan modified glassy carbon electrode (Fe3O4/MWCNTs/LSG/CS/GCE), a highly active, sensitive, facile and low-cost electrochemical sensor was fabricated to determine cadmium (Cd2+) and lead (Pb2+) simultaneously using square wave anodic stripping voltammetry (SWASV). This novel nanocomposite possessed a significantly large specific area, remarkably high conductivity and excellent absorption ability. By in situ plating bismuth film, this constructed sensor proved favorable electrochemical response with a wide linear range from 1 to 200 μg L−1, and an ultralow detection limit of 0.1 and 0.07 μg L−1 for Cd2+ and Pb2+ (S/N = 3), respectively. Furthermore, excellent repeat",
+    "doi": "10.1016/J.MATCHEMPHYS.2019.121877",
+    "pdf_url": "",
+    "journal": "Materials Chemistry and Physics",
+    "url": "https://www.semanticscholar.org/paper/69b6fbf32b4430901d10c53c28d943acd463f0af",
+    "fetched_at": "2026-04-26T06:31:50.388365+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_f3c7b35f31d30acf",
+    "source": "semantic_scholar",
+    "title": "Miniaturized and low-cost electrochemical sensor based on polyimide laser-scribed graphene modified with Nafion™ and gold-doped titanium dioxide nanocrystals for estriol detection",
+    "authors": [
+      "A. F. Monteiro",
+      "L. F. Lima",
+      "Lillia I L M Gama",
+      "A. C. Silva",
+      "W. Araujo",
+      "Paulo T. Garcia"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s00604-025-07341-4",
+    "pdf_url": "",
+    "journal": "Microchimica Acta",
+    "url": "https://www.semanticscholar.org/paper/f3c7b35f31d30acfaa63270be2dcd5c951c11bde",
+    "fetched_at": "2026-04-26T06:31:50.388370+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_62854d3291822e97",
+    "source": "semantic_scholar",
+    "title": "A MOFs‐Derived Hydroxyl‐Functionalized Hybrid Nanoporous Carbon Incorporated Laser‐Scribed Graphene‐Based Multimodal Skin Patch for Perspiration Analysis and Electrocardiogram Monitoring",
+    "authors": [
+      "Md Asaduzzaman",
+      "Omar Faruk",
+      "A. A. Samad",
+      "H. Kim",
+      "Md. Selim Reza",
+      "Yeyeong Lee"
+    ],
+    "year": 2024,
+    "abstract": "Although metal‐organic framework (MOF)‐derived nanoporous C (NPC) materials offer several advantages for electrochemical sensor applications, surface functionalization and porosity tuning can affect sensor performance. This study presents the development of a skin patch for perspiration and electrocardiogram (ECG) monitoring, leveraging the unique properties of MOF‐on‐MOF‐derived surface‐functionalized hybrid nanoporous C (f‐HNPC) incorporated into laser‐scribed graphene (LSG). Hydroxyl (OH) group‐functionalized NPC, achieved through KOH activation, facilitates electron transport at the electrode–electrolyte interface. This enhances the electrochemical activity, thereby improving sensor sensitivity and expanding the detection range. The integration of f‐HNPC provides enhanced surface area ",
+    "doi": "10.1002/adfm.202405651",
+    "pdf_url": "",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/62854d3291822e97d6bf05ecf32dd61b5d3dc560",
+    "fetched_at": "2026-04-26T06:31:50.388374+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_abf60672866f1b42",
+    "source": "semantic_scholar",
+    "title": "Laser-scribed graphene (LSG) as new electrode material for impedance-based cellular assays",
+    "authors": [
+      "P. Puetz",
+      "Arne Behrent",
+      "A. Baeumner",
+      "J. Wegener"
+    ],
+    "year": 2020,
+    "abstract": "Abstract Impedance-based monitoring of cell-based assays has evolved to a multi-functional tool in fundamental and applied biomedical research. The majority of studies rely on gold-films as the electrode material which serves as growth surface and electrode at a time. Besides all its favorable properties like inertness, biocompatibility and superior electrochemical characteristics, gold-film electrodes in contact to cell culture medium show a capacitance of the electrode/electrolyte interface that may become limiting for the sensitivity of the readout. This study describes the use of laser-scribed graphene (LSG) as an alternative electrode material in impedance-based cell monitoring. LSG electrodes are prepared from commercial polyimide foils by simple CO2-laser-induced carbonization. The ",
+    "doi": "10.1016/j.snb.2020.128443",
+    "pdf_url": "",
+    "journal": "Sensors and Actuators B-chemical",
+    "url": "https://www.semanticscholar.org/paper/abf60672866f1b422b06b5b38ddc21014d1ea838",
+    "fetched_at": "2026-04-26T06:31:50.388378+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_998ae525d53e693d",
+    "source": "semantic_scholar",
+    "title": "Porous Laser-Scribed Graphene Electrodes Modified with Zwitterionic Moieties: A Strategy for Antibiofouling and Low-Impedance Interfaces",
+    "authors": [
+      "Alanis C Zambrano",
+      "Livia Loiola",
+      "A. Bukhamsin",
+      "Radosław Górecki",
+      "George T Harrison",
+      "Veerappan Mani"
+    ],
+    "year": 2024,
+    "abstract": "Laser-scribed graphene electrodes (LSGEs) are promising platforms for the development of electrochemical biosensors for point-of-care settings and continuous monitoring and wearable applications. However, the frequent occurrence of biofouling drastically reduces the sensitivity and selectivity of these devices, hampering their sensing performance. Herein, we describe a versatile, low-impedance, and robust antibiofouling interface based on sulfobetaine-zwitterionic moieties. The interface induces the formation of a hydration layer and exerts electrostatic repulsion, protecting the electrode surface from the nonspecific adsorption of various biofouling agents. We demonstrate through electrochemical and microscopy techniques that the modified electrode exhibits outstanding antifouling propert",
+    "doi": "10.1021/acsami.3c15849",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsami.3c15849",
+    "journal": "ACS Applied Materials & Interfaces",
+    "url": "https://www.semanticscholar.org/paper/998ae525d53e693d16148b48513a7b44dce26530",
+    "fetched_at": "2026-04-26T06:31:50.388382+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_f80e4abfd06e47b9",
+    "source": "semantic_scholar",
+    "title": "3D Laser Scribed Graphene Derived from Carbon Nanospheres: An Ultrahigh‐Power Electrode for Supercapacitors",
+    "authors": [
+      "Wenli Zhang",
+      "Yongjiu Lei",
+      "Qiu Jiang",
+      "Fangwang Ming",
+      "P. Costa",
+      "H. Alshareef"
+    ],
+    "year": 2019,
+    "abstract": "W.Z. and Y.L. contributed equally to this work. Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST). The authors thank the Advanced Nanofabrication, Imaging and Characterization, and Analytical Chemistry Core Laboratories at KAUST for their excellent support.",
+    "doi": "10.1002/SMTD.201900005",
+    "pdf_url": "",
+    "journal": "Small Methods",
+    "url": "https://www.semanticscholar.org/paper/f80e4abfd06e47b9a132254b04713c95b5179d96",
+    "fetched_at": "2026-04-26T06:31:50.388387+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_836f407628e6883f",
+    "source": "semantic_scholar",
+    "title": "Fabricating process-electrochemical property correlation of laser-scribed graphene and smartphone-based electrochemical platform for portable and sensitive biosensing.",
+    "authors": [
+      "Yiming Luo",
+      "Sirui Wu",
+      "Xinyue Xiang",
+      "Jian Shu",
+      "J. Fei"
+    ],
+    "year": 2023,
+    "abstract": "Laser-scribed graphene (LSG), a promising electrode material has attracted special research interest in recent years. Here, the fabricating process-electrochemical property correlation of laser-scribed graphene (LSG) devices was discussed emphatically and a pertinent optimization was performed to achieve better electroanalytical performance. Experiment results indicated that the laser scribing technique possessed great process latitude and reducing laser power and scribing speed facilitated fabricating high-quality graphene electrodes. Benefiting from its binder-free 3D porous network structure and high active/geometric area ratio, the optimized LSG electrode was superior to the screen-printed carbon electrode (SPCE) on electrochemical performance in the [Fe(CN)6]3-/4- redox system. Integr",
+    "doi": "10.1016/j.bios.2023.115525",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/836f407628e6883f3a6caf8ed0758c8f94e3ff64",
+    "fetched_at": "2026-04-26T06:31:50.388391+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_6ef3179b524e4a16",
+    "source": "semantic_scholar",
+    "title": "Laser‐Scribed Graphene–Polyaniline Microsupercapacitor for Internet‐of‐Things Applications",
+    "authors": [
+      "Ali Khodabandehlo",
+      "A. Noori",
+      "M. S. Rahmanifar",
+      "M. El‐Kady",
+      "R. Kaner",
+      "M. Mousavi"
+    ],
+    "year": 2022,
+    "abstract": "The push toward smart technologies and the Internet‐of‐Things (IoT) demands the development of miniaturized energy storage devices. Herein, a facile and scalable strategy is presented, based on laser reduction of graphene oxide into graphene followed by electrodeposition of polyaniline (PANi), to fabricate a substrate‐free supercapacitor. The fabricated supercapacitor is part of a flexible multifunctional integrated system comprising a thin‐film humidity sensor, a resistor, and a near field communication (NFC) antenna for IoT‐linked wireless communication with a smartphone. The integrated sensory system shares laser‐scribed graphene (LSG) as the same electrode material for all the components (supercapacitor, sensor, resistor, and NFC antenna). The symmetric LSG‐PANi||LSG‐PANi supercapacito",
+    "doi": "10.1002/adfm.202204555",
+    "pdf_url": "",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/6ef3179b524e4a16169ca2fb034f09e03fc2ca36",
+    "fetched_at": "2026-04-26T06:31:50.388397+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_5e4bd38dcf9495b8",
+    "source": "semantic_scholar",
+    "title": "Rapid Point-of-Care COVID-19 Diagnosis with a Gold-Nanoarchitecture-Assisted Laser-Scribed Graphene Biosensor",
+    "authors": [
+      "Tutku Beduk",
+      "Duygu Beduk",
+      "J. I. de Oliveira Filho",
+      "F. Zihnioglu",
+      "C. Çiçek",
+      "R. Sertoz"
+    ],
+    "year": 2021,
+    "abstract": "The global pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus has revealed the urgent need for accurate, rapid, and affordable diagnostic tests for epidemic understanding and management by monitoring the population worldwide. Though current diagnostic methods including real-time polymerase chain reaction (RT-PCR) provide sensitive detection of SARS-CoV-2, they require relatively long processing time, equipped laboratory facilities, and highly skilled personnel. Laser-scribed graphene (LSG)-based biosensing platforms have gained enormous attention as miniaturized electrochemical systems, holding an enormous potential as point-of-care (POC) diagnostic tools. We describe here a miniaturized LSG-based electrochemical sensing scheme for coronavirus disease",
+    "doi": "10.1021/acs.analchem.1c01444",
+    "pdf_url": "",
+    "journal": "Analytical Chemistry",
+    "url": "https://www.semanticscholar.org/paper/5e4bd38dcf9495b874772df21bbd36f5a51bebbb",
+    "fetched_at": "2026-04-26T06:31:50.388403+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_24d5a6e4ef541d89",
+    "source": "semantic_scholar",
+    "title": "Feather-like Gold Nanostructures Anchored onto 3D Mesoporous Laser-Scribed Graphene: A Highly Sensitive Platform for Enzymeless Glucose Electrochemical Detection in Neutral Media",
+    "authors": [
+      "Achraf Berni",
+      "A. Amine",
+      "J. J. García-Guzmán",
+      "L. Cubillana-Aguilera",
+      "José María Palacios-Santander"
+    ],
+    "year": 2023,
+    "abstract": "The authors present a novel sensing platform for a disposable electrochemical, non-enzymatic glucose sensor strip at physiological pH. The sensing material is based on dendritic gold nanostructures (AuNs) resembling feather branches, which are electrodeposited onto a laser-scribed 3D graphene electrode (LSGE). The LSGEs were fabricated via a one-step laser scribing process on a commercially available polyimide sheet. This study investigates several parameters that influence the morphology of the deposited Au nanostructures and the catalytic activity toward glucose electro-oxidation. The electrocatalytic activity of the AuNs-LSGE was evaluated using cyclic voltammetry (CV), linear sweep voltammetry (LSV), and amperometry and was compared to commercially available carbon electrodes prepared ",
+    "doi": "10.3390/bios13070678",
+    "pdf_url": "https://www.mdpi.com/2079-6374/13/7/678/pdf?version=1687702295",
+    "journal": "Biosensors",
+    "url": "https://www.semanticscholar.org/paper/24d5a6e4ef541d896bc02b757d8e5091f2675334",
+    "fetched_at": "2026-04-26T06:31:50.388407+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_eeda9eeff2aa0d0e",
+    "source": "semantic_scholar",
+    "title": "A highly efficient and portable laser-scribed graphene-based electrochemical system for forensic-oriented determination of acepromazine.",
+    "authors": [
+      "L. F. de Lima",
+      "W. R. de Araujo"
+    ],
+    "year": 2023,
+    "abstract": "Acepromazine (ACP) is a phenothiazine derivative drug commonly used as a tranquilizer veterinary medication due to its sedative properties. Benefiting from sedative properties, ACP has emerged as a drug of abuse and has been associated with drug-facilitated sexual assaults. Herein, we report, for the first time, the electrochemical behavior of ACP using a miniaturized and environmentally friendly laser-scribed graphene-based (LSG) sensor fabricated on a polyetherimide (PEI) substrate. The LSG device presented high porosity, as demonstrated by scanning electron microscopy (SEM). Cyclic voltammetry (CV) and electrochemical impedance spectroscopy (EIS) measurements of the PEI-LSG electrode confirmed the enhanced electroactive area (3.1-fold increase) caused by the rough surface and revealed a",
+    "doi": "10.1039/d3ay00815k",
+    "pdf_url": "",
+    "journal": "Analytical methods : advancing methods and applications",
+    "url": "https://www.semanticscholar.org/paper/eeda9eeff2aa0d0eca731a5495ace2be968b5f8a",
+    "fetched_at": "2026-04-26T06:31:50.388412+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_d5a6cb3786802fb5",
+    "source": "semantic_scholar",
+    "title": "Gold nanostructured laser-scribed graphene: A new electrochemical biosensing platform for potential point-of-care testing of disease biomarkers.",
+    "authors": [
+      "S. Rauf",
+      "A. A. Lahcen",
+      "Abdulrahman Aljedaibi",
+      "Tutku Beduk",
+      "José Ilton de Oliveira Filho",
+      "K. Salama"
+    ],
+    "year": 2021,
+    "abstract": "Improvements in the laser-scribed graphene (LSG)-based electrodes are critical to overcoming limitations of bare LSG electrodes in terms of sensitivity, direct immobilization of detection probes for biosensor fabrication, and ease of integration with point-of-care (POC) devices. Herein, we introduce a new class of nanostructured gold modified LSG (LSG-AuNS) electrochemical sensing system comprising LSG-AuNS working electrode, LSG reference, and LSG counter electrode. LSG-AuNS electrodes are realized by electrodeposition of gold chloride (HAuCl4) solution, which gave~2-fold enhancement in sensitivity and electrocatalytic activity compared to bare LSG electrode and commercially available screen-printed gold electrode (SPAuE). We demonstrate LSG-AuNS electrochemical aptasensor for detecting h",
+    "doi": "10.1016/j.bios.2021.113116",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/d5a6cb3786802fb5ab9f80fa5396124ff7a15480",
+    "fetched_at": "2026-04-26T06:31:50.388417+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_e5cb8b5adedd0e58",
+    "source": "semantic_scholar",
+    "title": "Laser-scribed reduced graphene oxide as counter electrode for dye-sensitized solar cell",
+    "authors": [
+      "Zengze Chu",
+      "Yimeng Wang",
+      "Lin Jiao",
+      "Xinxi Zhang"
+    ],
+    "year": 2019,
+    "abstract": "Abstract Reduced graphene oxide (rGO) has been attracted considerable attention in the field of dye sensitized solar cells (DSSCs) to serve as a low cost and earth-abundant alternative to the conventional platinum-based counter electrodes. Recently direct laser writing technologies are emerging as an inexpensive, time-efficient and high-resolution method to produce catalytic rGO-based electrodes. Herein, we experimentally demonstrate that the laser-scribed rGO on ITO/PEN substrate was produced by a commercial LightScribe DVD burner and used as counter electrode for DSSC. SEM and Raman spectroscopy characterizations reveal that after laser-scribing rGO film presents a roughness structure with multi-layer curled or tilting graphenes. The cyclic voltammetry (CV) and electrochemical impedance ",
+    "doi": "10.1080/1536383X.2019.1660648",
+    "pdf_url": "",
+    "journal": "Fullerenes, Nanotubes and Carbon Nanostructures",
+    "url": "https://www.semanticscholar.org/paper/e5cb8b5adedd0e5812b8858050eeb6cbc7928052",
+    "fetched_at": "2026-04-26T06:31:50.388422+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_f641f7d53de89520",
+    "source": "semantic_scholar",
+    "title": "Laser-scribed Graphene Electrodes Functionalized with Nafion/Fe3O4 Nanohybrids for the Ultrasensitive Detection of Neurotoxin Drug Clioquinol",
+    "authors": [
+      "Rajesh Madhuvilakku",
+      "Y. Yen",
+      "Wei‐Mon Yan",
+      "Guang-Wei Huang"
+    ],
+    "year": 2022,
+    "abstract": "The analysis of pharmaceutical active ingredients plays an important role in quality control and clinical trials because they have a significant physiological effect on the human body even at low concentrations. Herein, a flexible three-electrode system using laser-scribed graphene (LSG) technology, which consists of Nafion/Fe3O4 nanohybrids immobilized on LSG as the working electrode and LSG counter and reference electrodes on a single polyimide film, is presented. A Nafion/Fe3O4/LSG electrode is constructed by drop coating a solution of Nafion/Fe3O4, which is electrostatically self-assembled between positively charged Fe3O4 and negatively charged Nafion on the LSG electrode and is used for the first time to determine a neurotoxicity drug (clioquinol; CQL) in biological samples. Owing to ",
+    "doi": "10.1021/acsomega.2c01069",
+    "pdf_url": "https://doi.org/10.1021/acsomega.2c01069",
+    "journal": "ACS Omega",
+    "url": "https://www.semanticscholar.org/paper/f641f7d53de89520f611db6479dea6c9b66ef07b",
+    "fetched_at": "2026-04-26T06:31:50.388427+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_2248712a3af8a1c3",
+    "source": "semantic_scholar",
+    "title": "Disposable and portable gold nanoparticles modified - laser-scribed graphene sensing strips for electrochemical, non-enzymatic detection of glucose",
+    "authors": [
+      "Bicheng Zhu",
+      "Luo Yu",
+      "Sara Beikzadeh",
+      "Shuyuan Zhang",
+      "Peikai Zhang",
+      "Li Wang"
+    ],
+    "year": 2021,
+    "abstract": "Abstract Glucose is one of the most important metabolites and a primary nutrient in human body metabolism. Abnormal levels of glucose can cause diabetes mellitus and related complications. Here, we developed a disposable and portable non-enzymatic glucose sensor strip based on gold-nanoparticles (AuNPs)-modified laser-scribed graphene electrode (LSGE). Disposable LSGEs, with a highly porous structure, were fabricated by laser scribing on a commercially available polyimide plastic sheets, followed by electrodepositing of AuNPs, that are electrocatalytic for glucose oxidation. The laser scribing process was optimised in term of laser power, laser speed and pulse per inch (PPI). The effect of number of the electrochemical deposition cycles of AuNPs on LSGE was also investigated and optimised.",
+    "doi": "10.1016/J.ELECTACTA.2021.138132",
+    "pdf_url": "",
+    "journal": "Electrochimica Acta",
+    "url": "https://www.semanticscholar.org/paper/2248712a3af8a1c3155c7f7c4c67b70e32817cc3",
+    "fetched_at": "2026-04-26T06:31:50.388433+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_888859c5b9d48e0d",
+    "source": "semantic_scholar",
+    "title": "Binary transition metal oxide modified laser-scribed graphene electrochemical aptasensor for the accurate and sensitive screening of acute myocardial infarction",
+    "authors": [
+      "S. Rauf",
+      "Veerappan Mani",
+      "A. A. Lahcen",
+      "Saravanan Yuvaraja",
+      "Tutku Beduk",
+      "K. Salama"
+    ],
+    "year": 2021,
+    "abstract": "Abstract Laser-scribed graphene (LSG) electrodes have gained significant interest due to the ease in fabrication, surface modification, and potential to develop various types of electrochemical sensors and biosensors. In these studies, a new type of zinc ferrite nanoparticles (ZnFe2O4 NPs) modified LSG electrochemical sensing system comprising LSG-ZnFe2O4 working electrode, LSG reference, and LSG counter electrode on a single polyimide substrate is presented. LSG-ZnFe2O4 electrodes are fabricated by drop-casting a solution of ZnFe2O4 NPs onto the LSG electrode, which gave a 31% enhancement of sensitivity and electrocatalytic activity compared to the bare LSG electrode. LSG-ZnFe2O4 electrochemical aptasensor for acute myocardial infarction (AMI) screening is developed by detecting the cardi",
+    "doi": "10.1016/J.ELECTACTA.2021.138489",
+    "pdf_url": "",
+    "journal": "Electrochimica Acta",
+    "url": "https://www.semanticscholar.org/paper/888859c5b9d48e0d34d807b97fc9358f18af3d86",
+    "fetched_at": "2026-04-26T06:31:50.388437+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_14be6de707afe3a4",
+    "source": "semantic_scholar",
+    "title": "A novel electrochemical insulin aptasensor: From glassy carbon electrodes to disposable, single-use laser-scribed graphene electrodes.",
+    "authors": [
+      "Jinjin Liu",
+      "Bicheng Zhu",
+      "Hui Dong",
+      "Yintang Zhang",
+      "Maotian Xu",
+      "J. Travas-sejdic"
+    ],
+    "year": 2021,
+    "abstract": "Insulin, a peptide hormone secreted by pancreatic β cells, affects the development of diabetes and associated complications. Herein, we propose an electrochemical aptasensor for sensitive and selective detection of insulin using laser-scribed graphene electrodes (LSGEs). Before using disposable LSGEs, the development and proof-of-concept sensing experiments were firstly carried out on research-grade glassy carbon electrode (GCE). The aptasensor is based on using Exonuclease I (Exo I) that catalyses the hydrolysis of single-stranded aptamers attached to the electrode surface; however, the hydrolysis does not occur if the insulin is bound to the aptamer. Therefore, the unbound aptamers are cleaved by Exo I while insulin-bound aptamers remain on the electrode surface. In the next step, the go",
+    "doi": "10.1016/j.bioelechem.2021.107995",
+    "pdf_url": "",
+    "journal": "Bioelectrochemistry",
+    "url": "https://www.semanticscholar.org/paper/14be6de707afe3a4e0f9a5012638f5dac247f407",
+    "fetched_at": "2026-04-26T06:31:50.388442+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_f8331551c3f5e3e2",
+    "source": "semantic_scholar",
+    "title": "Electrochemical aptasensor for 17β-estradiol using disposable laser scribed graphene electrodes.",
+    "authors": [
+      "Zhu Chang",
+      "Bicheng Zhu",
+      "Jinjin Liu",
+      "Xu Zhu",
+      "Maotian Xu",
+      "J. Travas-sejdic"
+    ],
+    "year": 2021,
+    "abstract": "17β-Estradiol (E2), the strongest of the three major physiological estrogens in females, is an important factor in the female reproductive system. The abnormal level of E2 causes health issues, such as weak bones, urinary tract infections and even depression. Here, we present a novel, sensitive and selective, electrochemical aptasensor for detection of 17β-estradiol (E2). The E2 recognition aptamer was split into two fragments: the first fragment, functionalised with adamantane, is attached to poly(β-cyclodextrin) (poly(β-CD))-modified electrode surface through host-guest interactions between the adamantane and poly(β-CD). The second fragment, labelled with gold nanoparticles, forms the stem-loop structure with the first fragment only in the presence of E2. That specific recognition proces",
+    "doi": "10.1016/j.bios.2021.113247",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/f8331551c3f5e3e21d45c7ef37cc43995dfee348",
+    "fetched_at": "2026-04-26T06:31:50.388447+00:00",
+    "material": "other"
   }
 ]
