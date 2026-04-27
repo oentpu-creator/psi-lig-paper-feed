@@ -2357,5 +2357,189 @@
     "url": "https://www.semanticscholar.org/paper/f8331551c3f5e3e21d45c7ef37cc43995dfee348",
     "fetched_at": "2026-04-26T06:31:50.388447+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22148v1",
+    "source": "arxiv",
+    "title": "Harnessing Plasmonic Heating For Switching In Antiferromagnets",
+    "authors": [
+      "H. Y. Yuan",
+      "Yizheng Wu",
+      "Olena Gomonay"
+    ],
+    "year": 2026,
+    "abstract": "Heat waste is a bottleneck in the development of green information technologies and much effort has been devoted to suppress the heating effect in both electronic and spintronic devices. Here we take an alternative approach and show that controllable heating at the nanoscale can actually benefit information processing. In particular, we study a hybrid nanostructure consisting of a metallic square frame and an antiferromagnetic (AFM) thin film and show that the plasmonic heating can reversibly switch two perpendicularly-oriented AFM domains without the assistance of magnetic fields and electric currents. The required switching energy is at the order 1 nJ, three to six orders of magnitude lower than the current-driven AFM switching. The physical mechanism arises from the thermal-induced stra",
+    "doi": "10.1103/cx1z-rt2d",
+    "pdf_url": "https://arxiv.org/pdf/2604.22148v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.22148v1",
+    "fetched_at": "2026-04-27T07:58:16.764880+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22554v1",
+    "source": "arxiv",
+    "title": "Video Analysis and Generation via a Semantic Progress Function",
+    "authors": [
+      "Gal Metzer",
+      "Sagi Polaczek",
+      "Ali Mahdavi-Amiri",
+      "Raja Giryes",
+      "Daniel Cohen-Or"
+    ],
+    "year": 2026,
+    "abstract": "Transformations produced by image and video generation models often evolve in a highly non-linear manner: long stretches where the content barely changes are followed by sudden, abrupt semantic jumps. To analyze and correct this behavior, we introduce a Semantic Progress Function, a one-dimensional representation that captures how the meaning of a given sequence evolves over time. For each frame, we compute distances between semantic embeddings and fit a smooth curve that reflects the cumulative semantic shift across the sequence. Departures of this curve from a straight line reveal uneven semantic pacing. Building on this insight, we propose a semantic linearization procedure that reparameterizes (or retimes) the sequence so that semantic change unfolds at a constant rate, yielding smooth",
+    "doi": "10.1145/3799902.3811049",
+    "pdf_url": "https://arxiv.org/pdf/2604.22554v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.22554v1",
+    "fetched_at": "2026-04-27T07:58:22.229091+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22417v1",
+    "source": "arxiv",
+    "title": "Trust as a Situated User State in Social LLM-Based Chatbots: A Longitudinal Study of Snapchat's My AI",
+    "authors": [
+      "Annie Landerberg",
+      "Kari Flatmo",
+      "Alan Said"
+    ],
+    "year": 2026,
+    "abstract": "Social chatbots based on large language models are increasingly embedded in everyday platforms, yet how users develop trust in these systems over time remains unclear. We present a four-week longitudinal qualitative survey study (N = 27) of trust formation in Snapchat's My AI, a socially embedded conversational agent. Our findings show that trust is shaped by perceived ability, conversational behavior, human-likeness, transparency, privacy concerns, and trust in the host platform. Trust does not remain stable, but evolves through interaction as users adapt their expectations, refine their prompting strategies, and actively regulate how and when they rely on the system. These processes reflect a continuous negotiation of trust, not a one-time evaluation. While conversational fluency support",
+    "doi": "10.1145/3774935.3806149",
+    "pdf_url": "https://arxiv.org/pdf/2604.22417v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.22417v1",
+    "fetched_at": "2026-04-27T07:58:22.229507+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22182v1",
+    "source": "arxiv",
+    "title": "The science from asteroid sample return missions",
+    "authors": [
+      "Elizabeth J. Tasker",
+      "Harold C. Connolly",
+      "Shogo Tachibana"
+    ],
+    "year": 2026,
+    "abstract": "To date, three samples from near-Earth asteroids have been delivered to Earth by Japan's Hayabusa (2010) and Hayabusa2 (2020) missions, and the United States OSIRIS-REx mission (2023). Free from terrestrial contamination, these pristine materials provide new opportunities to investigate planetary formation processes, the delivery of organics and water to the early Earth, and the nature of potentially hazardous asteroids. As analysis of the asteroid samples proceeds in laboratories around the world, we visit each of the missions, review the initial scientific findings, and explore the value of sample return in understanding our origins and protecting our future.",
+    "doi": "10.1080/00107514.2026.2646056",
+    "pdf_url": "https://arxiv.org/pdf/2604.22182v1",
+    "journal": "Contemporary Physics, 1-34 (2026)",
+    "url": "http://arxiv.org/abs/2604.22182v1",
+    "fetched_at": "2026-04-27T07:58:28.082236+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22592v1",
+    "source": "arxiv",
+    "title": "Scaling laws of multi-shock implosions toward the quasi-isentropic limit",
+    "authors": [
+      "M. Murakami"
+    ],
+    "year": 2026,
+    "abstract": "We present a unified theoretical and numerical framework for self-similar multi-shock implosions achieving ultrahigh compression in a uniform solid spherical target. Extending the classical Guderley model to N stacked, spherically converging shocks, we derive selfsimilar solutions and the scaling law for the final density. One dimensional Lagrangian hydrodynamic simulations confirm this relation over a broad range of parameters, from the weakly to the strongly nonlinear regime. The results show that cumulative compression increases systematically with the number of stacked shocks while entropy generation is strongly suppressed, asymptotically approaching a quasi isentropic limit as N increases infinity. This volumetric scheme strongly suppresses the Rayleigh Taylor instability that plagues",
+    "doi": "10.1063/5.0311745",
+    "pdf_url": "https://arxiv.org/pdf/2604.22592v1",
+    "journal": "Phys. Plasmas 33, 042703 (2026)",
+    "url": "http://arxiv.org/abs/2604.22592v1",
+    "fetched_at": "2026-04-27T07:58:33.813786+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22574v1",
+    "source": "arxiv",
+    "title": "Pulse Shaping to Mitigate the Impact of Device Imperfections in Field-Free Switching Using Combined Spin-Orbit and Spin-Transfer Torques",
+    "authors": [
+      "Kuldeep Ray",
+      "Jérémie Vigier",
+      "Sylvain Martin",
+      "Chloé Bouard",
+      "Nicolas Lefoulon",
+      "Marc Drouard"
+    ],
+    "year": 2026,
+    "abstract": "Combining spin-orbit (SOT) and spin-transfer torques (STT) provides a practical approach for field-free switching in spin-orbit torque magnetic random-access memory (SOT-MRAM), a prerequisite for industrial deployment, but can compromise reliability through phenomena such as backhopping, especially in top-pinned stacks commonly used for SOT-MRAM. We investigate the write error rate (WER) of combined SOT + STT switching in top-pinned devices that are not optimized for STT switching. Experiments reveal clear indications of STT-induced backhopping and a pronounced field-free SOT switching asymmetry between AP-to-P and P-to-AP transitions. Our macrospin model, using two coupled Landau Lifshitz Gilbert equations for the free and the reference layers, qualitatively reproduces this asymmetry and ",
+    "doi": "10.1109/LMAG.2026.3685166",
+    "pdf_url": "https://arxiv.org/pdf/2604.22574v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.22574v1",
+    "fetched_at": "2026-04-27T07:58:33.813881+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22491v1",
+    "source": "arxiv",
+    "title": "Point & Grasp: Flexible Selection of Out-of-Reach Objects Through Probabilistic Cue Integration",
+    "authors": [
+      "Xuejing Luo",
+      "Hee-Seung Moon",
+      "Christian Holz",
+      "Antti Oulasvirta"
+    ],
+    "year": 2026,
+    "abstract": "Selecting out-of-reach objects is a fundamental task in mixed reality (MR). Existing methods rely on a single cue or deterministically fuse multiple cues, leading to performance degradation when the dominant cue becomes unreliable. In this work, we introduce a probabilistic cue integration framework that enables flexible combination of multiple user-generated cues for intent inference. Inspired by natural grasping behavior, we instantiate the framework with pointing direction and grasp gestures as a new interaction technique, Point&Grasp. To this end, we collect the Out-of-Reach Grasping (ORG) dataset to train a robust likelihood model of the gestural cue, which captures grasping patterns not present in existing in-reach datasets. User studies demonstrate that our selection method with cue",
+    "doi": "10.1145/3772318.3790836",
+    "pdf_url": "https://arxiv.org/pdf/2604.22491v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.22491v1",
+    "fetched_at": "2026-04-27T07:58:39.465916+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22430v1",
+    "source": "arxiv",
+    "title": "A comprehensive evaluation of spatial co-execution on GPUs using MPS and MIG technologies",
+    "authors": [
+      "Jorge Villarrubia",
+      "Luis Costero",
+      "Francisco D. Igual",
+      "Katzalin Olcoz"
+    ],
+    "year": 2026,
+    "abstract": "To mitigate the increasingly common underutilization of computational resources in modern GPUs, spatial sharing methods enable multiple applications to use them simultaneously. This work presents a comprehensive evaluation of NVIDIA's primary technologies to achieve that goal: Multi-Process Service (MPS) and Multi-Instance GPU (MIG). Our findings reveal a crucial trade-off between MPS's flexibility and MIG's isolation, and provide many key insights for improving the co-execution strategy according to job profiles. In the most favorable scenarios, MPS improves performance by up to 30% and reduces energy by about 20%, using its provisioning option to avoid resource monopolization. However, under memory contention, it suffers severe degradation, worsening performance by around 30%. Conversely",
+    "doi": "10.1007/s11227-026-08312-z",
+    "pdf_url": "https://arxiv.org/pdf/2604.22430v1",
+    "journal": "The Journal of Supercomputing, 82(4), 175 (2026)",
+    "url": "http://arxiv.org/abs/2604.22430v1",
+    "fetched_at": "2026-04-27T07:58:39.466000+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22405v1",
+    "source": "arxiv",
+    "title": "Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm",
+    "authors": [
+      "Junjun Huang",
+      "Xiliang Lu",
+      "Xuelin Xie",
+      "Jerry Zhijian Yang"
+    ],
+    "year": 2026,
+    "abstract": "K-plane clustering (KPC), hyperplane clustering, and mixture regression all essentially fall within the same class of problems. This problem can be conceptualized as clustering in relatively high-dimensional K subspaces or K linear manifolds. Traditional KPC or fuzzy KPC models demonstrate a pronounced susceptibility to outliers, as they presuppose that the projection distance between data points and the plane normal vector adheres to the L2 distance. Meanwhile, the assumption of infinitely extending clusters adversely affects clustering performance. To solve these problems, this paper proposed a new robust fuzzy local k-plane clustering (RFLkPC) method that combines the mixture distance of hinge loss and L1 norm. The RFLkPC model assumes that each plane cluster is bounded to a finite area",
+    "doi": "10.1109/TKDE.2025.3582849",
+    "pdf_url": "https://arxiv.org/pdf/2604.22405v1",
+    "journal": "IEEE Transactions on Knowledge and Data Engineering, vol. 37, no. 9, pp. 5584-5597, 2025",
+    "url": "http://arxiv.org/abs/2604.22405v1",
+    "fetched_at": "2026-04-27T07:58:39.466065+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.22287v1",
+    "source": "arxiv",
+    "title": "Closed Form Relations and Higher-Order Approximations of First and Second Derivatives of the Tangent Operator on SE(3)",
+    "authors": [
+      "Andreas Mueller"
+    ],
+    "year": 2026,
+    "abstract": "The Lie group SE(3) of isometric orientation preserving transformation is used for modeling multibody systems, robots, and Cosserat continua. The use of these models in numerical simulation and optimization schemes necessitates the exponential map, its right-trivialized differential (often referred to as tangent operator), as well as higher derivatives in closed form. The $6\\times 6$ matrix representation of the differential, $\\mathbf{dexp}_{\\mathbf{X}}:se\\left( 3\\right) \\rightarrow se\\left( 3\\right) $ , and its first derivative were reported using a $3\\times 3$ block partitioning. In this paper, the differential, its first and second derivative, as well as the Jacobian and Hessian of the evaluation maps, $\\mathbf{dexp}_{\\mathbf{X}}\\mathbf{Z}$ and $\\mathbf{dexp}_{\\mathbf{X}}^{T}% \\mathbf{Z",
+    "doi": "10.1002/zamm.70432",
+    "pdf_url": "https://arxiv.org/pdf/2604.22287v1",
+    "journal": "Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik (ZAMM), 2026",
+    "url": "http://arxiv.org/abs/2604.22287v1",
+    "fetched_at": "2026-04-27T07:58:56.801691+00:00",
+    "material": "other"
   }
 ]
