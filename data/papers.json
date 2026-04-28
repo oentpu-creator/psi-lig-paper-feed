@@ -2541,5 +2541,124 @@
     "url": "http://arxiv.org/abs/2604.22287v1",
     "fetched_at": "2026-04-27T07:58:56.801691+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.24651v1",
+    "source": "arxiv",
+    "title": "Electrical tunability of terahertz nonlinearity in graphene",
+    "authors": [
+      "Sergey Kovalev",
+      "Hassan A. Hafez",
+      "Klaas-Jan Tielrooij",
+      "Jan-Christoph Deinert",
+      "Igor Ilyakov",
+      "Nilesh Awari"
+    ],
+    "year": 2026,
+    "abstract": "Graphene is conceivably the most nonlinear optoelectronic material. Its nonlinear optical coefficients in the terahertz (THz) frequency range surpass those of other materials by many orders of magnitude. This, in particular, allows one to use graphene for extremely efficient up-conversion of sub-THz electronic input signals into the THz frequency range at room temperature and under ambient conditions, thus paving the way for practical graphene-based ultrahigh-frequency electronic technology. Here, we show that the THz nonlinearity of graphene can be efficiently controlled using electrical gating, with gating voltages as low as a few volts. For example, optimal electrical gating enhances the power conversion efficiency in THz third-harmonic generation in graphene by about two orders of magn",
+    "doi": "10.1126/sciadv.abf9809",
+    "pdf_url": "https://arxiv.org/pdf/2604.24651v1",
+    "journal": "Science Advances 7, eabf9809 (2021)",
+    "url": "http://arxiv.org/abs/2604.24651v1",
+    "fetched_at": "2026-04-28T07:57:23.791965+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.24628v1",
+    "source": "arxiv",
+    "title": "Real-time windrow detection from onboard tractor sensors for automated following",
+    "authors": [
+      "Lorenz Gunreben",
+      "Nico Heider",
+      "Sebastian Zürner",
+      "Martin Schieck",
+      "Bogdan Franczyk"
+    ],
+    "year": 2026,
+    "abstract": "Proprietary design in commercial windrow-detection systems restricts transparency and limits progress in open autonomous forage-harvesting research. We present a multi-modal dataset combining stereo vision and LiDAR from tractor-mounted sensors during real baling operations. The dataset includes synchronized sensor data with GNSS trajectories, partly released as ROS2 Humble bags on Zenodo, with additional data available on request. Using this dataset, we implement a real-time (>20 Hz) centroid-based windrow-following method on an NVIDIA Jetson AGX Orin. Across the critical 4-10 m guidance range, stereo and LiDAR depth measurements show strong agreement (0.965 +/- 0.021), indicating that low-cost stereo sensors can approach LiDAR performance. Our open-source ROS 2 pipeline provides a reprod",
+    "doi": "10.18420/giljt2026_32",
+    "pdf_url": "https://arxiv.org/pdf/2604.24628v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.24628v1",
+    "fetched_at": "2026-04-28T07:57:23.792051+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.24581v1",
+    "source": "arxiv",
+    "title": "Efficient terahertz optical filtering with large-area all-metal and polymer-metal woven wire meshes",
+    "authors": [
+      "Simon Rossel",
+      "Wentao Zhang",
+      "Hassan A. Hafez",
+      "Savio Fabretti",
+      "Dmitry Turchinovich"
+    ],
+    "year": 2026,
+    "abstract": "Many components for terahertz (THz) optical filtering are mechanically fragile and are hard to produce with large aperture, making them unsuitable for applications where larger THz beam diameter is required. In this work, the THz optical properties of industrial-grade, readily available and inexpensive woven wire meshes are studied using THz time-domain spectroscopy and numerical simulations. These meshes are meter-sized, free-standing sheet materials that are principally attractive for the use as robust, large-area THz components. Our results show that such meshes can act as efficient, tunable THz bandpass filters due to sharp plasmonic resonance supported by the interwoven metallic wires. Further, the meshes that combine metallic and polymer wires act as efficient THz linear polarizers w",
+    "doi": "10.1364/OE.490078",
+    "pdf_url": "https://arxiv.org/pdf/2604.24581v1",
+    "journal": "Opt. Express 31, 19076-19088 (2023)",
+    "url": "http://arxiv.org/abs/2604.24581v1",
+    "fetched_at": "2026-04-28T07:57:23.792165+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.23715v1",
+    "source": "arxiv",
+    "title": "Modeling the Zero-Phonon Line of Strained SnV Centers in Diamond; Including Reflections on Computational Cost and Accuracy",
+    "authors": [
+      "Danny E. P. Vanpoucke"
+    ],
+    "year": 2026,
+    "abstract": "Among the group-IV vacancy color centers in diamond, the SnV holds promise for photonics based quantum applications. In this work, the Tin-Vacancy (SnV) zero-phonon line (ZPL) and its pressure coefficient are calculated using first principles approaches. The predicted absolute ZPL position is shown to be strongly influenced by the method and supercell size used. The results are therefore extrapolated to the dilute limit allowing for direct comparison with experiments. The importance of identifying the color-center related Kohn--Sham states is highlighted, as well as the shifting of these states due to electron excitations as well as supercell size and k-point position. In contrast to the absolute ZPL positions, the relative position of the SnV$^0$ ZPL is consistently redshifted about $43$ ",
+    "doi": "10.1016/j.diamond.2026.113669",
+    "pdf_url": "https://arxiv.org/pdf/2604.23715v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.23715v1",
+    "fetched_at": "2026-04-28T07:58:20.665602+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.24220v1",
+    "source": "arxiv",
+    "title": "Precision extraction of the deuteron electric polarizability via the Baldin sum rule with full low-energy coverage",
+    "authors": [
+      "Zi-Rui Hao",
+      "Gong-Tao Fan",
+      "Qian-Kun Sun",
+      "Hong-Wei Wang",
+      "Hang-Hua Xu",
+      "Long-Xiang Liu"
+    ],
+    "year": 2026,
+    "abstract": "The photodisintegration cross sections of the deuteron have been systematically measured over the photon energy range of 2.33-19.65 MeV at the Shanghai Laser Electron Gamma Source (SLEGS). By applying the well-established Baldin sum rule to the newly obtained data, the sum of the electric and magnetic dipole polarizabilities of the deuteron is extracted for the first time based solely on a dense and continuous experimental dataset, yielding αE +\\{beta}M = 0.719\\pm0.009stat\\pm0.014algo\\pm0.023syst fm3 . With theoretical values of the magnetic polarizability \\{beta}M calculated from the pionless effective field theory, a new value of the electric polarizability is obtained as αE = 0.637 \\pm 0.009stat \\pm 0.014algo \\pm 0.023syst \\pm 0.004theo fm3 , which is in excellent agreement with current",
+    "doi": "10.1103/xmmq-gnvq",
+    "pdf_url": "https://arxiv.org/pdf/2604.24220v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.24220v1",
+    "fetched_at": "2026-04-28T07:58:26.443723+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.23998v1",
+    "source": "arxiv",
+    "title": "Molecular-optomechanical phonon laser",
+    "authors": [
+      "Bin Yin",
+      "Jie Wang",
+      "Qian Zhang",
+      "Deng Wang",
+      "Tian-Xiang Lu",
+      "Hui Jing"
+    ],
+    "year": 2026,
+    "abstract": "Molecular cavity optomechanics (COM) leverages ultrastrong interactions between confined optical fields and high-frequency molecular vibration, providing a unique platform for exploring high-frequency phonon dynamics. In this work, we theoretically propose the use of a hybrid molecular COM system for realizing an ultra-low-threshold mid-infrared (MIR) phonon laser. Despite an optical quality factor of only $Q_a=100$, an ultra-low threshold power of $\\mathrm{P}_{\\mathrm{th}} = 17.5~\\mathrm{nW}$ is achieved, enabled by giant single-photon optomechanical coupling and molecular collective effect. Moreover, the mechanical gain and threshold power can be further tuned by adjusting the distance between mirrors of the Fabry-Pérot cavity. Our findings establish the first direct connection between m",
+    "doi": "10.1002/lpor.71191",
+    "pdf_url": "https://arxiv.org/pdf/2604.23998v1",
+    "journal": "Laser & Photonics Reviews, 2026; 0:e71191",
+    "url": "http://arxiv.org/abs/2604.23998v1",
+    "fetched_at": "2026-04-28T07:58:26.443829+00:00",
+    "material": "other"
   }
 ]
