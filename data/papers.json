@@ -2660,5 +2660,117 @@
     "url": "http://arxiv.org/abs/2604.23998v1",
     "fetched_at": "2026-04-28T07:58:26.443829+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25770v1",
+    "source": "arxiv",
+    "title": "Substructure in redMaPPer clusters and its impact on X-ray morphology and scaling relations",
+    "authors": [
+      "R. Tuomainen",
+      "A. Finoguenov",
+      "J. Comparat",
+      "L. Doubrawa"
+    ],
+    "year": 2026,
+    "abstract": "We statistically quantified the prevalence and properties of substructure in optical galaxy clusters and directly investigated its impact on X-ray morphology and scaling relations, leveraging new data from the DECaLS Legacy Survey and the SRG/eROSITA all-sky survey. We applied the hierarchical density-based clustering algorithm HDBSCAN to the redMaPPer galaxy cluster catalog to identify and characterize substructure from the probabilistic membership assignments. We then cross-matched this sample with the eROSITA X-ray morphology catalog to correlate optical substructure with a comprehensive set of X-ray morphological parameters. Finally, we analyzed the scaling relation between X-ray luminosity and optical richness for clusters with and without substructure. Substructure is a common featur",
+    "doi": "10.1051/0004-6361/202557729",
+    "pdf_url": "https://arxiv.org/pdf/2604.25770v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.25770v1",
+    "fetched_at": "2026-04-29T07:51:37.601477+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25437v1",
+    "source": "arxiv",
+    "title": "Energy-differential measurement of the $^{\\mathrm{nat}}$C(n,p) and $^{\\mathrm{nat}}$C(n,d) reactions at the n_TOF facility at CERN",
+    "authors": [
+      "P. Žugec",
+      "N. Colonna",
+      "D. Rochman",
+      "M. Barbagallo",
+      "J. Andrzejewski",
+      "J. Perkowski"
+    ],
+    "year": 2026,
+    "abstract": "Energy-differential cross section of the $^{\\mathrm{nat}}$C(n,p) and $^{\\mathrm{nat}}$C(n,d) reactions was measured at the neutron time of flight facility n_TOF at CERN. The measurement was performed in the first experimental area (EAR1; flight path of 182.5 m). Two position-sensitive $ΔE$-$E$ silicon telescopes were used. Two naturally occurring carbon isotopes, $^{12}$C and $^{13}$C, contribute to the reactions on natural carbon, with the (n,p) reaction threshold at 13.7 MeV and the (n,d) threshold at 14.9 MeV (determined by the $^{12}$C isotope for both reactions). This paper provides the details of the analysis leading to the final results published previously as a Letter. The cross section results are reported up to 25 MeV. During the data analysis the population of the excited states",
+    "doi": "10.1103/fkfd-ctqq",
+    "pdf_url": "https://arxiv.org/pdf/2604.25437v1",
+    "journal": "Physical Review C 113 (2026) 044621",
+    "url": "http://arxiv.org/abs/2604.25437v1",
+    "fetched_at": "2026-04-29T07:51:43.167186+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25389v1",
+    "source": "arxiv",
+    "title": "Co-Writing with AI: An Empirical Study of Diverse Academic Writing Workflows",
+    "authors": [
+      "Silvia Bodei",
+      "Duncan P. Brumby",
+      "Katie Fisher",
+      "Jon Mella"
+    ],
+    "year": 2026,
+    "abstract": "Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes. We examine how students engage with AI across different writing tasks, and how this engagement is shaped by individual factors including AI literacy, writing confidence, trust, authorship concerns, and motivation. Study~1 surveys 107 UK university students to map task-specific and co-occurring patterns of AI use across five writing stages (ideation, sourcing, planning, drafting, and reviewing) and their associations with individual factors. Study~2 complements this by exploring how these patterns can be assembled in practice, through interviews with 12 postgraduates reflecting on their established use of AI in assessed writing. Tog",
+    "doi": "10.1145/3808045.3808072",
+    "pdf_url": "https://arxiv.org/pdf/2604.25389v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.25389v1",
+    "fetched_at": "2026-04-29T07:51:59.864027+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25438v1",
+    "source": "arxiv",
+    "title": "Analysis of DNA thermal stability across a broad range of thionine concentrations",
+    "authors": [
+      "Evgeniya Usenko",
+      "Alexander Glamazda",
+      "Vladimir Valeev",
+      "Victor Karachevtsev"
+    ],
+    "year": 2026,
+    "abstract": "Interest in studying the interaction of small molecules with DNA is caused by the need to develop new, highly effective, and low-toxic drugs for cancer treatment. The strong and highly specific binding of thionine with DNA makes it a promising candidate for use in medicine and pharmacology. In this study, DNA-thionine complexes in aqueous solutions were investigated using UV-Vis absorption spectroscopy. The thermal stability of native DNA was studied in a broad range of thionine concentrations. The mechanisms of thionine binding to DNA, depending on the concentration of thionine, have been established. At low thionine concentrations $([c_{th}] \\le 1.5 \\text{ mg/L})$, thionine molecules intercalate between the base pairs of the DNA double helix. At a thionine concentration of 1.5-10 mg/L, t",
+    "doi": "10.1007/s10867-026-09702-3",
+    "pdf_url": "https://arxiv.org/pdf/2604.25438v1",
+    "journal": "J. Biol. Phys. 52, 8 (2026)",
+    "url": "http://arxiv.org/abs/2604.25438v1",
+    "fetched_at": "2026-04-29T07:52:05.392761+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25085v1",
+    "source": "arxiv",
+    "title": "Optimally Auditing Adversarial Agents",
+    "authors": [
+      "Sanmay Das",
+      "Fang-Yi Yu",
+      "Yuang Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Fraud can pose a challenge in many resource allocation domains, including social service delivery and credit provision. For example, agents may misreport private information in order to gain benefits or access to credit. To mitigate this, a principal can design strategic audits to verify claims and penalize misreporting. In this paper, we introduce a general model of audit policy design as a principal-agent game with multiple agents, where the principal commits to an audit policy, and agents collectively choose an equilibrium that minimizes the principal's utility. We examine both adaptive and non-adaptive settings, depending on whether the principal's policy can be responsive to the distribution of agent reports. Our work provides efficient algorithms for computing optimal audit policies ",
+    "doi": "10.1609/aaai.v40i20.38722",
+    "pdf_url": "https://arxiv.org/pdf/2604.25085v1",
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence, 2026, pages 16787-16794",
+    "url": "http://arxiv.org/abs/2604.25085v1",
+    "fetched_at": "2026-04-29T07:52:05.393232+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.25712v1",
+    "source": "arxiv",
+    "title": "Exact results for the Hubbard model on bipartite lattices in spatial dimensions $d>1$: Seven theorems from the full [SU(2)$\\times$SU(2)$\\times$U(1)]/$\\mathbb{Z}_2^2$ symmetry",
+    "authors": [
+      "J. M. P. Carmelo"
+    ],
+    "year": 2026,
+    "abstract": "There are few exact results for the Hubbard model on bipartite lattices of spatial dimension $d>1$. Nevertheless, the Hubbard model with transfer integral $t$ and onsite repulsion $U$ on bipartite lattices with $N_a$ sites, such as the square, honeycomb, cubic, body-centered cubic, face-centered cubic, and diamond lattices, provides the simplest toy model for describing electronic correlations in many condensed-matter systems and is therefore a quantum problem of considerable physical interest. Seven exact theorems that provide new physical insight into the model are established. Overall, the exact framework based on physical spins and physical $η$-spins for the Hubbard model on bipartite lattices of spatial dimension $d>1$ introduced in this paper offers a robust foundation for future stu",
+    "doi": "10.1103/p1sc-sx2d",
+    "pdf_url": "https://arxiv.org/pdf/2604.25712v1",
+    "journal": "Physical Review B 113, 155157 (2026)",
+    "url": "http://arxiv.org/abs/2604.25712v1",
+    "fetched_at": "2026-04-29T07:52:10.924903+00:00",
+    "material": "other"
   }
 ]
