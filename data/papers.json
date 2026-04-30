@@ -2772,5 +2772,109 @@
     "url": "http://arxiv.org/abs/2604.25712v1",
     "fetched_at": "2026-04-29T07:52:10.924903+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.26777v1",
+    "source": "arxiv",
+    "title": "IQUEYE at Gemini South: instrument, science commission, and first results",
+    "authors": [
+      "Tomas Cassanelli",
+      "Pascual Marcone-Puga",
+      "Giampiero Naletto",
+      "Luca Zampieri",
+      "Paolo Ochner",
+      "Michele Fiori"
+    ],
+    "year": 2026,
+    "abstract": "The Italian quantum eye (IQUEYE) is a fast photon counter based on the single photon avalanche diode detectors and capable of preserving a ~0.5 ns/h accuracy photon time of arrival. IQUEYE was originally developed for intensity interferometry experiments, but now its scientific scope has been extended towards ultra fast astronomy, including optical pulsars, millisecond pulsars and the enigmatic fast radio bursts. IQUEYE's capabilities are mainly restricted by the number of photons detected, a quantity that scales with the collector size of an optical telescope. Through the visitor instrument program at Gemini South (Cerro Pachón, Chile) we brought IQUEYE to the 8.1-m dish, reaching an order magnitude sensitivity increased from previous operations. At Gemini South we installed IQUEYE to obs",
+    "doi": "10.1117/12.3066537",
+    "pdf_url": "https://arxiv.org/pdf/2604.26777v1",
+    "journal": "Proc. SPIE 13624, Astronomical Optics: Design, Manufacture, and Test of Space and Ground Systems V, 136241R (18 September 2025)",
+    "url": "http://arxiv.org/abs/2604.26777v1",
+    "fetched_at": "2026-04-30T07:54:31.724158+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.26718v1",
+    "source": "arxiv",
+    "title": "Tracking visible pulsed laser annealing of Hf0.5Zr0.5O2 heterostructures with in situ transmission electron microscopy",
+    "authors": [
+      "Aida Amini",
+      "Shruti Verma",
+      "Katharina Kohlmann",
+      "Sebastian Obernberger",
+      "Jean-Christof Lamanque",
+      "Andreas Rüdiger"
+    ],
+    "year": 2026,
+    "abstract": "Laser annealing offers a promising route to back end of the line fabrication of ferroelectric thin film transistors based on hafnium-zirconium oxide (HZO). Due to the wide band gap of this material, previous reports have studied the crystallization of HZO using ultraviolet or infrared light. In contrast, we monitor its crystallization in a Si3N4/TiN/Hf0.5Zr0.5O2 thin film heterostructure upon irradiation with visible nanosecond laser pulses. This geometry mimics the structure of CMOS devices and harnesses the absorption of TiN in the visible regime to generate the heat necessary for the transformation. Through a series of local in situ measurements using a modified transmission electron microscope, we quantify the relationship between the HZO film thickness, critical laser energy density a",
+    "doi": "10.1063/5.0326053",
+    "pdf_url": "https://arxiv.org/pdf/2604.26718v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.26718v1",
+    "fetched_at": "2026-04-30T07:54:31.724268+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.26358v1",
+    "source": "arxiv",
+    "title": "Voltage-Regulated Photoluminescence Modulation in a 0D-2D Mixed Dimensional Heterostructure",
+    "authors": [
+      "S. V. U. Vedhanth",
+      "Amit Bhunia",
+      "Mohit Kumar Singh",
+      "Yuvraj Chaudhry",
+      "Mohamed Henini",
+      "Shouvik Datta"
+    ],
+    "year": 2026,
+    "abstract": "Bias dependent oscillations in excitonic photoluminescence are observed in a mixed dimensional 0D 2D heterostructure. These oscillations arise from modulation by oscillatory DC photocurrent, which exhibits periodic negative differential resistance, indicating recurring charge accumulation within the heterostructure. The persistence of these oscillations across a macroscopic area of diameter around 200 microns suggests the presence of periodically correlated quantum phenomena over large length scales. Furthermore, bias dependent oscillations in the photo capacitance are observed, reflecting a periodic ordering and disordering of excitonic populations. Together, these observations point to a direct competition between coherent and incoherent electron tunnelling processes. The coupled oscilla",
+    "doi": "10.1088/1402-4896/ae65df",
+    "pdf_url": "https://arxiv.org/pdf/2604.26358v1",
+    "journal": "Vedhanth et. al. 2026 Physica Scripta",
+    "url": "http://arxiv.org/abs/2604.26358v1",
+    "fetched_at": "2026-04-30T07:54:37.167681+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.26239v1",
+    "source": "arxiv",
+    "title": "Coexistence of d-Wave Altermagnetism and Topological States in Janus FeSeX (X = S, Te) Monolayers",
+    "authors": [
+      "Alvaro Gonzalez-Garcia",
+      "William Lopez-Perez",
+      "Paola Pacheco",
+      "Luz Ramirez-Montes",
+      "Rafael Gonzalez-Hernandez"
+    ],
+    "year": 2026,
+    "abstract": "The interplay between unconventional magnetism and band topology in two-dimensional materials has emerged as an important theme in condensed matter physics. Here, we present first-principles calculations that reveal the coexistence of d-wave altermagnetism and topological behavior in Janus FeSeX (X = S, Te) monolayers. The chemical asymmetry of the Janus structure breaks both out-of-plane mirror and inversion symmetries, leading to anisotropic exchange interactions and momentum-dependent spin splittings even in the absence of spin-orbit coupling, the defining signature of altermagnetism. Phonon dispersion analyses confirm the dynamical stability of both compounds, while strain-dependent calculations demonstrate that the magnitude of the altermagnetic exchange splitting ($Δ_s$) can be effic",
+    "doi": "10.1103/3kkj-s5jk",
+    "pdf_url": "https://arxiv.org/pdf/2604.26239v1",
+    "journal": "Phys. Rev. Materials 10, 044004 (2026)",
+    "url": "http://arxiv.org/abs/2604.26239v1",
+    "fetched_at": "2026-04-30T07:55:27.569685+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.26377v1",
+    "source": "arxiv",
+    "title": "Accelerating Sparse Linear Solvers with an Optical Laser Processing Unit",
+    "authors": [
+      "Dan Gluck",
+      "Yotam Mimran",
+      "Andrey Karenskih",
+      "Talya Vaknin",
+      "Omri Wolf",
+      "Ruti Ben-Shlomi"
+    ],
+    "year": 2026,
+    "abstract": "Solving large, sparse linear systems is a fundamental workload in scientific computing and engineering simulations, often dominating runtime and energy consumption in high-performance computing (HPC) applications. In this work, we explore an alternative computing paradigm based on analog optical processing, implemented through the Laser Processing Unit (LPU). The LPU encodes linear systems into the dynamics of coupled lasers within an optical cavity, where the steady-state phases of the optical fields correspond to the solution of $Ax=b$. We present a mapping of general linear systems, both dense and sparse, onto the LPU architecture and evaluate its performance using representative matrices from the SuiteSparse collection. Using an LPU emulator, we benchmark convergence behavior and time-",
+    "doi": "10.1145/3801488.3808041",
+    "pdf_url": "https://arxiv.org/pdf/2604.26377v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.26377v1",
+    "fetched_at": "2026-04-30T07:55:33.031543+00:00",
+    "material": "other"
   }
 ]
