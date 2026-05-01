@@ -2876,5 +2876,602 @@
     "url": "http://arxiv.org/abs/2604.26377v1",
     "fetched_at": "2026-04-30T07:55:33.031543+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.28074v1",
+    "source": "arxiv",
+    "title": "The faint voice of a radio-weak BL Lacertae: modeling the broadband emission of WISE~J141046.00+740511.2",
+    "authors": [
+      "A. M. Carulli",
+      "F. L. Vieyro",
+      "M. M. Reynoso",
+      "E. J. Marchesini",
+      "I. Andruchow"
+    ],
+    "year": 2026,
+    "abstract": "The WISE source, J141046.00+740511.2, has been recently observed from radio to $γ$ rays. Although the optical spectrum is consistent with a BL Lacertae (BL Lac) object, the source displays unusually weak radio emission, which challenges standard interpretations. Our aim is to understand the origin of the broadband emission from J141046.00+740511.2, using a leptonic model of an extended jet. To obtain the distribution of electrons along the conical jet, we solved a steady-state convective transport equation. Emissivities were computed along the jet and integrated over the cone volume to obtain the observed flux. Our model successfully reproduces the observed multiwavelength spectral energy distribution from radio to $γ$ rays and naturally accounts for the source's low radio flux without inv",
+    "doi": "10.1051/0004-6361/202659145",
+    "pdf_url": "https://arxiv.org/pdf/2604.28074v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.28074v1",
+    "fetched_at": "2026-05-01T07:53:12.164546+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.27902v1",
+    "source": "arxiv",
+    "title": "The Complex Structure of the Abell 548 - Abell 3367 Region",
+    "authors": [
+      "Mark J. Henriksen",
+      "Layla Ahmed"
+    ],
+    "year": 2026,
+    "abstract": "Archival XMM and ROSAT X-ray data are used to investigate the structure of the Abell 548 - Abell 3367 region. Based on previous optical studies, this is a region likely to be rich in structure though studies are in disagreement regarding the connection between Abell 3367 and Abell 548. We use the available archival X-ray data together with kinematic data of counterpart galaxies to address this question and to determine the structure in this region. The region is particularly rich in X-ray structure elongated along a SW-NE axis consisting of numerous extended X-ray sources. In general, the structure consists of many galaxy groups and clusters which appear segregated in X-ray luminosity with the least luminous $\\sim$ 30% toward the outer region of the clusters, possibly tracing a filament. W",
+    "doi": "10.3390/astronomy3040018",
+    "pdf_url": "https://arxiv.org/pdf/2604.27902v1",
+    "journal": "Astronomy 2024, 3(4), 289 - 303",
+    "url": "http://arxiv.org/abs/2604.27902v1",
+    "fetched_at": "2026-05-01T07:53:12.164884+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.27864v1",
+    "source": "arxiv",
+    "title": "Second harmonic generation and third harmonic generation in topological insulator-based van der Waals metamaterials",
+    "authors": [
+      "Alessandra Di Gaspare",
+      "Sara Ghayeb",
+      "Craig Knox",
+      "Edmund H. Linfield",
+      "Joshua Freeman",
+      "Miriam S. Vitiello"
+    ],
+    "year": 2026,
+    "abstract": "High-order harmonic generation (HHG) in solids - the frequency up-conversion of an optical signal - is governed by symmetries. At terahertz (THz) frequencies, HHG is a key technology to access high frequency spectral windows that are usually difficult to cover using conventional solid state laser technologies. This effect has been recently exploited in graphene where HHG has been demonstrated, albeit only at odd multiples of the driving frequency owing to its inherent centro-symmetry. In topological insulators (TIs), the combination of spin-orbit interaction and time-reversal symmetry create an insulating bulk state with an inverted band order, inseparably connected with conducting surface states. TIs have been predicted to support unconventional high harmonic generation from the bulk and ",
+    "doi": "10.1038/s41377-025-01847-5",
+    "pdf_url": "https://arxiv.org/pdf/2604.27864v1",
+    "journal": "Light Sci Appl 14, 337 (2025)",
+    "url": "http://arxiv.org/abs/2604.27864v1",
+    "fetched_at": "2026-05-01T07:53:12.165000+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_35944f4e76ebf8e4",
+    "source": "semantic_scholar",
+    "title": "High-Resolution Laser-Induced Graphene. Flexible Electronics Beyond the Visible Limit.",
+    "authors": [
+      "M. Stanford",
+      "Cheng Zhang",
+      "J. Fowlkes",
+      "A. Hoffman",
+      "I. Ivanov",
+      "P. Rack"
+    ],
+    "year": 2020,
+    "abstract": "Laser-induced graphene (LIG) is a multifunctional graphene foam that is commonly direct-written with an infrared laser into a carbon-based precursor material. Here, a visible 405 nm laser is used to directly convert polyimide into LIG. This enabled the formation of LIG with a spatial resolution of ~ 12 µm and a thickness of < 5 µm. The spatial resolution enabled by the relatively smaller focused spot size of the 405 nm laser represents a > 60 % reduction in LIG feature sizes reported in prior publications. This process occurs in situ in an SEM chamber, thus allowing direct observation of LIG formation. The reduced size of the LIG features enables the direct-write formation of flexible electronics which are not visible to the unaided eye. A humidity sensor is demonstrated which could detect",
+    "doi": "10.1021/acsami.0c01377",
+    "pdf_url": "https://www.osti.gov/servlets/purl/1619036",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/35944f4e76ebf8e459ef23fb0f9ace7f809921eb",
+    "fetched_at": "2026-05-01T07:53:47.246020+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_c142a3aef8f98dbc",
+    "source": "semantic_scholar",
+    "title": "MXene-Enhanced Laser-Induced Graphene Flexible Sensor with Rapid Response for Monitoring Pilots’ Body Motion",
+    "authors": [
+      "Xia Lei",
+      "Hongyun Fan",
+      "Yilin Zhao",
+      "Mian Zhong",
+      "Zhanghui Wu",
+      "Lin Li"
+    ],
+    "year": 2025,
+    "abstract": "Flexible wearable strain sensors demonstrate promising application prospects in health monitoring, human-machine interaction, motion tracking, and the detection of human physiological signals. Although laser-induced graphene (LIG) materials have been extensively utilized in these scenarios, traditional types of LIG sensors are constrained by intrinsic limitations, including discontinuous conductive networks and electromechanical responsive hysteresis. These limitations hinder their applications in micro-strain detection scenarios. Consequently, enhancing the performance of LIG-based sensors has become a crucial priority. To address this challenge, we developed a novel MXene/LIG composite featuring optimized conductive networks and interfacial coupling effects through the systematic enhance",
+    "doi": "10.3390/mi16050513",
+    "pdf_url": "",
+    "journal": "Micromachines",
+    "url": "https://www.semanticscholar.org/paper/c142a3aef8f98dbc665c88be9ed3c8ad5dc87412",
+    "fetched_at": "2026-05-01T07:53:47.246042+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_58cfcb32adb866f2",
+    "source": "semantic_scholar",
+    "title": "Planar patterning design and energy storage performance comparison of laser-induced graphene flexible supercapacitors.",
+    "authors": [
+      "Qi Xiong",
+      "Jiaheng Xu",
+      "Huiting Li",
+      "Jianghai Li",
+      "Lin Li",
+      "Jinyu Wu"
+    ],
+    "year": 2025,
+    "abstract": "Laser-induced graphene (LIG) has attracted considerable attention for its efficient production, controllable process, versatile precursors, and patterning capabilities. However, LIG supercapacitors (LIG SCs) devices exhibit low operating voltages and varying performance. based on patterning. Moreover, laser power significantly affects device performance. Herein, the energy storage performance of LIG SCs devices in a variety of patterns and at different laser powers is investigated. The LIG SCs device based on the interdigital pattern shows best performance compared with the spiral pattern, mirror circular pattern and concentric circular pattern LIG device. This superior performance can be attributed to the extended ion transport pathways and limited kinetic properties in interdigital patte",
+    "doi": "10.1002/cphc.202500145",
+    "pdf_url": "",
+    "journal": "Chemphyschem : a European journal of chemical physics and physical chemistry",
+    "url": "https://www.semanticscholar.org/paper/58cfcb32adb866f2f87a0bb05e8421c88bd03234",
+    "fetched_at": "2026-05-01T07:53:47.246048+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_55c83a9effb1577d",
+    "source": "semantic_scholar",
+    "title": "Enhancing Gesture Recognition in Low-Light Conditions Using Laser-Induced Graphene Flexible Strain Sensors",
+    "authors": [
+      "Luqi Tao",
+      "Yang Liu",
+      "Simin Zou",
+      "Zhaohui Zhang",
+      "Xiaoyan Zhao"
+    ],
+    "year": 2024,
+    "abstract": "Gesture recognition using machine learning methods is valuable in the development of healthcare and human–computer interaction and typically relies on images or video. To improve recognition accuracy, these visual data can be combined with data from other sensors, but this approach, known as data fusion, is limited by the quality of sensor data and incompatible datasets. Here, we propose a flexible strain sensor based on laser-induced graphene (LIG) technology, which is easy to manufacture and has superior performance. The sensor is attached to the finger and effectively captures finger bending information as an additional gesture information channel, constructing a bimodal gesture interaction interface for strain and vision. In particular, a deep convolutional neural network (CNN) based o",
+    "doi": "10.1109/JSEN.2023.3345344",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/55c83a9effb1577d31e16ded11a69c8f7ad871bd",
+    "fetched_at": "2026-05-01T07:53:47.246212+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e323bfdb977b4c59",
+    "source": "semantic_scholar",
+    "title": "Pattern-Dependent Radio Frequency Heating of Laser-Induced Graphene Flexible Heaters.",
+    "authors": [
+      "Hasib Mahbub",
+      "M. Saed",
+      "Mahdi Malmali"
+    ],
+    "year": 2023,
+    "abstract": "Graphene is an excellent choice for heating applications due to its high thermal conductivity and is considered an interesting candidate for application in flexible heaters. The major challenge, though, is the costly and chemical-intensive pathways to produce graphene on a large scale. Laser ablation of polymeric substrates is a relatively recent technique for a facile, single-step, chemical-free fabrication of graphene, referred to as laser-induced graphene (LIG). This work demonstrates the fabrication of patterned LIG-based flexible heaters and their response to radio frequency (RF) electromagnetic waves. Polymeric substrates were scribed with laser patterns in both raster and vector modes and subjected to RF electromagnetic fields to test their heating response. We confirmed different g",
+    "doi": "10.1021/acsami.3c00569",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/e323bfdb977b4c59668794fa5cf63de75dbc5f5e",
+    "fetched_at": "2026-05-01T07:53:47.246220+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ed8139ee91680c74",
+    "source": "semantic_scholar",
+    "title": "Application of Laser-Induced Graphene Flexible Sensor in Monitoring Large Deformation of Reinforced Concrete Structure",
+    "authors": [
+      "Lina Liu",
+      "Chenning Cai",
+      "Zhenghua Qian",
+      "Peng Li",
+      "F. Zhu"
+    ],
+    "year": 2024,
+    "abstract": "When cracks appear in reinforced concrete (RC) structures, the tensile load will be borne by steel bars with high ductility, resulting in a large deformation. Traditional strain sensors have difficulties in achieving good performance for large deformations in concrete structures. In this paper, based on a laser-induced graphene (LIG) technique, a flexible sensor is proposed for monitoring large deformations of concrete structures. Polyimide film is used as the carbon precursor to prepare LIG through laser scanning and then LIG is transferred onto a polydimethylsiloxane (PDMS) substrate to form the flexible sensor. The calibration and performance verification of the flexible sensor are completed through tensile tests. The applicability of the flexible sensor in monitoring large deformations",
+    "doi": "10.3390/s24237444",
+    "pdf_url": "https://doi.org/10.3390/s24237444",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/ed8139ee91680c74e6fb1704fc1bfbc9abe8bdc1",
+    "fetched_at": "2026-05-01T07:53:47.246224+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_554f3f2e93d81cdc",
+    "source": "semantic_scholar",
+    "title": "MOF-Functionalized 455 nm Laser-Induced Graphene Flexible Electrode for Electrochemical Sensing",
+    "authors": [
+      "S. A. Emam",
+      "S. Maliha",
+      "Mayukh Mallick Mahabub",
+      "Alam Bhuiyan",
+      "Taslim Ur Rashid Saeed",
+      "M. Ullah"
+    ],
+    "year": 2026,
+    "abstract": "Electrochemical biosensors require electrode materials that are scalable, affordable, and effective for detecting target analyte. Laser-induced graphene (LIG) has emerged as a promising electrode material, yet traditional fabrication methods using expensive CO$_{2}$ lasers limit accessibility. In this work, we report a low-cost and scalable fabrication strategy for flexible LIG electrodes using direct laser writing with a 10W, 455 nm diode laser. While bare LIG offers excellent conductivity and porosity, it lacks specific binding sites for target molecules, resulting in limited sensitivity. Surface functionalization with metal–organic frameworks (MOFs) offers a pathway to overcome this limitation; however, most MOF–LIG hybrids have been applied to gas sensing, leaving liquid-phase analyte ",
+    "doi": "10.1109/TNANO.2026.3671713",
+    "pdf_url": "",
+    "journal": "IEEE Transactions on Nanotechnology",
+    "url": "https://www.semanticscholar.org/paper/554f3f2e93d81cdcda29bbaa3919a57c2693f65a",
+    "fetched_at": "2026-05-01T07:53:47.246230+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a2819996c256f10e",
+    "source": "semantic_scholar",
+    "title": "Encapsulated Laser-Induced Graphene Flexible Piezo-resistive Sensors for Speech Recognition",
+    "authors": [
+      "Xue Chen",
+      "Ishant G. Patil",
+      "Ronan Kou",
+      "Kei Kheng Tan",
+      "Junrui Lim",
+      "Ren Yii Hoo"
+    ],
+    "year": 2023,
+    "abstract": "Traditional sound detection systems comprised of capacitive microphones and PZT transducers are costly for impermanent healthcare monitoring. In recent times, an increasing amount of scholarly interest focuses on the utilisation of laser-induced graphene (LIG) materials due to their capacity to freely customise sensor patterns from carbon substrates. In order to reduce the cost of the device and facilitate its integration with wearable electronics, we present a promising LIG sensor design with nontoxic medical-grade adhesive encapsulation for wearable sound recognition. After encapsulation, the LIG sensor achieves a sheet resistance of approximately 300 Ω/sq. The LIG sensor with encapsulation has a fractional change in resistance within 20% after 1000 bending cycles. The LIG-based throat s",
+    "doi": "10.1109/SENNANO57767.2023.10352566",
+    "pdf_url": "",
+    "journal": "2023 IEEE International Conference on Sensors and Nanotechnology (SENNANO)",
+    "url": "https://www.semanticscholar.org/paper/a2819996c256f10e3dd368f09e6963a52aa23eed",
+    "fetched_at": "2026-05-01T07:53:47.246268+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_39c5cb68d82d3563",
+    "source": "semantic_scholar",
+    "title": "Arginine-specific molecularly imprinted polymer-based laser-induced graphene flexible sensor",
+    "authors": [
+      "Ruotong Gao",
+      "Muhammad Khatib",
+      "Kuang-Jung Hsu",
+      "Zhenan Bao"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.26599/nr.2026.94908750",
+    "pdf_url": "",
+    "journal": "Nano Research",
+    "url": "https://www.semanticscholar.org/paper/39c5cb68d82d35631635532c8a42a33067e0f133",
+    "fetched_at": "2026-05-01T07:53:47.246273+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_f24859f27f338bd1",
+    "source": "semantic_scholar",
+    "title": "Mediate neurite outgrowth of PC-12 cells using polypyrrole-assisted laser-induced graphene flexible composite electrodes combined with electrical stimulation",
+    "authors": [
+      "Rongtao Liu",
+      "Zebiao Xu",
+      "Chen Zhao",
+      "Shiyang Zhang",
+      "Hongyu Zhou",
+      "Li Zhou"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1016/j.eurpolymj.2022.111634",
+    "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S0014305722006383",
+    "journal": "European Polymer Journal",
+    "url": "https://www.semanticscholar.org/paper/f24859f27f338bd17804a260e0bc2d6f0898c905",
+    "fetched_at": "2026-05-01T07:53:47.246278+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_3abba19c6dd27007",
+    "source": "semantic_scholar",
+    "title": "Preparation of Platinum Decorated Laser-Induced Graphene Flexible Electrode and Its Application for Clenbuterol Detection",
+    "authors": [
+      "Hongwei Tang"
+    ],
+    "year": 2022,
+    "abstract": "1 College of Computer and Information Engineering, Jiangxi Agricultural University, Nanchang 330045, China 2 College of Chemistry and Materials, Jiangxi Agricultural University, Nanchang 330045, China 3 Jiangxi Province Key Laboratory of Animal Nutrition/Engineering Research Center of Feed Development, Jiangxi Agricultural University, Nanchang 330045, China 4 Agricultural Technology Extension Center of Jiangxi Province, Nanchang 330046, China 5 College of Engineering, Jiangxi Agricultural University, Nanchang 330045, China E-mail: czpjxaas@163.com, pc.zhou@jxau.edu.cn",
+    "doi": "10.20964/2022.02.08",
+    "pdf_url": "https://doi.org/10.20964/2022.02.08",
+    "journal": "International Journal of Electrochemical Science",
+    "url": "https://www.semanticscholar.org/paper/3abba19c6dd2700772160a03f5e92f61105da06f",
+    "fetched_at": "2026-05-01T07:53:47.246281+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_4e600152f8ac6e0c",
+    "source": "semantic_scholar",
+    "title": "Flexible gas sensor based on laser-induced graphene and cobalt phthalocyanine-MWCNTs composite for methanol detection at room temperature",
+    "authors": [
+      "Tianqi Lu",
+      "A. Adiraju",
+      "Ankang Lyu",
+      "Zheyu Cui",
+      "Ge Shi",
+      "A. Al-Hamry"
+    ],
+    "year": 2025,
+    "abstract": "Methanol, a toxic volatile compound, poses significant threats to human health and the environment. Traditional methanol sensors require high operating temperatures, exhibit poor selectivity, and have limited long-term stability, which restricts their application in portable methanol monitoring devices. This study proposes a flexible chemoresistive gas sensor based on laser-induced graphene (LIG) electrodes and a cobalt phthalocyanine (CoPc)- multi-walled carbon nanotubes (MWCNT) composite. Experimental results demonstrate that the sensor achieves an excellent sensitivity of 0.589 Ω/ppm and a low limit of detection of 165 ppb over a wide detection range of 10–1000 ppm, covering international methanol exposure limits. Moreover, the sensor exhibits high selectivity towards methanol in compar",
+    "doi": "10.1007/s42247-024-00986-6",
+    "pdf_url": "https://doi.org/10.1007/s42247-024-00986-6",
+    "journal": "Emergent Materials",
+    "url": "https://www.semanticscholar.org/paper/4e600152f8ac6e0c7cc91f046069f51c281bc5a9",
+    "fetched_at": "2026-05-01T07:53:47.246285+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e57a967cdb6b50de",
+    "source": "semantic_scholar",
+    "title": "Toward Integrated Multifunctional Laser-Induced Graphene-Based Skin-Like Flexible Sensor Systems.",
+    "authors": [
+      "Kaichen Xu",
+      "Zimo Cai",
+      "Huayu Luo",
+      "Yuyao Lu",
+      "Chenliang Ding",
+      "Geng Yang"
+    ],
+    "year": 2024,
+    "abstract": "The burgeoning demands for health care and human-machine interfaces call for the next generation of multifunctional integrated sensor systems with facile fabrication processes and reliable performances. Laser-induced graphene (LIG) with highly tunable physical and chemical characteristics plays vital roles in developing versatile skin-like flexible or stretchable sensor systems. This Progress Report presents an in-depth overview of the latest advances in LIG-based techniques in the applications of flexible sensors. First, the merits of the LIG technique are highlighted especially as the building blocks for flexible sensors, followed by the description of various fabrication methods of LIG and its variants. Then, the focus is moved to diverse LIG-based flexible sensors, including physical s",
+    "doi": "10.1021/acsnano.4c09062",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/e57a967cdb6b50defd6db6424e788303d2cd0e5c",
+    "fetched_at": "2026-05-01T07:53:47.246290+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_3a5a586acfd2ba72",
+    "source": "semantic_scholar",
+    "title": "In2O3–ZnO/Laser-Induced Graphene Nanocomposites for a Highly Sensitive, Room-Temperature, Flexible Methane Gas Sensor",
+    "authors": [
+      "Li Yang",
+      "Wenyuan Fu",
+      "Longbiao Mao",
+      "Luxiang Xu",
+      "Chengpeng Yao",
+      "Hui Zhang"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1021/acsanm.4c07323",
+    "pdf_url": "",
+    "journal": "ACS Applied Nano Materials",
+    "url": "https://www.semanticscholar.org/paper/3a5a586acfd2ba7264ee595055aabcacb360f801",
+    "fetched_at": "2026-05-01T07:53:47.246294+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_cac2e8d3b45730a1",
+    "source": "semantic_scholar",
+    "title": "Design, Prototyping, and Characterization of Laser-Induced Graphene Antennas on Flexible Substrates: Consolidating current knowledge.",
+    "authors": [
+      "Alessio Mostaccio",
+      "G. Marrocco"
+    ],
+    "year": 2025,
+    "abstract": "Laser-induced graphene (LIG) is a widespread technology for the manufacturing of low-cost and eco-friendly sensors that can be also exploited for the fabrication of conductorless antennas and RF devices for the personal and industrial Internet of Things (IoT). In this case, additional issues must be accounted for, such as the much larger lasing area, the moderate conductivity of LIG, and the durability versus environmental and mechanical conditions in real applications, but also new opportunities to provide antennas with nonconventional features. This article provides a unitary representation of the state-of-the-art knowledge for the modeling, design, fabrication, and testing of LIG-based antennas at some frequencies of IoT systems. The reader will find information about the selection of m",
+    "doi": "10.1109/MAP.2024.3457309",
+    "pdf_url": "",
+    "journal": "IEEE Antennas and Propagation Magazine",
+    "url": "https://www.semanticscholar.org/paper/cac2e8d3b45730a1a06a37134a84a5e1935c7083",
+    "fetched_at": "2026-05-01T07:53:47.246297+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b9747e73c16015f8",
+    "source": "semantic_scholar",
+    "title": "Flexible Laser-Induced Graphene Microelectrochemical Sensor on Sustainable Cellulosic Paper Substrate for Sensitive Detection of Uric Acid and Tyrosine in Sweat.",
+    "authors": [
+      "Ali Ghavipanjeh",
+      "S. Sadeghzadeh",
+      "S. M. Naghib",
+      "K. Dashtian"
+    ],
+    "year": 2025,
+    "abstract": "Graphene-based flexible electrochemical sweat sensors have garnered significant attention in both medical and athletic application fields due to their ability to provide critical insights into the body's physiological condition. Herein, we employed a green laser-induced graphene (LIG) technique using a CO2 laser on a cellulose-based paper substrate to fabricate a microelectrochemical sensor capable of detecting tyrosine and uric acid in sweat samples. Electrochemical analysis determined the heterogeneous electron transfer (HET) rate constant (k0) to be 4 × 10-3 cm/s and confirmed that the LIG sensor maintained stability across various pH levels. For tyrosine detection, the sensor exhibited a broad linear detection range from 30 to 1000 μM, with a limit of detection (LOD) of 12.4 μM and a s",
+    "doi": "10.1021/acs.langmuir.5c03922",
+    "pdf_url": "",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "url": "https://www.semanticscholar.org/paper/b9747e73c16015f8792d2806130e586db2211d94",
+    "fetched_at": "2026-05-01T07:53:47.246301+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_5b6f243d58e4fe1b",
+    "source": "semantic_scholar",
+    "title": "Fabrication and Characterization of a Flexible Non-Enzymatic Electrochemical Glucose Sensor Using a Cu Nanoparticle/Laser-Induced Graphene Fiber/Porous Laser-Induced Graphene Network Electrode",
+    "authors": [
+      "Taeheon Kim",
+      "J. Pak"
+    ],
+    "year": 2025,
+    "abstract": "We demonstrate a flexible electrochemical biosensor for non-enzymatic glucose detection under different bending conditions. The novel flexible glucose sensor consists of a Cu nanoparticle (NP)/laser-induced graphene fiber (LIGF)/porous laser-induced graphene (LIG) network structure on a polyimide film. The bare LIGF/LIG electrode fabricated using an 8.9 W laser power shows a measured sheet resistance and thickness of 6.8 Ω/□ and ~420 μm, respectively. In addition, a conventional Cu NP electroplating method is used to fabricate a Cu/LIGF/LIG electrode-based glucose sensor that shows excellent glucose detection characteristics, including a sensitivity of 1438.8 µA/mM∙cm2, a limit of detection (LOD) of 124 nM, and a broad linear range at an applied potential of +600 mV. Significantly, the Cu/",
+    "doi": "10.3390/s25072341",
+    "pdf_url": "",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/5b6f243d58e4fe1b0d4e7bf3b46f882db9dfe109",
+    "fetched_at": "2026-05-01T07:53:47.246304+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_3895b7630e9bf7ff",
+    "source": "semantic_scholar",
+    "title": "Development of flexible regenerable lactate-specific molecularly imprinted polymers based on laser-induced graphene electrochemical biosensor.",
+    "authors": [
+      "Christopher Animashaun",
+      "A. A. Lahcen",
+      "G. Slaughter"
+    ],
+    "year": 2025,
+    "abstract": "Lactate is a key biomarker for assessing tissue hypoxia, sepsis, and metabolic disorders, making its accurate detection essential for clinical diagnostics, health monitoring, and sports performance evaluation. Here we present a molecularly imprinted polymer (MIP)-based electrochemical sensor using a laser-induced graphene (LIG) electrode modified with poly(3,4-ethylenedioxythiophene) (PEDOT) for selective and sensitive lactate detection. Sensor fabrication was optimized, including PEDOT deposition and MIP synthesis conditions, to enhance imprinting efficiency and lactate recognition. Characterization using scanning electron microscopy and energy-dispersive X-ray spectroscopy confirmed uniform deposition and effective surface modification. Incorporating cetyltrimethylammonium bromide to reg",
+    "doi": "10.1016/j.bioelechem.2025.109017",
+    "pdf_url": "",
+    "journal": "Bioelectrochemistry",
+    "url": "https://www.semanticscholar.org/paper/3895b7630e9bf7ff595c93691bb6d9d6eb012afb",
+    "fetched_at": "2026-05-01T07:53:47.246308+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_de871697321f4a13",
+    "source": "semantic_scholar",
+    "title": "On Demand Copper Electrochemical Deposition on Laser Induced Graphene for Flexible Electronics.",
+    "authors": [
+      "Chao Liang",
+      "Wenqiang Zhang",
+      "Yuxuan Fan",
+      "Ziqi Mei",
+      "Lingyun Zhang",
+      "Zhenci Sun"
+    ],
+    "year": 2025,
+    "abstract": "The rapid development of flexible electronics necessitates simplified processes that integrate heterogeneous materials and structures. In this study, laser engraving is combined with electrochemical deposition (ECD) to directly fabricate various micro/nano-structured components and flexible electronic circuits. A theoretical framework and simulation model are developed to design the on-demand ECD on laser induced graphene (LIG), enabling the generation of multi-scale copper (Cu) materials with controllable oxidation states. The Cu-LIG composites exhibit high surface quality and reliability, meeting the requirements of flexible circuits. The study fabricates and characterizes multilayer circuits and complex functional devices, including electrochemical sensors, thin-film heaters, and wirele",
+    "doi": "10.1002/smll.202408943",
+    "pdf_url": "",
+    "journal": "Small",
+    "url": "https://www.semanticscholar.org/paper/de871697321f4a1389365bb073028b8607b1fe29",
+    "fetched_at": "2026-05-01T07:53:47.246313+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b26850c35c8ed9bc",
+    "source": "semantic_scholar",
+    "title": "Electroless Plating of Copper on Laser‐Induced Graphene for Flexible Hybrid Electronic Applications",
+    "authors": [
+      "Attila Rektor",
+      "Josh Eixenberger",
+      "Tony Valayil Varghese",
+      "B. Cummings",
+      "Michael Curtis",
+      "Nicholas L. McKibben"
+    ],
+    "year": 2025,
+    "abstract": "Flexible hybrid electronics (FHEs) combine flexible substrates with conventional electronic components, offering increased mechanical stability and reduced size and weight. Laser‐Induced Graphene (LIG) presents a novel approach for patterning flexible devices, characterized by reduced weight, flexibility, and ease of synthesis. This study demonstrates a new process utilizing copper‐plated LIG to create direct‐write, on‐demand flexible electronics. The method incorporates catalytically active Pd nanoparticles into the LIG structure, enabling selective copper‐plating to form circuits. This simplifies the process by eliminating sensitization steps and avoiding challenges of homogeneous deposition found in electroplating. The impact of laser fluence on LIG structure and plating behavior is sys",
+    "doi": "10.1002/admt.202401901",
+    "pdf_url": "https://doi.org/10.1002/admt.202401901",
+    "journal": "Advanced Materials Technologies",
+    "url": "https://www.semanticscholar.org/paper/b26850c35c8ed9bcaa22bf6a61c8adf3f646f0fe",
+    "fetched_at": "2026-05-01T07:53:47.246317+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7e10912d835baa0b",
+    "source": "semantic_scholar",
+    "title": "Flexible Electrochemical Sensing: Compact and Efficient Detection of Bisphenol A Using Copper Nanoparticle Decorated Laser‐Induced Graphene‐Based Electrode",
+    "authors": [
+      "Xiao Han",
+      "Yijing Ai",
+      "Lisi Wang",
+      "Tao Liu",
+      "Amir Badshah",
+      "Xiaojuan Hu"
+    ],
+    "year": 2025,
+    "abstract": "Bisphenol A (BPA) exposure poses significant health risks, making its analysis essential. This study presents a portable electrochemical sensing platform using copper nanoparticles (CuNPs) decorated on a laser‐induced graphene (LIG) electrode (CuNPs@LIGE). The platform is created through a one‐step laser‐induced synthesis that combines polyimide and metal precursors, resulting in a three‐dimensional porous structure. The sensor utilizes linear scan voltammetry for BPA detection with a smartphone‐connected electrochemical workstation. The presence of CuNPs in LIG enhances electrical conductivity and response signals. Under optimal conditions, the sensor achieves a detection range from 0.1 μmol/L to 10.0 mmol/L and a low detection limit of 0.033 μmol/L (3σ), demonstrating good stability and ",
+    "doi": "10.1002/elan.12025",
+    "pdf_url": "",
+    "journal": "Electroanalysis",
+    "url": "https://www.semanticscholar.org/paper/7e10912d835baa0b1207d32c7ab0f146a63e6570",
+    "fetched_at": "2026-05-01T07:53:47.246321+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_1fe92a3aa3d4795c",
+    "source": "semantic_scholar",
+    "title": "Development of Waste Red-Mud Nanoparticle Decorated Laser-Induced Graphene Flexible Sueprcapacitor",
+    "authors": [
+      "G. Bhattacharya",
+      "S. Fishlock",
+      "S. Roy",
+      "J. McLaughlin"
+    ],
+    "year": 2020,
+    "abstract": "",
+    "doi": "10.1149/ma2020-015601mtgabs",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/1fe92a3aa3d4795cdd0933b85ea540243b2ceca9",
+    "fetched_at": "2026-05-01T07:53:47.246325+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_fb293e6ca1875041",
+    "source": "semantic_scholar",
+    "title": "A flexible piezoresistive three-dimensional strain sensor based on laser-induced graphene/nanosilver/MWCNTs for precise human all-range motion detection",
+    "authors": [
+      "Yijie Wang",
+      "Xiaohong Li",
+      "Xinyu Xu",
+      "Guoqiang Li",
+      "Sensen Xuan",
+      "Xiaoxin Li"
+    ],
+    "year": 2025,
+    "abstract": "Flexible piezoresistive strain sensors are crucial for monitoring human motion, but achieving the right balance between sensitivity and operating range has always been challenging. Additionally, the complexity of muscle movements across different body parts means that relying on sensors with limited dimensional sensing is insufficient. This paper presents a flexible piezoresistive three-dimensional strain sensor (FPTDSS) designed to address these challenges. The FPTDSS features a wide operating range capable of detecting various human movements and boasts a high sensitivity, with a maximum gauge factor of 20 479. It can capture strain information along both the X- and Y-axes, as well as small vibrations along the Z-axis, through its intrinsic stretching and vibration properties. The sensor",
+    "doi": "10.1063/5.0226375",
+    "pdf_url": "",
+    "journal": "Applied Physics Letters",
+    "url": "https://www.semanticscholar.org/paper/fb293e6ca18750410438417fc35e1194202772eb",
+    "fetched_at": "2026-05-01T07:53:47.246329+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b0c23fdfa9296203",
+    "source": "semantic_scholar",
+    "title": "Smartphone‐Assisted Wireless Ultrasensitive Nitrite Detection in Food Samples via Hierarchical MXene/NiCoMn‐LDH/Sulfide Heterostructure on Flexible Laser‐Induced Graphene Electrode",
+    "authors": [
+      "K. Ranjith",
+      "Ali Mohammadi",
+      "A. Vilian",
+      "Yonghyeon Park",
+      "G. S. R. Raju",
+      "YukSuk Huh"
+    ],
+    "year": 2025,
+    "abstract": "Abstract Designing a smartphone in‐built, wireless, ultrasensitive hybrid heterostructure‐based sensor is challenging, but it is potentially crucial for achieving efficient electrochemical responses related to real‐time food safety monitoring. Herein, the pioneering design of a few‐layered MXene‐tagged NiCoMn‐layered double hydroxide (LDH)/amorphous sulfide (MXe/NiCoMn‐LDH/S) hollow spheres were fabricated and tagged onto a laser‐induced graphene (LIG) electrode for smartphone‐based electrochemical detection of nitrite (NO2 −). Benefiting from the unique structural and compositional advantages of MXe/NiCoMn‐LDH/S integrated on a flexible LIG electrode platform, the sensor achieved a linear detection range from 0.90 to 25 µM, and a low detection limit of 0.21 µM, along with a high sensitivi",
+    "doi": "10.1002/smll.202510411",
+    "pdf_url": "",
+    "journal": "Small (Weinheim an Der Bergstrasse, Germany)",
+    "url": "https://www.semanticscholar.org/paper/b0c23fdfa9296203b8a3b451e4d65a961392a114",
+    "fetched_at": "2026-05-01T07:53:47.246335+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_0172b8e79d9c8b4e",
+    "source": "semantic_scholar",
+    "title": "Flexible Thin‐Film Heater Composed of Laser‐Induced Graphene and Poly(D, L‐Lactic Acid) with Electro‐ and Photo‐Thermal Properties toward Cancer Thermotherapy",
+    "authors": [
+      "Masato Saito",
+      "Sota Harada",
+      "Ran Imai",
+      "K. Son",
+      "Toshinori Fujie"
+    ],
+    "year": 2025,
+    "abstract": "Soft robotic devices use heat energy widely as both a power source and a functional interface. In addition, soft robots are expected to be applicable in medical and healthcare settings because of their flexibility and biocompatibility. If a small, flexible device that can generate thermal energy is developed, this device is expected to be applied as a wearable, implantable soft robotic device. This study introduces a thin‐film‐type heat‐generating device that uses laser‐induced graphene (LIG) on a poly(D, L‐lactic) acid film and achieves both resistance heating by application of a direct current and photothermal conversion heating by irradiation with near‐infrared light. This LIG and poly(D, L‐lactic) acid composite device is composed of a thin film structure with a thickness of ≈120 µm, a",
+    "doi": "10.1002/aelm.202500062",
+    "pdf_url": "",
+    "journal": "Advanced Electronic Materials",
+    "url": "https://www.semanticscholar.org/paper/0172b8e79d9c8b4eedf299127786985d4cef0c75",
+    "fetched_at": "2026-05-01T07:53:47.246343+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2604.28149v1",
+    "source": "arxiv",
+    "title": "Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models",
+    "authors": [
+      "Matthias Hertel",
+      "Alexandra Nikoltchovska",
+      "Sebastian Pütz",
+      "Ralf Mikut",
+      "Benjamin Schäfer",
+      "Veit Hagenmeyer"
+    ],
+    "year": 2026,
+    "abstract": "Time Series Foundation Models (TSFMs) have recently emerged as general-purpose forecasting models and show considerable potential for applications in energy systems. However, applications in critical infrastructure like power grids require transparency to ensure trust and reliability and cannot rely on pure black-box models. To enhance the transparency of TSFMs, we propose an efficient algorithm for computing Shapley Additive Explanations (SHAP) tailored to these models. The proposed approach leverages the flexibility of TSFMs with respect to input context length and provided covariates. This property enables efficient temporal and covariate masking (selectively withholding inputs), allowing for a scalable explanation of model predictions using SHAP. We evaluate two TSFMs - Chronos-2 and T",
+    "doi": "10.1145/3744255.3811724",
+    "pdf_url": "https://arxiv.org/pdf/2604.28149v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2604.28149v1",
+    "fetched_at": "2026-05-01T07:53:52.640891+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2604.27941v1",
+    "source": "arxiv",
+    "title": "Comparison of two laser wavelengths for LIBS bioimaging of plants grown in lunar regolith",
+    "authors": [
+      "T. Vozár",
+      "L. Čechová",
+      "J. Buday",
+      "M. Füleky",
+      "K. Molnárová",
+      "L. Lenža"
+    ],
+    "year": 2026,
+    "abstract": "The colonisation of extraterrestrial planets requires sustainable food production independent of Earth-based supplies. Due to the high costs and complicated logistics of food transport, in-situ cultivation will be essential. Growing plants directly in regolith offers a practical approach to achieve sustainable long-term human habitation beyond Earth. In this study, Laser-Induced Breakdown Spectroscopy (LIBS) technique was employed for bioimaging of broccoli (Brassica oleracea) and salad (Lactuca sativa) plants grown in Lunar regolith simulant and control substrate. For this purpose, the potential of the 2090 nm laser wavelength for bioimaging of plant tissue was studied compared to the conventional 1064 nm. The signal-to-noise ratio (SNR), total emissivity ($ε_{\\mathrm{tot}}$), and Mg II /",
+    "doi": "10.1016/j.sab.2026.107513",
+    "pdf_url": "https://arxiv.org/pdf/2604.27941v1",
+    "journal": "Spectrochimica Acta Part B: Atomic Spectroscopy 240 (2026) 107513",
+    "url": "http://arxiv.org/abs/2604.27941v1",
+    "fetched_at": "2026-05-01T07:53:52.641191+00:00",
+    "material": "other"
   }
 ]
