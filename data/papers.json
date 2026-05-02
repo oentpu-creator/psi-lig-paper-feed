@@ -3473,5 +3473,501 @@
     "url": "http://arxiv.org/abs/2604.27941v1",
     "fetched_at": "2026-05-01T07:53:52.641191+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_f8f28eb880c3e883",
+    "source": "semantic_scholar",
+    "title": "Enhancement of porous silicon photoluminescence property by lithium chloride treatment",
+    "authors": [
+      "K. Azaiez",
+      "R. Zaghouani",
+      "S. Khamlich",
+      "H. Meddeb",
+      "W. Dimassi"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1016/J.APSUSC.2018.02.006",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/f8f28eb880c3e883851e7ec3977835b5208f3786",
+    "fetched_at": "2026-05-02T06:31:10.713222+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_780579cd018520f4",
+    "source": "semantic_scholar",
+    "title": "Enzyme biosensor systems based on porous silicon photoluminescence for detection of glucose, urea and heavy metals.",
+    "authors": [
+      "Olga Syshchyk",
+      "V. Skryshevsky",
+      "O. Soldatkin",
+      "A. Soldatkin"
+    ],
+    "year": 2015,
+    "abstract": "",
+    "doi": "10.1016/j.bios.2014.10.075",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/780579cd018520f42b7c5161929042848e33aeeb",
+    "fetched_at": "2026-05-02T06:31:10.713241+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_0f8bcdff86b9de6c",
+    "source": "semantic_scholar",
+    "title": "Enhancement of porous silicon photoluminescence by electroless deposition of nickel",
+    "authors": [
+      "S. Amdouni",
+      "M. Rahmani",
+      "M. Zaibi",
+      "M. Oueslati"
+    ],
+    "year": 2015,
+    "abstract": "",
+    "doi": "10.1016/J.JLUMIN.2014.08.041",
+    "pdf_url": "",
+    "journal": "Journal of Luminescence",
+    "url": "https://www.semanticscholar.org/paper/0f8bcdff86b9de6cfe655417d78d610edad37867",
+    "fetched_at": "2026-05-02T06:31:10.713247+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ead2620a1e6b5875",
+    "source": "semantic_scholar",
+    "title": "The Temperature Effect on the Photoluminescence of Porous Silicon Films Obtained from an N-Type Silicon Substrate",
+    "authors": [
+      "S. Rahmouni",
+      "H. Boubekri",
+      "H. Bendjeffal",
+      "H. Mamine",
+      "N. Boukhenoufa",
+      "I. Tifouti"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s12633-024-02996-9",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/ead2620a1e6b58752c74c99aa7536e5aba70292b",
+    "fetched_at": "2026-05-02T06:31:10.713254+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_160f31ce93c53502",
+    "source": "semantic_scholar",
+    "title": "Origin of Analyte-Induced Porous Silicon Photoluminescence Quenching",
+    "authors": [
+      "Justin M. Reynard",
+      "Nathan S Van Gorder",
+      "F. Bright"
+    ],
+    "year": 2017,
+    "abstract": "",
+    "doi": "10.1177/0003702817696092",
+    "pdf_url": "",
+    "journal": "Applied Spectroscopy",
+    "url": "https://www.semanticscholar.org/paper/160f31ce93c5350205dbd16f28a5cfbde79d9f23",
+    "fetched_at": "2026-05-02T06:31:10.713260+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e2ad8c555ba3a652",
+    "source": "semantic_scholar",
+    "title": "Porous silicon photoluminescence modification by colloidal gold nanoparticles: Plasmonic, surface and porosity roles",
+    "authors": [
+      "M. B. Mora",
+      "J. Bornacelli",
+      "R. Nava",
+      "R. Zanella",
+      "J. Reyes-Esqueda"
+    ],
+    "year": 2014,
+    "abstract": "",
+    "doi": "10.1016/J.JLUMIN.2013.09.053",
+    "pdf_url": "",
+    "journal": "Journal of Luminescence",
+    "url": "https://www.semanticscholar.org/paper/e2ad8c555ba3a652e826c0d6391c40d2fda6b261",
+    "fetched_at": "2026-05-02T06:31:10.713266+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e746fdf290a1a911",
+    "source": "semantic_scholar",
+    "title": "Enhancement of porous silicon photoluminescence by chemical and electrochemical infiltration of conducting polymers",
+    "authors": [
+      "F. Harraz",
+      "A. Salem"
+    ],
+    "year": 2013,
+    "abstract": "",
+    "doi": "10.1016/J.SCRIPTAMAT.2013.01.021",
+    "pdf_url": "",
+    "journal": "Scripta Materialia",
+    "url": "https://www.semanticscholar.org/paper/e746fdf290a1a9112e51c2c6da2b72fb75de869f",
+    "fetched_at": "2026-05-02T06:31:10.713272+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c609f4d067e981b7",
+    "source": "semantic_scholar",
+    "title": "Effect of thermal annealing and surface coverage on porous silicon photoluminescence",
+    "authors": [
+      "M. B. Robinson",
+      "A. Dillon",
+      "D. R. Haynes",
+      "S. George"
+    ],
+    "year": 1992,
+    "abstract": "",
+    "doi": "10.1063/1.107555",
+    "pdf_url": "",
+    "journal": "Applied Physics Letters",
+    "url": "https://www.semanticscholar.org/paper/c609f4d067e981b738a49f8f205eaa3ada97e260",
+    "fetched_at": "2026-05-02T06:31:10.713281+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_de2d6894e2b8ba5d",
+    "source": "semantic_scholar",
+    "title": "Detection of nitrobenzene, DNT, and TNT vapors by quenching of porous silicon photoluminescence",
+    "authors": [
+      "W. Trogler",
+      "M. Sailor"
+    ],
+    "year": 2000,
+    "abstract": "",
+    "doi": "10.1002/1521-3765(20000616)6:12<2205::AID-CHEM2205>3.0.CO;2-A",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1521-3765%2820000616%296%3A12%3C2205%3A%3AAID-CHEM2205%3E3.0.CO%3B2-A",
+    "journal": "Chemistry",
+    "url": "https://www.semanticscholar.org/paper/de2d6894e2b8ba5dba9fa9cf9502ab754ea01e49",
+    "fetched_at": "2026-05-02T06:31:10.713288+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f66e3a6d5361afdd",
+    "source": "semantic_scholar",
+    "title": "Quenching of porous silicon photoluminescence by deposition of metal adsorbates",
+    "authors": [
+      "D. Andsager",
+      "J. Hilliard",
+      "J. Hetrick",
+      "L. Abuhassan",
+      "M. Plisch",
+      "M. Nayfeh"
+    ],
+    "year": 1993,
+    "abstract": "",
+    "doi": "10.1063/1.354350",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/f66e3a6d5361afdd5a80f6f17747fa0339d46860",
+    "fetched_at": "2026-05-02T06:31:10.713295+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_2bd96098b209336b",
+    "source": "semantic_scholar",
+    "title": "Possible explanation of the contradictory results on the porous silicon photoluminescence evolution after low temperature treatments",
+    "authors": [
+      "B. Gelloz"
+    ],
+    "year": 1997,
+    "abstract": "",
+    "doi": "10.1016/S0169-4332(96)00687-3",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/2bd96098b209336b6032fba87456f040d8324aa1",
+    "fetched_at": "2026-05-02T06:31:10.713300+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_689d1cbe7e2ae87a",
+    "source": "semantic_scholar",
+    "title": "Origin of porous silicon photoluminescence: Evidence for a surface bound oxyhydride-like emitter",
+    "authors": [
+      "J. Gole",
+      "Frank P. Dudel",
+      "D. Grantier",
+      "D. Dixon"
+    ],
+    "year": 1997,
+    "abstract": "",
+    "doi": "10.1103/PHYSREVB.56.2137",
+    "pdf_url": "",
+    "journal": "Physical Review B",
+    "url": "https://www.semanticscholar.org/paper/689d1cbe7e2ae87a00e5838fabfe918e8c2b34aa",
+    "fetched_at": "2026-05-02T06:31:10.713305+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ed432a29e8053702",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Photoluminescence Versus HF Etching: No Correlation with Surface Hydrogen Species",
+    "authors": [
+      "M. B. Robinson",
+      "A. Dillon",
+      "S. George"
+    ],
+    "year": 1993,
+    "abstract": "",
+    "doi": "10.1557/PROC-283-191",
+    "pdf_url": "",
+    "journal": "MRS Proceedings",
+    "url": "https://www.semanticscholar.org/paper/ed432a29e80537024e79929116af8121c8ea1a99",
+    "fetched_at": "2026-05-02T06:31:10.713311+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_1aac8577ffbabf71",
+    "source": "semantic_scholar",
+    "title": "The role of oxidation on porous silicon photoluminescence and its excitation",
+    "authors": [
+      "T. Torchinskaya",
+      "N. Korsunskaya",
+      "L. Khomenkova",
+      "B. R. Dhumaev",
+      "S. Prokes"
+    ],
+    "year": 2001,
+    "abstract": "",
+    "doi": "10.1016/S0040-6090(00)01351-1",
+    "pdf_url": "",
+    "journal": "Thin Solid Films",
+    "url": "https://www.semanticscholar.org/paper/1aac8577ffbabf71fc3e1b2081a52fabc357a73b",
+    "fetched_at": "2026-05-02T06:31:10.713316+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_56a84959e32680f4",
+    "source": "semantic_scholar",
+    "title": "Sensitivity of Porous Silicon Photoluminescence to Low Concentrations of CH4 and CO",
+    "authors": [
+      "G. Di Francia",
+      "V. La Ferrara",
+      "L. Quercia",
+      "G. Faglia"
+    ],
+    "year": 2000,
+    "abstract": "",
+    "doi": "10.1023/A:1009640316318",
+    "pdf_url": "",
+    "journal": "Journal of Porous Materials",
+    "url": "https://www.semanticscholar.org/paper/56a84959e32680f4e07111d517547dcabeea87d1",
+    "fetched_at": "2026-05-02T06:31:10.713321+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_2b9ae1af7829330d",
+    "source": "semantic_scholar",
+    "title": "Three approaches to surface substance role investigation in porous silicon photoluminescence and its excitation",
+    "authors": [
+      "T. Torchynska",
+      "N. Korsunska",
+      "B. R. Dzhumaev",
+      "L. Khomenkova"
+    ],
+    "year": 2000,
+    "abstract": "",
+    "doi": "10.1016/S0022-3697(99)00393-5",
+    "pdf_url": "",
+    "journal": "Journal of Physics and Chemistry of Solids",
+    "url": "https://www.semanticscholar.org/paper/2b9ae1af7829330d6e947dd5afc6ca029675e894",
+    "fetched_at": "2026-05-02T06:31:10.713326+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ddc9f443fffc5e45",
+    "source": "semantic_scholar",
+    "title": "Quantum confinement contribution to porous silicon photoluminescence spectra",
+    "authors": [
+      "D. W. Cooke",
+      "R. Muenchausen",
+      "B. Bennett",
+      "L. G. Jacobsohn",
+      "M. Nastasi"
+    ],
+    "year": 2004,
+    "abstract": "",
+    "doi": "10.1063/1.1756217",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/ddc9f443fffc5e45cc04a22a3f87a1d50f44602a",
+    "fetched_at": "2026-05-02T06:31:10.713332+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_4f969bb02b5533f0",
+    "source": "semantic_scholar",
+    "title": "Effects of ageing on porous silicon photoluminescence: Correlation with FTIR and UV-Vis spectra",
+    "authors": [
+      "M. Butturi",
+      "M. Carotta",
+      "G. Martinelli",
+      "L. Passari",
+      "G. Youssef",
+      "A. Chiorino"
+    ],
+    "year": 1997,
+    "abstract": "",
+    "doi": "10.1016/S0038-1098(96)00539-X",
+    "pdf_url": "",
+    "journal": "Solid State Communications",
+    "url": "https://www.semanticscholar.org/paper/4f969bb02b5533f0e73f221e8482312b2cc8e6c9",
+    "fetched_at": "2026-05-02T06:31:10.713337+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c3ea892223d074dd",
+    "source": "semantic_scholar",
+    "title": "Nanoscale Photoluminescence Manipulation in Monolithic Porous Silicon Oxide Microcavity Coated with Rhodamine‐Labeled Polyelectrolyte via Electrostatic Nanoassembling",
+    "authors": [
+      "Zhi Chen",
+      "V. Robbiano",
+      "G. Paternó",
+      "G. Carnicella",
+      "A. Debrassi",
+      "A. A. La Mattina"
+    ],
+    "year": 2021,
+    "abstract": "Porous silicon (PSi) is a promising material for future integrated nanophotonics when coupled with guest emitters, still facing challenges in terms of homogenous distribution and nanometric thickness of the emitter coating within the silicon nanostructure. Herein, it is shown that the nanopore surface of a porous silicon oxide (PSiO2) microcavity (MC) can be conformally coated with a uniform nm‐thick layer of a cationic light‐emitting polyelectrolyte, e.g., poly(allylamine hydrochloride) labeled with Rhodamine B (PAH‐RhoB), leveraging the self‐tuned electrostatic interaction of the positively‐charged PAH‐RhoB polymer and negatively‐charged PSiO2 surface. It is found that the emission of PAH‐RhoB in the PSiO2 MC is enhanced (≈2.5×) and narrowed (≈30×) at the resonant wavelength, compared wi",
+    "doi": "10.1002/adom.202100036",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adom.202100036",
+    "journal": "Advanced Optical Materials",
+    "url": "https://www.semanticscholar.org/paper/c3ea892223d074ddb4bc4e9d00f374b43040ba55",
+    "fetched_at": "2026-05-02T06:31:10.713515+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_5634820a3d64f3ab",
+    "source": "semantic_scholar",
+    "title": "Long-time stabilization of porous silicon photoluminescence by surface modification",
+    "authors": [
+      "B. Mahmoudi",
+      "N. Gabouze",
+      "L. Guerbous",
+      "M. Haddadi",
+      "K. Beldjilali"
+    ],
+    "year": 2007,
+    "abstract": "",
+    "doi": "10.1016/J.JLUMIN.2007.03.002",
+    "pdf_url": "",
+    "journal": "Journal of Luminescence",
+    "url": "https://www.semanticscholar.org/paper/5634820a3d64f3aba8f214976e41ca265da9bad9",
+    "fetched_at": "2026-05-02T06:31:10.713521+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_0109e17303d73b4b",
+    "source": "semantic_scholar",
+    "title": "Enhancement and stabilization of porous silicon photoluminescence by oxygen incorporation with a remote‐plasma treatment",
+    "authors": [
+      "Y. Xiao",
+      "M. Heben",
+      "J. M. McCullough",
+      "Y. Tsuo",
+      "J. Pankove",
+      "S. Deb"
+    ],
+    "year": 1993,
+    "abstract": "",
+    "doi": "10.1063/1.108772",
+    "pdf_url": "https://pubs.aip.org/aip/apl/article-pdf/62/10/1152/7791082/1152_1_online.pdf",
+    "journal": "Applied Physics Letters",
+    "url": "https://www.semanticscholar.org/paper/0109e17303d73b4b6550e505fac38efa4ddff3c8",
+    "fetched_at": "2026-05-02T06:31:10.713525+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_019b44843c804ab9",
+    "source": "semantic_scholar",
+    "title": "Organic solvent induced quenching of porous silicon photoluminescence.",
+    "authors": [
+      "W. Jin",
+      "G. Shen",
+      "R. Yu"
+    ],
+    "year": 1998,
+    "abstract": "",
+    "doi": "10.1016/S1386-1425(98)00048-1",
+    "pdf_url": "",
+    "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+    "url": "https://www.semanticscholar.org/paper/019b44843c804ab91ed41cb6b8ea9c5acaf6342c",
+    "fetched_at": "2026-05-02T06:31:10.713528+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e57ec2d68d7f727b",
+    "source": "semantic_scholar",
+    "title": "Evaluation of quantum efficiency of porous silicon photoluminescence",
+    "authors": [
+      "V. Skryshevsky",
+      "A. Laugier",
+      "V. Strikha",
+      "V. Vikulov"
+    ],
+    "year": 1996,
+    "abstract": "",
+    "doi": "10.1016/0921-5107(96)01572-3",
+    "pdf_url": "",
+    "journal": "Materials Science and Engineering B-advanced Functional Solid-state Materials",
+    "url": "https://www.semanticscholar.org/paper/e57ec2d68d7f727b9f1bfd78e80de05f78e68a14",
+    "fetched_at": "2026-05-02T06:31:10.713532+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ca352be75386cbb7",
+    "source": "semantic_scholar",
+    "title": "Depth‐dependent porous silicon photoluminescence",
+    "authors": [
+      "N. Ookubo"
+    ],
+    "year": 1993,
+    "abstract": "",
+    "doi": "10.1063/1.355162",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/ca352be75386cbb7b9b85518f6291b00b3a089b2",
+    "fetched_at": "2026-05-02T06:31:10.713535+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_aacca8b1a41b59cf",
+    "source": "semantic_scholar",
+    "title": "Effects of thermal annealing on porous silicon photoluminescence dynamics",
+    "authors": [
+      "N. Ookubo",
+      "H. Ono",
+      "Y. Ochiai",
+      "Y. Mochizuki",
+      "S. Matsui"
+    ],
+    "year": 1992,
+    "abstract": "",
+    "doi": "10.1063/1.107735",
+    "pdf_url": "",
+    "journal": "Applied Physics Letters",
+    "url": "https://www.semanticscholar.org/paper/aacca8b1a41b59cf4d2faa3944f46bb6f84c0050",
+    "fetched_at": "2026-05-02T06:31:10.713539+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_bcbff5062505502d",
+    "source": "semantic_scholar",
+    "title": "Sulfur-doped laser-induced graphene derived from polyethersulfone and lignin hybrid for all-solid-state supercapacitor",
+    "authors": [
+      "Xinzhi Sun",
+      "Xiaojuan Liu",
+      "Feng Li"
+    ],
+    "year": 2021,
+    "abstract": "Abstract Developing a simple and effective high-performance all-solid-state graphene-based mircosupercapacitor (MSC) by using biomass wastes as raw materials has attracted excellent interest. Here we report a scalable approach for producing sulfur-doped porous three-dimensional (3D) graphene materials from lignin and polyethersulfone (PES) films by using a facile laser direct writing (LDW) technique. In the lignin-PES (L-P) film, lignin, a waste by-product generated in paper industry, was served as a sustainable and economic carbon source, while PES was employed as a sulfur source and adhesive. The lignin-PES film can be transformed into sulfur-doped laser-induced graphene (LIG) by scribing under CO2 laser in ambient condition. Furthermore, the MSCs were fabricated directly using two L-P L",
+    "doi": "10.1016/J.APSUSC.2021.149438",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/bcbff5062505502d7d74870801a57d8c54568008",
+    "fetched_at": "2026-05-02T06:31:58.467546+00:00",
+    "material": "LIG"
   }
 ]
