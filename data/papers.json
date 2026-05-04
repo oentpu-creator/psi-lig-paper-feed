@@ -3969,5 +3969,162 @@
     "url": "https://www.semanticscholar.org/paper/bcbff5062505502d7d74870801a57d8c54568008",
     "fetched_at": "2026-05-02T06:31:58.467546+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2605.00576v1",
+    "source": "arxiv",
+    "title": "High-pressure magnetic transition in iron observed via diamond quantum sensing",
+    "authors": [
+      "Kouki Yamamoto",
+      "Kenshin Uriu",
+      "Ryotaro Suda",
+      "Misaki Sasaki",
+      "Mari Einaga",
+      "Katsuya Shimizu"
+    ],
+    "year": 2026,
+    "abstract": "Diamond quantum sensors offer high precision and spatial resolution as magnetic probes, making them promising for a wide range of applications. While diamond anvil cells (DACs) can generate extremely high pressures, techniques for magnetometry under such conditions remain limited. By fabricating an ensemble of NV centers directly on the anvil diamond surface, we enable precise magnetic measurements under high pressure. In this work, we employ this NV ensemble to image the stray magnetic field of iron up to 30 GPa, enabling the observation of the magnetic transition ($α$-$\\varepsilon$ transition) in iron.",
+    "doi": "10.1080/08957959.2026.2661257",
+    "pdf_url": "https://arxiv.org/pdf/2605.00576v1",
+    "journal": "High Pressure Research (2026)",
+    "url": "http://arxiv.org/abs/2605.00576v1",
+    "fetched_at": "2026-05-04T09:06:13.141304+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00322v1",
+    "source": "arxiv",
+    "title": "Federated Weather Modeling on Sensor Data",
+    "authors": [
+      "Shengchao Chen",
+      "Guodong Long"
+    ],
+    "year": 2026,
+    "abstract": "Federated weather modeling on sensor data is a distributed system underpinned by federated learning, enabling multiple sensor data sources, including ground weather stations, satellites and IoT devices, to collaboratively train deep learning models without sharing raw data. This method safeguards data privacy and security while leverages diverse, geographically distributed datasets to improve the accuracy and robustness of global/regional weather modeling tasks such as forecasting and anomaly detection.",
+    "doi": "10.1007/978-3-319-23519-6_1719-1",
+    "pdf_url": "https://arxiv.org/pdf/2605.00322v1",
+    "journal": "In: Shekhar, S., Xiong, H., Zhou, X. (eds) Encyclopedia of GIS. Springer, Cham (2026)",
+    "url": "http://arxiv.org/abs/2605.00322v1",
+    "fetched_at": "2026-05-04T09:06:13.141492+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00319v1",
+    "source": "arxiv",
+    "title": "A PVT-Resilient Subthreshold SRAM-Based In-Memory Computing Accelerator with In-Situ Regulation for Energy-Efficient Spiking Neural Networks",
+    "authors": [
+      "Shih-Hang Kao",
+      "Yang-Chan Hung",
+      "I-Wen Wang",
+      "Bing-Han Liu",
+      "Yu-Chia Chen",
+      "Tian-Sheuan Chang"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents a PVT-resilient, subthreshold SRAM-based computing-in-memory (CIM) macro tailored for energy-efficient spiking neural networks (SNNs). The macro integrates in-situ current sensors and distributed voltage regulators to enable robust large-scale (1024 wordlines, 1304 bitlines and 128 shared neuron cells) subthreshold current-mode CIM, mitigating energy overheads and process-voltage-temperature (PVT) sensitivity. The neuron cells adopt a programmable, memory cell-based firing threshold to enhance neuron robustness against PVT variations. The architecture uses a stride-tick batching schedule to significantly reduce buffer overhead with enhanced input data reuse. Exploiting the high sparsity of SNNs, the proposed system demonstrates significant improvements in energy efficie",
+    "doi": "10.1109/TCSI.2026.3685722",
+    "pdf_url": "https://arxiv.org/pdf/2605.00319v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.00319v1",
+    "fetched_at": "2026-05-04T09:06:13.141551+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00289v1",
+    "source": "arxiv",
+    "title": "ExoplaNeT accRetion mOnitoring sPectroscopic surveY (ENTROPY) III. Optical He I line profiles of the accreting super Jupiter Delorme 1 (AB)b",
+    "authors": [
+      "Gayathri Viswanath",
+      "Mickaël Bonnefoy",
+      "Catherine Dougados",
+      "Simon C. Ringqvist",
+      "Markus Janson",
+      "Dorian Demars"
+    ],
+    "year": 2026,
+    "abstract": "High-resolution spectroscopic observations of helium emission lines provide a powerful probe of accretion geometry in classical T Tauri stars, revealing regions not well traced by hydrogen lines. Parallel studies in the planetary-mass regime are lacking. In this work, we investigate helium emission from the nearby (47 pc), wide-orbit (~84 au), ~13 $M_{Jup}$ accreting circumbinary companion Delorme 1 (AB)b and use resolved line profiles to constrain their origin. We analyse 33 high-S/N VLT/UVES spectra spanning near-ultraviolet to optical wavelengths at R~50,000. We detect seven He I lines at >5$σ$ confidence - 3890, 4027, 4473, 4923, 5017, 5877, and 6680 Ȧ - with significant epoch-to-epoch variability. The He I 5877, 4923, 4473, and 4027 Ȧ lines are asymmetric, showing a narrow component n",
+    "doi": "10.1051/0004-6361/202558444",
+    "pdf_url": "https://arxiv.org/pdf/2605.00289v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.00289v1",
+    "fetched_at": "2026-05-04T09:06:13.141631+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00274v1",
+    "source": "arxiv",
+    "title": "Low-temperature Depletion of Superfluid Density in the Absence of Galilean Symmetry",
+    "authors": [
+      "Viktor Berger",
+      "Nikolay Prokof'ev",
+      "Boris Svistunov"
+    ],
+    "year": 2026,
+    "abstract": "Landau theory of superfluidity associates low-temperature flow of the normal component with the phonon wind. This picture does not apply to superfluids in which Galilean invariance is broken either by disorder, porous media, or lattice potential, and the phonon wind is no longer solely responsible for depletion of the superfluid component. Based on Popov's hydrodynamic action with anharmonic terms, we present a general theory for low-temperature ($T$) dependence of the superfluid stiffness, which reproduces Landau result as a special case when several parameters of the hydrodynamic action are fixed by Galilean invariance, and validate it with numerical simulations of interacting lattice bosons. In a broader context, our approach reveals universal low-temperature thermodynamics of superflui",
+    "doi": "10.1103/gdzs-3hwl",
+    "pdf_url": "https://arxiv.org/pdf/2605.00274v1",
+    "journal": "Phys. Rev. Lett. 136, 166001 (2026)",
+    "url": "http://arxiv.org/abs/2605.00274v1",
+    "fetched_at": "2026-05-04T09:06:18.681974+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00597v1",
+    "source": "arxiv",
+    "title": "MUDY: Multi-Granular Dynamic Candidate Contextualization for Unsupervised Keyphrase Extraction",
+    "authors": [
+      "Hyeongu Kang",
+      "Susik Yoon"
+    ],
+    "year": 2026,
+    "abstract": "Keyphrase extraction aims to automatically identify concise phrases that effectively represent the content of a document. While recent methods leveraging pre-trained language models (PLMs) have significantly improved the extraction of keyphrases with strong global semantic relevance, they often fall short in capturing the local contextual importance of keyphrases tied to specific subtopics dispersed in a document. In this paper, we propose a novel context-centric framework, MUDY, that effectively captures multi-granular contextual salience of candidate keyphrases. MUDY employs two complementary components: (1) a prompt-based scoring that estimates the generation likelihood of each candidate keyphrase, augmented with candidate-aware weighting to better reflect its local contextual importanc",
+    "doi": "10.1145/3805712.3809682",
+    "pdf_url": "https://arxiv.org/pdf/2605.00597v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.00597v1",
+    "fetched_at": "2026-05-04T09:06:37.300756+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00508v1",
+    "source": "arxiv",
+    "title": "A Comparative Study of QSPR Methods on a Unique Multitask PAMPA dataset",
+    "authors": [
+      "Andrs Formanek",
+      "Anna Vincze",
+      "Richrd Bicsak",
+      "Yves Moreau",
+      "Gyorgy T. Balogh",
+      "Adam Arany"
+    ],
+    "year": 2026,
+    "abstract": "We present a unique, multitask dataset comprising 143 drug and drug candidate molecules, each evaluated on in vitro, parallel artificial-membrane permeability assays (PAMPA) using six different model membranes. Using this resource, we systematically assess the effectiveness of various molecular descriptors and regression models in predicting passive membrane permeability. The studied models range from simple linear regression to a modern pre-trained transformer architecture. Particular attention is given to the trade-off between predictive performance and model interpretability, highlighting the challenges introduced by machine learning approaches. To our knowledge, this is the most comprehensive study on simultaneous modeling of multiple organ-specific PAMPA membranes to date, offering no",
+    "doi": "10.1021/acs.jcim.5c02931",
+    "pdf_url": "https://arxiv.org/pdf/2605.00508v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.00508v1",
+    "fetched_at": "2026-05-04T09:06:42.872321+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.00801v1",
+    "source": "arxiv",
+    "title": "Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate",
+    "authors": [
+      "Min-Chul Kang",
+      "Chunxu Yan",
+      "Alexander Frisch",
+      "Xufei Fang",
+      "Liming Xiong",
+      "Lin Zhou"
+    ],
+    "year": 2026,
+    "abstract": "Dislocation core chemistry in oxides critically influences mechanical behavior and functionality; yet the evolution of core chemistry during the dislocation motion in them has not been directly observed. Here, using SrTiO3 as a model material, we combine aberration-corrected scanning transmission electron microscopy and electron energy-loss spectroscopy with atomic-level molecular dynamics (MD) simulations to correlate the <110>{1-10} dislocation core structure, oxygen vacancy density, charge state, and mobility with each other. We find that the mechanically induced dislocation loops exhibit dissociated cores, whose oxygen vacancy density depends on the gliding distance: short loops are Ti-reduced and oxygen-deficient at the edge dislocation core, whereas longer loops remain close to stoic",
+    "doi": "10.1016/j.actamat.2026.122283",
+    "pdf_url": "https://arxiv.org/pdf/2605.00801v1",
+    "journal": "Acta Materialia, 2026, 313: 122283",
+    "url": "http://arxiv.org/abs/2605.00801v1",
+    "fetched_at": "2026-05-04T09:06:48.574845+00:00",
+    "material": "other"
   }
 ]

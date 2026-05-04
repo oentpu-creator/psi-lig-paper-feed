@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-05-03T07:31:32.895751+00:00",
-  "total": 203,
-  "new_today": 0,
+  "last_run": "2026-05-04T09:07:22.357262+00:00",
+  "total": 211,
+  "new_today": 8,
   "by_material": {
-    "other": 76,
+    "other": 84,
     "LIG": 53,
     "PSi": 74
   }
