@@ -4126,5 +4126,509 @@
     "url": "http://arxiv.org/abs/2605.00801v1",
     "fetched_at": "2026-05-04T09:06:48.574845+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_f143e2530c36aa32",
+    "source": "semantic_scholar",
+    "title": "MIP-Modified Porous Silicon Optical Sensor for Interleukin-6 Label-Free Quantification",
+    "authors": [
+      "V. Nocerino",
+      "Giulia Siciliano",
+      "M. Bianco",
+      "I. Rea",
+      "P. Dardano",
+      "M. S. Chiriacò"
+    ],
+    "year": 2025,
+    "abstract": "In this study, we present an innovative optical biosensor designed to detect Interleukin-6 (IL-6), a pivotal cytokine implicated in many pathological conditions. Our sensing platform is made of a porous silicon (PSi) nanostructured substrate modified with a thin (~5 nm) molecularly imprinted polymer (MIP), ensuring both high specificity and sensitivity toward IL-6 molecules. The fabrication process involves electrochemical etching of silicon chips to create the porous structure, followed by the electrodeposition of the MIP, which is tailored to selectively bind the IL-6 target. Extensive testing over a broad IL-6 concentration range demonstrates a clear, proportional optical response, yielding a limit of detection (LOD) of 13 nM. Moreover, the biosensor robustness was verified by evaluatin",
+    "doi": "10.3390/bios15050320",
+    "pdf_url": "",
+    "journal": "Biosensors",
+    "url": "https://www.semanticscholar.org/paper/f143e2530c36aa3226b25b20462cc7c3a2deb342",
+    "fetched_at": "2026-05-05T07:32:05.699450+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_7973fb83ace750d5",
+    "source": "semantic_scholar",
+    "title": "A porous silicon composite with irregular silver nano-dendritic particles: a rapid optical sensor for trace detection of malachite green in freshwater fish.",
+    "authors": [
+      "Zhen Liu",
+      "D. Ge",
+      "Chengxiang Zhao",
+      "Jiakang Shi",
+      "Zhou Zeng",
+      "Zhiwei Fang"
+    ],
+    "year": 2024,
+    "abstract": "This study focused on creating a SERS composite particle specifically designed for detecting malachite green. We synthesized silver nano-dendritic structures on p-type porous silicon using an external electric field, separating them from the silicon wafer. Ultrasonic crushing yielded irregular silver nanodendrite-modified porous silicon composite particles. Upon being tested in an aqueous solution of malachite green, these composite particles demonstrated significant surface-enhanced Raman scattering effects. Our findings highlight the exceptional performance of the SERS substrate composed of porous silicon and irregular silver nano-dendritic particles. It exhibited high sensitivity, specificity, consistent signal strength, and reliability in detecting trace amounts of malachite green in w",
+    "doi": "10.1039/d3ay02044d",
+    "pdf_url": "",
+    "journal": "Analytical methods : advancing methods and applications",
+    "url": "https://www.semanticscholar.org/paper/7973fb83ace750d5baf5296dcc3dc4f623ba3190",
+    "fetched_at": "2026-05-05T07:32:05.699456+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e718a388feead80f",
+    "source": "semantic_scholar",
+    "title": "Stimuli‐responsive hydrogel microgels on porous silicon one‐dimensional photonic crystals: Tapping the full potential for optical sensor applications",
+    "authors": [
+      "Ruth Fabiola Balderas Valadez",
+      "Augusto David Ariza Flores",
+      "Claudia Pacholski"
+    ],
+    "year": 2023,
+    "abstract": "Porous silicon 1D photonic crystals, namely rugate filters, are covered with a loosely packed hexagonally ordered array of stimuli‐responsive hydrogel microgels, and the optical properties of the resulting hybrid sensor are thoroughly investigated. For this purpose, both rugate filters with and without hydrogel microgel on top are immersed in ethanol/water mixtures possessing different compositions and NaCl solutions. Reflectance spectra of all samples are taken and analyzed concerning the spectral positions and reflectance intensity of the strong peak related to the photonic crystal rugate peak as well as the side bands resulting from Fabry–Pérot interference at the interfaces bordering the porous silicon. For the latter analysis, a Fourier transform is applied to the side bands for calcu",
+    "doi": "10.1002/nano.202300100",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nano.202300100",
+    "journal": "Nano Select",
+    "url": "https://www.semanticscholar.org/paper/e718a388feead80f804ae944db8e500968844aea",
+    "fetched_at": "2026-05-05T07:32:05.699606+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_032daec4c9548b3b",
+    "source": "semantic_scholar",
+    "title": "Design of a hybrid amine functionalized polyacrylamide hydrogel-porous silicon optical sensor",
+    "authors": [
+      "Lisa M. Bonanno",
+      "L. DeLouise"
+    ],
+    "year": 2009,
+    "abstract": "",
+    "doi": "10.1117/12.809201",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/032daec4c9548b3b5e6793d0f0d0e769628f70c7",
+    "fetched_at": "2026-05-05T07:32:05.699611+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b5f9c9592817df0f",
+    "source": "semantic_scholar",
+    "title": "Development of an integrated optical sensor on chalcogenide glasses and on porous silicon for the mid-infrared spectroscopy",
+    "authors": [
+      "S. Meziani",
+      "A. Jaafar",
+      "L. Bodiou",
+      "N. Lorrain",
+      "P. Pirasteh",
+      "A. Bénardais"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/b5f9c9592817df0f070c45f1dc9843a0956db0d5",
+    "fetched_at": "2026-05-05T07:32:05.699616+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b10c08bc3daaa3fd",
+    "source": "semantic_scholar",
+    "title": "Gyroidal graphene/porous silicon array for exciting optical Tamm state as optical sensor",
+    "authors": [
+      "Z. Zaky",
+      "A. Aly"
+    ],
+    "year": 2021,
+    "abstract": "In this study, the optical Tamm state is excited for the first time using gyroidal graphene/porous silicon one-dimensional photonic crystal terminated by a gyroidal graphene layer. The gyroidal graphene and porous silicon are used to enhance the figure of merit and sensitivity of the based Tamm resonance photonic crystal sensor. By tuning different parameters like the angle of incidence, the thickness of the sample layer, and the thickness of the gyroidal graphene layer, we have reached the optimized sensor. The observation of resonant dips in the reflectance spectra is strong evidence that Tamm plasmon-polaritons exist with higher sensitivity (188.8 THz/RIU) and figure of merit (355,384 RIU−1) than previously reported structures. The proposed sensor recorded sensitivity and FoM higher 38%",
+    "doi": "10.1038/s41598-021-98305-0",
+    "pdf_url": "https://www.nature.com/articles/s41598-021-98305-0.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/b10c08bc3daaa3fdc9e3cf3ca2d54aa0cf8a76db",
+    "fetched_at": "2026-05-05T07:32:05.699621+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c3adc264e85acf0f",
+    "source": "semantic_scholar",
+    "title": "Parallel Detection of Mixed Pesticides Based on Dual Quantum Dot/Porous Silicon Optical Biosensors",
+    "authors": [
+      "Jianghong Cao",
+      "Zhenhong Jia",
+      "Haitao Yue",
+      "Jie Yang",
+      "Jiajia Wang",
+      "Xiaoyi Lv"
+    ],
+    "year": 2024,
+    "abstract": "A dual-target molecular parallel detection method is proposed to detect multiple pesticides on a single sensor based on a double quantum dot/porous silicon optical biosensor. We fabricated porous silicon Bragg devices with broader forbidden bands to enhance the fluorescence from various quantum dots. Different quantum dots were labeled on complementary strands of nucleic acid aptamers and reacted with immobilized aptamers on the pore walls of the porous silicon pores. Finally, upon the addition of the pesticides of acetamiprid and profenofos, the complementary strands of the pesticides were replaced due to the stronger specific binding of the pesticides to their respective nucleic acid aptamers, and the fluorescence of the quantum dots was reduced. The detection of different pesticides was",
+    "doi": "10.1109/JSEN.2024.3469251",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/c3adc264e85acf0ff4db86d0170678992bda616a",
+    "fetched_at": "2026-05-05T07:32:05.699629+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b3bc453a2b923634",
+    "source": "semantic_scholar",
+    "title": "Calcium selective optical sensor based on calmodulin functionalized porous silicon",
+    "authors": [
+      "Kaustav Sen",
+      "D. Basu",
+      "S. M. Hossain",
+      "J. Das"
+    ],
+    "year": 2021,
+    "abstract": "",
+    "doi": "10.1007/s00339-021-04869-z",
+    "pdf_url": "",
+    "journal": "Applied Physics A",
+    "url": "https://www.semanticscholar.org/paper/b3bc453a2b923634d4e7491415e6eda4c7aeeaca",
+    "fetched_at": "2026-05-05T07:32:05.699634+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_f3341a82b59eeefd",
+    "source": "semantic_scholar",
+    "title": "PROTEIN-LIGAND INTERACTION DETECTION BY POROUS SILICON OPTICAL SENSOR",
+    "authors": [
+      "L. Stefano",
+      "L. Rotiroti",
+      "I. Rendina",
+      "L. Moretti",
+      "V. Scognamiglio",
+      "M. Rossi"
+    ],
+    "year": 2008,
+    "abstract": "",
+    "doi": "10.1142/9789812833532_0011",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/f3341a82b59eeefda039f5c7f98533a7ef5f7cb6",
+    "fetched_at": "2026-05-05T07:32:05.699638+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_96873272ca292f29",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Optical Distributed Bragg Reflector Sensor: Methods of Characterization",
+    "authors": [
+      "I. Ivanov",
+      "V. Skryshevsky"
+    ],
+    "year": 2020,
+    "abstract": "The reflectivity of the porous silicon distributed Bragg reflector optical sensor was calculated by a matrix method for different values of porosity layers. Methods of characterization of reflectance spectra based on analyzing of dominant interference peak as Bragg peak and whole spectrum were considered. Parameters of Bragg peak as the position of peak maxima and FWHM were determined for different ratios/differences of low and high values of refractive indexes of layers. Parameters as dominant wavelength, excitation purity were determined as sensor response and characteristics of the whole reflectance spectrum contrary to separate Bragg peak. Maximum sensitivity is 615.3 for the proposed characterization method based on the dominant wavelength.",
+    "doi": "10.1109/ELNANO50318.2020.9088823",
+    "pdf_url": "",
+    "journal": "2020 IEEE 40th International Conference on Electronics and Nanotechnology (ELNANO)",
+    "url": "https://www.semanticscholar.org/paper/96873272ca292f29a77325ed03ed8bbb52cca314",
+    "fetched_at": "2026-05-05T07:32:05.699642+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_99dca881713c3ef1",
+    "source": "semantic_scholar",
+    "title": "Nanoscale morphology, optical dynamics and gas sensor of porous silicon",
+    "authors": [
+      "A. Ghaderi",
+      "Jamshid Sabbaghzadeh",
+      "L. Dejam",
+      "G. Behzadi pour",
+      "Emad Moghimi",
+      "R. Matos"
+    ],
+    "year": 2024,
+    "abstract": "We investigated the multifaceted gas sensing properties of porous silicon thin films electrodeposited onto (100) oriented P-type silicon wafers substrates. Our investigation delves into morphological, optical properties, and sensing capabilities, aiming to optimize their use as efficient gas sensors. Morphological analysis revealed the development of unique surfaces with distinct characteristics compared to untreated sample, yielding substantially rougher yet flat surfaces, corroborated by Minkowski Functionals analysis. Fractal mathematics exploration emphasized that despite increased roughness, HF/ethanol-treated surfaces exhibit flatter attributes compared to untreated Si sample. Optical approaches established a correlation between increased porosity and elevated localized states and de",
+    "doi": "10.1038/s41598-024-54336-x",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-54336-x.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/99dca881713c3ef1ae117b90fb8241ada5f55e6d",
+    "fetched_at": "2026-05-05T07:32:05.699650+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b62553e09c2afb79",
+    "source": "semantic_scholar",
+    "title": "Enhanced refractive index sensor based on annular porous silicon 1D photonic crystal for pathogen bacteria detection",
+    "authors": [
+      "A. Ameen",
+      "A. Pal",
+      "Ahmed M. El-Sherbeeny",
+      "Arun Uniyal",
+      "Mostafa R. Abukhadra",
+      "Jacob Wekalao"
+    ],
+    "year": 2025,
+    "abstract": "This work presents a novel approach for pathogen identification using a one-dimensional annular photonic crystal (APC). The APC structure consists of alternating silicon layers with varying porosities arranged in a periodic pattern. A defect layer has been incorporated for the detection and monitoring of E. Coli bacteria. The optical characteristics of the APC are analyzed by solving Maxwell’s equations and employing the modified transfer matrix method in Cartesian coordinates. The proposed APC design, which features a configuration of (layer a/layer b)N/defect layer/(layer a/layer b)N, demonstrates promising potential for pathogen detection when using water and E. Coli samples in the defect layer alongside porous silicon in a multilayer stack. All design parameters are meticulously optimi",
+    "doi": "10.37190/oa/203360",
+    "pdf_url": "",
+    "journal": "Optica Applicata",
+    "url": "https://www.semanticscholar.org/paper/b62553e09c2afb79100e9dbb9008f15e49ff9ba9",
+    "fetched_at": "2026-05-05T07:32:05.699654+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_16185bcacc3db34d",
+    "source": "semantic_scholar",
+    "title": "Optical sensing of nanoparticles employing porous silicon thin films",
+    "authors": [
+      "Vered Riven",
+      "C. Zemmour",
+      "Tom Naor",
+      "Roey Sagi",
+      "U. Banin",
+      "M. Asscher"
+    ],
+    "year": 2025,
+    "abstract": "With the increasing consumption of nanomaterials in a variety of applications, our environment becomes more and more exposed to different kinds of (possibly toxic) nanomaterials having variable sizes and shapes, raising up the requirement to sense and monitor the presence of nanomaterials. Here, we propose and demonstrate a porous-silicon based optical sensing platform, capable of sensing nanoparticles of a given distribution of sizes and shapes, but independent of their chemical, mechanical, or electrical properties. A white light optical interference technique has been utilized to transduce nanoparticles trapped in the porous matrix into an optical signal. We have found an unusual optical sensing response that substantially increases the sensing bandwidth of the porous-silicon based opti",
+    "doi": "10.1063/5.0252516",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/16185bcacc3db34d4e027dd2311dc466bba2822e",
+    "fetched_at": "2026-05-05T07:32:05.699663+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_95ad3499246ac9e3",
+    "source": "semantic_scholar",
+    "title": "Interferometric optical sensors based on porous silicon grafted with styrenic moieties for highly enhanced VOC detection",
+    "authors": [
+      "Van-The Vo",
+      "Abhijit N. Kadam",
+      "Thuy-An Nguyen",
+      "Sang-Wha Lee"
+    ],
+    "year": 2025,
+    "abstract": "The majority of volatile organic compounds (VOCs) are hazardous pollutants that pose significant risks to human health and the environment. Thus, the development of a smart sensing system for the early identification of VOCs would be in high demand, particularly those enabling rapid detection with high sensitivity and long-term stability. In this study, an interferometric optical sensor was rationally devised through the facile non-atmospheric thermolysis of polystyrene (PS) pre-loaded into a porous silicon (pSi) template prepared via electrochemical anodization. During the thermolysis, styrenic carbon fragments were covalently grafted onto the pore walls of pSi to form a PS-grafted pSi composite (pSi-PS). This composite was subsequently utilized as a scaffold for grafting poly(4-chlorosty",
+    "doi": "10.1039/d5ra07263h",
+    "pdf_url": "",
+    "journal": "RSC Advances",
+    "url": "https://www.semanticscholar.org/paper/95ad3499246ac9e373fd2107296136e430a615df",
+    "fetched_at": "2026-05-05T07:32:05.699667+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_eaedfe499622eb0b",
+    "source": "semantic_scholar",
+    "title": "Simulation of Porous Silicon 1-D Optical Sensor Array",
+    "authors": [
+      "I. Ivanov",
+      "V. Skryshevsky"
+    ],
+    "year": 2019,
+    "abstract": "Spectral response of single layer porous silicon based sensor was simulated by matrix method for ethanol which fills pores. Conditions for maximum sensitivity were proposed. Optimal parameters of structure were determined to obtain maximum sensor response for proposed conditions. Obtained discrete response of porous matrix can be used as analyte pattern for electronic nose/tongue system.",
+    "doi": "10.1109/CADSM.2019.8779256",
+    "pdf_url": "",
+    "journal": "2019 IEEE 15th International Conference on the Experience of Designing and Application of CAD Systems (CADSM)",
+    "url": "https://www.semanticscholar.org/paper/eaedfe499622eb0be58f167501aa46dbca11ada7",
+    "fetched_at": "2026-05-05T07:32:05.699670+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9ff24d2d2a5a279e",
+    "source": "semantic_scholar",
+    "title": "Investigation of a sensitive, selective and cost-effective electrochemical meso-porous silicon based gas sensor for NO2 detection at room temperature",
+    "authors": [
+      "Khaoula Azaiez",
+      "H. Mhamdi",
+      "R. Benabderrahmane Zaghouani",
+      "T. Fiorido",
+      "Jean-Louis Lazzari",
+      "M. Bendahan"
+    ],
+    "year": 2024,
+    "abstract": "This work presents a nitrogen dioxide (NO2) gas sensor based on porous silicon with improved sensitivity, selectivity, and cost-efficiency. Porous silicon is being researched as an alternative material for gas sensors operating at room temperature (RT), making it suited for low-consumption applications. Meso-porous silicon (meso-PS) films were prepared on p+ type Si (100) using an electrochemical method for NO2 gas sensing. \n Morphology, structural and optical properties of meso-PS films were investigated using scanning electron microscope (SEM), X-ray diffractometer (XRD), and UV-Vis spectroscopy. The gas sensing response of meso-PS samples was performed at RT with top parallel Al electrodes in the range of 4 to 10 ppm of NO2 gas. The tested sensor showed high normalized response (Rair/Rg",
+    "doi": "10.1051/epjap/2024240081",
+    "pdf_url": "",
+    "journal": "The European Physical Journal Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/9ff24d2d2a5a279ee626e7df3e1994706808d0fc",
+    "fetched_at": "2026-05-05T07:32:05.699674+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_71b11eb5772f6ea1",
+    "source": "semantic_scholar",
+    "title": "Symmetrical Ligand’s Fabricated Porous Silicon Surface Based Photoluminescence Sensor for Metal Detection and Entrapment",
+    "authors": [
+      "Muhammad Saleem",
+      "Abrar Hussain",
+      "Salah Uddin Khan",
+      "Sajjad Haider",
+      "K. Lee",
+      "Sang Hyun Park"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s10895-024-03697-7",
+    "pdf_url": "",
+    "journal": "Journal of Fluorescence",
+    "url": "https://www.semanticscholar.org/paper/71b11eb5772f6ea11c82c0fe31a9555c8a3c84d9",
+    "fetched_at": "2026-05-05T07:32:05.699678+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_4a5f2da1b24200cf",
+    "source": "semantic_scholar",
+    "title": "A potential optical sensor based on nanostructured silicon",
+    "authors": [
+      "Shahzad Ahmed",
+      "Arshiya Ansari",
+      "Moin Ali Siddiqui",
+      "Afzal Khan",
+      "P. Ranjan"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1007/s10854-023-10187-2",
+    "pdf_url": "",
+    "journal": "Journal of Materials Science: Materials in Electronics",
+    "url": "https://www.semanticscholar.org/paper/4a5f2da1b24200cf32769f68e445eae5ec7e194f",
+    "fetched_at": "2026-05-05T07:32:05.699681+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_f3496112ef6894eb",
+    "source": "semantic_scholar",
+    "title": "Ethanol and Acetone Gas Sensor Properties of Porous Silicon Based on Resistance Response",
+    "authors": [
+      "Emad Moghimi",
+      "M. E. Azim Araghi"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1007/s12633-023-02607-z",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/f3496112ef6894eb98af1fd7812a58a18b4c2cf3",
+    "fetched_at": "2026-05-05T07:32:05.699684+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e2229c649ff8aa92",
+    "source": "semantic_scholar",
+    "title": "Enhancing response characteristics of palladium-doped vanadium pentoxide on a porous silicon substrate as gas sensor synthesized by pulsed laser deposition",
+    "authors": [
+      "Mayada A. Abed",
+      "F. Mutlak"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1007/s11082-023-05712-w",
+    "pdf_url": "",
+    "journal": "Optical and Quantum Electronics",
+    "url": "https://www.semanticscholar.org/paper/e2229c649ff8aa92c370cbe15a09bbf1facc7d1b",
+    "fetched_at": "2026-05-05T07:32:05.699690+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_58f4d3d2c9a5ed22",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon: From Optical Sensor to Drug Delivery System",
+    "authors": [
+      "C. Piotto",
+      "P. Bettotti"
+    ],
+    "year": 2017,
+    "abstract": "Nowadays sensors are everywhere around us. We are monitoring nearly all aspects of our daily life: from health to security, from domotic to environmental aspects. The availability of smaller, more efficient and intelligent systems is highly valued to increase the quality and the accuracy of such analysis and of our well-being.",
+    "doi": "10.1007/978-3-319-53035-2_8",
+    "pdf_url": "https://link.springer.com/content/pdf/bfm:978-3-319-53035-2/1?pdf=chapter%20toc",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/58f4d3d2c9a5ed22473a854afd0f9fa16c724c51",
+    "fetched_at": "2026-05-05T07:32:05.699693+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b095d89f20974dd8",
+    "source": "semantic_scholar",
+    "title": "Refractive index sensor using Fibonacci sequence of gyroidal graphene and porous silicon based on Tamm plasmon polariton",
+    "authors": [
+      "Z. Zaky",
+      "M. Al-Dossari",
+      "E. I. Zohny",
+      "A. Aly"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1007/s11082-022-04262-x",
+    "pdf_url": "",
+    "journal": "Optical and Quantum Electronics",
+    "url": "https://www.semanticscholar.org/paper/b095d89f20974dd85b2b0f40d9524a992a36dcd4",
+    "fetched_at": "2026-05-05T07:32:05.699696+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b0d4990309e9702e",
+    "source": "semantic_scholar",
+    "title": "Detection of Echinococcus granulosus antigen by a quantum dot/porous silicon optical biosensor.",
+    "authors": [
+      "Yanyu Li",
+      "Zhenhong Jia",
+      "Guodong Lv",
+      "Hao Wen",
+      "Peng Li",
+      "Hongyan Zhang"
+    ],
+    "year": 2017,
+    "abstract": "Highly sensitive labeled detection of Echinococcus granulosus using colloidal quantum dots (QDs) based on a porous silicon Bragg mirror sensor are demonstrated. Rabbit anti-p38 labeled CdSe/ZnS QDs was infiltrated in porous silicon pores immobilized Egp38 antigen. QD-antibodies are specifically bound to antigens linked covalently to the pore walls of PSi after the immune reaction. By the design of the transfer matrix method and the preparation of the electrochemical etching method, the fluorescence peak wavelength of the quantum dots is located in the forbidden band of the Bragg mirror. The fluorescence of QDs are enhanced by PSi Bragg mirror. Egp38 antigen detection limit of 300fg/mL is achievable. Our results exhibit that the biosensor combining PSi Bragg mirror and QDs can potentially b",
+    "doi": "10.1364/BOE.8.003458",
+    "pdf_url": "https://doi.org/10.1364/boe.8.003458",
+    "journal": "Biomedical optics express",
+    "url": "https://www.semanticscholar.org/paper/b0d4990309e9702ea0d335dea668f0cf18753e86",
+    "fetched_at": "2026-05-05T07:32:05.699700+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2605.02406v1",
+    "source": "arxiv",
+    "title": "Ultra-stable transportable ultraviolet clock laser using cancellation between photo-thermal and photo-birefringence noise",
+    "authors": [
+      "Benjamin Kraus",
+      "Sofia Herbers",
+      "Constantin Nauk",
+      "Uwe Sterr",
+      "Christian Lisdat",
+      "Piet O. Schmidt"
+    ],
+    "year": 2026,
+    "abstract": "Optical clocks require an ultra-stable laser to probe and precisely measure the frequency of the narrow-linewidth clock transition. We introduce a portable ultraviolet (UV) laser system for use in an aluminum quantum logic clock, demonstrating a fractional frequency instability of approximately $\\mathrm{mod}\\,σ_\\mathrm{y} = 2 \\times 10^{-16}$. The system is based on an ultra-stable cavity with crystalline AlGaAs/GaAs mirror coatings, alongside with a frequency quadrupling system employing two single-pass second harmonic generation (SHG) stages. Its acceleration sensitivity, measured in all three axes, does not exceed $4(2) \\times 10^{-12}$/(ms$^{-2}$) and is among the lowest recorded for transportable systems to date. Additionally, partial cancellation between photo-thermal noise and photo",
+    "doi": "10.1364/OL.544907",
+    "pdf_url": "https://arxiv.org/pdf/2605.02406v1",
+    "journal": "Opt. Lett. 50, 658-661 (2025)",
+    "url": "http://arxiv.org/abs/2605.02406v1",
+    "fetched_at": "2026-05-05T07:35:02.159177+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.02383v1",
+    "source": "arxiv",
+    "title": "Engineering THz-frequency light generation, detection and manipulation through graphene",
+    "authors": [
+      "Miriam S. Vitiello",
+      "Leonardo Viti"
+    ],
+    "year": 2026,
+    "abstract": "Graphene has been one of the most investigated materials in the last decade. Its unique optoelectronic properties have indeed raised it to an ideal and revolutionary candidate for the development of entirely novel technologies across the whole electromagnetic spectrum, from the microwaves to the x-rays, even crossing domain of intense application relevance, as terahertz (THz) frequencies. Owing to its exceptionally high tensile strength, electrical conductivity, transparency, ultra-fast carrier dynamics, non-linear optical response to intense fields, electrical tunability and ease of integration with semiconductor materials, graphene is a key disruptor for the engineering of generation, manipulation, and detection technologies with ad-hoc properties, conceived from scratch. In this review,",
+    "doi": "10.1063/5.0199461",
+    "pdf_url": "https://arxiv.org/pdf/2605.02383v1",
+    "journal": "Appl. Phys. Rev. 1 March 2025; 12 (1): 011321",
+    "url": "http://arxiv.org/abs/2605.02383v1",
+    "fetched_at": "2026-05-05T07:35:02.159253+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.01314v1",
+    "source": "arxiv",
+    "title": "Multi-probe detection of domain nucleation across the metal-insulator transition in VO$_2$",
+    "authors": [
+      "Shubhankar Paul",
+      "Giordano Mattoni",
+      "Amitava Ghosh",
+      "Pooja Kesarwani",
+      "Dipak Sahu",
+      "Monika Ahlawat"
+    ],
+    "year": 2026,
+    "abstract": "Electronic and structural degrees of freedom are often intimately coupled in strongly correlated systems, which result in intriguing macroscopic and microscopic phenomena. Using the well-studied material VO$_2$ as a prototype, here we explore the domain distribution across the metal-insulator transition (MIT). We use macroscopic as well as microscopic techniques, such as first-order reversal curve (FORC) and infrared imaging, to probe the domain distributions across the MIT. This study compares MIT in thin films of VO$_2$ with different grain sizes grown by pulsed laser deposition and dc sputtering. We explore the relation between the nature of the FORC distribution and the corresponding thermal hysteresis due to interactions between the supercooled metallic domains and surrounding insulat",
+    "doi": "10.1063/5.0291227",
+    "pdf_url": "https://arxiv.org/pdf/2605.01314v1",
+    "journal": "Appl. Phys. Lett. 128, 052202 (2026)",
+    "url": "http://arxiv.org/abs/2605.01314v1",
+    "fetched_at": "2026-05-05T07:35:02.159617+00:00",
+    "material": "other"
   }
 ]
