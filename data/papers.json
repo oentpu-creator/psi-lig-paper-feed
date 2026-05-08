@@ -4630,5 +4630,487 @@
     "url": "http://arxiv.org/abs/2605.01314v1",
     "fetched_at": "2026-05-05T07:35:02.159617+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_096e348e4688d085",
+    "source": "semantic_scholar",
+    "title": "Flexible Stretchable Strain Sensor Based on LIG/PDMS for Real-Time Health Monitoring of Test Pilots",
+    "authors": [
+      "Shouqing Li",
+      "Zhanghui Wu",
+      "Hongyun Fan",
+      "Mian Zhong",
+      "Xiaoqing Xing",
+      "Yongzheng Wang"
+    ],
+    "year": 2025,
+    "abstract": "In the rapidly advancing era of intelligent technology, flexible strain sensors are emerging as a key component in wearable electronics. Laser-induced graphene (LIG) stands out as a promising fabrication method due to its rapid processing, environmental sustainability, low cost, and superior physicochemical properties. However, the stretchability and conformability of LIG are often limited by the substrate material, hindering its application in scenarios requiring high deformation. To address this issue, we propose a high-performance flexible and stretchable strain sensor fabricated by generating graphene on a polyimide (PI) substrate using laser induction and subsequently transferred onto a polydimethylsiloxane (PDMS). The resultant sensor demonstrates an ultra-low detection limit (0.1%),",
+    "doi": "10.3390/s25092884",
+    "pdf_url": "",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/096e348e4688d085763908338fd8efcd42886f6b",
+    "fetched_at": "2026-05-08T06:21:21.994872+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_730934e0aa1ab2b7",
+    "source": "semantic_scholar",
+    "title": "LIG-OSS: Integrated Laser-Induced-Graphene Sensor and Open-Source Silicon Chip for an Affordable and Robust Wearable Sensing System with Precise Temperature, Humidity, and Strain Sensing Capability",
+    "authors": [
+      "Hongyi Wu",
+      "Anhang Li",
+      "Gregory Kielian",
+      "Mehdi Saligane"
+    ],
+    "year": 2024,
+    "abstract": "This paper presents a multifunctional wearable sensing system that integrates flexible Laser-Induced-Graphene (LIG) based sensors and an Open-Source Analog Front-End (AFE) chip. The LIG sensors are fabricated on polyimide (PI) Flexible Printed Circuit Board (FPCB) through CO2 infrared laser direct-write method. The LIG sensors provide repeatable high- precision temperature sensing, humidity measurement, and strain detection capability. The temperature sensing characterization shows the resistive LIG sensor has a sensitivity of -0.0493 %/°C, the linear fit R-square factors > 0.9973 across -40 °C to 125 °C. The capacitive humidity sensor achieves a normalized response of 2260% at 95% relative humidity (RH). Our proposed AFE chip contains a hybrid folded-cascode Operational Amplifier (OPAMP) ",
+    "doi": "10.1109/NEMS60219.2024.10639937",
+    "pdf_url": "",
+    "journal": "2024 IEEE 19th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS)",
+    "url": "https://www.semanticscholar.org/paper/730934e0aa1ab2b7e590e7ec11d7d0871a0708d1",
+    "fetched_at": "2026-05-08T06:21:21.994897+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_0d661b14933e7d4c",
+    "source": "semantic_scholar",
+    "title": "Femtosecond infra-red laser carbonization and ablation of polyimide for fabrication of Kirigami inspired strain sensor",
+    "authors": [
+      "R. Biswas",
+      "N. Farid",
+      "B. Bhatt",
+      "D. Gupta",
+      "G. O'Connor",
+      "P. Scully"
+    ],
+    "year": 2023,
+    "abstract": "Microfabrication of polyimide (PI) with femtosecond laser of wavelength 1030 nm is studied in two process conditions. Firstly, the low power-low scan speed regime is investigated for laser carbonization producing piezoresistive laser induced graphene (LIG). The heat accumulation model is modelled to find the temporal evolution of temperature at the laser focus for a single laser scan. Secondly, the high power-high scan speed regime is studied for laser ablation where clean ablation was observed due to multiphoton absorption. To demonstrate the application of this process, a two-dimensional (2D) LIG based strain sensor is drawn on a Kapton PI sheet using laser carbonization and transformed into a three-dimensional (3D) conformal sensor by cutting into a Kirigami design using laser ablation.",
+    "doi": "10.1088/1361-6463/acb71e",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6463/acb71e/pdf",
+    "journal": "Journal of Physics D: Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/0d661b14933e7d4c398bceedeb3c63e7df5bf557",
+    "fetched_at": "2026-05-08T06:21:21.994903+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_35f257027b47bd84",
+    "source": "semantic_scholar",
+    "title": "Laser-induced porous graphene on Polyimide/PDMS composites and its kirigami-inspired strain sensor",
+    "authors": [
+      "Hao Wang",
+      "Zifeng Zhao",
+      "Panpan Liu",
+      "Xiaogang Guo"
+    ],
+    "year": 2021,
+    "abstract": "Abstract The laser-induced porous graphene (LIG) prepared in a straightforward fabrication method is presented, and its applications in stretchable strain sensors to detect the applied strain are also explored. The LIG formed on the polyimide/polydimethylsiloxane (PI/PDMS) composite exhibits a naturally high stretchability (over 30%), bypassing the transfer printing process compared to the one prepared by laser scribing on PI films. The PI/PDMS composite with LIG shows tunable mechanical and electronic performances with different PI particle concentrations in PDMS. The good cyclic stability and almost linear response of the prepared LIG's resistance with respect to tensile strain provide its access to wearable electronics. To improve the PDMS/PI composite stretchability, we designed and op",
+    "doi": "10.1016/J.TAML.2021.100240",
+    "pdf_url": "https://doi.org/10.1016/j.taml.2021.100240",
+    "journal": "Theoretical and Applied Mechanics Letters",
+    "url": "https://www.semanticscholar.org/paper/35f257027b47bd84320a1ebe22e61136a79fff89",
+    "fetched_at": "2026-05-08T06:21:21.994907+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_dcbb35be4112cd0b",
+    "source": "semantic_scholar",
+    "title": "Full‐Range On‐Body Strain Sensor of Laser‐Induced Graphene Embedded in Thermoplastic Elastomer via Hot Pressing Transfer for Monitoring of the Physiological Signals",
+    "authors": [
+      "Jiaqi Liu",
+      "Du Wu",
+      "Chunlin Liu",
+      "Qiang Wang",
+      "Haoyu Wang"
+    ],
+    "year": 2024,
+    "abstract": "Acquiring physical and mechanical strain information of the human body with wearable strain sensors can provide essential data from personal healthcare to human‐machine interfaces and others. Recent research reveals that CO2 laser scribing can convert polyimide films into porous graphene sponges under ambient atmospheres. However, the electrically conductive laser‐induced graphene (LIG) film mismatches with the tough and rigid plastic substrates when it is employed as stretchable strain sensors. In this work, by leveraging the advantageous properties of atoms‐level configured defects within crystalline LIG and heat transfer printing techniques, a flexible LIG‐SEBS (styrene‐ethylene‐butylene‐styrene) strain sensor is made. It is able to achieve exceptional electromechanical properties inclu",
+    "doi": "10.1002/admt.202301658",
+    "pdf_url": "",
+    "journal": "Advanced Materials Technologies",
+    "url": "https://www.semanticscholar.org/paper/dcbb35be4112cd0b0f98ecb46166e5e3c7b220f4",
+    "fetched_at": "2026-05-08T06:21:21.995060+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_26b4fed323ed038b",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene-Based Pressure Sensor With Corrugated Polyimide Diaphragm",
+    "authors": [
+      "Ryo Oda",
+      "Rihachiro Nakashima",
+      "Hidetoshi Takahashi"
+    ],
+    "year": 2025,
+    "abstract": "Until now, various types of pressure sensors, including piezoresistive and capacitive types, have been developed using the technology of microelectromechanical systems (MEMSs). However, many of these sensors require complex fabrication processes, making it challenging to form 3-D shapes. In contrast, laser-induced graphene (LIG) shows promise for use in various physical sensors due to its high sensitivity as a piezoresistive material and its simple fabrication process. Polyimide (PI) substrates, commonly used for LIG formation, can be easily grooved and cut by ultraviolet (UV) lasers, allowing for the fabrication of 3-D shapes. In this study, we propose a two-gauge corrugated-type pressure sensor with LIG strain gauges on both the top and back sides of a PI substrate featuring a corrugated",
+    "doi": "10.1109/JSEN.2025.3531923",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/26b4fed323ed038b9871073b1f2a74f85cb13af3",
+    "fetched_at": "2026-05-08T06:21:21.995065+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_289bd633d5d31b21",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene-Based Flexible Strain Sensor for Human Finger Motion Detection",
+    "authors": [
+      "Aruloli Kathirvel",
+      "Kalpana Settu"
+    ],
+    "year": 2024,
+    "abstract": "Wearable and flexible electronic devices are important in health monitoring systems. Laser-induced graphene (LIG) has gained popularity in flexible electronics due to its distinct physical and electrical properties. LIG can be formed by direct irradiation of the laser on polyimide (PI) film, resulting in a porous structure with high conductivity. In this study, resistive laser-induced graphene sensors of three different shapes with similar surface areas were engraved on the PI film. The response of resistive strain sensors was measured in terms of resistance by bending them at various angles ranging from 0 to 90 degrees. The performance of the three different sensors with the same surface area of 130 mm2 was compared and its reversibility and repeatability were investigated. The developed ",
+    "doi": "10.1109/TENSYMP61132.2024.10752140",
+    "pdf_url": "",
+    "journal": "2024 IEEE Region 10 Symposium (TENSYMP)",
+    "url": "https://www.semanticscholar.org/paper/289bd633d5d31b213108e2272be5d16c872fc693",
+    "fetched_at": "2026-05-08T06:21:21.995069+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e0aa07af18e56e4e",
+    "source": "semantic_scholar",
+    "title": "Multifunctional strain sensor with adjustable conductive network for wearable applications",
+    "authors": [
+      "Qiaoling Huang",
+      "Yuanyuan Feng",
+      "Xinming Dai",
+      "Shuang Guo",
+      "Shuning Ma",
+      "Amir A. Abdelsalam"
+    ],
+    "year": 2024,
+    "abstract": "Wearable sensors based on nanomaterials have recently elicited keen research interest and potential for a new range of flexible devices. This paper presents a simple method for the preparation of laser‐induced porous graphene (LIG) and discusses its application in monitoring human vital signs. LIG formed on a polyimide (PI)/polydimethylsiloxane (PDMS) composite material exhibits inherent high stretchability (over 30%), eliminating the need for transfer processes used in LIG prepared by laser scribing on PI films. LIG/CuSO4 composite materials, with different concentrations of Cu particles, show tunable mechanical and electronic properties based on laser‐induced graphene. The fabricated LIG demonstrates good cyclic stability and a nearly linear resistance response to tensile strain, making ",
+    "doi": "10.1002/pat.6577",
+    "pdf_url": "",
+    "journal": "Polymers for Advanced Technologies",
+    "url": "https://www.semanticscholar.org/paper/e0aa07af18e56e4e8afd9b50ee96e2b99ef171ce",
+    "fetched_at": "2026-05-08T06:21:21.995077+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_46e892f54f9f36e1",
+    "source": "semantic_scholar",
+    "title": "In Situ Co‐transformation of Reduced Graphene Oxide Embedded in Laser‐Induced Graphene and Full‐Range On‐Body Strain Sensor",
+    "authors": [
+      "H. Yoon",
+      "Kyoung-Muk Lee",
+      "Hanho Shin",
+      "Seongeun Jeong",
+      "Y. Lee",
+      "Sungwook Yang"
+    ],
+    "year": 2023,
+    "abstract": "On‐body strain information provides various indicators such as heart rate, physiological pulse, voice waveform, respiratory rate, and body motion status. Recent advances in wearable strain sensors using nanomaterials have significantly enhanced sensor performance with regard to sensitivity, detectable range, and response time. However, it is still challenging to obtain all types of body strain information, from small vibrations to joint movements, using one type of sensor. Herein, a full‐range on‐body strain (FROS) sensor covering ultrasmall‐to‐large strains such as vocal vibration and joint movement is reported. To achieve an ultrawide detectable range, reduced graphene oxide (rGO)‐embedded laser‐induced graphene (LIG) is synthesized by laser engraving on a graphene oxide (GO)‐embedded po",
+    "doi": "10.1002/adfm.202300322",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202300322",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/46e892f54f9f36e15dcaf0b077aff5699288b4b7",
+    "fetched_at": "2026-05-08T06:21:21.995082+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_3925321f985db0e8",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene Stretchable Strain Sensor with Vertical and Parallel Patterns",
+    "authors": [
+      "Y. Yen",
+      "Chao-Shin Hsu",
+      "Zheng Lei",
+      "Hsin-Jou Wang",
+      "C. Su",
+      "C. Dai"
+    ],
+    "year": 2022,
+    "abstract": "In intelligent manufacturing and robotic technology, various sensors must be integrated with equipment. In addition to traditional sensors, stretchable sensors are particularly attractive for applications in robotics and wearable devices. In this study, a piezoresistive stretchable strain sensor based on laser-induced graphene (LIG) was proposed and developed. A three-dimensional, porous LIG structure fabricated from polyimide (PI) film using laser scanning was used as the sensing layer of the strain sensor. Two LIG pattern structures (parallel and vertical) were fabricated and integrated within the LIG strain sensors. Scanning electron microscopy, an X-ray energy dispersive spectrometer, and Raman scattering spectroscopy were used to examine the microstructure of the LIG sensing layer. Th",
+    "doi": "10.3390/mi13081220",
+    "pdf_url": "https://www.mdpi.com/2072-666X/13/8/1220/pdf?version=1659406016",
+    "journal": "Micromachines",
+    "url": "https://www.semanticscholar.org/paper/3925321f985db0e877c699c2448de0e4819fd950",
+    "fetched_at": "2026-05-08T06:21:21.995086+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7f4dab14f47dc864",
+    "source": "semantic_scholar",
+    "title": "Scorpion-inspired dual-bionic, microcrack-assisted wrinkle based laser induced graphene-silver strain sensor with high sensitivity and broad working range for wireless health monitoring system",
+    "authors": [
+      "Wentao Wang",
+      "Longsheng Lu",
+      "Xiaoyu Lu",
+      "Zhanbo Liang",
+      "Honghao Lin",
+      "Zehong Li"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1007/s12274-022-4680-0",
+    "pdf_url": "",
+    "journal": "Nano Research",
+    "url": "https://www.semanticscholar.org/paper/7f4dab14f47dc86462d4d10a4e9efb4ebc78dbc3",
+    "fetched_at": "2026-05-08T06:21:21.995090+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e84073353401e324",
+    "source": "semantic_scholar",
+    "title": "Fingerprint-Inspired Strain Sensor with Balanced Sensitivity and Strain Range Using Laser-Induced Graphene.",
+    "authors": [
+      "Wentao Wang",
+      "Longsheng Lu",
+      "Zehong Li",
+      "Lihui Lin",
+      "Zhanbo Liang",
+      "Xiaoyu Lu"
+    ],
+    "year": 2021,
+    "abstract": "Sensitivity and strain range are two mutually exclusive features of strain sensors, where a significant improvement in flexibility is usually accompanied by a reduction in sensitivity. The skin of a human fingertip, due to its undulating fingerprint pattern, can easily detect environmental signals and enhances sensitivity without losing elasticity. Inspired by this characteristic, laser-induced graphene (LIG) with a fingerprint structure is prepared in one step on a polyimide (PI) film and transferred into an Ecoflex substrate to assemble resistive strain sensors. Experimentally, the fingerprint-inspired strain sensor exhibits a superfast response time (∼70 ms), balanced sensitivity and strain range (a gauge factor of 191.55 in the 42-50% strain range), and good reliability (>1500 cycles).",
+    "doi": "10.1021/acsami.1c16646",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/e84073353401e3243d7c4a0696612b0c0dccc74f",
+    "fetched_at": "2026-05-08T06:21:21.995094+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_f9d95ed442de65a9",
+    "source": "semantic_scholar",
+    "title": "Pressure Sensor with A Corrugated Structure Utilizing Lig Sensing Element",
+    "authors": [
+      "Ryo Oda",
+      "Rihachiro Nakashima",
+      "Hidetoshi Takahashi"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "",
+    "pdf_url": "",
+    "journal": "2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)",
+    "url": "https://www.semanticscholar.org/paper/f9d95ed442de65a94657614da83ab56aaa35757c",
+    "fetched_at": "2026-05-08T06:21:21.995097+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_8c92ac7d9c9e32b3",
+    "source": "semantic_scholar",
+    "title": "Distributed Fiberoptic Sensor for Simultaneous Temperature and Strain Monitoring Based on Brillouin Scattering Effect in Polyimide-Coated Fibers",
+    "authors": [
+      "Liwen Sheng",
+      "Ligong Li",
+      "Leijun Hu",
+      "M. Yuan",
+      "Jinpeng Lang",
+      "Jianguo Wang"
+    ],
+    "year": 2020,
+    "abstract": "A unique multiparameter sensor for distributed measurement of temperature and strain based on spontaneous Brillouin scattering in polyimide-coated optical fiber is proposed, which is an excellent candidate for the cross-sensitivity problem in conventional Brillouin sensing network. In the experimental section, the discrimination of strain and temperature is successfully demonstrated by analysing the unequal sensing coefficients of the Brillouin frequency shifts generated by different acoustic modes. The Brillouin frequency shifts of the main two peaks are successfully measured to discriminate the strain and temperature with an accuracy 19.68 με and 1.02°C in 2.5 km sensing range. The proposed distributed Brillouin optical fiber sensor allows simultaneous measurement of temperature and stra",
+    "doi": "10.1155/2020/8810986",
+    "pdf_url": "https://doi.org/10.1155/2020/8810986",
+    "journal": "International Journal of Optics",
+    "url": "https://www.semanticscholar.org/paper/8c92ac7d9c9e32b37b3bb93ee159d6c15ba0c4b8",
+    "fetched_at": "2026-05-08T06:21:21.995101+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_ff5fc5996a967602",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene Printed Wearable Flexible Antenna-Based Strain Sensor for Wireless Human Motion Monitoring",
+    "authors": [
+      "Battina Sindhu",
+      "Avinash Kothuru",
+      "Parikshit Sahatiya",
+      "S. Goel",
+      "S. Nandi"
+    ],
+    "year": 2021,
+    "abstract": "Leveraging laser-induced graphene (LIG) in various flexible polymer electronics applications is becoming tremendously popular. LIG is porous multilayer graphene generated by a single-step process using infrared CO2 laser onto the carbon-based polymers. In this article, a direct LIG printed microstrip patch antenna operating at the 5.8-GHz unlicensed band is presented. Based on simulations, the proposed design exhibited the desired unidirectional radiation characteristics with a measured gain of 1.82 dBi at the resonant frequency. The LIG-based rectangular patch was printed using the CO2 laser by selective reduction of polyimide (PI) sheet. The chemical properties of LIG were examined using various structural and morphological characterization techniques, which confirmed the formation of mu",
+    "doi": "10.1109/TED.2021.3067304",
+    "pdf_url": "",
+    "journal": "IEEE Transactions on Electron Devices",
+    "url": "https://www.semanticscholar.org/paper/ff5fc5996a967602de213f56e311dc56c4afb593",
+    "fetched_at": "2026-05-08T06:21:21.995105+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_22503b32354f3053",
+    "source": "semantic_scholar",
+    "title": "Wearable Flexible Strain Sensor Based on Three-Dimensional Wavy Laser-Induced Graphene and Silicone Rubber",
+    "authors": [
+      "Lixiong Huang",
+      "Han Wang",
+      "Peixuan Wu",
+      "Weimin Huang",
+      "Wei Gao",
+      "Feiyu Fang"
+    ],
+    "year": 2020,
+    "abstract": "Laser-induced graphene (LIG) has the advantages of one-step fabrication, prominent mechanical performance, as well as high conductivity; it acts as the ideal material to fabricate flexible strain sensors. In this study, a wearable flexible strain sensor consisting of three-dimensional (3D) wavy LIG and silicone rubber was reported. With a laser to scan on a polyimide film, 3D wavy LIG could be synthesized on the wavy surface of a mold. The wavy-LIG strain sensor was developed by transferring LIG to silicone rubber substrate and then packaging. For stress concentration, the ultimate strain primarily took place in the troughs of wavy LIG, resulting in higher sensitivity and less damage to LIG during stretching. As a result, the wavy-LIG strain sensor achieved high sensitivity (gauge factor w",
+    "doi": "10.3390/s20154266",
+    "pdf_url": "https://www.mdpi.com/1424-8220/20/15/4266/pdf?version=1596186365",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/22503b32354f305357f0fd2de69c961ab2068f51",
+    "fetched_at": "2026-05-08T06:21:21.995108+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_6b614e2e6334aea6",
+    "source": "semantic_scholar",
+    "title": "Ultrasensitive and Stretchable Strain Sensors Based on Laser-Induced Graphene With ZnO Nanoparticles.",
+    "authors": [
+      "Do Hoon Lee",
+      "Takuma Miyashita",
+      "Yan Xuan",
+      "Kuniharu Takei"
+    ],
+    "year": 2024,
+    "abstract": "Laser-induced graphene (LIG) has attracted considerable attention for its use in flexible and stretchable sensors, owing to its electrical/mechanical properties and scalable fabrication processes. Although laser scanning facilitates the formation of LIG and its strain sensor, the strain-sensing sensitivity enhancement of LIG remains limited by the material's properties and structural design. In this study, we demonstrate a substantial improvement in sensitivity that was achieved by fabricating a LIG using ZnO nanoparticle (NP)-assisted photothermal enhancement. The results show that ZnO NPs selectively reduce the threshold fluence needed to convert polyimide (PI) into LIG. By transferring the LIG formed on PI to poly(dimethylsiloxane), we fabricate a stretchable strain sensor with ultrahig",
+    "doi": "10.1021/acsnano.4c13156",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/6b614e2e6334aea602090fe731a29d73f5a19026",
+    "fetched_at": "2026-05-08T06:21:21.995112+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_061aac4c3801b3bd",
+    "source": "semantic_scholar",
+    "title": "Construction of laser-induced graphene/silver nanowire composite structures for low-strain, high-sensitivity flexible wearable strain sensors",
+    "authors": [
+      "Pingan Yang",
+      "Jingyuan Zhao",
+      "Rui Li",
+      "Zhihao Zhou",
+      "Yingang Gui",
+      "Ruixue Sun"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s11431-024-2789-4",
+    "pdf_url": "",
+    "journal": "Science China Technological Sciences",
+    "url": "https://www.semanticscholar.org/paper/061aac4c3801b3bd4e22551d424917b3a5403149",
+    "fetched_at": "2026-05-08T06:21:21.995115+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_bdc7e3e2d64e9a26",
+    "source": "semantic_scholar",
+    "title": "Wearable and Flexible Multifunctional Sensor Based on Laser-Induced Graphene for the Sports Monitoring System.",
+    "authors": [
+      "Tahir Raza",
+      "M. Tufail",
+      "Afzal Ali",
+      "Andrews Boakye",
+      "Xiangjun Qi",
+      "Yulong Ma"
+    ],
+    "year": 2022,
+    "abstract": "The conversion of diverse polymeric substrates into laser-induced graphene (LIG) has recently emerged as a single-step method for the fabrication of patterned graphene-based wearable electronics with a wide range of applications in sensing, actuation, and energy storage. Laser-induced pyrolysis technology has many advantages over traditional graphene design: eco-friendly, designable patterning, roll-to-roll production, and controllable morphology. In this work, we designed wearable and flexible graphene-based strain and pressure sensors by laminating LIG from a commercial polyimide (PI) film. The as-prepared LIG was transferred onto a thin polydimethylsiloxane (PDMS) sheet, interwoven inside an elastic cotton sports fabric with the fabric glue as a wearable sensor. The single LIG/PDMS laye",
+    "doi": "10.1021/acsami.2c14847",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/bdc7e3e2d64e9a26c387526fa0c9675415308113",
+    "fetched_at": "2026-05-08T06:21:21.995119+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_67efb063e52e6474",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene/PDMS for Flexible Strain Sensing Applications",
+    "authors": [
+      "S. M. Bhat",
+      "Fazian Tariq Beigh",
+      "Dhiman Mallick"
+    ],
+    "year": 2025,
+    "abstract": "Flexible strain sensors are essential for the next generation of wearable and stretchable electronics, offering real-time tracking of physiological signals. In this work, a highly sensitive and stretchable strain sensor was developed based on Laser-Induced Graphene (LIG) and Polydimethylsiloxane (PDMS). To overcome the limitations of conventional, LIG-based Polyimide (PI), LIG was transferred onto PDMS for improved stretchability, flexibility, and skin compatibility. The sensor exhibits excellent gauge factors (GF1 ~ 385 at low strain and GF2 ~ 661 at higher strain levels) along with strong durability under cyclic loading. Moreover, high-quality LIG with low defects has been formed later confirmed by Raman spectroscopy (ID/IG ~ 0.26 and I2D/IG ~ 0.75). These results validate the potential ",
+    "doi": "10.1109/ICEE67165.2025.11409765",
+    "pdf_url": "",
+    "journal": "2025 IEEE 7th International Conference on Emerging Electronics (ICEE)",
+    "url": "https://www.semanticscholar.org/paper/67efb063e52e6474d5a487ad9dd1f5d7e835637a",
+    "fetched_at": "2026-05-08T06:21:21.995126+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ec7f1a506c751ddf",
+    "source": "semantic_scholar",
+    "title": "Stretchable Pulse Wave Sensor with a Laser-Induced Graphene-Formed Kirigami Structure",
+    "authors": [
+      "Shintaro Oya",
+      "Taisei Kato",
+      "Gakuto Kagawa",
+      "Rihachiro Nakashima",
+      "Hidetoshi Takahashi"
+    ],
+    "year": 2024,
+    "abstract": "This paper reports on a stretchable laserinduced graphene (LIG) pulse-wave sensor based on a kirigami structure. The proposed sensor is fabricated by embedding a stretchable sensor element using the kirigami structure into an elastic material. The polyimide-based sensor element is formed by UV and CO2 laser irradiation, and the stretchable LIG strain gauges detect skin vibrations caused by pulse waves with high sensitivity. The proposed sensor could be stretched by up to 7.5 mm, and the sensitivity increased 27 times in the stretched state. Furthermore, the fabricated sensor was able to measure the pulse waves. Therefore, the proposed sensor shows potential as a stretchable wearable sensor for measuring pulse waves with high sensitivity.",
+    "doi": "10.1109/SENSORS60989.2024.10785033",
+    "pdf_url": "",
+    "journal": "2024 IEEE SENSORS",
+    "url": "https://www.semanticscholar.org/paper/ec7f1a506c751ddf8636a826a38a4ce75c0a3d42",
+    "fetched_at": "2026-05-08T06:21:21.995130+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_bd52eb71c926925f",
+    "source": "semantic_scholar",
+    "title": "Flexible Wearable Strain Sensors Based on Laser-Induced Graphene for Monitoring Human Physiological Signals",
+    "authors": [
+      "Yao Zou",
+      "Mian Zhong",
+      "Shichen Li",
+      "Zehao Qing",
+      "Xiaoqing Xing",
+      "Guochong Gong"
+    ],
+    "year": 2023,
+    "abstract": "Flexible wearable strain sensors based on laser-induced graphene (LIG) have attracted significant interest due to their simple preparation process, three-dimensional porous structure, excellent electromechanical characteristics, and remarkable mechanical robustness. In this study, we demonstrated that LIG with various defects could be prepared on the surface of polyimide (PI) film, patterned in a single step by adjusting the scanning speed while maintaining a constant laser power of 12.4 W, and subjected to two repeated scans under ambient air conditions. The results indicated that LIG produced at a scanning speed of 70 mm/s exhibited an obvious stacked honeycomb micropore structure, and the flexible strain sensor fabricated with this material demonstrated stable resistance. The sensor exh",
+    "doi": "10.3390/polym15173553",
+    "pdf_url": "https://www.mdpi.com/2073-4360/15/17/3553/pdf?version=1693057783",
+    "journal": "Polymers",
+    "url": "https://www.semanticscholar.org/paper/bd52eb71c926925f696a49e2b24683bd41a4f31b",
+    "fetched_at": "2026-05-08T06:21:21.995134+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_2c6cf3cd100331d1",
+    "source": "semantic_scholar",
+    "title": "Highly Sensitive Multidirectional Strain Sensors Based on Laser-Induced Graphene for Human Activity Monitoring",
+    "authors": [
+      "Yifan Ding",
+      "Ping-an Yang",
+      "Chunyan Mo",
+      "Linlong Song",
+      "Zhengwei Peng",
+      "Yingang Gui"
+    ],
+    "year": 2024,
+    "abstract": "The cross-shaped flexible strain sensors are crucial in motion rehabilitation, human-computer interaction, and bionic robotics. Traditional sensors often use dip coating or immersion for sensitive materials, resulting in weak bonding with stretched substrates and reduced sensitivity at low strains. In contrast, laser-induced graphene (LIG) provides a stronger bond due to chemical induction between the pattern and substrate. This study demonstrates a one-step method for creating porous graphene electrodes by laser direct writing on polyimide (PI)/polydimethylsiloxane (PDMS) composite films, forming a cross-shaped sensitive layer. The cruciform structure ensures symmetry, flexibility, and stability for multidirectional sensing, responsive to applied force direction but less perpendicularly. ",
+    "doi": "10.1109/JSEN.2024.3483957",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/2c6cf3cd100331d115c50017edefcfb61281daa5",
+    "fetched_at": "2026-05-08T06:21:21.995137+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_894b9af5bbc719f6",
+    "source": "semantic_scholar",
+    "title": "Highly Skin-Conformal Laser-Induced Graphene-Based Human Motion Monitoring Sensor",
+    "authors": [
+      "Sung-Yeob Jeong",
+      "Jun-Uk Lee",
+      "Sungmoo Hong",
+      "Chan-Woo Lee",
+      "S. Hwang",
+      "Su-Chan Cho"
+    ],
+    "year": 2021,
+    "abstract": "Bio-compatible strain sensors based on elastomeric conductive polymer composites play pivotal roles in human monitoring devices. However, fabricating highly sensitive and skin-like (flexible and stretchable) strain sensors with broad working range is still an enormous challenge. Herein, we report on a novel fabrication technology for building elastomeric conductive skin-like composite by mixing polymer solutions. Our e-skin substrates were fabricated according to the weight of polydimethylsiloxane (PDMS) and photosensitive polyimide (PSPI) solutions, which could control substrate color. An e-skin and 3-D flexible strain sensor was developed with the formation of laser induced graphene (LIG) on the skin-like substrates. For a one-step process, Laser direct writing (LDW) was employed to cons",
+    "doi": "10.3390/nano11040951",
+    "pdf_url": "https://www.mdpi.com/2079-4991/11/4/951/pdf?version=1619055129",
+    "journal": "Nanomaterials",
+    "url": "https://www.semanticscholar.org/paper/894b9af5bbc719f666b183abe7bb5e5e7ba940f3",
+    "fetched_at": "2026-05-08T06:21:21.995142+00:00",
+    "material": "LIG"
   }
 ]
