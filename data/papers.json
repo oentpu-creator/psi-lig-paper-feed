@@ -5112,5 +5112,142 @@
     "url": "https://www.semanticscholar.org/paper/894b9af5bbc719f666b183abe7bb5e5e7ba940f3",
     "fetched_at": "2026-05-08T06:21:21.995142+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2605.06539v1",
+    "source": "arxiv",
+    "title": "On Fano effect in IR spectra of hydrogenated nanodiamonds",
+    "authors": [
+      "Andrei A. Shiryaev",
+      "Evgeni A. Ekimov"
+    ],
+    "year": 2026,
+    "abstract": "Hydrogenated nanodiamonds may show a \"transmission window\" in infra-red spectra in the vicinity of diamond Raman frequency. This phenomenon is a manifestation of resonance coupling of incident photons with continuum states (Fano resonance). Hpwever, precise mechanism of appearence of the resonance and of related conductivity - surface hydrogenation or specific type of surface reconstruction - remains debatable. We present detailed analysis of infra-red spectra of nanodiamonds of different sizes (2.6-30 nm) possessing the \"transmission window\" and show that the C-H stretch vibrations of adsorbed functional groups cannot be responsible the the Fano resonance. At the same time, it is suggested that a bending mode of monohydride termination on nanodiamond (111) face may couple with diamond opt",
+    "doi": "10.1016/j.diamond.2026.113698",
+    "pdf_url": "https://arxiv.org/pdf/2605.06539v1",
+    "journal": "Diamond & Related Materials 166 (2026) 113698",
+    "url": "http://arxiv.org/abs/2605.06539v1",
+    "fetched_at": "2026-05-10T07:48:18.748145+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.06492v1",
+    "source": "arxiv",
+    "title": "Fifteen new millisecond pulsars in 47 Tucanae",
+    "authors": [
+      "W. Chen",
+      "D. Risbud",
+      "P. C. C. Freire",
+      "A. Ridolfi",
+      "E. Barr",
+      "M. Kramer"
+    ],
+    "year": 2026,
+    "abstract": "47 Tucanae is one of the largest, brightest, and closest globular clusters to Earth. It hosts an exotic stellar population with stellar dynamics that indicate a complex evolution history. The cluster contains a large number of X-ray binaries and millisecond pulsars. However, given its large distance relative to the known pulsar population, previous surveys have found only the very brightest sources. Therefore, surveys with increased sensitivity should find many additional pulsars. Increasing the number of pulsars is crucial to investigate the dynamics of this globular cluster and could also lead to the discovery of unusual types of system. With a significantly increased sensitivity compared to earlier telescopes, MeerKAT is the natural choice to perform new surveys. We carried out two camp",
+    "doi": "10.1051/0004-6361/202659650",
+    "pdf_url": "https://arxiv.org/pdf/2605.06492v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.06492v1",
+    "fetched_at": "2026-05-10T07:48:18.748273+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.06321v1",
+    "source": "arxiv",
+    "title": "Gravitational Lensing of Gravitational Waves from Astrophysical Sources: Theory, Detection, and Applications",
+    "authors": [
+      "Zhiwei Chen",
+      "Youjun Lu"
+    ],
+    "year": 2026,
+    "abstract": "Gravitational waves (GWs) from distant sources such as inspiralling and merging stellar-mass compact binaries, intermediate-mass and supermassive-binary-black-hole can be gravitationally lensed by intervening objects, ranging from stars and primordial black holes to galaxies and clusters. Depending on the GW wavelength relative to the lens scale, lensing occurs in two regimes: geometric optics, producing multiple images with time delays and magnifications, and wave optics, resulting in frequency-dependent waveform modulations. Lensed signals are identified via parameter overlap between event pairs or characteristic frequency-dependent modulations that distinguish them from unlensed signals. Detection rates depend on the redshift and mass distributions of sources and lenses, with promising ",
+    "doi": "10.1088/1674-4527/ae4bad",
+    "pdf_url": "https://arxiv.org/pdf/2605.06321v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.06321v1",
+    "fetched_at": "2026-05-10T07:48:18.748524+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.06282v1",
+    "source": "arxiv",
+    "title": "Elastic and structural anisotropy in silica thin films for gravitational-wave detectors",
+    "authors": [
+      "Brenda Bracco",
+      "Michele Magnozzi",
+      "Stefano Colace",
+      "Maurizio Canepa",
+      "Giulio Favaro",
+      "Marco Bazzan"
+    ],
+    "year": 2026,
+    "abstract": "The thermal noise of mirror coatings for gravitational-wave detectors critically depends on the elastic properties of the constituent materials. Data analyses and theoretical models typically assume each material is homogeneous and isotropic, but isotropy has never been explicitly verified. Using Brillouin light scattering (BLS), we demonstrate for the first time that ion-beam-sputtered SiO2 -- a material still viable for future mirror coatings -- exhibits cylindrical elastic symmetry, with in-plane isotropy but a notable 6% compressive anisotropy along the film normal. This anisotropy remains unchanged after the post-deposition heat treatment currently used in ground-based detectors (500 $^\\circ$C, 10 h) but is nearly eliminated at 900 $^\\circ$C. Infrared reflectivity experiments support ",
+    "doi": "10.1103/fmrf-dys9",
+    "pdf_url": "https://arxiv.org/pdf/2605.06282v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.06282v1",
+    "fetched_at": "2026-05-10T07:48:41.916157+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.05926v1",
+    "source": "arxiv",
+    "title": "Narrowband-to-broadband switchable and polarization-insensitive terahertz metasurface absorber enabled by phase-change material",
+    "authors": [
+      "S. Hadi Badri",
+      "M. M. Gilarlue",
+      "Sanam SaeidNahaei",
+      "Jong Su Kim"
+    ],
+    "year": 2026,
+    "abstract": "A terahertz absorber with controllable and switchable bandwidth and insensitive to polarization is of great interest. Here, we propose and demonstrate a metasurface absorber with switchable bandwidth based on a phase-change material of vanadium dioxide (VO2) and verify its performance by the finite element method simulations. The metasurface absorber is composed of a hybrid cross fractal as a resonator separated from a gold ground-plane by a polyimide spacer. Switching from narrowband to broadband absorber is achieved via connecting VO2 patches to the gold first-order cross fractal converting the resonator to a third-order cross fractal. In the insulator phase of VO2, the main narrowband absorption occurs at the frequency of 6.05 THz with a 0.99 absorption and a full-width half-maximum (FW",
+    "doi": "10.1088/2040-8986/ac3c50",
+    "pdf_url": "https://arxiv.org/pdf/2605.05926v1",
+    "journal": "Journal of Optics 24.2 (2022): 025101",
+    "url": "http://arxiv.org/abs/2605.05926v1",
+    "fetched_at": "2026-05-10T07:49:20.468854+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.05681v1",
+    "source": "arxiv",
+    "title": "Nonlinear Hall quantum oscillations to probe topological Brown-Zak fermions in graphene moiré systems",
+    "authors": [
+      "Jinrui Zhong",
+      "Huimin Peng",
+      "Yuqing Hu",
+      "Qi Feng",
+      "Qiuli Li",
+      "Shihao Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Due to the deep connection with the quantum geometry of electronic Bloch wavefunctions, the second-order nonlinear Hall effect (NLHE) has been an attractive topic since its proposal. However, studies on NLHE under a magnetic field have been lacking. Given that quantum oscillations in the linear response regime have been proven to be useful tools in investigating electronic systems, searching for quantum oscillations in NLHE is of great interest and is expected to provide new avenues to unveil rich quantum geometric properties of novel quasiparticles. Here, we propose a new type of NLHE quantum oscillations and experimentally probe it in graphene moiré systems. It stems from the alternation of the dominant NLHE mechanisms with recurring Bloch states under magnetic field, which enables sensi",
+    "doi": "10.1103/ydym-5t5p",
+    "pdf_url": "https://arxiv.org/pdf/2605.05681v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.05681v1",
+    "fetched_at": "2026-05-10T07:49:26.330127+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.04736v1",
+    "source": "arxiv",
+    "title": "Neural-powered unit disk graph embedding: qubits connectivity for some QUBO problems",
+    "authors": [
+      "Chiara Vercellino",
+      "Paolo Viviani",
+      "Giacomo Vitali",
+      "Alberto Scionti",
+      "Andrea Scarabosio",
+      "Olivier Terzo"
+    ],
+    "year": 2026,
+    "abstract": "Graph embedding is a recurrent problem in quantum computing, for instance, quantum annealers need to solve a minor graph embedding in order to map a given Quadratic Unconstrained Binary Optimization (QUBO) problem onto their internal connectivity pattern. This work presents a novel approach to constrained unit disk graph embedding, which is encountered when trying to solve combinatorial optimization problems in QUBO form, using quantum hardware based on neutral Rydberg atoms. The qubits, physically represented by the atoms, are excited to the Rydberg state through laser pulses. Whenever qubits pairs are closer together than the blockade radius, entanglement can be reached, thus preventing entangled qubits to be simultaneously in the excited state. Hence, the blockade radius determines the ",
+    "doi": "10.1109/QCE53715.2022.00038",
+    "pdf_url": "https://arxiv.org/pdf/2605.04736v1",
+    "journal": "2022 IEEE International Conference on Quantum Computing and Engineering (QCE). IEEE, 2022. p. 186-196",
+    "url": "http://arxiv.org/abs/2605.04736v1",
+    "fetched_at": "2026-05-10T07:49:26.330437+00:00",
+    "material": "other"
   }
 ]
