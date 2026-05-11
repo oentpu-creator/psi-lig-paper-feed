@@ -5249,5 +5249,159 @@
     "url": "http://arxiv.org/abs/2605.04736v1",
     "fetched_at": "2026-05-10T07:49:26.330437+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07862v1",
+    "source": "arxiv",
+    "title": "Electronic excitations in the Shastry-Sutherland compound SrCu$_2$(BO$_3$)$_2$",
+    "authors": [
+      "Tariq Leinen",
+      "Ola K. Forslund",
+      "Eugenio Paris",
+      "Nicola Colonna",
+      "Marco Caputo",
+      "Johan Chang"
+    ],
+    "year": 2026,
+    "abstract": "SrCu2(BO3)2 (SCBO) is a paradigmatic realization of the Shastry-Sutherland model, hosting geometrically frustrated spin dimers and a variety of quantum magnetic phases and phenomena. Although its magnetic properties have been extensively studied, the high-energy electronic excitations that determine the crystal-field environment and Cu-O hybridization have remained largely unexplored. Here we combine Cu L3-edge resonant inelastic x-ray scattering (RIXS), broadband optical spectroscopy, and electronic-structure calculations to determine the relevant local and interband excitation energy scales in SCBO. RIXS resolves a well-defined manifold of localized Cu2+ d-d excitations between 1.8 and 2.4 eV, whose energies and polarization dependence are well reproduced by multireference quantum-chemis",
+    "doi": "10.6084/m9.figshare.32209494",
+    "pdf_url": "https://arxiv.org/pdf/2605.07862v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.07862v1",
+    "fetched_at": "2026-05-11T11:48:00.494626+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07716v1",
+    "source": "arxiv",
+    "title": "Transmission resonances in silicon subwavelength grating slot waveguide with functional host material for sensing applications",
+    "authors": [
+      "S. Hadi Badri"
+    ],
+    "year": 2026,
+    "abstract": "A highly sensitive and selective CO2 gas sensor is presented based on a subwavelength grating (SWG) slot waveguide. Polyhexamethylene biguanide (PHMB) as a functional material fills the slot gap as well as the space between the silicon pillars of the SWG structure. Beyond the photonic bandgap of the SWG slot waveguide, there are transmission resonances sensitive to the refractive index changes of PHMB due to the infiltration of CO2 molecules into the functional material. The numerical simulations indicate that the sensitivity of the structure is S=12.9 pm/ppm which is considerably higher than the previously designed gas sensors based on functional materials. The higher sensitivity of the proposed sensor is attributed to the strong confinement of the light in the slot gap filled with functi",
+    "doi": "10.1016/j.optlastec.2020.106776",
+    "pdf_url": "https://arxiv.org/pdf/2605.07716v1",
+    "journal": "Optics & Laser Technology 136 (2021): 106776",
+    "url": "http://arxiv.org/abs/2605.07716v1",
+    "fetched_at": "2026-05-11T11:48:00.494832+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07715v1",
+    "source": "arxiv",
+    "title": "Subwavelength grating waveguide filter based on cladding modulation with phase-change material grating",
+    "authors": [
+      "S. Hadi Badri",
+      "Saeid Gholami Farkoush"
+    ],
+    "year": 2026,
+    "abstract": "Subwavelength engineering and utilizing phase-change materials with large contrast in their optical properties have become powerful design tools for integrated silicon photonics. Reversible phase-transition of phase-change materials such as Ge2Sb2Te5 (GST) provides a new degree of freedom and opens up the possibility of adding new functionalities to the designed devices. We present an optical filter based on a silicon subwavelength grating (SWG) waveguide evanescently coupled to phase-change material loading segments arranged periodically around the SWG core. The effect of the GST loading segments' geometry and their distance from the SWG core on the filter's central wavelength and bandwidth are studied with three-dimensional finite-difference time-domain simulations. The employment of GST",
+    "doi": "10.1364/AO.419587",
+    "pdf_url": "https://arxiv.org/pdf/2605.07715v1",
+    "journal": "Applied optics 60.10 (2021): 2803-2810",
+    "url": "http://arxiv.org/abs/2605.07715v1",
+    "fetched_at": "2026-05-11T11:48:00.494859+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07713v1",
+    "source": "arxiv",
+    "title": "High-Q Fano resonance in all-dielectric metasurfaces for molecular fingerprint detection",
+    "authors": [
+      "S. Hadi Badri",
+      "M. M. Gilarlue",
+      "Sanam Saeidnahaei",
+      "Jong Su Kim"
+    ],
+    "year": 2026,
+    "abstract": "We present and numerically investigate a high-quality factor (high-Q) meta-atom with Fano resonance. Numerical simulations indicate that the designed meta-atom has a single sharp Fano resonance in the 1350-1750 1/cm range. Moreover, the frequency of the single resonance can be tuned in this frequency range by scaling the meta-atom. We exploit these properties to design a pixelated metasurface for spectrometer-less molecular fingerprint retrieval. The proposed meta-atom with an average quality factor of 2000 makes it possible to decrease the scaling step of metapixels without introducing any resonance overlap between the metapixels leading to higher precision in label-free and non-destructive identification of the molecular fingerprints.",
+    "doi": "10.1364/JOSAB.446803",
+    "pdf_url": "https://arxiv.org/pdf/2605.07713v1",
+    "journal": "Journal of the Optical Society of America B 39.2 (2022): 563-569",
+    "url": "http://arxiv.org/abs/2605.07713v1",
+    "fetched_at": "2026-05-11T11:48:00.494888+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07343v1",
+    "source": "arxiv",
+    "title": "Review of germanium-silicon single-photon avalanche diodes",
+    "authors": [
+      "Neil Na",
+      "Erik Chen",
+      "Gerald S. Bullerb",
+      "Robert H. Hadfield",
+      "Richard A. Sorefd"
+    ],
+    "year": 2026,
+    "abstract": "While it took about a decade for a germanium (Ge) thin film grown on a silicon (Si) substrate to be successfully applied as a detector material for high-speed optical fiber communication application, it took about another decade to further expand its usage as a sensor material for active optical sensing and imaging applications. In this paper, we shall review the progress of a shortwave infrared (SWIR) single-photon detection (SPD) with germanium-silicon (GeSi) single-photon avalanche diode (SPAD), ranging from the first demonstration at cryogenic temperature (Z. Lu et al., 2011) to the recent demonstration at room temperature (N. Na et al, 2024). Potential new applications will also be discussed.",
+    "doi": "10.1117/12.3056028",
+    "pdf_url": "https://arxiv.org/pdf/2605.07343v1",
+    "journal": "Proc. of SPIE Vol. 13448, 1344808 (2025)",
+    "url": "http://arxiv.org/abs/2605.07343v1",
+    "fetched_at": "2026-05-11T11:48:06.348785+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07946v1",
+    "source": "arxiv",
+    "title": "Microscopic Magnetism of A(TiO)Cu4(PO4)4 (A = Ba, Pb, Sr): 31P and 63,65Cu NMR Study",
+    "authors": [
+      "Riho Rästa",
+      "Ivo Heinmaa",
+      "Joosep Link",
+      "Yusuke Kousaka",
+      "Tsuyoshi Kimura",
+      "Yoshihiko Ihara"
+    ],
+    "year": 2026,
+    "abstract": "We report a comprehensive NMR study of the chiral square-cupola antiferromagnet Pb(TiO)Cu$_4$(PO$_4$)$_4$ and compare its microscopic hyperfine and local-field parameters with the Ba/Sr analogues in the $A$(TiO)Cu$_4$(PO$_4$)$_4$ family. Above $T_{\\rm N}\\simeq 6.7$ K, the $^{31}$P Knight shift tracks the bulk susceptibility and yields nearly isotropic transferred hyperfine couplings $H_{\\rm hf}^{[010]}=6.77(3)$ and $H_{\\rm hf}^{[001]}=6.19(3)$ kOe/$μ_{\\rm B}$. Below $T_{\\rm N}$, the frequency-swept $^{31}$P spectrum splits into three lines, in contrast to the four-line pattern reported for BaTCPO. The line separation tracks the onset of the static $^{31}$P internal field with a power-law exponent $β\\simeq 0.23$, consistent with quasi-two-dimensional criticality. Crystal-rotation $^{31}$P N",
+    "doi": "10.1103/fn12-sjlh",
+    "pdf_url": "https://arxiv.org/pdf/2605.07946v1",
+    "journal": "Phys. Rev. B 113, 184428 (2026)",
+    "url": "http://arxiv.org/abs/2605.07946v1",
+    "fetched_at": "2026-05-11T11:48:23.537014+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07896v1",
+    "source": "arxiv",
+    "title": "What if AI systems weren't chatbots?",
+    "authors": [
+      "Sourojit Ghosh",
+      "Pranav Narayanan Venkit",
+      "Sanjana Gautam",
+      "Avijit Ghosh"
+    ],
+    "year": 2026,
+    "abstract": "The rapid convergence of artificial intelligence (AI) toward conversational chatbot interfaces marks a critical moment for the industry. This paper argues that the chatbot paradigm is not a neutral interface choice, but a dominant sociotechnical configuration whose widespread adoption reshapes social, economic, legal, and environmental systems. We examine how treating AI primarily as conversational assistants has extensive structural downsides. We show how chatbot-based systems often fail to adequately meet user needs, particularly in complex or high-stakes contexts, while projecting confidence and authority. We further analyze how the normalization of chatbot-mediated interaction alters patterns of work, learning, and decision-making, contributing to deskilling, homogenization of knowledg",
+    "doi": "10.1145/3805689.3812232",
+    "pdf_url": "https://arxiv.org/pdf/2605.07896v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.07896v1",
+    "fetched_at": "2026-05-11T11:48:23.537077+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.07592v1",
+    "source": "arxiv",
+    "title": "Optimisation of TES design for the CRESST experiment",
+    "authors": [
+      "G. Angloher",
+      "S. Banik",
+      "A. Bento",
+      "A. Bertolini",
+      "R. Breier",
+      "C. Bucci"
+    ],
+    "year": 2026,
+    "abstract": "The CRESST experiment aims at the direct detection of sub-GeV dark matter particles via elastic scattering off nuclei in different target crystals at cryogenic temperatures. The advancement in W-TES sensors allowed the CRESST detectors to reach energy thresholds of 10 eV and lower, opening the way to the exploration of dark matter masses as low as 70 MeV/c2. This work presents optimisation studies of W-TESs aimed at further improving the signal-to-noise ratio and overall detector performance. In particular, we investigate the thickness, dimensions and material composition of phonon collectors and assess their impact on detector response. The results demonstrate a significant performance enhancement and establish new benchmarks for the sensors used within CRESST.",
+    "doi": "10.1109/TASC.2026.3680071",
+    "pdf_url": "https://arxiv.org/pdf/2605.07592v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.07592v1",
+    "fetched_at": "2026-05-11T11:48:58.006525+00:00",
+    "material": "other"
   }
 ]
