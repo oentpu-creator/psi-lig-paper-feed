@@ -5403,5 +5403,604 @@
     "url": "http://arxiv.org/abs/2605.07592v1",
     "fetched_at": "2026-05-11T11:48:58.006525+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.10697v1",
+    "source": "arxiv",
+    "title": "Incompressible Extended Magnetohydrodynamics Waves: Implications of Electron Inertia",
+    "authors": [
+      "Noura E. Shorba",
+      "Abeer A. Mahmoud",
+      "Hamdi M. Abdelhamid"
+    ],
+    "year": 2026,
+    "abstract": "This paper explores plasma wave modes using the extended magnetohydrodynamics (XMHD) model, incorporating Hall drift and electron inertia effects. We utilize the geometric optics ansatz to study perturbed quantities, with a focus on incompressible systems. Our research concludes with the derivation of the dispersion relation for incompressible XMHD and the associated eigenvector solutions, offering new perspectives on plasma wave behavior under these extended scenarios. The dispersion relation shows distinct ion cyclotron and whistler wave branches, with characteristic saturation at the ion and electron gyrofrequencies, respectively. Comparisons between Hall MHD and XMHD demonstrate that XMHD provides a more accurate representation of plasma dynamics, especially at higher wave numbers, bri",
+    "doi": "10.1063/5.0226009",
+    "pdf_url": "https://arxiv.org/pdf/2605.10697v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.10697v1",
+    "fetched_at": "2026-05-12T09:49:16.851266+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.10577v1",
+    "source": "arxiv",
+    "title": "Training continuously-coupled reconfigurable photonic chips with quantum machine learning",
+    "authors": [
+      "Denis Stanev",
+      "Nicolò Spagnolo",
+      "Fabio Sciarrino"
+    ],
+    "year": 2026,
+    "abstract": "Integrated photonic technologies have recently shown significant advances, enabling the possibility to implement reconfigurable interferometers with increasing size. One of the main tasks to fully exploit the capabilities of reconfigurable integrated interferometers is the possibility to precisely program their operation to perform a desired target unitary. While recipes are known for circuit layouts based on a cascade of beam-splitter and phase-shifter operations, a methodology applicable for reconfigurable continuously-coupled waveguide arrays is currently missing. Here, we devise a machine learning based approach for this task, using a black box methodology that does not rely on precise a-priori modeling of the circuit internal architectures. We verify the effectiveness and the robustne",
+    "doi": "10.1002/qute.202501024",
+    "pdf_url": "https://arxiv.org/pdf/2605.10577v1",
+    "journal": "Advanced Quantum Technologies 9, e01024 (2026)",
+    "url": "http://arxiv.org/abs/2605.10577v1",
+    "fetched_at": "2026-05-12T09:49:16.851392+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.09704v1",
+    "source": "arxiv",
+    "title": "Coexistence of trapped and flow-transported nuclei enables fast pigeon post communication across multinucleated cell",
+    "authors": [
+      "Johnny Tong",
+      "Kaspar Wachinger",
+      "Fabian K. Henn",
+      "Nico Schramma",
+      "Siyu Chen",
+      "Karen Alim"
+    ],
+    "year": 2026,
+    "abstract": "Multi-nucleated cells exist in all domains of life, ranging from animals, plants and fungi to single-celled organisms such as the slime mold Physarum polycephalum. The large cell size, in the case of Physarum reaching centimeters and more, challenges the coordination of nuclei activity as signals need to cross large distances. In search for a mechanism for fast long-ranged communication among nuclei, we quantify nuclei dynamics and cytoplasmic flows in Physarum's tubular network. We observe nuclei in two interchangeable, dynamic states: mobile, flowing within the cytoplasmic shuttle flow, or trapped in the tube's porous cell cortex. As we find nuclei to accumulate at the tube's inner fluid-porous interface we theoretically explore and confirm, with physiological parameters, that slowing do",
+    "doi": "10.1073/pnas.2411101122",
+    "pdf_url": "https://arxiv.org/pdf/2605.09704v1",
+    "journal": "Proc. Natl. Acad. Sci. U.S.A. 122 (50) e2411101122 (2025)",
+    "url": "http://arxiv.org/abs/2605.09704v1",
+    "fetched_at": "2026-05-12T09:49:22.625615+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_cb6320a136961b0d",
+    "source": "semantic_scholar",
+    "title": "Fabrication and Characterization of a Porous Silicon Drug Delivery System with an Initiated Chemical Vapor Deposition Temperature-Responsive Coating.",
+    "authors": [
+      "S. McInnes",
+      "E. Szili",
+      "S. Al‐Bataineh",
+      "R. Vasani",
+      "Jingjing Xu",
+      "M. E. Alf"
+    ],
+    "year": 2016,
+    "abstract": "",
+    "doi": "10.1021/acs.langmuir.5b03794",
+    "pdf_url": "",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "url": "https://www.semanticscholar.org/paper/cb6320a136961b0da06f18406428fe4b82acac4c",
+    "fetched_at": "2026-05-12T09:49:45.262433+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_e87b4adb3a32276a",
+    "source": "semantic_scholar",
+    "title": "Programmable Porous Silicon Microparticles for Temporally Staged Drug Delivery in Combination Cancer Immunotherapy.",
+    "authors": [
+      "M. Jeong",
+      "Junyong Yoon",
+      "Kyunghwan Kim",
+      "Joanna Wang",
+      "Yonghoe Koo",
+      "M. Sailor"
+    ],
+    "year": 2025,
+    "abstract": "Combination therapies using checkpoint inhibitors with immunostimulatory agonists have attracted great attention due to their synergistic therapeutic effects for cancer treatment. However, such combination immunotherapies require specific timing of doses to show sufficient antitumor efficacy. Sequential treatment usually requires multiple administrations of the individual drugs at specific time points, thus increasing the complexity of the drug regimen and compromising patient compliance. Here, we introduce an injectable porous silicon microparticle (pSiMP) for combination cancer immunotherapy where its multilayered nanopore structure was electrochemically programmed to achieve release of three distinct immunomodulatory drugs in the right sequence at the desired time. We find the optimal s",
+    "doi": "10.1021/acsami.4c19425",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/e87b4adb3a32276a8e0c3936f67f0cd8569fb810",
+    "fetched_at": "2026-05-12T09:49:45.262457+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_51a986cbafa839a0",
+    "source": "semantic_scholar",
+    "title": "Nano-strategies for advancing oral drug delivery: Porous silicon particles and cyclodextrin encapsulation for enhanced dissolution of poorly soluble drugs.",
+    "authors": [
+      "Hennie Marie Johnsen",
+      "Werner Filtvedt",
+      "Jo Klaveness",
+      "Marianne Hiorth"
+    ],
+    "year": 2024,
+    "abstract": "Development of novel active pharmaceutical ingredients (API) for oral use often face challenges due to low bioavailability. Nanoparticle-based drug delivery systems and cyclodextrin (CD) encapsulation offer promising solutions by enhancing API solubility or dissolution rates. Porous silicon nanoparticles have shown potential to encapsulate APIs in their amorphous form within pores, improving dissolution rates compared to crystalline counterparts. A novel synthesis approach, circumventing the expensive and tedious Si wafer material synthesis, has been developed using centrifugal Chemical Vapor Deposition (cCVD). Herein, various cCVD Si particles were evaluated for their ability to enhance the dissolution rate of the model drugs celecoxib (CEL), phenytoin (PHT), griseofulvin (GRI), diclofena",
+    "doi": "10.1016/j.ijpharm.2024.124809",
+    "pdf_url": "https://doi.org/10.1016/j.ijpharm.2024.124809",
+    "journal": "International journal of pharmaceutics",
+    "url": "https://www.semanticscholar.org/paper/51a986cbafa839a04dd31bb7a5a412a5f3597372",
+    "fetched_at": "2026-05-12T09:49:45.262463+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_beb1f53d05331674",
+    "source": "semantic_scholar",
+    "title": "Effects of hydrophobin-biofunctionalization on the in vivo behavior of 18F-radiolabeled porous silicon drug delivery systems",
+    "authors": [
+      "M. Sarparanta",
+      "L. M. Bimbo",
+      "Jussi Rytkönen",
+      "E. Mäkilä",
+      "J. Salonen",
+      "H. Santos"
+    ],
+    "year": 2013,
+    "abstract": "",
+    "doi": "",
+    "pdf_url": "",
+    "journal": "Journal of Labelled Compounds and Radiopharmaceuticals",
+    "url": "https://www.semanticscholar.org/paper/beb1f53d053316747cc09f8d242ffb0292b33d67",
+    "fetched_at": "2026-05-12T09:49:45.262468+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_a17bf900b8e403af",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Microneedles for Enhanced Transdermal Drug Delivery",
+    "authors": [
+      "Nazia Tabassum",
+      "Maria Alba",
+      "Li Yan",
+      "N. Voelcker"
+    ],
+    "year": 2022,
+    "abstract": "The transdermal route is attractive for the minimally invasive administration of small and large molecules. Microneedles (MNs) are particularly promising because of their straightforward, cost‐effective, and safe administration. But precise control over their degradation rate within the skin remains a challenge. Here, porous silicon microneedles (pSi MNs) with controlled degradation rate, tunable porosity, high payload capacity, and mechanical stability are introduced for transdermal delivery of bioactive molecules. pSi MNs are fabricated by combining dry and wet etching methods. After creating MNs via deep reactive ion etching, a porous surface is obtained by electrochemical anodization, producing pSi MNs of about 42 µm length, tip diameter < 1 µm, and conformal porous layers. The biodegr",
+    "doi": "10.1002/adtp.202200156",
+    "pdf_url": "https://doi.org/10.1002/adtp.202200156",
+    "journal": "Advanced Therapeutics",
+    "url": "https://www.semanticscholar.org/paper/a17bf900b8e403afc17740d509499491019ff50d",
+    "fetched_at": "2026-05-12T09:49:45.262517+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9f0bb0669655d918",
+    "source": "semantic_scholar",
+    "title": "Mechanism of erosion of nanostructured porous silicon drug carriers in neoplastic tissues",
+    "authors": [
+      "Adi Tzur-Balter",
+      "Zohar Shatsberg",
+      "Margarita Beckerman",
+      "E. Segal",
+      "N. Artzi"
+    ],
+    "year": 2015,
+    "abstract": "Nanostructured porous silicon (PSi) is emerging as a promising platform for drug delivery owing to its biocompatibility, degradability and high surface area available for drug loading. The ability to control PSi structure, size and porosity enables programming its in vivo retention, providing tight control over embedded drug release kinetics. In this work, the relationship between the in vitro and in vivo degradation of PSi under (pre)clinically relevant conditions, using breast cancer mouse model, is defined. We show that PSi undergoes enhanced degradation in diseased environment compared with healthy state, owing to the upregulation of reactive oxygen species (ROS) in the tumour vicinity that oxidize the silicon scaffold and catalyse its degradation. We further show that PSi degradation ",
+    "doi": "10.1038/ncomms7208",
+    "pdf_url": "https://www.nature.com/articles/ncomms7208.pdf",
+    "journal": "Nature Communications",
+    "url": "https://www.semanticscholar.org/paper/9f0bb0669655d918ad2d1cc60e22f12c28d541ee",
+    "fetched_at": "2026-05-12T09:49:45.262522+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_be5a997699d4b489",
+    "source": "semantic_scholar",
+    "title": "Gadolinium silicate-coated porous silicon nanoparticles as an MRI contrast agent and drug delivery carrier",
+    "authors": [
+      "Ji Hye Jin",
+      "H. Um",
+      "Ji Hyeon Oh",
+      "Youngbuhm Huh",
+      "Yuna Jung",
+      "Dokyoung Kim"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1016/j.matchemphys.2022.126345",
+    "pdf_url": "",
+    "journal": "Materials Chemistry and Physics",
+    "url": "https://www.semanticscholar.org/paper/be5a997699d4b48954abe193805a8654fbe3d752",
+    "fetched_at": "2026-05-12T09:49:45.262526+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_07a32dc170779d87",
+    "source": "semantic_scholar",
+    "title": "Exploring the physicochemical interactions and loading strategies of mesoporous silicon dioxide nanoparticles for drug delivery.",
+    "authors": [
+      "Svetlana Kovtareva",
+      "E. Kopishev",
+      "Hongbo Zhang",
+      "Sergey K Filippov"
+    ],
+    "year": 2025,
+    "abstract": "Mesoporous silica nanoparticles play an important role in drug delivery due to their high surface area, porous structure, tunable pore size, chemical stability and functionalization capability. Such properties make them a good candidate for drug encapsulation. However, molecular binding is another parameter that govern drug loading apart of pores' structure and size. There is a lack of comprehensive reviews on that topic nowadays. This paper overviews the latest publications on the physicochemical aspects of the interaction of mesoporous silica nanoparticles with drugs. The review is focused primarily on a such parameters of the intermolecular binding between a drug and silica nanoparticle as a binding constant, enthalpy and entropy changes and experimental methods with the emphasis on the",
+    "doi": "10.1016/j.ejpb.2025.114654",
+    "pdf_url": "",
+    "journal": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+    "url": "https://www.semanticscholar.org/paper/07a32dc170779d87abb1cc666e92eccdd2842917",
+    "fetched_at": "2026-05-12T09:49:45.262534+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_762dbdfa8dc89419",
+    "source": "semantic_scholar",
+    "title": "Tailoring Porous Silicon for Biomedical Applications: From Drug Delivery to Cancer Immunotherapy",
+    "authors": [
+      "Wei Li",
+      "Zehua Liu",
+      "F. Fontana",
+      "Yaping Ding",
+      "Dongfei Liu",
+      "J. Hirvonen"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1002/adma.201703740",
+    "pdf_url": "",
+    "journal": "Advanced Materials",
+    "url": "https://www.semanticscholar.org/paper/762dbdfa8dc894199ba499749dc70a21d58681ae",
+    "fetched_at": "2026-05-12T09:49:45.262539+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_20a11830903cece8",
+    "source": "semantic_scholar",
+    "title": "Hybrid porous silicon/green synthetized Ag microparticles as potential carries for Ag nanoparticles and drug delivery.",
+    "authors": [
+      "Jacobo Hernández-Montelongo",
+      "Cristian Fernández-Fierro",
+      "Noelia Benito-Gómez",
+      "M. Romero-Sáez",
+      "J. Parodi",
+      "Erico R. Carmona"
+    ],
+    "year": 2020,
+    "abstract": "In the present work, the fabrication of hybrid porous silicon/green synthetized Ag microparticles was shown and the potential use as carriers for Ag nanoparticles and drug delivery was explored. Hybrid microparticles were fabricated by incorporating green synthetized Ag nanoparticles into porous silicon matrix. The main physicochemical characteristics of the hybrid systems were studied by several techniques including UV-vis spectroscopy, TEM, SEM, XRD and XPS. The toxicology of these hybrid systems was investigated by cell viability, MTT, and comet assays. In addition, the possibility to aggregate different drug to use as drug delivery system was demonstrated by using florfenicol as drug model, due to its importance in salmon industry. The experimental results showed the potential to use t",
+    "doi": "10.1016/j.msec.2020.111183",
+    "pdf_url": "",
+    "journal": "Materials science & engineering. C, Materials for biological applications",
+    "url": "https://www.semanticscholar.org/paper/20a11830903cece87fcb8d45b6440c36c922ac57",
+    "fetched_at": "2026-05-12T09:49:45.262544+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_5f7543f7915fe337",
+    "source": "semantic_scholar",
+    "title": "A Gentle Sedimentation Process for Size-Selecting Porous Silicon Microparticles to Be Used for Drug Delivery Via Fine Gauge Needle Administration",
+    "authors": [
+      "E. Nekovic",
+      "C. Storey",
+      "A. Kaplan",
+      "W. Theis",
+      "L. Canham"
+    ],
+    "year": 2020,
+    "abstract": "Biodegradable porous silicon (pSi) particles are under development for drug delivery applications. The optimum particle size very much depends on medical use, and microparticles can outperform nanoparticles in specific instances. Here we demonstrate the ability of sedimentation to size-select ultrasmall (1–10 μm) nanoporous microparticles in common solvents. Size tunability is quantified for 1–24 h of sedimentation. Experimental values of settling times in ethanol and water are compared to those calculated using Stokes’ Law. Differences can arise due to particle agglomeration, internal gas generation and incomplete wetting. Air-dried and supercritically-dried pSi powders are shown to have, for example, their median diameter d (0.5) particle sizes reduced from 13 to 1 μm and from 20 to 3 μm",
+    "doi": "10.1007/s12633-020-00895-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12633-020-00895-3.pdf",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/5f7543f7915fe3379ea93648e1b6d6da547bb3fe",
+    "fetched_at": "2026-05-12T09:49:45.262553+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_008899a8efec2f01",
+    "source": "semantic_scholar",
+    "title": "An Investigation of the Characterization and Drug Delivery Potential of Ibuprofen Using Modified High Surface Area Porous Materials",
+    "authors": [
+      "Suman Chirra",
+      "Sripal Reddy Gujjula",
+      "Suresh Siliveri",
+      "Srinath Goskula",
+      "Chandra Mohan Andugula",
+      "Vijay Kumar Ponnala"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12633-025-03276-w",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/008899a8efec2f01cbb2dd3b9cc90794003e96c9",
+    "fetched_at": "2026-05-12T09:49:45.262556+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_c4a3d75fe892829f",
+    "source": "semantic_scholar",
+    "title": "Porous silicon nitride–based drug delivery carrier",
+    "authors": [
+      "M. Hičák",
+      "Ľ. Medvecký",
+      "M. Hnatko",
+      "R. Štulajterová",
+      "M. Giretová",
+      "Monika Tatarková"
+    ],
+    "year": 2021,
+    "abstract": "",
+    "doi": "10.1111/ijac.13908",
+    "pdf_url": "",
+    "journal": "International Journal of Applied Ceramic Technology",
+    "url": "https://www.semanticscholar.org/paper/c4a3d75fe892829f86eb5ddb5173fd455bcfc07c",
+    "fetched_at": "2026-05-12T09:49:45.262561+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_12c73b45cc94a51c",
+    "source": "semantic_scholar",
+    "title": "Spatially Controlled Surface Modification of Porous Silicon for Sustained Drug Delivery Applications",
+    "authors": [
+      "Dexiang Zhang",
+      "C. Yoshikawa",
+      "N. Welch",
+      "P. Pasic",
+      "H. Thissen",
+      "N. Voelcker"
+    ],
+    "year": 2019,
+    "abstract": "A new and facile approach to selectively functionalize the internal and external surfaces of porous silicon (pSi) for drug delivery applications is reported. To provide a surface that is suitable for sustained drug release of the hydrophobic cancer chemotherapy drug camptothecin (CPT), the internal surfaces of pSi films were first modified with 1-dodecene. To further modify the external surface of the pSi samples, an interlayer was applied by silanization with (3-aminopropyl)triethoxysilane (APTES) following air plasma treatment. In addition, copolymers of N-(2-hydroxypropyl) acrylamide (HPAm) and N-benzophenone acrylamide (BPAm) were grafted onto the external pSi surfaces by spin-coating and UV crosslinking. Each modification step was verified using attenuated total reflection-Fourier tra",
+    "doi": "10.1038/s41598-018-37750-w",
+    "pdf_url": "https://www.nature.com/articles/s41598-018-37750-w.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/12c73b45cc94a51cf05f6e989d573979bbcbeea7",
+    "fetched_at": "2026-05-12T09:49:45.262565+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_af1e6803d7c7e17f",
+    "source": "semantic_scholar",
+    "title": "Polymer-grafted porous silicon nanoparticles for enhanced siRNA delivery",
+    "authors": [
+      "Zahra Abousalman-Rezvani",
+      "Pouya Dehghankelishadi",
+      "Lars Esser",
+      "N. Voelcker"
+    ],
+    "year": 2025,
+    "abstract": "Small interfering RNA (siRNA) shows promise for cancer treatment but faces biological barriers limiting its effective clinical use. To overcome these limitations and enhance siRNA’s therapeutic potential, innovative drug delivery systems are needed. Porous silicon nanoparticles (pSiNPs) are an attractive drug delivery system due to their high surface area, biodegradability, and tuneable porosity, although challenges with uncontrolled degradation, limited circulation time, and inefficient drug release remain. To address these limitations, we explored surface-initiated reversible addition-fragmentation chain transfer polymerisation to modify pSiNPs with poly(2-(dimethylamino)ethyl methacrylate) (PDMAEMA) and poly(oligo(ethylene glycol) methacrylate) (POEGA). PDMAEMA, an ionisable polymer wit",
+    "doi": "10.1680/jsuin.25.00007",
+    "pdf_url": "",
+    "journal": "Surface Innovations",
+    "url": "https://www.semanticscholar.org/paper/af1e6803d7c7e17f2536293b282ab48bdc5fd7bf",
+    "fetched_at": "2026-05-12T09:49:45.262570+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_846fd1caf35f9056",
+    "source": "semantic_scholar",
+    "title": "A fluorous biphase drug delivery system triggered by low frequency ultrasound: controlled release from perfluorous discoidal porous silicon particles",
+    "authors": [
+      "Jing Liu",
+      "Shuo Li",
+      "Linan Liu",
+      "Zhiling Zhu"
+    ],
+    "year": 2020,
+    "abstract": "Conventional drug delivery systems face unsatisfactory loading efficiency, poor biological bypass, and uncontrollable release, which are great barriers for improving the treatment of many diseases. Herein, a proof-of-concept of a fluorous biphase drug delivery system (FB-DDS) trigged by low frequency ultrasound (LFUS) is proposed for the first time, where promoted incorporation and stabilization of therapeutic agents in nanocarriers was achieved through fluorine–fluorine interactions, and the encapsulated drugs were controllably released by external sources, resulting in minimized nonspecific toxicity and enhanced therapeutic efficacy. The FB-DDS was constructed from monodisperse, discoidal porous silicon particles (PSP) and was functionalized with 1H,1H,2H,2H-perfluorodecyltrimethoxysilan",
+    "doi": "10.1039/d0na00324g",
+    "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2020/na/d0na00324g",
+    "journal": "Nanoscale Advances",
+    "url": "https://www.semanticscholar.org/paper/846fd1caf35f9056c4867f693ae22fbce919a47c",
+    "fetched_at": "2026-05-12T09:49:45.262574+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_afde6add4670ccb5",
+    "source": "semantic_scholar",
+    "title": "Porous silicon nanomaterials: recent advances in surface engineering for controlled drug-delivery applications.",
+    "authors": [
+      "Dexiang Zhang",
+      "L. Esser",
+      "R. Vasani",
+      "H. Thissen",
+      "N. Voelcker"
+    ],
+    "year": 2019,
+    "abstract": "Porous silicon (pSi) nanomaterials are increasingly attractive for biomedical applications due to their promising properties such as simple and feasible fabrication procedures, tunable morphology, versatile surface modification routes, biocompatibility and biodegradability. This review focuses on recent advances in surface modification of pSi for controlled drug delivery applications. A range of functionalization strategies and fabrication methods for pSi-polymer hybrids are summarized. Surface engineering solutions such as stimuli-responsive polymer grafting, stealth coatings and active targeting modifications are highlighted as examples to demonstrate what can be achieved. Finally, the current status of engineered pSi nanomaterials for in vivo applications is reviewed and future prospect",
+    "doi": "10.2217/nnm-2019-0167",
+    "pdf_url": "",
+    "journal": "Nanomedicine",
+    "url": "https://www.semanticscholar.org/paper/afde6add4670ccb5474876b1611fa097f4105db8",
+    "fetched_at": "2026-05-12T09:49:45.262578+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_2a1aad3debbc6a05",
+    "source": "semantic_scholar",
+    "title": "Oxidized Porous Silicon Nanoparticles Covalent-Bonded with Levofloxacin in Hydrogel Polymer as a Drug Delivery System.",
+    "authors": [
+      "Hajin Kim",
+      "H. Sohn"
+    ],
+    "year": 2020,
+    "abstract": "Oxidized porous silicon (OPS) nanoparticles covalent-bonded with levofloxacin in hydrogel polymer are prepared and used to measure the efficiency for the controlled release drug delivery. Levofloxacin is covalently bonded to a Si-OH surface of OPS nanoparticles by catalytic condensation. The average size of these particles is about 100 nm. Since levofloxacin has a fluorescence property, the release of levofloxacin has been measured by fluorescence spectrometer. The quantity of levofloxacin release from the OPS nanoparticles is measured at the emission wavelength at 455 nm with an excitation wavelength of 330 nm on a time scale in pH 7 aqueous buffer solution. The analysis of release profile reveals that the OPS covalently bonded with levofloxacin (Levo-OPS) exhibits a great potential candi",
+    "doi": "10.1166/jnn.2020.17843",
+    "pdf_url": "",
+    "journal": "Journal of nanoscience and nanotechnology",
+    "url": "https://www.semanticscholar.org/paper/2a1aad3debbc6a05841f19d07fa91fe20f6a263d",
+    "fetched_at": "2026-05-12T09:49:45.262582+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_02b13dfe8d233391",
+    "source": "semantic_scholar",
+    "title": "Inhalable porous particles as dual micro-nano carriers demonstrating efficient lung drug delivery for treatment of tuberculosis.",
+    "authors": [
+      "J. E. Campos Pacheco",
+      "Tetiana Yalovenko",
+      "Azra Riaz",
+      "Nikolay Kotov",
+      "C. Davids",
+      "A. Persson"
+    ],
+    "year": 2024,
+    "abstract": "Inhalation therapy treating severe infectious disease is among the more complex and emerging topics in controlled drug release. Micron-sized carriers are needed to deposit drugs into the lower airways, while nano-sized carriers are of preference for cell targeting. Here, we present a novel and versatile strategy using micron-sized spherical particles with an excellent aerodynamic profile that dissolve in the lung fluid to ultimately generate nanoparticles enabling to enhance both extra- and intra-cellular drug delivery (i.e., dual micro-nano inhalation strategy). The spherical particles are synthesised through the condensation of nano-size amorphous silicon dioxide resulting in high surface area, disordered mesoporous silica particles (MSPs) with monodispersed size of 2.43 μm. Clofazimine ",
+    "doi": "10.1016/j.jconrel.2024.03.013",
+    "pdf_url": "https://doi.org/10.1016/j.jconrel.2024.03.013",
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "url": "https://www.semanticscholar.org/paper/02b13dfe8d2333911c2d360dde0c515966fc3963",
+    "fetched_at": "2026-05-12T09:49:45.262587+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_e8a4e188a178a5ad",
+    "source": "semantic_scholar",
+    "title": "Porous silicon and silica carriers for delivery of peptide therapeutics",
+    "authors": [
+      "Jiachen Yan",
+      "Prakriti Siwakoti",
+      "Siuli Shaw",
+      "Sudeep Bose",
+      "Ganesh R. Kokil",
+      "Tushar Kumeria"
+    ],
+    "year": 2024,
+    "abstract": "Peptides have gained tremendous popularity as biological therapeutic agents in recent years due to their favourable specificity, diversity of targets, well-established screening methods, ease of production, and lower cost. However, their poor physiological and storage stability, pharmacokinetics, and fast clearance have limited their clinical translation. Novel nanocarrier-based strategies have shown promise in overcoming these issues. In this direction, porous silicon (pSi) and mesoporous silica nanoparticles (MSNs) have been widely explored as potential carriers for the delivery of peptide therapeutics. These materials possess several advantages, including large surface areas, tunable pore sizes, and adjustable pore architectures, which make them attractive carriers for peptide delivery ",
+    "doi": "10.1007/s13346-024-01609-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13346-024-01609-7.pdf",
+    "journal": "Drug Delivery and Translational Research",
+    "url": "https://www.semanticscholar.org/paper/e8a4e188a178a5ad2ffae1a9e8c411acb06e8606",
+    "fetched_at": "2026-05-12T09:49:45.262591+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_97ba1a6e3b306a5c",
+    "source": "semantic_scholar",
+    "title": "Quantification and Reduction of the Residual Chemical Reactivity of Passivated Biodegradable Porous Silicon for Drug Delivery Applications",
+    "authors": [
+      "Q. Shabir",
+      "K. Webb",
+      "D. Nadarassan",
+      "A. Loni",
+      "L. Canham",
+      "M. Terracciano"
+    ],
+    "year": 2018,
+    "abstract": "The chemical reactivity of as-anodized porous silicon is shown to have an adverse effect on a model drug (Lansoprazole) loaded into the pores. The silicon hydride surfaces can cause unwanted reactions with actives during storage or use. Techniques such as thermal oxidation or surface derivitization can lower the reactivity somewhat, by replacing the reactive silicon-hydride species with a more benign oxide or functional group. However, by using a trio of analytical techniques (fluorometric dye assay, HPLC assay, and chemography) we show that residual hydride is still likely to be present and only after combining thermal oxidation with surface derivitization can the residual reactivity be reduced to those values typically observed with sol-gel (porous) silica. Potential sources of residual ",
+    "doi": "10.1007/s12633-016-9454-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs12633-016-9454-4.pdf",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/97ba1a6e3b306a5c3961f1ce7242c8f26bcda7da",
+    "fetched_at": "2026-05-12T09:49:45.262595+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ff2788787e691731",
+    "source": "semantic_scholar",
+    "title": "Porous silicon for drug delivery applications and theranostics: recent advances, critical review and perspectives",
+    "authors": [
+      "T. Kumeria",
+      "S. McInnes",
+      "Shaheer Maher",
+      "Abel Santos"
+    ],
+    "year": 2017,
+    "abstract": "",
+    "doi": "10.1080/17425247.2017.1317245",
+    "pdf_url": "https://digital.library.adelaide.edu.au/dspace/bitstream/2440/105845/2/hdl_105845.pdf",
+    "journal": "Expert Opinion on Drug Delivery",
+    "url": "https://www.semanticscholar.org/paper/ff2788787e6917316f1c1d0363c27a8b736d8cd7",
+    "fetched_at": "2026-05-12T09:49:45.262599+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_725fc62583949e53",
+    "source": "semantic_scholar",
+    "title": "Porous silicon nanotube bundles as nanocarriers for small interfering RNA delivery",
+    "authors": [
+      "N. T. Le",
+      "G. Akkaraju",
+      "J. Coffer"
+    ],
+    "year": 2024,
+    "abstract": "We describe in this work an evaluation of bundles of hollow mesoporous silicon nanotubes to facilitate transfection of HeLa cells using small interfering RNA designed to knock down expression of Enhanced Green Fluorescent Protein (eGFP). These experiments entail direct visualization of the nanotube bundles associated with the cells using both scanning electron microscopy (SEM) and confocal fluorescence imaging. These nanotube bundles are generated by surface modification of nanotube arrays with aminopropyl‐triethoxysilane (APTES), followed by their ultrasonication in water, to create the amine‐terminated structures capable of electrostatic conjugation of siRNA at an efficiency of 23%–50% (depending on initial siRNA concentration). Delivery and transfection to HeLa cells are verified by qua",
+    "doi": "10.1002/nano.202300111",
+    "pdf_url": "",
+    "journal": "Nano Select",
+    "url": "https://www.semanticscholar.org/paper/725fc62583949e53938db8e0ac57c1443773cb61",
+    "fetched_at": "2026-05-12T09:49:45.262603+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_fde49187097b362c",
+    "source": "semantic_scholar",
+    "title": "Stable \"snow lantern-like\" aggregates of silicon nanoparticles suitable as a drug delivery platform.",
+    "authors": [
+      "Hennie Marie Johnsen",
+      "Seyedmehdi Hossaini Nasr",
+      "R. De Luna",
+      "Werner Filtvedt",
+      "M. Sailor",
+      "Jo Klaveness"
+    ],
+    "year": 2024,
+    "abstract": "Nanomedicine is a growing field where development of novel organic and inorganic materials is essential to meet the complex requirements for drug delivery. This includes biocompatibility, suitability for surface modifications, biodegradability, and stability sufficient to carry a drug payload through various tissues for the desired timespan. Porous silicon nanoparticles (pSi NP) are shown to have several beneficial traits in drug delivery in addition to a porous structure to maximize drug loading. The conventional synthesis of pSi NP using electrochemical etching is costly, time-consuming and requires large quantities of highly toxic hydrofluoric acid (HF). As such this research attempted a novel method to address these limitations. Mesoporous silicon nanoparticles were prepared by centrif",
+    "doi": "10.1039/d3nr05655d",
+    "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2024/nr/d3nr05655d",
+    "journal": "Nanoscale",
+    "url": "https://www.semanticscholar.org/paper/fde49187097b362c9967838ba397bbd6207021d2",
+    "fetched_at": "2026-05-12T09:49:45.262607+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_5af40c6cfe57e2c9",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon as a Nanomaterial for Disperse Transport Systems of Targeted Drug Delivery to the Inner Ear",
+    "authors": [
+      "Y. Spivak",
+      "A. Belorus",
+      "A. A. Panevin",
+      "S. Zhuravskii",
+      "V. Moshnikov",
+      "K. Bespalova"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1134/S1063784218090207",
+    "pdf_url": "",
+    "journal": "Technical Physics",
+    "url": "https://www.semanticscholar.org/paper/5af40c6cfe57e2c93e2c901b4a517fb2a3509749",
+    "fetched_at": "2026-05-12T09:49:45.262611+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2605.09980v1",
+    "source": "arxiv",
+    "title": "Physical design of cold neutron direct geometry inelastic spectrometer at China Spallation Neutron Source",
+    "authors": [
+      "Qian Zhao",
+      "Xiaowen Zhang",
+      "Songwen Xiao",
+      "Wei Luo",
+      "Zecong Qin",
+      "Zhuang Xu"
+    ],
+    "year": 2026,
+    "abstract": "The Cold-Neutron Inelastic Spectrometer (CNIS) is a direct-geometry, time-of-flight instrument designed for China Spallation Neutron Source (CSNS) and optimized to probe low-energy lattice and magnetic excitations. The instrument integrates a long flight path with bent supermirror guides and an elliptical-focusing geometry to suppress high-energy background while improving cold-neutron delivery to the sample. A flexible multi-disk chopper suite provides pulse shaping, band selection and monochromatization, enabling multi-$E_\\textrm{i}$ operation. Modular features, including an interchangeable high-focusing guide insert, radial collimation and a vacuum ``airbox'' for simplified sample-environment integration, enhance signal-to-noise and operational versatility. Through combined flight-path ",
+    "doi": "10.1063/5.0321019",
+    "pdf_url": "https://arxiv.org/pdf/2605.09980v1",
+    "journal": "Rev. Sci. Instrum. 1 May 2026; 97 (5): 053303",
+    "url": "http://arxiv.org/abs/2605.09980v1",
+    "fetched_at": "2026-05-12T09:49:51.260205+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_dd305202ef16a32d",
+    "source": "semantic_scholar",
+    "title": "Femtosecond laser-driven synthesis of laser-induced graphene: Optimizing microstructure and electrochemical performance for flexible electrodes.",
+    "authors": [
+      "Jianwei Zhai",
+      "Zhou Yu",
+      "Jun Hu"
+    ],
+    "year": 2025,
+    "abstract": "Laser-induced graphene (LIG) offers significant potential for advanced technological developments. This study utilized a femtosecond laser (1030 nm, 500 kHz, 400 fs) to irradiate polyimide in air, producing LIG electrodes. The impact of laser parameters (power, scanning speed, defocus distance, hatch spacing) on LIG's microstructure and electrochemical performance was systematically investigated, revealing that optimized energy density enhances graphitization, minimizes defects, and tailors surface chemistry and porosity, thereby enhancing electrochemical performance. Under optimized conditions (3 W, 10 mm/s, 0.0 mm, 25 μm), LIG exhibited high quality, confirmed by complementary techniques. Raman spectroscopy indicated high graphitization with a low ID/IG ratio, signifying minimal defects.",
+    "doi": "10.1016/j.jcis.2025.139061",
+    "pdf_url": "",
+    "journal": "Journal of colloid and interface science",
+    "url": "https://www.semanticscholar.org/paper/dd305202ef16a32d02d36cfe1105558518e9e679",
+    "fetched_at": "2026-05-12T09:49:58.289783+00:00",
+    "material": "LIG"
   }
 ]
