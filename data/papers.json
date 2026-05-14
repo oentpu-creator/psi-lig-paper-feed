@@ -6002,5 +6002,939 @@
     "url": "https://www.semanticscholar.org/paper/dd305202ef16a32d02d36cfe1105558518e9e679",
     "fetched_at": "2026-05-12T09:49:58.289783+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ceb90bd45cb80e1d",
+    "source": "semantic_scholar",
+    "title": "Optical sensing analysis of bilayer porous silicon nanostructure",
+    "authors": [
+      "D. Ge",
+      "Jianpei Shi",
+      "Jinxiu Wei",
+      "Liqiang Zhang",
+      "Zhang Zhen"
+    ],
+    "year": 2019,
+    "abstract": "Abstract Bilayer porous silicon (PSi) nanostructure is proposed as a biosensor by considering the optical performance. The sensitivity of this bilayer PSi nanostructure with triangular lattice is theoretical calculated based on the rigorous coupled wave analysis theory, wavelength interrogation and orthogonal experimental methods. These results show that the bilayer PSi nanostructure can be used as a biosensor according to its excellent linearity relationship between the red shift and reflective index (from 1.3 to 1.8). The optical characteristic and sensitivity of this PSi nanostructure could be modified by changing its lattice constant and structural parameters. It is very useful for the understanding of the application and design for PSi in the field of biosensor.",
+    "doi": "10.1016/J.JPCS.2019.03.002",
+    "pdf_url": "",
+    "journal": "Journal of Physics and Chemistry of Solids",
+    "url": "https://www.semanticscholar.org/paper/ceb90bd45cb80e1dabf0a257f71132aebd501df4",
+    "fetched_at": "2026-05-14T09:39:23.415928+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_da137422cb8d583e",
+    "source": "semantic_scholar",
+    "title": "Metal (Ni and Bi) coated porous silicon nanostructure, high-performance anode materials for lithium ion batteries with high capacity and stability",
+    "authors": [
+      "A. Ensafi",
+      "M. M. Abarghoui",
+      "B. Rezaei"
+    ],
+    "year": 2017,
+    "abstract": "",
+    "doi": "10.1016/J.JALLCOM.2017.04.103",
+    "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S0925838817313038",
+    "journal": "Journal of Alloys and Compounds",
+    "url": "https://www.semanticscholar.org/paper/da137422cb8d583e4a9a8a5ee1ae3441514a10da",
+    "fetched_at": "2026-05-14T09:39:23.415954+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_b278ae42c3e2dd21",
+    "source": "semantic_scholar",
+    "title": "Bismuth Nanoparticles@Porous Silicon Nanostructure, Application as a Selective and Sensitive Electrochemical Sensor for the Determination of Thioridazine",
+    "authors": [
+      "A. Ensafi",
+      "Pardis Hedayati",
+      "M. M. Abarghoui",
+      "B. Rezaei"
+    ],
+    "year": 2017,
+    "abstract": "",
+    "doi": "10.1002/ELAN.201700291",
+    "pdf_url": "",
+    "journal": "Electroanalysis",
+    "url": "https://www.semanticscholar.org/paper/b278ae42c3e2dd215170d8b4d9a260a98002a466",
+    "fetched_at": "2026-05-14T09:39:23.415959+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_5107c9de9413c4da",
+    "source": "semantic_scholar",
+    "title": "Enhancing the performance of porous silicon biosensors: the interplay of nanostructure design and microfluidic integration",
+    "authors": [
+      "Kayan Awawdeh",
+      "Marc A Buttkewitz",
+      "Janina Bahnemann",
+      "Ester Segal"
+    ],
+    "year": 2024,
+    "abstract": "This work presents the development and design of aptasensor employing porous silicon (PSi) Fabry‒Pérot thin films that are suitable for use as optical transducers for the detection of lactoferrin (LF), which is a protein biomarker secreted at elevated levels during gastrointestinal (GI) inflammatory disorders such as inflammatory bowel disease and chronic pancreatitis. To overcome the primary limitation associated with PSi biosensors—namely, their relatively poor sensitivity due to issues related to complex mass transfer phenomena and reaction kinetics—we employed two strategic approaches: First, we sought to optimize the porous nanostructure with respect to factors including layer thickness, pore diameter, and capture probe density. Second, we leveraged convection properties by integratin",
+    "doi": "10.1038/s41378-024-00738-w",
+    "pdf_url": "https://doi.org/10.1038/s41378-024-00738-w",
+    "journal": "Microsystems & Nanoengineering",
+    "url": "https://www.semanticscholar.org/paper/5107c9de9413c4da364078bd9592ef2aa3c5a332",
+    "fetched_at": "2026-05-14T09:39:23.416126+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_8a5504f6333eaae6",
+    "source": "semantic_scholar",
+    "title": "Low temperature chemical reduction of fusional sodium metasilicate nonahydrate into a honeycomb porous silicon nanostructure.",
+    "authors": [
+      "Jianwen Liang",
+      "D. Wei",
+      "Ning Lin",
+      "Youngchun Zhu",
+      "Xiaona Li",
+      "Jingjing Zhang"
+    ],
+    "year": 2014,
+    "abstract": "",
+    "doi": "10.1039/c4cc00888j",
+    "pdf_url": "",
+    "journal": "Chemical communications",
+    "url": "https://www.semanticscholar.org/paper/8a5504f6333eaae60c4068d445b8582ca0f7d787",
+    "fetched_at": "2026-05-14T09:39:23.416133+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ff4b5c63adb6264b",
+    "source": "semantic_scholar",
+    "title": "Thermoelectric transport properties of porous silicon nanostructure",
+    "authors": [
+      "Atsushi Yamamoto",
+      "Hiroyuki Takazawa",
+      "Toshitaka Ohta Electrotechnical",
+      "MITl Umezono"
+    ],
+    "year": 1999,
+    "abstract": "",
+    "doi": "10.1109/ICT.1999.843422",
+    "pdf_url": "",
+    "journal": "Eighteenth International Conference on Thermoelectrics. Proceedings, ICT'99 (Cat. No.99TH8407)",
+    "url": "https://www.semanticscholar.org/paper/ff4b5c63adb6264bec13707dbe655e6b73e6fa55",
+    "fetched_at": "2026-05-14T09:39:23.416137+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c394219fbe7f04a6",
+    "source": "semantic_scholar",
+    "title": "Analysis of optical properties of porous silicon nanostructure single and gradient-porosity layers for optical applications",
+    "authors": [
+      "A. Shokrollahi",
+      "M. Zare",
+      "A. Mortezaali",
+      "S. R. Sani"
+    ],
+    "year": 2012,
+    "abstract": "",
+    "doi": "10.1063/1.4748335",
+    "pdf_url": "",
+    "journal": "Journal of Applied Physics",
+    "url": "https://www.semanticscholar.org/paper/c394219fbe7f04a62cc8a96b7746b87e2bfcf12a",
+    "fetched_at": "2026-05-14T09:39:23.416140+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_3d39927b4337d3b5",
+    "source": "semantic_scholar",
+    "title": "Characterization of NO2 gas sensing for ZnO nanostructure grown hydrothermally on porous silicon",
+    "authors": [
+      "Shahad S. Khudiar",
+      "Uday M. Nayef",
+      "F. Mutlak",
+      "S. K. Abdulridha"
+    ],
+    "year": 2021,
+    "abstract": "",
+    "doi": "10.1016/j.ijleo.2021.168300",
+    "pdf_url": "",
+    "journal": "Optik",
+    "url": "https://www.semanticscholar.org/paper/3d39927b4337d3b547fda0f5ff8faedb1fd0fbfd",
+    "fetched_at": "2026-05-14T09:39:23.416147+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_4abcc91b5119e56e",
+    "source": "semantic_scholar",
+    "title": "Image processing for the characterization of porous silicon nanostructure",
+    "authors": [
+      "W. Ludurczak",
+      "O. Garel",
+      "Y. Berthoumieu",
+      "O. Babot",
+      "M. Donias",
+      "E. Dufour-Gergam"
+    ],
+    "year": 2009,
+    "abstract": "",
+    "doi": "10.1002/PSSC.200881112",
+    "pdf_url": "",
+    "journal": "Physica Status Solidi (c)",
+    "url": "https://www.semanticscholar.org/paper/4abcc91b5119e56e04bae73aec09e2d31aecc7e0",
+    "fetched_at": "2026-05-14T09:39:23.416152+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_1f1ab33626613672",
+    "source": "semantic_scholar",
+    "title": "Genetic algorithm based search of parameters for fabrication of uniform porous silicon nanostructure",
+    "authors": [
+      "Mallar Ray",
+      "S. Ganguly",
+      "M. Das",
+      "S. M. Hossain",
+      "N. R. Bandyopadhyay"
+    ],
+    "year": 2009,
+    "abstract": "",
+    "doi": "10.1016/J.COMMATSCI.2008.03.052",
+    "pdf_url": "",
+    "journal": "Computational Materials Science",
+    "url": "https://www.semanticscholar.org/paper/1f1ab336266136724aa113612d169ad4e5a53e6a",
+    "fetched_at": "2026-05-14T09:39:23.416156+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_6f0f7d028a871d1d",
+    "source": "semantic_scholar",
+    "title": "A Self-Powered Heterojunction Photodetector Based on a PbS Nanostructure Grown on Porous Silicon Substrate",
+    "authors": [
+      "Z. A. Bashkany",
+      "I. Abbas",
+      "M. A. Mahdi",
+      "H. F. Al-Taay",
+      "P. Jennings"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1007/s12633-016-9462-4",
+    "pdf_url": "",
+    "journal": "Silicon",
+    "url": "https://www.semanticscholar.org/paper/6f0f7d028a871d1db7a9b2eebc0aa15aca3d8473",
+    "fetched_at": "2026-05-14T09:39:23.416160+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_38093dc1c53818dc",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Bragg Reflector/Carbon Dot Hybrids: Synthesis, Nanostructure, and Optical Properties",
+    "authors": [
+      "N. Massad-Ivanir",
+      "S. Bhunia",
+      "R. Jelinek",
+      "E. Segal"
+    ],
+    "year": 2018,
+    "abstract": "Carbon dots (C-dots) exhibit unique fluorescence properties, mostly depending upon their physical environments. Here we investigate the optical properties and nanostructure of Carbon dots (C-dots) which are synthesized in situ within different porous Silicon (PSi) Bragg reflectors. The resulting hybrids were characterized by photoluminescence, X-ray photoelectron, and Fourier Transform Infrared spectroscopies, as well as by confocal and transmission electron microscopy. We show that by tailoring the location of the PSi Bragg reflector photonic bandgap and its oxidation level, the C-dots emission spectral features can be tuned. Notably, their fluorescence emission can be significantly enhanced when the high reflection band of the PSi host overlaps with the confined C-dots' peak wavelength, ",
+    "doi": "10.3389/fchem.2018.00574",
+    "pdf_url": "https://doi.org/10.3389/fchem.2018.00574",
+    "journal": "Frontiers in Chemistry",
+    "url": "https://www.semanticscholar.org/paper/38093dc1c53818dce6bf7a69f85e7a0f21756a56",
+    "fetched_at": "2026-05-14T09:39:23.416164+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_7a9ae90b52064aa0",
+    "source": "semantic_scholar",
+    "title": "Fabrication of UV photodetector using needle-shaped ZnO nanostructure arrays prepared on porous silicon substrate by a facile low-temperature method",
+    "authors": [
+      "Ramazanali Dalvand",
+      "S. Mahmud",
+      "R. Shabannia"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1007/s10854-017-8461-6",
+    "pdf_url": "",
+    "journal": "Journal of Materials Science: Materials in Electronics",
+    "url": "https://www.semanticscholar.org/paper/7a9ae90b52064aa033948c2b73e5a46a11791921",
+    "fetched_at": "2026-05-14T09:39:23.416167+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_c990666f39363814",
+    "source": "semantic_scholar",
+    "title": "Porous Silicon Nanostructure Revealed By Electron Spin Resonance",
+    "authors": [
+      "Y. Xiao",
+      "T. Mcmahon",
+      "J. Pankove",
+      "Y. Tsuo"
+    ],
+    "year": 1993,
+    "abstract": "",
+    "doi": "10.1557/PROC-298-277",
+    "pdf_url": "",
+    "journal": "MRS Proceedings",
+    "url": "https://www.semanticscholar.org/paper/c990666f39363814d4d0b5885fa2fe59a2bfb831",
+    "fetched_at": "2026-05-14T09:39:23.416171+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_3e6c1d591962535c",
+    "source": "semantic_scholar",
+    "title": "Preparation of porous silicon using magnesiothermic reduction of porous silica glass and electrode characteristics for lithium-ion batteries",
+    "authors": [
+      "Mina Deguchi",
+      "Kei Shinohara",
+      "Hironori Kobayashi",
+      "Kentaro Kuratani",
+      "H. Takahara",
+      "H. Shiomi"
+    ],
+    "year": 2024,
+    "abstract": "Magnesiothermic reduction was applied to porous silica glass grains with a characteristically interconnected pore structure. The prepared porous silicon maintained the morphology with pore size of approximately 30–40 nm, which was derived from the nanostructure of the starting silica glass. Medium-sized grains of the silica glass produced the largest silicon yield. This result could be explained based on the diffusion-controlled reaction mechanism, involving the reaction of SiO2 with Mg2Si to produce silicon. The electrochemical behavior was investigated using a coin-type cell composed of the prepared porous silicon–carbon mixtures and lithium foil electrodes. The initial charge and discharge capacities reached 1382 and 1187 mAh g−1, respectively, which were close to the theoretical value ",
+    "doi": "10.1557/s43578-024-01344-2",
+    "pdf_url": "",
+    "journal": "Journal of Materials Research",
+    "url": "https://www.semanticscholar.org/paper/3e6c1d591962535c624379c853775ae70c445f50",
+    "fetched_at": "2026-05-14T09:39:23.416175+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_0b47c362c2dd9910",
+    "source": "semantic_scholar",
+    "title": "Rational-design micro-nanostructure of porous carbon film/silicon nanowire/graphite microsphere composites for high-performance lithium-ion batteries",
+    "authors": [
+      "Bei Liu",
+      "P. Huang",
+      "Qi Zhang",
+      "Qizhong Huang",
+      "Zhiyong Xie"
+    ],
+    "year": 2020,
+    "abstract": "",
+    "doi": "10.1007/s10853-020-04869-z",
+    "pdf_url": "",
+    "journal": "Journal of Materials Science",
+    "url": "https://www.semanticscholar.org/paper/0b47c362c2dd991022e9888f79d8f5cbb391ed77",
+    "fetched_at": "2026-05-14T09:39:23.416178+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_63f43978a3c51f1d",
+    "source": "semantic_scholar",
+    "title": "A new electrochemical sensor for the simultaneous determination of acetaminophen and codeine based on porous silicon/palladium nanostructure.",
+    "authors": [
+      "A. Ensafi",
+      "Najmeh Ahmadi",
+      "B. Rezaei",
+      "M. M. Abarghoui"
+    ],
+    "year": 2015,
+    "abstract": "",
+    "doi": "10.1016/j.talanta.2014.12.028",
+    "pdf_url": "",
+    "journal": "Talanta",
+    "url": "https://www.semanticscholar.org/paper/63f43978a3c51f1def89ac0d5a110b815a6de67e",
+    "fetched_at": "2026-05-14T09:39:23.416182+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_08eec80635922e4f",
+    "source": "semantic_scholar",
+    "title": "Silicon nanostructure-doped polymer/nematic liquid crystal composites for low voltage-driven smart windows",
+    "authors": [
+      "Zemin He",
+      "P. Yu",
+      "Huimin Zhang",
+      "Yuzhen Zhao",
+      "Yanfang Zhu",
+      "Zhun Guo"
+    ],
+    "year": 2021,
+    "abstract": "In this work, two silicon nanostructures were doped into polymer/nematic liquid crystal composites to regulate the electric-optical performance. Commercial SiO2 nanoparticles and synthesized thiol polyhedral oligomeric silsesquioxane (POSS-SH) were chosen as the dopants to afford the silicon nanostructures. SiO2 nanoparticles were physically dispersed in the composites and the nanostructure from POSS-SH was implanted into the polymer matrix of the composites via photoinduced thiol-ene crosslinking. Scanning electron microscopy results indicated that the implantation of POSS microstructure into the polymer matrix was conducive to obtaining the uniform porous polymer microstructures in the composites while the introduction of SiO2 nanoparticles led to the loose and heterogeneous polymer morp",
+    "doi": "10.1088/1361-6528/ac3a3b",
+    "pdf_url": "",
+    "journal": "Nanotechnology",
+    "url": "https://www.semanticscholar.org/paper/08eec80635922e4f2552de6ca546b46ed3978525",
+    "fetched_at": "2026-05-14T09:39:23.416185+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_4176eafa85d870c8",
+    "source": "semantic_scholar",
+    "title": "Enhanced photodetection performance of vanadium pentoxide nanostructures deposited on porous silicon substrate via pulsed laser deposition",
+    "authors": [
+      "A. Hadi",
+      "Uday M. Nayef",
+      "F. Mutlak",
+      "Majid. S. Jabir"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1007/s11082-023-05912-4",
+    "pdf_url": "",
+    "journal": "Optical and Quantum Electronics",
+    "url": "https://www.semanticscholar.org/paper/4176eafa85d870c88a4a9d9ce6af241591d7fc31",
+    "fetched_at": "2026-05-14T09:39:23.416189+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_fcc01378a78d3bb4",
+    "source": "semantic_scholar",
+    "title": "Preparation and Characterization of Electrochemically Deposited Cu2O/ZnO Heterojunctions on Porous Silicon",
+    "authors": [
+      "A. Çetinel",
+      "Gökhan Utlu"
+    ],
+    "year": 2023,
+    "abstract": "Cu2O/ZnO heterojunction was fabricated on porous silicon (PSi) by a two-step electrochemical deposition technique with changing current densities and deposition times, and then the PSi/Cu2O/ZnO nanostructure was systematically investigated. SEM investigation revealed that the morphologies of the ZnO nanostructures were significantly affected by the applied current density but not those of Cu2O nanostructures. It was observed that with the increase of current density from 0.1 to 0.9 mA/cm2, ZnO nanoparticles showed more intense deposition on the surface. In addition, when the deposition time increased from 10 to 80 min, at a constant current density, an intense ZnO accumulation occured on Cu2O structures. XRD analysis showed that both the polycrystallinity and the preferential orientation o",
+    "doi": "10.1021/acsomega.3c01438",
+    "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsomega.3c01438",
+    "journal": "ACS Omega",
+    "url": "https://www.semanticscholar.org/paper/fcc01378a78d3bb450773eb6ecd7ab62baebaaf0",
+    "fetched_at": "2026-05-14T09:39:23.416192+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ad0695c97e3492f0",
+    "source": "semantic_scholar",
+    "title": "Enhancement of photodetectors devices for silicon nanostructure from study effect of etching time by photoelectrochemical etching technique",
+    "authors": [
+      "Nour A. Abdulkhaleq",
+      "A. K. Hasan",
+      "Uday M. Nayef"
+    ],
+    "year": 2020,
+    "abstract": "Abstract Porous silicon (PS) prepared from n-type silicon via photoelectrochemical etching (PECE) technique. The morphology properties of PS specimens that formed with different etching time has been study utilize Scanning electron microscopy (SEM) and it show that the Layer of pore has sponge like stricture and the average pore diameter of PS layer rising with increase etching time. The X-ray diffraction (XRD) pattern indicated the nanocrystaline of the specimens, during these results; we showed improve behavior of PS photodetectors on a range of wavelengths.",
+    "doi": "10.1016/j.ijleo.2020.164325",
+    "pdf_url": "",
+    "journal": "Optik",
+    "url": "https://www.semanticscholar.org/paper/ad0695c97e3492f0f01ec1fc6fa577900e16779f",
+    "fetched_at": "2026-05-14T09:39:23.416196+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_24e0a9e6a476d223",
+    "source": "semantic_scholar",
+    "title": "Approach to Multigas Sensing and Modeling on Nanostructure Decorated Porous Silicon Substrates",
+    "authors": [
+      "W. Laminack",
+      "Neil Hardy",
+      "Caitlin Baker",
+      "J. Gole"
+    ],
+    "year": 2015,
+    "abstract": "",
+    "doi": "10.1109/JSEN.2015.2460675",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/24e0a9e6a476d2231b6a2980a38dc30c3cc10bf2",
+    "fetched_at": "2026-05-14T09:39:23.416199+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_bd7b8357230d8c3c",
+    "source": "semantic_scholar",
+    "title": "Designing Electrochemical Biosensing Platforms Using Layered Carbon-Stabilized Porous Silicon Nanostructures",
+    "authors": [
+      "K. Guo",
+      "Maria Alba",
+      "Grace Pei Chin",
+      "Ziqiu Tong",
+      "Bin Guan",
+      "M. Sailor"
+    ],
+    "year": 2022,
+    "abstract": "Porous silicon (pSi) is an established porous material that offers ample opportunities for biosensor design thanks to its tunable structure, versatile surface chemistry, and large surface area. Nonetheless, its potential for electrochemical sensing is relatively unexplored. This study investigates layered carbon-stabilized pSi nanostructures with site-specific functionalities as an electrochemical biosensor. A double-layer nanostructure combining a top hydrophilic layer of thermally carbonized pSi (TCpSi) and a bottom hydrophobic layer of thermally hydrocarbonized pSi (THCpSi) is prepared. The modified layers are formed in a stepwise process, involving first an electrochemical anodization step to generate a porous layer with precisely defined pore morphological features, followed by deposi",
+    "doi": "10.1021/acsami.2c02113",
+    "pdf_url": "https://doi.org/10.1021/acsami.2c02113",
+    "journal": "ACS Applied Materials & Interfaces",
+    "url": "https://www.semanticscholar.org/paper/bd7b8357230d8c3c0428d2c2ff97e4b4a4214521",
+    "fetched_at": "2026-05-14T09:39:23.416203+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_ff116ea46ed07192",
+    "source": "semantic_scholar",
+    "title": "Influence of fabrication parameter on the nanostructure and photoluminescence of highly doped p-porous silicon",
+    "authors": [
+      "Shaoyuan Li",
+      "Wenhui Ma",
+      "Yang Zhou",
+      "Xiuhua Chen",
+      "Mingyu Ma",
+      "Y. Xiao"
+    ],
+    "year": 2014,
+    "abstract": "",
+    "doi": "10.1016/J.JLUMIN.2013.09.024",
+    "pdf_url": "",
+    "journal": "Journal of Luminescence",
+    "url": "https://www.semanticscholar.org/paper/ff116ea46ed071924ca229d939d07ce7817f4725",
+    "fetched_at": "2026-05-14T09:39:23.416206+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_71316ac251579e77",
+    "source": "semantic_scholar",
+    "title": "Use of a porous silicon-gold plasmonic nanostructure to enhance serum peptide signals in MALDI-TOF analysis.",
+    "authors": [
+      "Xiao Li",
+      "Jie Tan",
+      "Jiekai Yu",
+      "Jiandong Feng",
+      "Aiwu Pan",
+      "S. Zheng"
+    ],
+    "year": 2014,
+    "abstract": "",
+    "doi": "10.1016/j.aca.2014.08.028",
+    "pdf_url": "",
+    "journal": "Analytica chimica acta",
+    "url": "https://www.semanticscholar.org/paper/71316ac251579e77de6e2a1fd16d84a4df70093b",
+    "fetched_at": "2026-05-14T09:39:23.416209+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_97fd706174004b37",
+    "source": "semantic_scholar",
+    "title": "Miniaturized Wearable Biosensors for Continuous Health Monitoring Fabricated Using the Femtosecond Laser-Induced Graphene Surface and Encapsulated Traces and Electrodes.",
+    "authors": [
+      "Homayoon Soleimani Dinani",
+      "Tatianna Reinbolt",
+      "Bohong Zhang",
+      "Ganggang Zhao",
+      "R. Gerald",
+      "Zheng Yan"
+    ],
+    "year": 2025,
+    "abstract": "Wearable sensors are increasingly being used as biosensors for health monitoring. Current wearable devices are large, heavy, invasive, skin irritants, or not continuous. Miniaturization was chosen to address these issues, using a femtosecond laser-conversion technique to fabricate miniaturized laser-induced graphene (LIG) sensor arrays on and encapsulated within a polyimide substrate. The femtosecond laser-converted conductive traces can have a size of 20 to 2 μm compared to the traditionally larger CO2 laser dimensions of around 300 to 100 μm. This marks a 93-98% decrease in trace size when using a femtosecond laser. This miniaturization allows for the ability to process temperature, electrocardiography (ECG), electromyography (EMG), and glucose data in the same space that would have been",
+    "doi": "10.1021/acssensors.4c02214",
+    "pdf_url": "",
+    "journal": "ACS sensors",
+    "url": "https://www.semanticscholar.org/paper/97fd706174004b379f1d12ec64a396d593ef9f9c",
+    "fetched_at": "2026-05-14T09:40:01.000613+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_9c0e036a862f0929",
+    "source": "semantic_scholar",
+    "title": "Modification-free bionic superhydrophobic laser-induced graphene (LIG) wearable strain sensor with superior anti-icing performance",
+    "authors": [
+      "Liyong Wang",
+      "Jinlei Hu",
+      "Xiaodong Zhou",
+      "Mingming Liu",
+      "Yongling Wu",
+      "Hongyu Zheng"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.cej.2025.161140",
+    "pdf_url": "",
+    "journal": "Chemical Engineering Journal",
+    "url": "https://www.semanticscholar.org/paper/9c0e036a862f092933883afc683ab4f42577a3f2",
+    "fetched_at": "2026-05-14T09:40:01.000632+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_1cac865ad30e965e",
+    "source": "semantic_scholar",
+    "title": "Wearable healthcare using laser-induced graphene",
+    "authors": [
+      "Hyeonwoo Kim",
+      "Young‐Jin Kim"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s42791-025-00113-4",
+    "pdf_url": "",
+    "journal": "JMST Advances",
+    "url": "https://www.semanticscholar.org/paper/1cac865ad30e965eb521c6ba50152f2e934455b5",
+    "fetched_at": "2026-05-14T09:40:01.000637+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_240665e648e58e14",
+    "source": "semantic_scholar",
+    "title": "Wearable electrochemical patch based on iron nano-catalysts incorporated laser-induced graphene for sweat metabolites detection.",
+    "authors": [
+      "Peng Zhao",
+      "Yong Zhang",
+      "Yi-Ye Liu",
+      "D. Huo",
+      "Jingzhou Hou",
+      "Changjun Hou"
+    ],
+    "year": 2024,
+    "abstract": "The development of wearable devices shows great application potential in health management. In this work, we propose the fabrication of a novel wearable electrochemical patch and prove its application in sweat metabolites detection. The patch is developed based on iron nano-catalysts incorporated laser-induced graphene (FeNCs/LIG), which is a newly integrated sensing electrode with unique three-dimensional nanostructure and good electrocatalytic activity. It shows desirable sensing performances for sweat metabolites including tyrosine (Tyr) and uric acid (UA) molecules. The detection limit of Tyr and UA can reach 5.11 μM and 1.37 μM, respectively. Besides, density functional theory calculation deeply reveals that the Fe active sites of FeNCs play an important role in molecule adsorption an",
+    "doi": "10.1016/j.bios.2024.116012",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/240665e648e58e14729d928b7e20f2329900438d",
+    "fetched_at": "2026-05-14T09:40:01.000643+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_749e637f0da6b9ee",
+    "source": "semantic_scholar",
+    "title": "Iron Oxide Embedded Laser‐Induced Graphene for High Sensitivity and Durable Strain Sensors in Wearable Applications",
+    "authors": [
+      "Ali Amani Kotamjani",
+      "R. Ansari",
+      "Majid Alitavoli"
+    ],
+    "year": 2025,
+    "abstract": "Graphene‐based flexible strain sensors have attracted significant interest for next‐generation wearable electronics due to their exceptional electromechanical properties. Their sensitivity can be further enhanced by incorporating metal and metal oxide nanoparticles into the graphene framework. However, existing fabrication approaches are often complex and expensive. We present a laser‐assisted, scalable, and cost‐effective strategy to construct 3D porous graphene architectures uniformly embedded with iron oxide nanoparticles. The process involves fiber laser irradiation of iron‐nitrate‐treated laser‐induced graphene (LIG), which yields hierarchical nanostructures with a markedly enhanced piezoresistive response. The resulting sensors exhibit an ultrahigh gauge factor (GF = 635), fast respo",
+    "doi": "10.1002/admi.202500682",
+    "pdf_url": "",
+    "journal": "Advanced Materials Interfaces",
+    "url": "https://www.semanticscholar.org/paper/749e637f0da6b9ee7bfdbe13dde2f59481761232",
+    "fetched_at": "2026-05-14T09:40:01.000649+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_bff5a1cb8417cdf2",
+    "source": "semantic_scholar",
+    "title": "Wearable Electrochemical Sensor Based on Laser-Induced Graphene on Adhesive Bandage",
+    "authors": [
+      "L. K. Souza",
+      "Maxwell D. Bridges",
+      "Thaisa A. Baldo",
+      "W. Coltro",
+      "Charles S. Henry"
+    ],
+    "year": 2025,
+    "abstract": "Wearable sensors enable continuous and non-invasive monitoring of biomarkers, facilitating home-based healthcare and reducing the reliance on costly laboratory tests. Here, we present a wearable electrochemical sensor based on laser-induced graphene (LIG) fabricated using polyimide and transferred onto a commercial adhesive bandage for the simultaneous detection of uric acid (UA) and ascorbic acid (AA) in sweat. The electrodes displayed a carbon-rich, homogeneous morphology with a hydrophilic surface, enhancing analyte interaction. The repeatability and reproducibility studies showed satisfactory relative standard deviations (RSD) values equal to 2.7 and 8.2%, respectively. Analytical performance for AA and UA was evaluated by differential pulse voltammetry (DPV) measurements in phosphate-",
+    "doi": "10.1149/2754-2726/ae318d",
+    "pdf_url": "",
+    "journal": "ECS Sensors Plus",
+    "url": "https://www.semanticscholar.org/paper/bff5a1cb8417cdf2b5d40293874ed7f66c37685a",
+    "fetched_at": "2026-05-14T09:40:01.000653+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_fe0566d3256f33f5",
+    "source": "semantic_scholar",
+    "title": "Advancing abiotic stress monitoring in plants with a wearable non-destructive real-time salicylic acid laser-induced-graphene sensor.",
+    "authors": [
+      "Sammy A. Perdomo",
+      "D. Valencia",
+      "Gabriel Esteban Velez",
+      "A. Jaramillo-Botero"
+    ],
+    "year": 2024,
+    "abstract": "Drought and salinity stresses present significant challenges that exert a severe impact on crop productivity worldwide. Understanding the dynamics of salicylic acid (SA), a vital phytohormone involved in stress response, can provide valuable insights into the mechanisms of plant adaptation to cope with these challenging conditions. This paper describes and tests a sensor system that enables real-time and non-invasive monitoring of SA content in avocado plants exposed to drought and salinity. By using a reverse iontophoretic system in conjunction with a laser-induced graphene electrode, we demonstrated a sensor with high sensitivity (82.3 nA/[μmol L-1⋅cm-2]), low limit of detection (LOD, 8.2 μmol L-1), and fast sampling response (20 s). Significant differences were observed between the dyna",
+    "doi": "10.1016/j.bios.2024.116261",
+    "pdf_url": "",
+    "journal": "Biosensors & bioelectronics",
+    "url": "https://www.semanticscholar.org/paper/fe0566d3256f33f5ecdb40795cdacf62a05171e6",
+    "fetched_at": "2026-05-14T09:40:01.000656+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_bd0a6556aa5db42b",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene Electrodes for Wearable Electrochemical Analyses",
+    "authors": [
+      "Vincenzo Vezzoni",
+      "Michele Setti",
+      "Pontiroli Daniele",
+      "V. Bianchi",
+      "M. Stighezza",
+      "I. D. Munari"
+    ],
+    "year": 2025,
+    "abstract": "This study details the integration of laser-induced graphene (LIG) electrodes with a modular multi-channel data acquisition system. LIG electrodes, consisting of four independent channels printed on a Kapton substrate, are optimized for wearable electrochemical sensing devices. The modular analog front end is designed to achieve high linearity with minimal channel-to-channel crosstalk. These attributes underline its potential for scalable, portable, and highperformance electrochemical applications. From this study we demonstrated the independent responses of four different channels made of LIG which displayed in the same solution of ferricyanide almost the same signal responses with a 9% of relative standard deviation (RSD) in accordance with literature results. We demonstrate the capabili",
+    "doi": "10.1109/MetroInd4.0IoT66048.2025.11122083",
+    "pdf_url": "",
+    "journal": "2025 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0 & IoT)",
+    "url": "https://www.semanticscholar.org/paper/bd0a6556aa5db42b8062c63fa06f14e061e33b15",
+    "fetched_at": "2026-05-14T09:40:01.000664+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_6f5cfc1dfcefb70c",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene-Driven Wearable Medical Sensors for Human Health Monitoring",
+    "authors": [
+      "Yaqiang Ji",
+      "Shen Yu",
+      "Rui-Jian Liang",
+      "Jianyu Long",
+      "Chuan Li"
+    ],
+    "year": 2025,
+    "abstract": "Wearable medical sensors with integrated alarm functions are crucial for real-time health monitoring, yet most existing devices require external components for alerting, increasing system complexity, and limiting flexibility. In this study, we develop a laser-induced graphene (LIG) structure that merges high-sensitivity strain sensing and Joule heating-based warning into a single platform. The patterned LIG medical sensor exhibits a gauge factor as high as 101, significantly outperforming its non-patterned counterpart, showing superior heating efficiency. We achieve simultaneous physiological signal detection and thermal alarm activation without external components. The sensors provide a promising solution for wearable health monitoring that offers both sensing and intuitive feedback, indi",
+    "doi": "10.1109/ICSMD67131.2025.11365366",
+    "pdf_url": "",
+    "journal": "2025 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
+    "url": "https://www.semanticscholar.org/paper/6f5cfc1dfcefb70c9376b4842ac9f3c142217ad3",
+    "fetched_at": "2026-05-14T09:40:01.000668+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ac4727e5d7085a22",
+    "source": "semantic_scholar",
+    "title": "Fabrication of nickel decorated laser-induced graphene for flexible wearable microsupercapacitors",
+    "authors": [
+      "Abhishek Panghal",
+      "Tanuja Singh",
+      "Deepak Deepak",
+      "Rakesh Kumar",
+      "S. S. Roy"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.est.2025.115981",
+    "pdf_url": "",
+    "journal": "Journal of Energy Storage",
+    "url": "https://www.semanticscholar.org/paper/ac4727e5d7085a2298934cd241bb03b04b551499",
+    "fetched_at": "2026-05-14T09:40:01.000672+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_658bc1dd21d0d742",
+    "source": "semantic_scholar",
+    "title": "Wearable Smart Gloves Based on Laser-Induced Graphene for Multimodal Sensing and AI-Enhanced Recognition",
+    "authors": [
+      "Wei Tao",
+      "Yufeng Xue",
+      "Wenhui Lu",
+      "D. Bassir",
+      "Ling Yin",
+      "Liang Shen"
+    ],
+    "year": 2025,
+    "abstract": "This study presents a comprehensive investigation of laser-induced graphene (LIG) for multimodal sensing applications. LIG, synthesized through direct laser irradiation of polyimide (PI) substrates, offers unique advantages such as high throughput, programmable patterning, and environmental friendliness. We explore the effects of laser intensity and scanning speed on the microstructure and sensing performance of LIG. Various LIG patterns are designed and tested for bending, tactile, temperature, humidity, and sweat sensing experiments. The results demonstrate that LIG-based sensors exhibit high sensitivity, linearity, and repeatability. Specifically, the ${R}2$ -LIG sensor shows optimal performance for bending sensing with 873.1% resistance change at 30 N and 97.5% accuracy for eight mater",
+    "doi": "10.1109/JSEN.2025.3598970",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/658bc1dd21d0d742929eed3480a2842b20e2f104",
+    "fetched_at": "2026-05-14T09:40:01.000675+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_8d7c1d68b6321844",
+    "source": "semantic_scholar",
+    "title": "Ten years of laser-induced graphene: impact and future prospect on biomedical, healthcare, and wearable technology",
+    "authors": [
+      "Thana Thaweeskulchai",
+      "Kittiya Sakdaphetsiri",
+      "Albert Schulte"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s00604-024-06350-z",
+    "pdf_url": "",
+    "journal": "Microchimica Acta",
+    "url": "https://www.semanticscholar.org/paper/8d7c1d68b632184473934f396f14d0ee124f2d93",
+    "fetched_at": "2026-05-14T09:40:01.000679+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_d37e3600a330904d",
+    "source": "semantic_scholar",
+    "title": "Kirigami-enabled stretchable laser-induced graphene heaters for wearable thermotherapy.",
+    "authors": [
+      "Junyu Chen",
+      "Yichao Shi",
+      "Binbin Ying",
+      "Yajie Hu",
+      "Yan Gao",
+      "Sida Luo"
+    ],
+    "year": 2024,
+    "abstract": "Flexible and stretchable heaters are increasingly recognized for their great potential in wearable thermotherapy to treat muscle spasms, joint injuries and arthritis. However, issues like lengthy processing, high fabrication cost, and toxic chemical involvement are obstacles on the way to popularize stretchable heaters for medical use. Herein, using a single-step customizable laser fabrication method, we put forward the design of cost-effective wearable laser-induced graphene (LIG) heaters with kirigami patterns, which offer multimodal stretchability and conformal fit to the skin around the human body. First, we develop the manufacturing process of the LIG heaters with three different kirigami patterns enabling reliable stretchability by out-of-plane buckling. Then, by adjusting the laser ",
+    "doi": "10.1039/d3mh01884a",
+    "pdf_url": "",
+    "journal": "Materials horizons",
+    "url": "https://www.semanticscholar.org/paper/d37e3600a330904d61896210947c35beb8fabdd1",
+    "fetched_at": "2026-05-14T09:40:01.000686+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_00e9f9348625c20f",
+    "source": "semantic_scholar",
+    "title": "Wearable, Near Temperature Insensitive Laser-Induced Graphene Nanocomposite Strain Sensors",
+    "authors": [
+      "Tom Jacquin",
+      "S. Wanstall",
+      "Inkyu Park",
+      "A. Stokes",
+      "Hadi Heidari",
+      "T. Lim"
+    ],
+    "year": 2025,
+    "abstract": "Soft and flexible sensors offer a potential paradigm shift in wearable bioelectronics to enhance human-machine interfacing for diagnosis, healthcare monitoring, and prosthetic applications. Soft nanocomposite strain sensors have emerged as...",
+    "doi": "10.1039/d5tc02865e",
+    "pdf_url": "",
+    "journal": "Journal of Materials Chemistry C",
+    "url": "https://www.semanticscholar.org/paper/00e9f9348625c20fb2a2bd7de8e03195cd739318",
+    "fetched_at": "2026-05-14T09:40:01.000690+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b70399e1e81688d5",
+    "source": "semantic_scholar",
+    "title": "Templated Laser-Induced-Graphene-Based Tactile Sensors Enable Wearable Health Monitoring and Texture Recognition via Deep Neural Network.",
+    "authors": [
+      "Jiawen Ji",
+      "Wei Zhao",
+      "Yuliang Wang",
+      "Qiushi Li",
+      "Gong Wang"
+    ],
+    "year": 2023,
+    "abstract": "Flexible tactile sensors show great potential for portable healthcare and environmental monitoring applications. However, challenges persist in scaling up the manufacturing of stable tactile sensors with real-time feedback. This work demonstrates a robust approach to fabricating templated laser-induced graphene (TLIG)-based tactile sensors via laser scribing, elastomer hot-pressing transfer, and 3D printing of the Ag electrode. With different mesh sandpapers as templates, TLIG sensors with adjustable sensing properties were achieved. The tactile sensor obtains excellent sensitivity (52260.2 kPa-1 at a range of 0-7 kPa), a broad detection range (up to 1000 kPa), a low limit of detection (65 Pa), a rapid response (response/recovery time of 12/46 ms), and excellent working stability (10000 cy",
+    "doi": "10.1021/acsnano.3c05838",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/b70399e1e81688d5d644c34fa39ad4abd27ab487",
+    "fetched_at": "2026-05-14T09:40:01.000693+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_66edeb5b1038a2bb",
+    "source": "semantic_scholar",
+    "title": "The fabrication of laser-induced graphene on nomex paper: Effects of process parameters and flexible wearable applications",
+    "authors": [
+      "Kunyang Li",
+      "Gongyu Liu",
+      "Qingfeng Li",
+      "Chunya Tong",
+      "Wai Siong Chai",
+      "Chenglong Hua"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.optlastec.2025.113228",
+    "pdf_url": "",
+    "journal": "Optics &amp; Laser Technology",
+    "url": "https://www.semanticscholar.org/paper/66edeb5b1038a2bbe245f15d87d661c697e90ccf",
+    "fetched_at": "2026-05-14T09:40:01.000705+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b74a928e36988468",
+    "source": "semantic_scholar",
+    "title": "Robust Freestanding Laser-induced Graphene Electrodes for Wearable Energy Devices",
+    "authors": [
+      "Gyuho Choi",
+      "Sangjin Yoon",
+      "Yeong-Tae Jung",
+      "H. Park",
+      "Dohyung Kim",
+      "Sejong Yu"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.carbon.2025.120852",
+    "pdf_url": "",
+    "journal": "Carbon",
+    "url": "https://www.semanticscholar.org/paper/b74a928e369884684dbfa87359b43546b9da9479",
+    "fetched_at": "2026-05-14T09:40:01.000742+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_5b7965bd50ac9417",
+    "source": "semantic_scholar",
+    "title": "A Flexible Wearable Sensor Based on Laser-Induced Graphene for High-Precision Fine Motion Capture for Pilots",
+    "authors": [
+      "Xiaoqing Xing",
+      "Yao Zou",
+      "Mian Zhong",
+      "Shichen Li",
+      "Hongyun Fan",
+      "Xia Lei"
+    ],
+    "year": 2024,
+    "abstract": "There has been a significant shift in research focus in recent years toward laser-induced graphene (LIG), which is a high-performance material with immense potential for use in energy storage, ultrahydrophobic water applications, and electronic devices. In particular, LIG has demonstrated considerable potential in the field of high-precision human motion posture capture using flexible sensing materials. In this study, we investigated the surface morphology evolution and performance of LIG formed by varying the laser energy accumulation times. Further, to capture human motion posture, we evaluated the performance of highly accurate flexible wearable sensors based on LIG. The experimental results showed that the sensors prepared using LIG exhibited exceptional flexibility and mechanical perf",
+    "doi": "10.3390/s24041349",
+    "pdf_url": "https://www.mdpi.com/1424-8220/24/4/1349/pdf?version=1708358793",
+    "journal": "Sensors (Basel, Switzerland)",
+    "url": "https://www.semanticscholar.org/paper/5b7965bd50ac9417f081f793f23d4ba3da9a5678",
+    "fetched_at": "2026-05-14T09:40:01.000751+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_710a3e21d41e5d70",
+    "source": "semantic_scholar",
+    "title": "A Flexible Wearable Strain Sensor Based on Nano-Silver-Modified Laser-Induced Graphene for Monitoring Hand Movements",
+    "authors": [
+      "Mian Zhong",
+      "Yao Zou",
+      "Hongyun Fan",
+      "Shichen Li",
+      "Yilin Zhao",
+      "Bin Li"
+    ],
+    "year": 2024,
+    "abstract": "The advancement in performance in the domain of flexible wearable strain sensors has become increasingly significant due to extensive research on laser-induced graphene (LIG). An innovative doping modification technique is required owing to the limited progress achieved by adjusting the laser parameters to enhance the LIG’s performance. By pre-treating with AgNO3, we successfully manufactured LIG with a uniform dispersion of silver nanoparticles across its surface. The experimental results for the flexible strain sensor exhibit exceptional characteristics, including low resistance (183.4 Ω), high sensitivity (426.8), a response time of approximately 150 ms, and a relaxation time of about 200 ms. Moreover, this sensor demonstrates excellent stability under various tensile strains and remark",
+    "doi": "10.3390/mi15080989",
+    "pdf_url": "https://www.mdpi.com/2072-666X/15/8/989/pdf?version=1722398810",
+    "journal": "Micromachines",
+    "url": "https://www.semanticscholar.org/paper/710a3e21d41e5d7087a51d746457da47908cce48",
+    "fetched_at": "2026-05-14T09:40:01.000759+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_51f101ab5f098d3d",
+    "source": "semantic_scholar",
+    "title": "In Situ Growth of Laser-Induced Graphene on Flexible Substrates for Wearable Sensors",
+    "authors": [
+      "Ming Mu",
+      "Guangmeng Chen",
+      "Wenjie Yu",
+      "Jiamei Liu",
+      "Yingjie Wang",
+      "Weiwei Zhao"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1021/acsanm.3c05669",
+    "pdf_url": "",
+    "journal": "ACS Applied Nano Materials",
+    "url": "https://www.semanticscholar.org/paper/51f101ab5f098d3d50471aa54c059de8a8101524",
+    "fetched_at": "2026-05-14T09:40:01.000765+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7221693274f443e0",
+    "source": "semantic_scholar",
+    "title": "Dry‐Wet Hybrid Direct Printing of Laser‐Induced Graphene and Zinc Oxide Nanoribbons for Continuous‐Flow Manufacturing of Flexible Wearable Photodetectors",
+    "authors": [
+      "Menglong Qu",
+      "Wenfei Zhao",
+      "Daosheng Wu",
+      "Zixuan Liu",
+      "Shichao Feng",
+      "Y. Cheng"
+    ],
+    "year": 2024,
+    "abstract": "Flexible wearable electronics enable an in situ and real‐time measurement of human physiology and micro‐environment. Although large‐scale production of flexible wearable electronics is demonstrated using direct printing techniques, the “wet” nature of these techniques requires multiple procedures and chemicals to prepare printable inks, increasing the complexity and cost. Here, a dry‐wet hybrid direct printing is developed for the mass production of flexible wearable photodetectors, in which a “dry” direct laser writing and a “wet” screen printing are employed to fabricate laser‐induced graphene as electrode layer and zinc oxide as photosensitive layer, respectively. The liquid‐free fabrication of LIG significantly reduces the complexity and cost of the production. An automatic conveyor be",
+    "doi": "10.1002/admt.202302056",
+    "pdf_url": "",
+    "journal": "Advanced Materials Technologies",
+    "url": "https://www.semanticscholar.org/paper/7221693274f443e031de1b3d85a51d3e3c80f802",
+    "fetched_at": "2026-05-14T09:40:01.000773+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_573f41c880dde84a",
+    "source": "semantic_scholar",
+    "title": "Wearable Flexible Perspiration Biosensors Using Laser-Induced Graphene and Polymeric Tape Microfluidics.",
+    "authors": [
+      "N. Garland",
+      "Jacob Schmieder",
+      "Zachary T. Johnson",
+      "Robert G. Hjort",
+      "Bolin Chen",
+      "C. Andersen"
+    ],
+    "year": 2023,
+    "abstract": "Wearable biosensors promise real-time measurements of chemicals in human sweat, with the potential for dramatic improvements in medical diagnostics and athletic performance through continuous metabolite and electrolyte monitoring. However, sweat sensing is still in its infancy, and questions remain about whether sweat can be used for medical purposes. Wearable sensors are focused on proof-of-concept designs that are not scalable for multisubject trials, which could elucidate the utility of sweat sensing for health monitoring. Moreover, many wearable sensors do not include the microfluidics necessary to protect and channel consistent and clean sweat volumes to the sensor surface or are not designed to be disposable to prevent sensor biofouling and inaccuracies due to repeated use. Hence, th",
+    "doi": "10.1021/acsami.3c04665",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/573f41c880dde84a23ae0cba04749d0d58e1d8e2",
+    "fetched_at": "2026-05-14T09:40:01.000779+00:00",
+    "material": "LIG"
   }
 ]
