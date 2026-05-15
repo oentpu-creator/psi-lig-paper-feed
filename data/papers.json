@@ -6936,5 +6936,26 @@
     "url": "https://www.semanticscholar.org/paper/573f41c880dde84a23ae0cba04749d0d58e1d8e2",
     "fetched_at": "2026-05-14T09:40:01.000779+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2605.13541v1",
+    "source": "arxiv",
+    "title": "High-order mid-infrared nonlinear topological differentiator",
+    "authors": [
+      "Jixi Zhang",
+      "Kun Huang",
+      "Shina Liao",
+      "Zhuohang Wei",
+      "Jianan Fang",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "High-order edge-enhanced imaging enables precise feature localization and effective background suppression, offering a powerful tool for real-time recognition and high-contrast visualization. Extending this capability to the mid-infrared (MIR) regime is particularly valuable for applications such as biomedical diagnostics, material inspection, and remote sensing, yet remains limited by inadequate spatial-frequency modulation fidelity and low detection sensitivity. Here, we demonstrate a high-sensitivity MIR upconversion differentiator operating at 3 $μ$m, which achieves isotropic high-order edge enhancement by optically imprinting topological complex-amplitude patterns onto MIR Fourier components via nonlinear parametric interaction. Vortex transfer functions $t(k_r, φ) \\propto k_r^\\ell e^",
+    "doi": "10.1002/lpor.202502431",
+    "pdf_url": "https://arxiv.org/pdf/2605.13541v1",
+    "journal": "Laser & Photonics Reviews 20, e02431 (2026)",
+    "url": "http://arxiv.org/abs/2605.13541v1",
+    "fetched_at": "2026-05-15T10:00:23.534585+00:00",
+    "material": "other"
   }
 ]
