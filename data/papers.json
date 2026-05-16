@@ -6957,5 +6957,135 @@
     "url": "http://arxiv.org/abs/2605.13541v1",
     "fetched_at": "2026-05-15T10:00:23.534585+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15064v1",
+    "source": "arxiv",
+    "title": "After the Interface: Relocating Human Agency in the Age of Conversational AI",
+    "authors": [
+      "Mengke Wu",
+      "Mike Yao"
+    ],
+    "year": 2026,
+    "abstract": "As AI systems take on greater autonomy, a quiet anxiety has settled over the HCI community: human agency is eroding. Users no longer control execution, interfaces recede, and machines decide. We argue that this anxiety, while understandable, reflects a framing problem rather than an empirical finding. Agency has not diminished but has relocated. As interaction has shifted from command- and feature-based paradigms toward conversational, generative, and agentic AI, human agency migrates from interface affordances to interaction itself: articulating goals, evaluating outputs, and negotiating outcomes. To make this relocation visible, we revisit control as a diagnostic lens, distinguish process control and outcome control, and map different systems across this space to show that what looks lik",
+    "doi": "10.1145/3816046.3816301",
+    "pdf_url": "https://arxiv.org/pdf/2605.15064v1",
+    "journal": "ACM Conversational User Interfaces 2026 (CUI '26)",
+    "url": "http://arxiv.org/abs/2605.15064v1",
+    "fetched_at": "2026-05-16T07:32:06.790838+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15032v1",
+    "source": "arxiv",
+    "title": "Multi-Block Attention for Efficient Channel Estimation in IRS-Assisted mmWave MIMO",
+    "authors": [
+      "Mehrdad Momen-Tayefeh",
+      "Mehrshad Momen-Tayefeh",
+      "Maryam Sabbaghian"
+    ],
+    "year": 2026,
+    "abstract": "Intelligent Reflecting Surfaces (IRSs) are a promising technology for enhancing the spectral and energy efficiency of millimeter-wave (mmWave) multiple-input multiple-output (MIMO) systems. In these systems, accurate channel estimation remains challenging due to the passive nature of IRS elements and the high pilot overhead in large-scale deployments. This paper presents a deep learning-based Multi-Block Attention (MBA) framework for efficient cascaded channel estimation in IRS-assisted mmWave MIMO systems that utilize orthogonal frequency division multiplexing (OFDM). First, we show the optimality of the discrete Fourier transform (DFT) and Hadamard matrices as phase configurations for least squares (LS) estimation. To reduce training overhead, we selectively deactivate IRS elements and c",
+    "doi": "10.1109/TCOMM.2025.3618696",
+    "pdf_url": "https://arxiv.org/pdf/2605.15032v1",
+    "journal": "IEEE Transactions on Communications, vol. 73, no. 12, pp. 13891-13903, Dec. 2025",
+    "url": "http://arxiv.org/abs/2605.15032v1",
+    "fetched_at": "2026-05-16T07:32:06.790899+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15111v1",
+    "source": "arxiv",
+    "title": "Oscillatory photoresistance on the high field side of the cyclotron resonance",
+    "authors": [
+      "M. A. Zudov"
+    ],
+    "year": 2026,
+    "abstract": "We consider the displacement contribution to photoresistance in overlapping Landau levels at radiation frequencies much smaller than the cyclotron frequency. We show that in the limit of short-range disorder and high radiation power, this contribution leads to a new class of magneto-resistance oscillations. These oscillations, which we call radiowave-induced resistance oscillations (RIROs), are distinct from the well known microwave-induced resistance oscillations in the following aspects: (i) their amplitude is independent of power, (ii) their period is controlled by the radiation electric field, rather than by the radiation frequency, and (iii) they can be either $1/B$ or $1/B^2$-periodic, depending on $B$, with the crossover point linked to the width of the cyclotron resonance absorptio",
+    "doi": "10.1103/83jh-zjq3",
+    "pdf_url": "https://arxiv.org/pdf/2605.15111v1",
+    "journal": "Phys. Rev. B 113, L201404 (2026)",
+    "url": "http://arxiv.org/abs/2605.15111v1",
+    "fetched_at": "2026-05-16T07:32:18.304969+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.14881v1",
+    "source": "arxiv",
+    "title": "QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits",
+    "authors": [
+      "Zihao Li",
+      "Ji Guan",
+      "Mingsheng Ying"
+    ],
+    "year": 2026,
+    "abstract": "We present a tool QSeqSim, a Qiskit-integrated symbolic backend that fills the current gap of having no Qiskit-native support for simulating while-loop quantum programs and their induced sequential quantum circuits. QSeqSim takes Qiskit QuantumCircuit objects, translates them into OpenQASM 3 code, and organises the resulting program into a combination of combinational, dynamic, and sequential circuits, thereby assigning while-loops a precise sequential circuit semantics with explicit internal and external qubits. Building on this semantics, QSeqSim adopts a Binary Decision Diagram (BDD)-based symbolic representation and integrates weighted model counting to compute measurement probabilities efficiently by exploiting sharing in structured and sparse BDDs. On top of this Boolean backbone, it",
+    "doi": "10.1007/978-3-032-26204-2_30",
+    "pdf_url": "https://arxiv.org/pdf/2605.14881v1",
+    "journal": "FM 2026, LNCS 16556, Springer, 2026",
+    "url": "http://arxiv.org/abs/2605.14881v1",
+    "fetched_at": "2026-05-16T07:32:18.305365+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.14855v1",
+    "source": "arxiv",
+    "title": "Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers",
+    "authors": [
+      "Lukas Schelenz",
+      "Shobha Rajanna",
+      "Denis Gosalci",
+      "Lucas Heublein",
+      "Jonas Pirkl",
+      "Jonathan Ott"
+    ],
+    "year": 2026,
+    "abstract": "Forecasting within signal processing pipelines is crucial for mitigating delays, particularly in predicting the dynamic movements of objects such as NBA players. This task poses significant challenges due to the inherently interactive and unpredictable nature of sports, where abrupt changes in velocity and direction are prevalent. Traditional approaches, including (S)ARIMA(X), Kalman filters (KF), and Particle filters (PF), often struggle to model the non-linear dynamics present in such scenarios. Machine learning (ML) methods, such as long short-term memory (LSTM) networks, graph neural networks (GNNs), and Transformers, offer greater flexibility and accuracy but frequently fail to explicitly capture the interplay between temporal dependencies and contextual interactions, which are critic",
+    "doi": "10.1109/PLANS61210.2025.11028353",
+    "pdf_url": "https://arxiv.org/pdf/2605.14855v1",
+    "journal": "IEEE/ION Position, Location and Navigation Symposium (PLANS), Salt Lake City, UT, May 2025",
+    "url": "http://arxiv.org/abs/2605.14855v1",
+    "fetched_at": "2026-05-16T07:32:23.875048+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.14557v1",
+    "source": "arxiv",
+    "title": "Tunable Dual-Type Weyl Points in Dirac-Weyl Semimetal CaAgBi",
+    "authors": [
+      "Shenghao Huang",
+      "Heng Gao",
+      "Hongfei Wang",
+      "Wei Ren"
+    ],
+    "year": 2026,
+    "abstract": "Dirac-Weyl semimetals host both Dirac and Weyl fermions and the exploration of material candidates with tunable topological properties is essential to realize topological spintronic devices. In this work, we propose CaAgBi as a Dirac-Weyl semimetal with tunable type-I and type-II Weyl points based on first-principle calculations. In addition to the three pairs of Dirac points located along the rotational axis as previously reported, our calculations reveal 18 additional pairs of dual-type Weyl points distributed across three distinct planes: type-I in the $k_z=0$ plane and type-II in the $k_z= \\pm 0.0698\\,\\frac{2π}{c}$ planes. The topological features are further confirmed through chirality of the Weyl points as well as the existence of surface Fermi arcs. Moreover, we find that the positi",
+    "doi": "10.1103/zpw2-6djz",
+    "pdf_url": "https://arxiv.org/pdf/2605.14557v1",
+    "journal": "Physical Review B 112 (15), 155165 Physical Review B 112 (15), 155165(2025)",
+    "url": "http://arxiv.org/abs/2605.14557v1",
+    "fetched_at": "2026-05-16T07:32:41.312513+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.13528v1",
+    "source": "arxiv",
+    "title": "High-temperature behavior of amorphous alumina coatings: Insights from in-situ nanoindentation and X-ray diffraction studies",
+    "authors": [
+      "A. Zaborowska",
+      "L. Kurpaska",
+      "M. Zielinski",
+      "Q. Xu",
+      "E. Wyszkowska",
+      "J. OConnell"
+    ],
+    "year": 2026,
+    "abstract": "Further development of nuclear power plant technology relies heavily on materials durability under operating conditions. Estimating the materials performance in the operando tests is crucial. In this paper, the mechanical behavior of thin amorphous nuclear-dedicated Al2O3 coatings deposited by pulsed laser deposition was investigated by nanoindentation over the temperature range of 25-650C. Experimental nanomechanical analysis was supported by MD simulations. The results indicate that the hardness of the amorphous coating experiences a gradual, constant decrease with temperature, while the Young modulus value remains constant in the whole temperature range. Observed phenomena confirm the increasing plasticity of the material and it is postulated to be related to the bond-switching mechanis",
+    "doi": "10.1016/j.ceramint.2025.01.134",
+    "pdf_url": "https://arxiv.org/pdf/2605.13528v1",
+    "journal": "Ceramics International 2025",
+    "url": "http://arxiv.org/abs/2605.13528v1",
+    "fetched_at": "2026-05-16T07:32:47.711633+00:00",
+    "material": "other"
   }
 ]
