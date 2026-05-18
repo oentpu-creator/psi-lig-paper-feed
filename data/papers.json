@@ -7087,5 +7087,146 @@
     "url": "http://arxiv.org/abs/2605.13528v1",
     "fetched_at": "2026-05-16T07:32:47.711633+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.16073v1",
+    "source": "arxiv",
+    "title": "Charge Transfer from Perovskite Quantum Dots to Multifunctional Ligands with Tethered Molecular Species",
+    "authors": [
+      "Mariam Kurashvili",
+      "Lena S. Stickel",
+      "Jordi Llusar",
+      "Christian Wilhelm",
+      "Fabian Felixberger",
+      "Ivana Ivanović-Burmazović"
+    ],
+    "year": 2026,
+    "abstract": "Perovskite quantum dots (pQDs) are promising materials for optoelectronic and photocatalytic applications due to their unique optical properties. To enhance charge carrier extraction or injection donor/acceptor molecules can be tethered to the pQD. These molecules must strongly bind to the ionic surfaces of pQDs without compromising colloidal stability. These we achieve by using multifunctional ligands containing a quaternary ammonium binding group for strong pQDs surface attachment, a long tail group for colloidal stability, and a functional group near the pQD surface. Such pQDs with ferrocene-functionalized ligands show fast photoexcited hole transfer with near-unity efficiency. Density functional theory calculations reveal how ferrocene's molecular structure reorganizes following hole t",
+    "doi": "10.1021/acsenergylett.5c00881",
+    "pdf_url": "https://arxiv.org/pdf/2605.16073v1",
+    "journal": "ACS Energy Lett. 2025, 10, 6, 2811-2820",
+    "url": "http://arxiv.org/abs/2605.16073v1",
+    "fetched_at": "2026-05-18T12:51:32.371990+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.16237v1",
+    "source": "arxiv",
+    "title": "Inside Baseball: The Automated Ball-Strike System as an Object Lesson in Technological Rule Enforcement",
+    "authors": [
+      "Andrea Wen-Yi Wang",
+      "Waki Kamino",
+      "David Mimno",
+      "Karen Levy",
+      "Malte F. Jung"
+    ],
+    "year": 2026,
+    "abstract": "Clearly-defined rules are often assumed to be straightforward to automate and evaluate. We challenge this assumption through an in-depth study of Major League Baseball's (MLB) seven-year experimentation with the Automated Ball-Strike System (ABS). ABS is envisioned to call balls and strikes accurately: a seemingly straightforward use of technology to objectively determine the distance between a pitch and the strike zone. Although the strike zone is an area clearly defined in the rulebook, it took MLB seven years to figure out how to automate calling balls and strikes with ABS, showing how even seemingly straightforward rules require a complex translation process to operationalize via technological systems. In this paper, we trace the design decisions that led to the current implementation ",
+    "doi": "10.1145/3805689.3812385",
+    "pdf_url": "https://arxiv.org/pdf/2605.16237v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.16237v1",
+    "fetched_at": "2026-05-18T12:51:56.410684+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.16233v1",
+    "source": "arxiv",
+    "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+    "authors": [
+      "Igor Bogdanov",
+      "Chung-Horng Lung",
+      "Thomas Kunz",
+      "Jie Gao",
+      "Adrian Taylor",
+      "Marzia Zaman"
+    ],
+    "year": 2026,
+    "abstract": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based protocol that evolves prompt-injected natural-language memory for hierarchical ReAct agents. FORGE wraps a Reflexion-style inner loop, where a dedicated reflection agent (using the same underlying LLM, no distillation from a stronger model) converts failed trajectories into reusable knowledge artifacts: textual heuristics (Rules), few-shot demonstrations (Examples), or both (Mixed), with an outer loop that propagates the best-performing instance's memory to the population between stages and freezes converged instances via a graduation criterion. We evaluate on CybORG CAGE-2, a stochastic network-d",
+    "doi": "10.1145/3786335.3813155",
+    "pdf_url": "https://arxiv.org/pdf/2605.16233v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.16233v1",
+    "fetched_at": "2026-05-18T12:51:56.410733+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15812v1",
+    "source": "arxiv",
+    "title": "Toward Natural and Companionable Virtual Agents via Cross-Temporal Emotional Modeling",
+    "authors": [
+      "Feier Qin",
+      "Xiao Li",
+      "Yi Zheng",
+      "Haibin Huang",
+      "Hanyao Wang",
+      "Xiaoyu Wang"
+    ],
+    "year": 2026,
+    "abstract": "Recent advances in foundation models have enabled conversational agents that aim for sustained companionship rather than mere task completion. Yet most still remain unable to support natural, long-term companion-like interactions, resulting in experiences that feel episodic and inauthentic. We argue that current agents overlooked cross-temporal modeling of agents' social behaviors and internal emotions: generated behaviors rarely influence an agent's emotional state, and emotional states seldom shape subsequent behaviors. We present Cross-Temporal Emotion Modeling (CTEM), a framework that links long-term behavioral history to moment-to-moment emotional expression. CTEM establishes a closed loop where past experiences update an evolving emotional state; this state conditions immediate inter",
+    "doi": "10.1145/3772318.3790917",
+    "pdf_url": "https://arxiv.org/pdf/2605.15812v1",
+    "journal": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26), ACM, 2026",
+    "url": "http://arxiv.org/abs/2605.15812v1",
+    "fetched_at": "2026-05-18T12:51:56.411123+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.16078v1",
+    "source": "arxiv",
+    "title": "A numerical study into neural network surrogate model performance for uncertainty propagation",
+    "authors": [
+      "Noah Wade",
+      "Kirubel Teferra"
+    ],
+    "year": 2026,
+    "abstract": "Neural network surrogate models have emerged as a promising approach to model solution fields for a wide variety of boundary value problems encountered in physical modeling. Stochastic problems represent an area of particularly high interest because of the potential to significantly reduce the repeated evaluation of expensive forward models via traditional numerical solvers when conducting parametric analysis. However, many studies found in the literature primarily focus on the ability of neural network surrogate models to represent deterministic samples or mean field solutions and largely overlook surrogate model performance at the tails of the distribution. The present study examines in detail the ability of neural network surrogate models to capture the full distribution of solution fie",
+    "doi": "10.1061/JENMDT/EMENG-8978",
+    "pdf_url": "https://arxiv.org/pdf/2605.16078v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.16078v1",
+    "fetched_at": "2026-05-18T12:52:07.874253+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15431v1",
+    "source": "arxiv",
+    "title": "Optimizing Chilled Water Systems with Cooling Towers via Virtual Power Metrics and Extremum-Seeking Control",
+    "authors": [
+      "Min Gyung Yu",
+      "Alex Vlachokostas",
+      "Karthik Devaprasad",
+      "Matt Cornachione",
+      "Stephanie Johnson",
+      "Tim A. Yoder"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents an extremum seeking control (ESC) method for cooling tower fans to minimize overall power consumption of a chilled water plant system. Simulation studies across different climate locations demonstrate energy savings of approximately 15% compared to conventional control during summer conditions. This paper also proposes a virtual power meter (VPM) to enable use of the strategy in systems that lack physical power meters. Validation tests for the VPMs against physical meters showed good accuracy with a correlation of 96.11% and a normalized error of 5.11%. Coupled with the VPM, the proposed ESC control solution can be implemented on systems using typically available sensor measurements without the need for additional instrumentation.",
+    "doi": "10.1080/19401493.2025.2575349",
+    "pdf_url": "https://arxiv.org/pdf/2605.15431v1",
+    "journal": "Journal of Building Performance Simulation 19.2 (2026): 181-194",
+    "url": "http://arxiv.org/abs/2605.15431v1",
+    "fetched_at": "2026-05-18T12:52:31.053154+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.15252v1",
+    "source": "arxiv",
+    "title": "PDRNN: Modular Data-driven Pedestrian Dead Reckoning on Loosely Coupled Radio- and Inertial-Signalstreams",
+    "authors": [
+      "Peter Bauer",
+      "Andreas Porada",
+      "Felix Ott",
+      "Christopher Mutschler",
+      "Tobias Feigl"
+    ],
+    "year": 2026,
+    "abstract": "Modern pedestrian dead reckoning (PDR) systems rely on fusing noisy and biased estimates of position, velocity, and calibrated orientation derived from loosely coupled sensors to determine the current pose of a localized object. However, discrepancies in the sampling rates of sensor-specific estimation methods and unreliable transmission pose significant challenges. And traditional methods often fail to effectively fuse multimodal sensor data during dynamic movements characterized by high accelerations, velocities, and rapidly varying orientations. To address these limitations, we propose a simple recurrent neural network (RNN) architecture capable of implicitly forecasting asynchronous sensor data streams from diverse estimation methods along reference trajectories. The proposed approach ",
+    "doi": "10.1109/PLANS61210.2025.11028330",
+    "pdf_url": "https://arxiv.org/pdf/2605.15252v1",
+    "journal": "IEEE/ION Position, Location and Navigation Symposium (PLANS), Salt Lake City, UT, May 2025",
+    "url": "http://arxiv.org/abs/2605.15252v1",
+    "fetched_at": "2026-05-18T12:52:31.053297+00:00",
+    "material": "other"
   }
 ]
