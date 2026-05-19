@@ -7228,5 +7228,125 @@
     "url": "http://arxiv.org/abs/2605.15252v1",
     "fetched_at": "2026-05-18T12:52:31.053297+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.18682v1",
+    "source": "arxiv",
+    "title": "Effect of electric current on optical response of viscous electron-hole plasma",
+    "authors": [
+      "Yu. A. Pusep",
+      "M. A. T. Patricio",
+      "G. M. Jacobsen",
+      "M. D. Teodoro",
+      "G. M. Gusev",
+      "A. K. Bakarov"
+    ],
+    "year": 2026,
+    "abstract": "The influence of the Hall voltage on the photoluminescence of a dense hydrodynamic electron-hole plasma laser generated in a mesoscopic n-doped GaAs channel under intense laser excitation is studied. Laser excitation induces an interband current determined by the recombination of photogenerated electron-hole pairs. As a result, background electrons drifting under the influence of the Hall voltage form an effective Hall current. The Coulomb drag caused by the Hall current causes the accumulation of light holes, leading to the appearance of a double photoluminescence line formed by the recombination of excitons and trions. In contrast, in the absence of a Hall current, the shift in the photoluminescence energy associated with heavy holes occurs due to the electric field created by the Hall p",
+    "doi": "10.1088/1361-6463/ae6e4c",
+    "pdf_url": "https://arxiv.org/pdf/2605.18682v1",
+    "journal": "J. Phys. D: Appl. Phys, 2026",
+    "url": "http://arxiv.org/abs/2605.18682v1",
+    "fetched_at": "2026-05-19T11:42:24.631599+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.18638v1",
+    "source": "arxiv",
+    "title": "Electronic mechanism of sub-100-fs demagnetization induced by a femtosecond light pulse",
+    "authors": [
+      "Konrad J. Kapcia",
+      "Victor Tkachenko",
+      "Flavio Capotondi",
+      "Alexander Lichtenstein",
+      "Serguei Molodtsov",
+      "Przemysław Piekarz"
+    ],
+    "year": 2026,
+    "abstract": "A quantitative understanding of the processes that trigger light-induced demagnetization on ultrashort timescales is crucial for achieving an ultrafast, radiation-controlled magnetic response in materials. This milestone is essential for developing next-generation magnetic storage devices and ultrafast magnetic switches. In this theoretical study, we investigated demagnetization triggered in a single magnetic domain by light pulses ranging from a few to a few tens of femtoseconds in duration, with photon energies spanning the optical and X-ray regimes, under strongly non-equilibrium conditions. We predicted a loss of magnetization in the sub-100-fs range in all cases, primarily due to the excitation of the electronic system and the subsequent redistribution of electrons within the magneto-",
+    "doi": "10.1038/s41598-026-51949-2",
+    "pdf_url": "https://arxiv.org/pdf/2605.18638v1",
+    "journal": "Scientific Reports 16, 14705 (1-9) (2026)",
+    "url": "http://arxiv.org/abs/2605.18638v1",
+    "fetched_at": "2026-05-19T11:42:24.631746+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_1e308ee79e913401",
+    "source": "semantic_scholar",
+    "title": "A Variable Response Phosphine Sensing Matrix Based on Nanostructure Treated p and n-Type Porous Silicon Interfaces",
+    "authors": [
+      "J. Gole",
+      "W. Laminack"
+    ],
+    "year": 2014,
+    "abstract": "",
+    "doi": "10.1109/JSEN.2014.2316117",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Journal",
+    "url": "https://www.semanticscholar.org/paper/1e308ee79e9134010cbff8b8893aad0f0e7574d1",
+    "fetched_at": "2026-05-19T11:42:36.722750+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2605.18455v1",
+    "source": "arxiv",
+    "title": "OrganicHAR: Towards Activity Discovery in Organic Settings for Privacy Preserving Sensors Using Efficient Video Analysis",
+    "authors": [
+      "Prasoon Patidar",
+      "Riku Arakawa",
+      "Ricardo Graça",
+      "Rúben Moutinho",
+      "Adriano Soares",
+      "Ana Vasconcelos"
+    ],
+    "year": 2026,
+    "abstract": "Deploying human activity recognition (HAR) at home is still rare because sensor signals vary wildly across houses, people, and time, essentially requiring in-situ data collection and training. Prior approaches use cameras to generate training labels for privacy-preserving sensors (LiDAR, RADAR, Thermal), but this forces sensors to detect predefined activities that cameras can see yet the sensors themselves cannot reliably distinguish. In this work, we introduce OrganicHAR, an activity discovery framework that inverts this relationship by placing sensor capabilities at the center of activity discovery. Our approach identifies naturally occurring signal patterns using privacy-preserving sensors, leverages Vision Language Models (VLMs) only during these key moments for scene understanding, an",
+    "doi": "10.1145/3770674",
+    "pdf_url": "https://arxiv.org/pdf/2605.18455v1",
+    "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9(4) (2025) 203:1-203:32",
+    "url": "http://arxiv.org/abs/2605.18455v1",
+    "fetched_at": "2026-05-19T11:43:21.872970+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.18385v1",
+    "source": "arxiv",
+    "title": "Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments",
+    "authors": [
+      "Halim Djerroud",
+      "Nico Steyn",
+      "Olivier Rabreau",
+      "Patrick Bonnin",
+      "Abderraouf Benali"
+    ],
+    "year": 2026,
+    "abstract": "We present UbiSLAM, an innovative solution for real-time mapping and localization in dynamic indoor environments. By deploying a network of fixed RGB-D   cameras strategically throughout the workspace, UbiSLAM addresses limitations commonly encountered in traditional SLAM systems, such as sensitivity to   environmental changes and reliance on mobile unit sensors. This fixed-sensor approach enables real-time, comprehensive mapping, enhancing the localization   accuracy and responsiveness of robots operating within the environment. The centralized map generated by UbiSLAM is continuously updated, providing robots   with an accurate global view, which improves navigation, minimizes collisions, and facilitates smoother human-robot interactions in shared spaces. Beyond its   advantages, UbiSLAM",
+    "doi": "10.5220/0013245400003890",
+    "pdf_url": "https://arxiv.org/pdf/2605.18385v1",
+    "journal": "Proceedings of the 17th International Conference on Agents and Artificial Intelligence (ICAART 2025), Volume 1, pages 537-548, SciTePress, 2025. ISBN: 978-989-758-737-5, ISSN: 2184-433X",
+    "url": "http://arxiv.org/abs/2605.18385v1",
+    "fetched_at": "2026-05-19T11:43:21.873127+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.17865v1",
+    "source": "arxiv",
+    "title": "Imaging Hidden Objects with Consumer LiDAR via Motion Induced Sampling",
+    "authors": [
+      "Siddharth Somasundaram",
+      "Aaron Young",
+      "Akshat Dave",
+      "Adithya Pediredla",
+      "Ramesh Raskar"
+    ],
+    "year": 2026,
+    "abstract": "LiDARs are being increasingly deployed for consumer imaging in handheld, wearable, and robotic applications. These sensors can capture the time-of-flight of light at picosecond resolution, which in principle, enables them to capture information about objects hidden from their field of view. While such non-line-of-sight (NLOS) imaging capabilities have been shown on research-grade LiDARs, they are challenging to achieve on consumer devices due to poor signal quality resulting from low laser power, low spatial resolution, and object and camera motion. Inspired by burst photography and synthetic aperture radar, we propose a multi-frame fusion strategy to overcome these challenges and demonstrate NLOS imaging on consumer LiDAR. We first introduce the motion-induced aperture sampling model to u",
+    "doi": "10.1038/s41586-026-10502-x",
+    "pdf_url": "https://arxiv.org/pdf/2605.17865v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.17865v1",
+    "fetched_at": "2026-05-19T11:43:28.175624+00:00",
+    "material": "other"
   }
 ]
