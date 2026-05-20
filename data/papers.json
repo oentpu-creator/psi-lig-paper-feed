@@ -7348,5 +7348,81 @@
     "url": "http://arxiv.org/abs/2605.17865v1",
     "fetched_at": "2026-05-19T11:43:28.175624+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.19873v1",
+    "source": "arxiv",
+    "title": "Twisted light generates robust many-body states for practical quantum computing",
+    "authors": [
+      "Ferney J. Rodriguez",
+      "Luis Quiroga",
+      "Neil F. Johnson"
+    ],
+    "year": 2026,
+    "abstract": "Twisted light carries orbital angular momentum (OAM) and can drive excitations of confined, interacting electrons that are dark to uniform dipolar probes. Here we show how this ``beyond-Kohn's-Theorem'' optical channel can become a concrete control primitive for quantum computing. Correlation sectors in few-electron quantum dots -- characterized by the relative angular momentum quantum number -- form a tunable ladder of many-body states that are robust in the limited sense of symmetry-protected selection rules and persistent chiral spectroscopic fingerprints; full topological gap protection requires three or more electrons. A twisted-light pulse with prescribed OAM index and polarization provides fast optical write, read, and scalable addressing of these sectors via the selection rule $Δ|m",
+    "doi": "10.1103/f4qc-3ckt",
+    "pdf_url": "https://arxiv.org/pdf/2605.19873v1",
+    "journal": "APS Open Science 1, 000023 published 19 May, 2026",
+    "url": "http://arxiv.org/abs/2605.19873v1",
+    "fetched_at": "2026-05-20T10:37:35.942864+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.20024v1",
+    "source": "arxiv",
+    "title": "Journeys of Parents with LGBTQ+ Children: How Trauma and Healing Reshape Identity and (Mis)Informating Practices",
+    "authors": [
+      "Soonho Kwon",
+      "Dong Whi Yoo",
+      "Koustuv Saha",
+      "Shaowen Bardzell",
+      "Younah Kang"
+    ],
+    "year": 2026,
+    "abstract": "This study examines how parents of LGBTQ+ individuals in South Korea navigate the emotional rupture fueled by fear, isolation, and disorientation after learning their children's queer identity, encounter queer-related (mis)information as a way of coping with this emotional toll, and come to listen to queer realities relationally. Through this process, we highlight how parents reconstruct their identities as supportive parents, which reshapes their informating practices, making them more critical in assessing queer-related (mis)information, developing strategies to protect themselves from harmful narratives, and actively challenging misinformation to support others navigating similar experiences.   This work contributes to CSCW by (1) foregrounding parents of LGBTQ+ individuals, an underrep",
+    "doi": "10.1145/3816958",
+    "pdf_url": "https://arxiv.org/pdf/2605.20024v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.20024v1",
+    "fetched_at": "2026-05-20T10:38:01.397760+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.20142v1",
+    "source": "arxiv",
+    "title": "Mining Financial Data using Mixtures of Mirrored Weibull Distributions",
+    "authors": [
+      "Zijun Jia",
+      "Sharon X. Lee"
+    ],
+    "year": 2026,
+    "abstract": "Risk management is an important part of financial practice, essential for protecting assets and investments in modern-day volatile markets. This paper proposes a mixture of mirrored Weibull (MMW) distribution for modelling stock returns and estimating risk measures. Unlike common practices which are typically based on the normal distribution, the MMW model can flexibly accommodate non-normal features frequently exhibited in financial data. It also enjoys appealing properties such as having a simple density expression and fast parameter estimation. We demonstrate the effectiveness of our model by assessing its performance in Value-at-Risk (VaR) estimation of three S&P500 stocks. The MMW model compares favourably to Gaussian mixture model and t-mixture model, with significant improvements in",
+    "doi": "10.1109/ICIBA62489.2024.10868849",
+    "pdf_url": "https://arxiv.org/pdf/2605.20142v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.20142v1",
+    "fetched_at": "2026-05-20T10:38:18.633376+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.19509v1",
+    "source": "arxiv",
+    "title": "The measurement of late-pulses and after-pulses in the large area Hamamatsu R7081 photomultiplier with improved quantum-efficiency photocathode",
+    "authors": [
+      "S. Aiello",
+      "M. Anghinolfi",
+      "A. Balbi",
+      "M. Brunoldi",
+      "K. Gracheva",
+      "A. Grimaldi"
+    ],
+    "year": 2026,
+    "abstract": "In recent years, large underwater telescopes have been designed and realized to measure high energy neutrinos from astrophysical objects. Muon tracks produced by the neutrino interaction in the surrounding medium are reconstructed from the arrival time and the number of photo-electrons of the Cherenkov light measured by the Photomultiplier tubes (PMT) array of the detector. For a correct reconstruction procedure, both the scattering of the light in the water and the late and after pulses produced in the PMTs must be considered. In this paper we report on this latter effect which has been measured in our laboratory using a laser in the single photoelectron mode (SPE) on a Hamamatsu R7081MOD 10\" PMT with a high quantum efficiency photocathode. The PMT voltage supply was set to provide the 1 ",
+    "doi": "10.15161/oar.it/1449018200.75",
+    "pdf_url": "https://arxiv.org/pdf/2605.19509v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.19509v1",
+    "fetched_at": "2026-05-20T10:38:43.156924+00:00",
+    "material": "other"
   }
 ]
