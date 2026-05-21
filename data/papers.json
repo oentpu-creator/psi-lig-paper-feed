@@ -7424,5 +7424,63 @@
     "url": "http://arxiv.org/abs/2605.19509v1",
     "fetched_at": "2026-05-20T10:38:43.156924+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.21354v1",
+    "source": "arxiv",
+    "title": "Micro-explosion of emulsion droplets with nanoparticles at high temperature",
+    "authors": [
+      "Houpeng Zhang",
+      "Zhen Lu",
+      "Tianyou Wang",
+      "Zhizhao Che"
+    ],
+    "year": 2026,
+    "abstract": "Compared with traditional fuels, emulsified fuels can improve fuel atomization and combustion, and nanoparticles as additives have the potential to enhance combustion and reduce emissions. Previous studies on micro-explosion mainly considered emulsion droplets, but the role of nanoparticles in emulsion droplets is still unclear. In this study, we experimentally investigate the micro-explosion of emulsion droplets with nanoparticles via high-speed photography, digital image processing, optical microscopy, and scanning electron microscopy. The results show that the presence of nanoparticles can greatly improve the strength and probability of micro-explosion, particularly for carbon nanoparticles. This is mainly because nanoparticles can agglomerate during the evaporation of emulsion droplets",
+    "doi": "10.1016/j.ijheatmasstransfer.2023.124851",
+    "pdf_url": "https://arxiv.org/pdf/2605.21354v1",
+    "journal": "International Journal of Heat and Mass Transfer, 219 (2024) 124851",
+    "url": "http://arxiv.org/abs/2605.21354v1",
+    "fetched_at": "2026-05-21T11:55:39.498699+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.21339v1",
+    "source": "arxiv",
+    "title": "Occupation Dynamics of Floquet-Volkov States and Spectral Sum Rule",
+    "authors": [
+      "Xuanxi Cai",
+      "Changhua Bao",
+      "Benshu Fan",
+      "Haoyuan Zhong",
+      "Fei Wang",
+      "Shaohua Zhou"
+    ],
+    "year": 2026,
+    "abstract": "Time-periodic light fields can dress electronic states in quantum materials, forming Floquet states whose dynamic occupation determines transient material properties. Here by using time- and angle-resolved photoemission spectroscopy (TrARPES), we reveal the transient occupation of Floquet-Volkov states in two semiconductors, black phosphorus and MoSe$_2$. While the occupation of the light-induced sidebands, directly reflected by TrARPES spectral weight, strongly depends on the driving field, we find that the total spectral weight obtained by summing up all sidebands is conserved upon below-gap driving. Our work provides critical insights into the Floquet population dynamics, which are essential for light-field tailoring of transient material properties.",
+    "doi": "10.1021/acs.nanolett.6c01340",
+    "pdf_url": "https://arxiv.org/pdf/2605.21339v1",
+    "journal": "Nano Lett. (2026)",
+    "url": "http://arxiv.org/abs/2605.21339v1",
+    "fetched_at": "2026-05-21T11:56:02.163022+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.20458v1",
+    "source": "arxiv",
+    "title": "ELEMENT: Multi-Modal Retinal Vessel Segmentation Based on a Coupled Region Growing and Machine Learning Approach",
+    "authors": [
+      "Erick O. Rodrigues",
+      "Aura Conci",
+      "Panos Liatsis"
+    ],
+    "year": 2026,
+    "abstract": "Vascular structures in the retina contain important information for the detection and analysis of ocular diseases, including age-related macular degeneration, diabetic retinopathy and glaucoma. Commonly used modalities in diagnosis of these diseases are fundus photography, scanning laser ophthalmoscope (SLO) and fluorescein angiography (FA). Typically, retinal vessel segmentation is carried out either manually or interactively, which makes it time consuming and prone to human errors. In this research, we propose a new multi-modal framework for vessel segmentation called ELEMENT (vEsseL sEgmentation using Machine lEarning and coNnecTivity). This framework consists of feature extraction and pixel-based classification using region growing and machine learning. The proposed features capture co",
+    "doi": "10.1109/JBHI.2020.2999257",
+    "pdf_url": "https://arxiv.org/pdf/2605.20458v1",
+    "journal": "IEEE Journal of Biomedical and Health Informatics 2020",
+    "url": "http://arxiv.org/abs/2605.20458v1",
+    "fetched_at": "2026-05-21T11:56:41.579251+00:00",
+    "material": "other"
   }
 ]
