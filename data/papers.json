@@ -7482,5 +7482,369 @@
     "url": "http://arxiv.org/abs/2605.20458v1",
     "fetched_at": "2026-05-21T11:56:41.579251+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_ce412c3f201a0499",
+    "source": "semantic_scholar",
+    "title": "Laser‐Induced Graphene Sensor for the Electrochemical Detection of Acetaminophen",
+    "authors": [
+      "A. A. Lahcen",
+      "Mazhar Sher",
+      "Sikander Ameer",
+      "G. Slaughter"
+    ],
+    "year": 2025,
+    "abstract": "Here we present a simple and efficient method for fabricating laser‐induced graphene (LIG) electrodes for the electrochemical detection of acetaminophen (AAP), a crucial analgesic and antipyretic that can become toxic at elevated concentrations. Unlike conventional sensors that require intricate chemical modifications, the fabricated LIG‐based sensor eliminates the need for functionalization, offering a streamlined sensing solution. The LIG electrodes were characterized using scanning electron microscopy, energy‐dispersive spectroscopy, and Raman spectroscopy, which confirmed the formation of a highly porous graphene network with excellent purity and conductivity. Cyclic voltammetry analysis with a ferricyanide redox probe revealed a large electroactive surface area of 1.21 cm2, indicating",
+    "doi": "10.1002/slct.202502914",
+    "pdf_url": "",
+    "journal": "ChemistrySelect",
+    "url": "https://www.semanticscholar.org/paper/ce412c3f201a0499565b3fd83b24e19d4f244d40",
+    "fetched_at": "2026-05-22T02:48:19.774422+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e1d5dfcf9b731090",
+    "source": "semantic_scholar",
+    "title": "Design and Development of a Temperature and Pressure Transmitter Using a Laser-Induced Graphene Sensor",
+    "authors": [
+      "Alan Cuenca Sánchez",
+      "Fernando Pantoja-Suárez",
+      "Melvin Chilig",
+      "J. Mena"
+    ],
+    "year": 2025,
+    "abstract": "The design and development of a temperature and pressure transmitter using a laser-induced graphene (LIG) sensor represents a significant advance in precision measurement technology. LIG, characterized by its unique porous structure and tailored flaw engineering, exhibits exceptional electrical and thermal conductivity, high mechanical strength, and flexibility, making it ideal for highly sensitive sensing applications. In this study, a sensor was directly patterned with LIG on a flexible substrate to enable real-time monitoring of temperature and pressure changes. Temperature is measured through LIG's intrinsic resistance variation, while pressure is sensed via its enhanced piezoresistive properties arising from its engineered porosity and defect structure. A signal conditioning and proce",
+    "doi": "10.1109/LSENS.2025.3596529",
+    "pdf_url": "",
+    "journal": "IEEE Sensors Letters",
+    "url": "https://www.semanticscholar.org/paper/e1d5dfcf9b731090410cdd9c3a78ad87b6490263",
+    "fetched_at": "2026-05-22T02:48:19.774464+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_db95be795c555753",
+    "source": "semantic_scholar",
+    "title": "Direct-detection of glyphosate in drinking water via a scalable and low-cost laser-induced graphene sensor.",
+    "authors": [
+      "B. V. Lopes",
+      "G. Maron",
+      "M. G. Masteghin",
+      "R. Balboni",
+      "S. R. P. Silva",
+      "N. Carreño"
+    ],
+    "year": 2024,
+    "abstract": "The use of pesticides has significantly increased and proliferated following the technological advancements established by the green revolution, aimed at boosting agricultural productivity. The extensive use of man-made chemicals as fertilizer and pesticides has consequently led to large-scale application, which has led to a number of environmental and human health problems. This study has helped to develop a laser-induced graphene (LIG) sensor for the detection of the most widely used herbicide in the world, glyphosate. The electrochemical sensor developed is based on a three-dimensional porous and fibrous structure with nanosheets, making it suitable for scalable manufacture. The study was conducted utilising a linear voltammetry technique and demonstrates the potential to identify glyph",
+    "doi": "10.1039/d4ay01549e",
+    "pdf_url": "",
+    "journal": "Analytical methods : advancing methods and applications",
+    "url": "https://www.semanticscholar.org/paper/db95be795c555753d6fe9162dfca35d39783112f",
+    "fetched_at": "2026-05-22T02:48:19.774470+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_091c0be770360eb2",
+    "source": "semantic_scholar",
+    "title": "Development of a high-performance Cu–Ni decorated laser-induced graphene sensor for nonenzymatic glucose monitoring in sweat",
+    "authors": [
+      "Betty Edem Nugba",
+      "Nahla O Mousa",
+      "Ahmed Osman",
+      "A. A. El-Moneim",
+      "Graphene · Biosensor",
+      "Ni · Cu"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s11696-024-03779-7",
+    "pdf_url": "",
+    "journal": "Chemical Papers",
+    "url": "https://www.semanticscholar.org/paper/091c0be770360eb2b864e3c580246fe7d6b3fade",
+    "fetched_at": "2026-05-22T02:48:19.774477+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_3f8840f1cd920a1e",
+    "source": "semantic_scholar",
+    "title": "Enhanced sensitivity in tanshinol detection using manganese dioxide-doped laser-induced graphene sensor",
+    "authors": [
+      "Xiaotian Xu",
+      "Qiwen Peng",
+      "Shiye Hong",
+      "Jing Tang",
+      "Wenwu Li",
+      "Guoyue Shi"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.microc.2025.112964",
+    "pdf_url": "",
+    "journal": "Microchemical Journal",
+    "url": "https://www.semanticscholar.org/paper/3f8840f1cd920a1eaf1e43b21d1a02598b35a7f2",
+    "fetched_at": "2026-05-22T02:48:19.774483+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_50c7689be164ae7d",
+    "source": "semantic_scholar",
+    "title": "Molecularly Imprinted Laser-Induced Graphene Sensor for Sensitive Perfluorooctanoic Acid (PFOA) Detection",
+    "authors": [
+      "Yingming Xu",
+      "P. Zhou",
+      "Tianhong Cui"
+    ],
+    "year": 2025,
+    "abstract": "\n This paper presents an ultra-sensitive electrochemical sensor for detecting perfluorooctanoic acid (PFOA), a persistent water pollutant. The sensor integrates laser-induced graphene (LIG) and a molecularly imprinted polymer (MIP) to achieve high selectivity and record-low detection limits. Fabricated via CO2 laser ablation of polyimide tape, the LIG electrode offers a porous, conductive platform. The MIP, electropolymerized using o-phenylenediamine and PFOA as a template, enables selective analyte binding. Differential pulse voltammetry (DPV) is used to measure transduction, relying on redox peak suppression from a ferri/ferrocyanide probe. The sensor achieves a limit of detection of 0.025 ppt and a broad linear range from 0.025 ppt to 25 ppb. It demonstrates excellent selectivity agains",
+    "doi": "10.1115/imece2025-164979",
+    "pdf_url": "",
+    "journal": "Volume 9: Micro- and Nano-Systems Engineering and Packaging; Safety Engineering, Risk and Reliability Analysis; Special Symposium on Additive Manufacturing on Benchmark Test Series; Special Symposium on Power; Research Posters",
+    "url": "https://www.semanticscholar.org/paper/50c7689be164ae7d919f290bb5a915f30dc63a2d",
+    "fetched_at": "2026-05-22T02:48:19.774487+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_566ebe33474182cb",
+    "source": "semantic_scholar",
+    "title": "Bi-sided laser-induced graphene sensor with decoupled bending and stretching sensing",
+    "authors": [
+      "Xuyang Li",
+      "Hao Wang",
+      "Yong Qin",
+      "Xiaogang Guo"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1140/epjs/s11734-025-01557-4",
+    "pdf_url": "",
+    "journal": "The European Physical Journal Special Topics",
+    "url": "https://www.semanticscholar.org/paper/566ebe33474182cb7ace0aa6e8929c854c2bb1bd",
+    "fetched_at": "2026-05-22T02:48:19.774495+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_18f2a3aea15a18c8",
+    "source": "semantic_scholar",
+    "title": "Intelligent laser-induced graphene sensor for multiplex probing catechol isomers",
+    "authors": [
+      "Tian Cao",
+      "Xuyin Ding",
+      "Qiwen Peng",
+      "Min Zhang",
+      "Guoyue Shi"
+    ],
+    "year": 2023,
+    "abstract": "",
+    "doi": "10.1016/j.cclet.2023.109238",
+    "pdf_url": "",
+    "journal": "Chinese Chemical Letters",
+    "url": "https://www.semanticscholar.org/paper/18f2a3aea15a18c8779634545b4d404b4a40d6a6",
+    "fetched_at": "2026-05-22T02:48:19.774505+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ea0d4b8db17c28cf",
+    "source": "semantic_scholar",
+    "title": "Effects of additives on the performance of a laser-induced graphene sensor modified with ZrO2 nanoparticles for OP detection.",
+    "authors": [
+      "Huiyang Xu",
+      "Chuan-Cheng Guo",
+      "Weijian Yuan",
+      "Wenna Zhang",
+      "Qiu Sun",
+      "Jianfeng Wu"
+    ],
+    "year": 2023,
+    "abstract": "In this study, a simple and portable electrochemical sensor based on laser-induced graphene (LIG) has been developed to systematically investigate the feasibility of LIG as an electrode to detect organophosphorus pesticides (OPs). It proves that the LIG-based electrode has a relatively high electrochemically active surface area (ECSA) and heterogeneous electron transfer (HET) of 0.100 cm2 and 0.000825 cm s-1, respectively. In addition, zirconium dioxide nanoparticles (ZrO2 NPs) have been modified on the electrode with three different binders, β-cyclodextrin (β-CD), chitosan (CS) and Nafion, to improve the adsorption capacity of the electrode toward OPs, and the effect of the binders on the performance of the as-fabricated sensor has been investigated in detail. The results show that β-CD i",
+    "doi": "10.1039/d3an01215h",
+    "pdf_url": "",
+    "journal": "The Analyst",
+    "url": "https://www.semanticscholar.org/paper/ea0d4b8db17c28cfd6791350967efc9f2af35fea",
+    "fetched_at": "2026-05-22T02:48:19.774510+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_be220435a53bb97b",
+    "source": "semantic_scholar",
+    "title": "Selective Impedimetric Laser-Induced Graphene Sensor for Glucose Detection",
+    "authors": [
+      "Sonia Gómez‐Gijón",
+      "Isabel Blasco-Pascual",
+      "Yann Houeix",
+      "Álvaro García-Ávila",
+      "A. Salinas-Castillo",
+      "Francisco J. Romero"
+    ],
+    "year": 2025,
+    "abstract": "This work presents a novel approach to the fabrication of interdigitated electrodes (IDEs) using flexible polymer substrates. Two substrates, polyimide (PI) and polyetherimide (PEI), are compared alongside two manufacturing techniques: direct laser tracing and silver-ink printing. The IDEs produced are applied to the detection of glucose and salt content in biological samples through impedance measurements. The analysis of impedance response enables the quantification of the relationship between signal magnitude and analyte concentration for both sensors and solutions, allowing for the estimation of unknown concentrations based on measured impedance values. The results obtained demonstrate the potential of the manufactured electrodes for noninvasive biosensing applications. This study high",
+    "doi": "10.1109/JFLEX.2025.3591420",
+    "pdf_url": "",
+    "journal": "IEEE Journal on Flexible Electronics",
+    "url": "https://www.semanticscholar.org/paper/be220435a53bb97bbfc4692892e3a9ef0834ad99",
+    "fetched_at": "2026-05-22T02:48:19.774515+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_8d6fdf8fc4b157cd",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene Sensor for Electrochemical Determination of Nimesulide",
+    "authors": [
+      "M. Fróz",
+      "Dianderson Ferreira",
+      "Matheus Garcez",
+      "Gustavo Diniz",
+      "Luiz Silva",
+      "J. Stefano"
+    ],
+    "year": 2026,
+    "abstract": "Nimesulide (NMS) is a sulfonamide-class non-steroidal anti-inflammatory drug widely used in pharmaceutical formulations, whose reliable quantification is essential for quality control. In this work, an unmodified laser-induced graphene electrode (LIGe), fabricated by direct CO2 laser ablation of polyimide, is proposed for the electrochemical determination of NMS using square-wave voltammetry (SWV). Voltammetric studies revealed that NMS oxidation is an irreversible, diffusion-controlled process that involves the transfer of two protons and two electrons. After systematic optimization of pH and instrumental parameters, the method exhibited a wide linear working range from 11.0 to 131 µmol L-1, with a detection limit of 1.30 µmol L-1. The sensor showed good repeatability (RSD < 5%, n = 10) a",
+    "doi": "10.30744/brjac.2179-3425.ar-71-2025",
+    "pdf_url": "",
+    "journal": "Brazilian Journal of Analytical Chemistry",
+    "url": "https://www.semanticscholar.org/paper/8d6fdf8fc4b157cdddaa63f5d51ef3c781bf0ec7",
+    "fetched_at": "2026-05-22T02:48:19.774520+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_f5160842c71d937b",
+    "source": "semantic_scholar",
+    "title": "Infrared laser‐induced graphene sensor for tyrosine detection",
+    "authors": [
+      "Tiago A. Matias",
+      "R. Rocha",
+      "Lucas V. Faria",
+      "E. Richter",
+      "R. Muñoz"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.1002/celc.202200339",
+    "pdf_url": "",
+    "journal": "ChemElectroChem",
+    "url": "https://www.semanticscholar.org/paper/f5160842c71d937bd52ec15dcaf02064ba8d72dc",
+    "fetched_at": "2026-05-22T02:48:19.774523+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_ad27b3ffbc2a9d03",
+    "source": "semantic_scholar",
+    "title": "Laser-induced Graphene Sensor Interfaced with Machine Learning Classifiers for Hand Tremor Identification",
+    "authors": [
+      "Vivek Kumar Tiwari",
+      "N. I. Hossain",
+      "Shawana Tabassum"
+    ],
+    "year": 2023,
+    "abstract": "Parkinson's disease is often diagnosed based on clinical signs, such as the description of a range of movement symptoms, and medical observations. Traditional diagnostic methods could be prone to subjectivity issues because they depend on the evaluation of subtle motions that might be difficult to define with the human eye. Hence, simple and reliable engineering methods are required for the early diagnosis of Parkinson's disease and for providing timely treatment to the tens of millions of patients who are affected by this disease. In this work, we developed a flexible sensor using laser-induced graphene to differentiate between natural finger bending and hand tremor. Measurements were recorded when the sensor was bent at various angles (30 degrees, 60 degrees, 90 degrees, 120 degrees, and",
+    "doi": "10.1109/DCAS57389.2023.10130272",
+    "pdf_url": "",
+    "journal": "2023 IEEE 16th Dallas Circuits and Systems Conference (DCAS)",
+    "url": "https://www.semanticscholar.org/paper/ad27b3ffbc2a9d03a5372277dec3f1497b5ddb88",
+    "fetched_at": "2026-05-22T02:48:19.774527+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_c84cbbec28a6a539",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene Sensor for Multiplexed Detection of Catecholamines and Tyrosine",
+    "authors": [
+      "R. Lund",
+      "N. Carreño",
+      "L. Gonçalves",
+      "R. Balboni",
+      "B. Lopes",
+      "S. Khan"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1016/j.dental.2026.03.105",
+    "pdf_url": "",
+    "journal": "Dental Materials",
+    "url": "https://www.semanticscholar.org/paper/c84cbbec28a6a539b25916cb09edee7e3a79d08b",
+    "fetched_at": "2026-05-22T02:48:19.774536+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_71568135545f578d",
+    "source": "semantic_scholar",
+    "title": "Laser Induced Graphene Sensor for Glucose Detection",
+    "authors": [
+      "Isabel Pascual",
+      "Álvaro García Ávila",
+      "Yann Houeix",
+      "Francisco J. Romero",
+      "A. S. Castillo",
+      "A. R. Torres"
+    ],
+    "year": 2024,
+    "abstract": "This work presents a novel approach to the fabrication of interdigitated electrodes (IDEs) using flexible polymer substrates. Two substrates, polyimide and polyetherimide, will be compared as well as two manufacturing techniques, direct laser tracing and silver ink printing. The IDEs produced will be applied to the detection of glucose in biological samples by impedance measurements. The results obtained demonstrate the potential of the manufactured electrodes and their potential application in the determination of glucose at biological levels.",
+    "doi": "10.1109/IFETC61155.2024.10771897",
+    "pdf_url": "",
+    "journal": "2024 IEEE International Flexible Electronics Technology Conference (IFETC)",
+    "url": "https://www.semanticscholar.org/paper/71568135545f578dacc0276725348bddf050b034",
+    "fetched_at": "2026-05-22T02:48:19.774541+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_800727831bc12982",
+    "source": "semantic_scholar",
+    "title": "A comprehensive review of laser-induced-graphene for sensor applications: fabrication, properties, and performance evaluation",
+    "authors": [
+      "Xuanran Hu",
+      "Junke Wang",
+      "Chenyin Feng",
+      "Jun Yuan",
+      "Qiangmin Wei",
+      "Hao Wang"
+    ],
+    "year": 2025,
+    "abstract": "This paper reviews the research, application and working principle of laser-induced graphene (LIG) in four fields: energy storage devices, mechanical sensors, gas sensors and biosensors.",
+    "doi": "10.1039/d4tc03547j",
+    "pdf_url": "",
+    "journal": "Journal of Materials Chemistry C",
+    "url": "https://www.semanticscholar.org/paper/800727831bc1298239c792f179740baa786c0853",
+    "fetched_at": "2026-05-22T02:48:19.774550+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e07ae982d8bdce39",
+    "source": "semantic_scholar",
+    "title": "Electrochemical sensor based on laser-induced graphene and CeO2 for sensitive and selective dopamine detection",
+    "authors": [
+      "Chanwon Park",
+      "Hyejin Rhyu",
+      "S. Jo",
+      "M. Kang",
+      "Yun Chan Kang",
+      "Wooseok Song"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.jelechem.2024.118865",
+    "pdf_url": "https://doi.org/10.1016/j.jelechem.2024.118865",
+    "journal": "Journal of Electroanalytical Chemistry",
+    "url": "https://www.semanticscholar.org/paper/e07ae982d8bdce398638ba469f750eb3b995d747",
+    "fetched_at": "2026-05-22T02:48:19.774559+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7866bda223859d40",
+    "source": "semantic_scholar",
+    "title": "A pressure sensor made of laser-induced graphene@carbon ink in a waste sponge substrate using novel and simple fabricaing process for health monitoring",
+    "authors": [
+      "Aoxun Liang",
+      "Weijie Liu",
+      "Yuanrui Cui",
+      "Peihua Zhang",
+      "Xinkun Chen",
+      "Junlong Zhai"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.sbsr.2024.100730",
+    "pdf_url": "https://doi.org/10.1016/j.sbsr.2024.100730",
+    "journal": "Sensing and Bio-Sensing Research",
+    "url": "https://www.semanticscholar.org/paper/7866bda223859d40c23ea980b6fe78a61be64439",
+    "fetched_at": "2026-05-22T02:48:19.774570+00:00",
+    "material": "LIG"
   }
 ]
