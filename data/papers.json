@@ -7846,5 +7846,158 @@
     "url": "https://www.semanticscholar.org/paper/7866bda223859d40c23ea980b6fe78a61be64439",
     "fetched_at": "2026-05-22T02:48:19.774570+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2605.22757v1",
+    "source": "arxiv",
+    "title": "Nuclear Rainbow of Core-Symmetric Systems",
+    "authors": [
+      "Nguyen Tri Toan Phuc",
+      "Nguyen Hoang Phuc",
+      "Dao T. Khoa"
+    ],
+    "year": 2026,
+    "abstract": "The nearside-farside (NF) decomposition method developed originally by Fuller for elastic scattering of a nonidentical nucleus-nucleus system was generalized to study the nuclear rainbow pattern in a symmetric or core-symmetric dinuclear system. It has been shown that the projectile-target identity of an identical system implies a symmetric interchange of the nearside and farside components of elastic scattering amplitude around $θ_{\\mathrm{c.m.}}=90^\\circ$. A similar interchange appears also in a nonidentical core-symmetric system due to elastic transfer of cluster or nucleon between two identical cores. The analysis of the ${}^{12}\\mathrm{C}+{}^{12}\\mathrm{C}$, ${}^{16}\\mathrm{O}+{}^{12}\\mathrm{C}$, and ${}^{13}\\mathrm{C}+{}^{12}\\mathrm{C}$ systems shows how the generalized NF decomposit",
+    "doi": "10.1007/s00601-026-02055-6",
+    "pdf_url": "https://arxiv.org/pdf/2605.22757v1",
+    "journal": "Few-Body Syst. 67, 34 (2026)",
+    "url": "http://arxiv.org/abs/2605.22757v1",
+    "fetched_at": "2026-05-23T02:32:40.974783+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.22298v1",
+    "source": "arxiv",
+    "title": "Mid-infrared temporal ghost imaging via two-photon structured encoding",
+    "authors": [
+      "Ziyu He",
+      "Kun Huang",
+      "Huijie Ma",
+      "Wen Zhang",
+      "Jianan Fang",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "Temporal ghost imaging (TGI) enables ultrafast signal reconstruction beyond electronic bandwidth limits. Extending this concept to the mid-infrared (MIR) regime through nonlinear frequency conversion offers new opportunities for high-fidelity temporal detection, but remains constrained by stringent phase-matching condition, limited spectral coverage, and intricate optical alignment. Here, we propose and demonstrate a broadband MIR TGI system based on non-degenerate two-photon absorption. A temporally encoded near-infrared pump transfers structured modulation onto a MIR signal directly at a silicon detector, which facilitates concurrent modulation and detection without external nonlinear crystals. The reconstructed temporal waveforms exceed the detector bandwidth by more than fortyfold, ach",
+    "doi": "10.1364/PRJ.579482",
+    "pdf_url": "https://arxiv.org/pdf/2605.22298v1",
+    "journal": "Photonics Research 14, 1919 (2026)",
+    "url": "http://arxiv.org/abs/2605.22298v1",
+    "fetched_at": "2026-05-23T02:32:46.713056+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.20768v1",
+    "source": "arxiv",
+    "title": "Mid-infrared single-photon sub-pixel temporal ghost imaging",
+    "authors": [
+      "Wen Zhang",
+      "Kun Huang",
+      "Zhibin Zhao",
+      "Huijie Ma",
+      "Ziyu He",
+      "Jianan Fang"
+    ],
+    "year": 2026,
+    "abstract": "Temporal ghost imaging (TGI) enables ultrafast temporal signal recovery using slow detectors, offering a promising route for high-speed mid-infrared (MIR) detection. However, conventional schemes remain limited in temporal resolution by the modulation bandwidth or pattern timescale, and are mostly confined to structured illumination. Here, we demonstrated a high-resolution MIR single-photon computational TGI system, which integrated nonlinear structured detection with sub-pixel temporal shifting. A pre-programmed near-infrared pump serves as a temporally optical gate to drive sum-frequency generation in a nonlinear crystal. Consequently, MIR waveforms at 3.4 $μ$m were upconverted, and captured by a room-temperature silicon detector. We realized sub-pixel operation by fractional-bin tempora",
+    "doi": "10.1002/lpor.202502587",
+    "pdf_url": "https://arxiv.org/pdf/2605.20768v1",
+    "journal": "Laser & Photonics Reviews 20, e02587 (2026)",
+    "url": "http://arxiv.org/abs/2605.20768v1",
+    "fetched_at": "2026-05-23T02:32:46.713351+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_311a8a68b3b331fd",
+    "source": "semantic_scholar",
+    "title": "Influence of mesoporous substrate morphology on the structural, optical and electrical properties of RF sputtered ZnO layer deposited over porous silicon nanostructure",
+    "authors": [
+      "Y. Kumar",
+      "J. E. Garcia",
+      "F. Singh",
+      "S. Olive-Méndez",
+      "V. Sivakumar",
+      "D. Kanjilal"
+    ],
+    "year": 2012,
+    "abstract": "",
+    "doi": "10.1016/J.APSUSC.2011.09.131",
+    "pdf_url": "",
+    "journal": "Applied Surface Science",
+    "url": "https://www.semanticscholar.org/paper/311a8a68b3b331fd63db651290285cfd4afe7f6f",
+    "fetched_at": "2026-05-23T02:32:53.487962+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2605.22514v1",
+    "source": "arxiv",
+    "title": "A Symbolic Homotopy Algorithm for Solving Composable Polynomial Systems",
+    "authors": [
+      "Thi Xuan Vu"
+    ],
+    "year": 2026,
+    "abstract": "We study the problem of computing the isolated regular solutions of a system \\((f_1,\\ldots,f_n)\\) of \\(n\\) polynomial equations in \\(n\\) variables \\((X_1, \\dots, X_n)\\) over a field of characteristic zero \\(k\\). We focus on systems with a \\emph{composable structure}, where each polynomial \\(f_i\\) can be expressed as a composition \\( f_i = h_i(g_1,\\dots,g_n)\\). Exploiting this structure allows us to reduce the original system to one in the \\(g_j\\) variables, thereby significantly improving the efficiency of symbolic solution algorithms. We present a probabilistic algorithm that computes all isolated regular solutions, with arithmetic complexity being polynomial in the input size and in the number of solutions.   A first important application is when \\(f_1, \\dots, f_n\\) belong to the subring",
+    "doi": "10.1145/3815436.3815453",
+    "pdf_url": "https://arxiv.org/pdf/2605.22514v1",
+    "journal": "International Symposium on Symbolic and Algebraic Computation 2026 (ISSAC 2026)",
+    "url": "http://arxiv.org/abs/2605.22514v1",
+    "fetched_at": "2026-05-23T02:33:05.138006+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.22509v1",
+    "source": "arxiv",
+    "title": "Reflecti-Mate: A Conversational Agent for Adaptive Decision-Making Support Through System 1 and System 2 Thinking",
+    "authors": [
+      "Morita Tarvirdians",
+      "Senthil Chandrasegaran",
+      "Hayley Hung",
+      "Catholijn M. Jonker",
+      "Catharine Oertel"
+    ],
+    "year": 2026,
+    "abstract": "Making high-stakes personal decisions involves cognitive, emotional, and intuitive processes, and individuals differ in how they allocate attention across these modes. Integration of these processes has shown to benefit decision making. Yet, most current decision-support systems focus primarily on supporting cognitive aspects, rather than adapting to the individual's thinking profile to support integration of different types of thoughts. In this study, we investigate an agent designed to encourage integration by adapting to the individual user's thought patterns. We explore its effects on participants' perceptions of the agent and their reflective behavior, in comparison with unaided pre-reflection and a baseline agent. In a between-subjects study (N = 128), our agent, which fostered broad",
+    "doi": "10.1145/3774935.3806176",
+    "pdf_url": "https://arxiv.org/pdf/2605.22509v1",
+    "journal": "Proc. UMAP 2026",
+    "url": "http://arxiv.org/abs/2605.22509v1",
+    "fetched_at": "2026-05-23T02:33:05.138048+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.22648v1",
+    "source": "arxiv",
+    "title": "Experimental investigation of twin pulsed jets in a hemispheric elastic cavity",
+    "authors": [
+      "L. S. Merlo",
+      "L. Kadem",
+      "W. Saleh",
+      "H. D. Ng",
+      "G. Di Labbio"
+    ],
+    "year": 2026,
+    "abstract": "This study experimentally examines the impact of spacing between two pulsed jets and their strengths on the fluid dynamics within an elastic hemispherical cavity. Such interactions between multiple pulsed jets are observed in various natural and industrial contexts, including cardiovascular flows, where they occur naturally within the atria or result from medical interventions (e.g., mitral valve repair, mechanical heart valves, paravalvular leaks) or diseases (e.g., aortic or pulmonary valve regurgitation). Fundamentally, these flows usually feature two or more pulsed jets interacting in an expanding, elastic environment. In this investigation, the experimental setup features two parallel pulsed jets entering the cavity, with jet strength varied across five formation times (1, 2, 3, 4, 5)",
+    "doi": "10.1103/gmkw-th61",
+    "pdf_url": "https://arxiv.org/pdf/2605.22648v1",
+    "journal": "Phys. Rev. Fluids 11, 054701 (2026)",
+    "url": "http://arxiv.org/abs/2605.22648v1",
+    "fetched_at": "2026-05-23T02:33:16.522464+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.21756v1",
+    "source": "arxiv",
+    "title": "Towards a quantum decision tree in a laser pumped four-level system",
+    "authors": [
+      "Dawit Hailuf Hailu"
+    ],
+    "year": 2026,
+    "abstract": "In this study, we examine an innovative framework towards implementing quantum decision trees utilizing a laser-driven four-level system. We discuss a diamond-shaped atomic configuration, in which we apply Lie-algebraic formalisms to analyze the dynamics of the system. The system is perturbed by a Stokes pulse, represented as $β_j(t)$ (for $j=1,2$), which interacts with the atomic states $|0\\rangle, |3\\rangle$ and $|1\\rangle, |2\\rangle$. In addition, a pump laser, denoted as $α_j(t)$, couples the states $|0\\rangle, |1\\rangle$ and $|2\\rangle, |3\\rangle$. By employing pulse profiles that possess identical temporal behavior but differ in amplitude, one can effectively redistribute the population from the initial ground state to the other energy levels. This technique facilitates the mimicry o",
+    "doi": "10.1088/2399-6528/adc4bc",
+    "pdf_url": "https://arxiv.org/pdf/2605.21756v1",
+    "journal": "J. Phys. Commun. 9 045003 (2025)",
+    "url": "http://arxiv.org/abs/2605.21756v1",
+    "fetched_at": "2026-05-23T02:33:45.601962+00:00",
+    "material": "other"
   }
 ]
