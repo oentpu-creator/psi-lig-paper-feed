@@ -7999,5 +7999,312 @@
     "url": "http://arxiv.org/abs/2605.21756v1",
     "fetched_at": "2026-05-23T02:33:45.601962+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.30027v1",
+    "source": "arxiv",
+    "title": "DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark",
+    "authors": [
+      "Ruofan Hu",
+      "Menghui Zhu",
+      "Jieming Zhu",
+      "Bo Chen",
+      "Shengyang Xu",
+      "Minjie Hong"
+    ],
+    "year": 2026,
+    "abstract": "Multimodal documents contain diverse elements, such as tables, figures, and layouts, which can complicate retrieval tasks. While current approaches typically combine dense visual embedding models with supervised rerankers to achieve high-precision retrieval, they face inherent limitations. First, the coarse-grained nature of dense embeddings tends to obfuscate explicit semantics, failing to leverage structurally salient information. Second, supervised reranking models suffer from generalization bottlenecks, as their performance heavily relies on domain-specific training data. Furthermore, existing benchmarks often lack diverse assessment dimensions and comprehensive relevance annotations, limiting reliable evaluation. To address these challenges, we propose DocRetriever, a plug-and-play fr",
+    "doi": "10.1145/3770855.3817680",
+    "pdf_url": "https://arxiv.org/pdf/2605.30027v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.30027v1",
+    "fetched_at": "2026-05-30T02:35:48.610376+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29909v1",
+    "source": "arxiv",
+    "title": "Gamma-ray signature of superluminous supernovae: Fermi-LAT GeV detection of SN 2017egm and evidence of a central engine",
+    "authors": [
+      "F. Acero",
+      "A. Acharyya",
+      "A. Adelfio",
+      "M. Ajello",
+      "E. Aviano",
+      "L. Baldini"
+    ],
+    "year": 2026,
+    "abstract": "Superluminous supernovae (SLSNe) are a rare class of transients with peak luminosities 10-100 times greater than those of standard core-collapse supernovae (SNe). The mechanisms powering their extreme brightness remain debated, with circumstellar medium (CSM) interaction, or energy injection from a central engine like a magnetar wind nebula being the most plausible scenarios. To further constrain the underlying mechanism, we carried out a systematic search for GeV gamma-ray emission using the Fermi-LAT telescope from a sample of nearby hydrogen-poor (Type I) and hydrogen-rich (Type II) SLSNe over the past 16 years. Among the sample, only SN 2017egm shows significant gamma-ray emission, with likelihood test statistic (TS) values of 26-33 (i.e., >5$σ$) depending on the adopted time window. T",
+    "doi": "10.1051/0004-6361/202558547",
+    "pdf_url": "https://arxiv.org/pdf/2605.29909v1",
+    "journal": "A&A Volume 709, May 2026, A229",
+    "url": "http://arxiv.org/abs/2605.29909v1",
+    "fetched_at": "2026-05-30T02:35:48.610977+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29600v1",
+    "source": "arxiv",
+    "title": "Effect of increased DCR on the detection of minimum-ionizing particles with SiPMs",
+    "authors": [
+      "Katjana Neumann",
+      "Massimiliano Antonello",
+      "Lukas Brinkmann",
+      "Erika Garutti",
+      "Jörn Schwandt"
+    ],
+    "year": 2026,
+    "abstract": "Radiation damage to a Silicon Photomultiplier (SiPM), as it occurs during the lifetime of the planned CMS high-granularity calorimeter detector, increases the dark current and degrades the signal-to-noise separation for minimum-ionizing particles (MIPs) and their detection efficiency. To investigate these effects, a plastic scintillator tile air-coupled to a SiPM is used to detect MIPs from a 90Sr source, in a single-channel design similar to the tiles of the CMS high-granularity calorimeter upgrade. We compared the SiPM responses after actual radiation exposure with responses simulated in the laboratory by increasing the dark-count rate (DCR) through optical illumination with an LED light source. This optical method induces no structural damage or deep defects, thus isolating the effect o",
+    "doi": "10.1088/1748-0221/21/05/C05024",
+    "pdf_url": "https://arxiv.org/pdf/2605.29600v1",
+    "journal": "JINST 21 C05024 (2026)",
+    "url": "http://arxiv.org/abs/2605.29600v1",
+    "fetched_at": "2026-05-30T02:35:54.089793+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29216v1",
+    "source": "arxiv",
+    "title": "Wide-field mid-infrared hyperspectral imaging beyond video rate",
+    "authors": [
+      "Jianan Fang",
+      "Kun Huang",
+      "Ruiyang Qin",
+      "Yan Liang",
+      "E Wu",
+      "Ming Yan"
+    ],
+    "year": 2026,
+    "abstract": "Mid-infrared hyperspectral imaging has become an indispensable tool to spatially resolve chemical information in a wide variety of samples. However, acquiring three-dimensional data cubes is typically time-consuming due to the limited speed of raster scanning or wavelength tuning, which impedes real-time visualization with high spatial definition across broad spectral bands. Here, we devise and implement a high-speed, wide-field mid-infrared hyperspectral imaging system relying on broadband parametric upconversion of high-brightness supercontinuum illumination at the Fourier plane. The upconverted replica is spectrally decomposed by a rapid acousto-optic tunable filter, which records high-definition monochromatic images at a frame rate of 10 kHz based on a megapixel silicon camera. Consequ",
+    "doi": "10.1038/s41467-024-46274-z",
+    "pdf_url": "https://arxiv.org/pdf/2605.29216v1",
+    "journal": "Nature Communications 15, 1811 (2024)",
+    "url": "http://arxiv.org/abs/2605.29216v1",
+    "fetched_at": "2026-05-30T02:35:54.089888+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29215v1",
+    "source": "arxiv",
+    "title": "Single-photon time-stretch infrared spectroscopy",
+    "authors": [
+      "Ben Sun",
+      "Kun Huang",
+      "Huijie Ma",
+      "Jianan Fang",
+      "Tingting Zheng",
+      "Yongyuan Chu"
+    ],
+    "year": 2026,
+    "abstract": "Sensitive mid-infrared (MIR) spectroscopy is highly demanded in various fields ranging from industrial inspection, biomedical diagnosis to astronomical observation. However, the detection sensitivity of conventional MIR spectrometers has been severely limited by excessive noises for existing infrared sensors, which hinders widespread use in photon-scarce scenarios. Here, we devise and implement a broadband MIR single-photon time-stretch spectrometer based on high-fidelity spectral upconversion and time-correlated coincidence counting. Specifically, a nanophotonic supercontinuum illumination covering 2.4-4.2 $μ$m is nonlinearly converted to the near-infrared band, where low-loss single-mode fiber and high-performance silicon detector can be leveraged to facilitate dispersive operation and s",
+    "doi": "10.1002/lpor.202301272",
+    "pdf_url": "https://arxiv.org/pdf/2605.29215v1",
+    "journal": "Laser & Photonics Reviews 18, 2301272 (2024)",
+    "url": "http://arxiv.org/abs/2605.29215v1",
+    "fetched_at": "2026-05-30T02:35:54.089939+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29150v1",
+    "source": "arxiv",
+    "title": "Shock wave formation in the thermosphere by an earthgrazing fireball: Empirical evidence for volatile-enhanced hydrodynamic shielding",
+    "authors": [
+      "Elizabeth A. Silber",
+      "Denis Vida",
+      "Miro Ronac Giannone",
+      "Jamie Shepherd",
+      "Sarah Albert",
+      "Daniel C. Bowman"
+    ],
+    "year": 2026,
+    "abstract": "Hydrodynamic shielding is a theoretically well-established but observationally elusive and experimentally difficult-to-replicate phenomenon with implications that extend far beyond meteor physics. Rare earthgrazing meteoroids with infrasound signatures that penetrate to the ground can be used to probe hydrodynamic shielding that leads to strong shock formation at high altitude. Here, we report the first coordinated optical and multi-station infrasound observations of a centimeter-scale earthgrazing fireball that generated sustained cylindrical line shock at thermospheric altitudes near 92 km. The event was recorded by numerous optical stations and three infrasound arrays, allowing trajectory reconstruction, ablation behavior, acoustic source localization, and shock characteristics. Optical",
+    "doi": "10.1016/j.icarus.2026.117184",
+    "pdf_url": "https://arxiv.org/pdf/2605.29150v1",
+    "journal": "Icarus, 117184 (2026)",
+    "url": "http://arxiv.org/abs/2605.29150v1",
+    "fetched_at": "2026-05-30T02:35:54.089988+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29015v1",
+    "source": "arxiv",
+    "title": "Collective Radiative Enhancement of Rare-Earth Ions in Lithium Niobate via Engineered LargeArea Nanohole Arrays",
+    "authors": [
+      "Ali Najjar Amiri",
+      "Trevor Kling",
+      "David Barton",
+      "Mahdi Hosseini"
+    ],
+    "year": 2026,
+    "abstract": "Conventional approaches to light-matter interactions rely on engineering photonic density of states. More recently, tailoring the spatial geometry of atoms or emitters themselves has emerged as a powerful and complementary route to control collective radiative properties. Here we experimentally realize a geometry-engineered ensemble of rare-earth ions by fabricating a periodic array of subwavelength gold nanoholes on lithium niobate implanted with thulium ions, forming a semi-two-dimensional array of quantum emitters embedded in a high-index crystalline thin film. The hybrid structure can simultaneously support localized and lattice plasmon resonances from the metallic array and collective atomic resonances from the ion ensemble. Using time-resolved photoluminescence and temperature-depend",
+    "doi": "10.1021/acs.nanolett.6c01243",
+    "pdf_url": "https://arxiv.org/pdf/2605.29015v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.29015v1",
+    "fetched_at": "2026-05-30T02:35:54.090021+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.27890v1",
+    "source": "arxiv",
+    "title": "Mid-Infrared Single-Photon Compressive Spectroscopy",
+    "authors": [
+      "Ben Sun",
+      "Kun Huang",
+      "Huijie Ma",
+      "Jianan Fang",
+      "Tingting Zheng",
+      "Ruiyang Qin"
+    ],
+    "year": 2026,
+    "abstract": "Sensitive mid-infrared (MIR) spectroscopy plays an indispensable role in various photon-starved conditions. However, the detection sensitivity of conventional MIR spectrometers is severely limited by excessive noises of the involved infrared sensors, especially for multi-pixel arrays in parallel spectral acquisition. Here, we devise and implement an ultra-sensitive MIR single-pixel spectrometer, which relies on high-fidelity spectral upconversion and wavelength-encoding compressive measurement. Specifically, a MIR nanophotonic supercontinuum from 3.1 to 3.9 $μ$m is nonlinearly converted to the near-infrared band via synchronous chirped-pulse pumping, which facilitates both the precise spectral mapping and sensitive upconversion detection. The upconverted signal is then spatially dispersed ",
+    "doi": "10.1002/lpor.202401099",
+    "pdf_url": "https://arxiv.org/pdf/2605.27890v1",
+    "journal": "Laser & Photonics Reviews 19, 2401099 (2025)",
+    "url": "http://arxiv.org/abs/2605.27890v1",
+    "fetched_at": "2026-05-30T02:35:54.090362+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.27847v1",
+    "source": "arxiv",
+    "title": "High-speed mid-infrared imaging via nonlinear multiplexed detection",
+    "authors": [
+      "Ruiyang Qin",
+      "Kun Huang",
+      "Min Peng",
+      "Jianan Fang",
+      "Ben Sun",
+      "Zhengru Guo"
+    ],
+    "year": 2026,
+    "abstract": "High-speed mid-infrared (MIR) videography constitutes an enabling tool to monitor and analyze various dynamics in scientific research and industrial applications, such as combustion diagnostics, explosion reactions, photosynthetic tracking, and thermal surveillance. However, the frame rate of conventional MIR imagers is typically limited by readout electronics and detection sensitivity, especially for large spatial formats with massive pixels. Here, we devise and implement a high-speed MIR upconversion imaging system based on time-multiplexed nonlinear structured pumping. Specifically, the dynamic infrared scene is optically gated by a sequence of spatially periodical pump patterns in a nonlinear crystal, which facilitates both rapid temporal encryption and sensitive upconversion detection",
+    "doi": "10.1002/lpor.202500308",
+    "pdf_url": "https://arxiv.org/pdf/2605.27847v1",
+    "journal": "Laser & Photonics Reviews 19, 2500308 (2025)",
+    "url": "http://arxiv.org/abs/2605.27847v1",
+    "fetched_at": "2026-05-30T02:35:54.090395+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.27234v1",
+    "source": "arxiv",
+    "title": "Isotopic fission yields of ${}^{240}$Pu as a function of the excitation energy",
+    "authors": [
+      "D. Ramos",
+      "M. Caamaño",
+      "F. Farget",
+      "C. Rodríguez-Tajes",
+      "A. Lemasson",
+      "M. Rejmund"
+    ],
+    "year": 2026,
+    "abstract": "Complete isotopic fission yields distributions of $^{240}$Pu have been measured as a function of the initial excitation energy. The $^{240}$Pu fissioning system was produced through a two-proton transfer reaction between a $^{238}$U beam and a $^{12}$C target. The reaction was measured in inverse kinematics at Coulomb barrier energies, allowing for the full distribution of fission fragments to be isotopically identified with the VAMOS++ Spectrometer. The excitation energy of the system was measured on an event-by-event basis by detecting the target-like recoil $^{10}$Be in a segmented silicon telescope. This manuscript reports on the evolution of the fission yields as a function of the excitation energy of the system between 8.2 to 11.9 MeV. The influence of the excitation energy is manife",
+    "doi": "10.1103/tjxn-16mq",
+    "pdf_url": "https://arxiv.org/pdf/2605.27234v1",
+    "journal": "Phys. Rev. C, 113, 054611 (2026)",
+    "url": "http://arxiv.org/abs/2605.27234v1",
+    "fetched_at": "2026-05-30T02:35:59.642898+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.26841v1",
+    "source": "arxiv",
+    "title": "Radiative electronic bound states in the continuum from defects in semiconductors",
+    "authors": [
+      "Seong Yun Hong",
+      "Liang Z. Tan",
+      "Ki Hoon Lee",
+      "Youngho Kang",
+      "Yeonghun Lee"
+    ],
+    "year": 2026,
+    "abstract": "Continuum-buried defect states in semiconductors are generally expected to be optically inactive due to their strong coupling to continuum bands. Here, we show that such defects can instead host radiative electronic bound states in the continuum (BICs), using the silicon G-center as a prototypical example. Hybrid-functional first-principles calculations with a Hubbard $U$ correction reveal that a localized defect state, initially buried below the valence band maximum (VBM) in the ground state, undergoes exchange-driven energy-level reordering under optical excitation and shifts above the VBM. This exchange-induced transition suppresses nonradiative decay and enables robust radiative emission. By computing temperature-dependent nonradiative lifetimes and comparing them with experimental pho",
+    "doi": "10.1021/acs.nanolett.6c01118",
+    "pdf_url": "https://arxiv.org/pdf/2605.26841v1",
+    "journal": "Nano Letters (2026)",
+    "url": "http://arxiv.org/abs/2605.26841v1",
+    "fetched_at": "2026-05-30T02:35:59.642926+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29904v1",
+    "source": "arxiv",
+    "title": "Evidence of triggered star formation in the Pillars of Creation from JWST observations",
+    "authors": [
+      "Jing Wen",
+      "Bingqiu Chen",
+      "Jian Gao",
+      "Jun Li",
+      "Ming Yang",
+      "Biwei Jiang"
+    ],
+    "year": 2026,
+    "abstract": "Stars form in molecular clouds under the influence of their local environments, yet the role of massive stellar feedback in either triggering or suppressing star formation remains a fundamental question in astrophysics. The Pillars of Creation in the Eagle Nebula, sculpted by ionizing radiation and stellar winds from massive stars in NGC 6611, offer a natural laboratory for investigating this question. Here we present high-resolution observations of the Pillars of Creation using the JWST Near Infrared Camera and Mid-Infrared Instrument, revealing 253 young stellar object (YSO) candidates. These YSO candidates show spatial correlations with the edges of feedback-driven structures, with overdensities along the boundaries. A weak trend of decreasing stellar age with increasing distance from t",
+    "doi": "10.1038/s41550-025-02683-8",
+    "pdf_url": "https://arxiv.org/pdf/2605.29904v1",
+    "journal": "Nature Astronomy 9, 1845-1853 (2025)",
+    "url": "http://arxiv.org/abs/2605.29904v1",
+    "fetched_at": "2026-05-30T02:36:10.815306+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.30173v1",
+    "source": "arxiv",
+    "title": "Coherent and Dissipative Spin Torques in Quantum Dots: A Unified Framework for Quantum Spin Dynamics",
+    "authors": [
+      "Dominic Ruckert",
+      "Stepan Kovarik",
+      "Richard Schlitz",
+      "Mirco Grellmann",
+      "Aishwarya Vishwakarma",
+      "Pietro Gambardella"
+    ],
+    "year": 2026,
+    "abstract": "The manipulation of single spins through spin-polarized tunneling opens new routes for quantum control at the atomic scale. We present a theoretical framework describing spin-transfer, spin torques and spin resonance in molecular quantum dots weakly coupled to magnetic electrodes. By deriving a Lindblad master equation from microscopic tunneling processes, we capture both coherent exchange interactions and dissipative spin torque effects within a unified approach. We analyze how charge transport through localized orbitals influences spin dynamics and show that modulating the tunneling rates in time can induce electron spin resonance. This framework is further extended to coupled spin systems, revealing how spin coherence and entanglement respond to local spin torques and highlighting sourc",
+    "doi": "10.1103/ch3j-s35h",
+    "pdf_url": "https://arxiv.org/pdf/2605.30173v1",
+    "journal": "Phys. Rev. Research 8, 023121- Published 5 May, 2026",
+    "url": "http://arxiv.org/abs/2605.30173v1",
+    "fetched_at": "2026-05-30T02:36:22.095344+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29702v1",
+    "source": "arxiv",
+    "title": "A Jensen-Shannon divergence based $k$--$NN$ algorithm for missing value imputation in compositional data",
+    "authors": [
+      "Michail Tsagris",
+      "Connie Stewart",
+      "Abdulaziz Alenazi"
+    ],
+    "year": 2026,
+    "abstract": "A novel nonparametric method to impute missing values in compositional data is developed. The method is based on the $k$--$NN$ algorithm, utilizes the Jensen-Shannon divergence and employs the Fr{é}chet mean to allow for more flexibility in the estimation process. As an extra feature, the hyper-parameters can be self-adaptive according to the pattern of missing values. Unlike restrictive parametric models, the proposed method makes no assumption about the structure of the data and, most importantly, it is applicable even when compositional data contain zero values. Through simulation studies using real data, it is shown that the proposed algorithm outperforms competing algorithms at various settings, not only in terms of accuracy but also in terms of computational efficiency.",
+    "doi": "10.1080/02664763.2026.2677908",
+    "pdf_url": "https://arxiv.org/pdf/2605.29702v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2605.29702v1",
+    "fetched_at": "2026-05-30T02:36:28.725751+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2605.29599v1",
+    "source": "arxiv",
+    "title": "How to Relieve Distribution Shifts in Semantic Segmentation for Off-Road Environments",
+    "authors": [
+      "Ji-Hoon Hwang",
+      "Daeyoung Kim",
+      "Hyung-Suk Yoon",
+      "Dong-Wook Kim",
+      "Seung-Woo Seo"
+    ],
+    "year": 2026,
+    "abstract": "Semantic segmentation is crucial for autonomous navigation in off-road environments, enabling precise classification of surroundings to identify traversable regions. However, distinctive factors inherent to off-road conditions, such as source-target domain discrepancies and sensor corruption from rough terrain, can result in distribution shifts that alter the data differently from the trained conditions. This often leads to inaccurate semantic label predictions and subsequent failures in navigation tasks. To address this, we propose ST-Seg, a novel framework that expands the source distribution through style expansion (SE) and texture regularization (TR). Unlike prior methods that implicitly apply generalization within a fixed source distribution, ST-Seg offers an intuitive approach for di",
+    "doi": "10.1109/LRA.2025.3551536",
+    "pdf_url": "https://arxiv.org/pdf/2605.29599v1",
+    "journal": "IEEE Robotics and Automation Letters, vol. 10, issue. 5, pp. 4500-4507, 2025",
+    "url": "http://arxiv.org/abs/2605.29599v1",
+    "fetched_at": "2026-05-30T02:36:49.139058+00:00",
+    "material": "other"
   }
 ]
