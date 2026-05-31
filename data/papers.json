@@ -8306,5 +8306,410 @@
     "url": "http://arxiv.org/abs/2605.29599v1",
     "fetched_at": "2026-05-30T02:36:49.139058+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_5cbea06e7ba933d5",
+    "source": "semantic_scholar",
+    "title": "Femtosecond Laser Ultrafast Atomic Scale Renovating Laser‐Induced Graphene",
+    "authors": [
+      "Lingxiao Wang",
+      "Kai Yin",
+      "Xun Li",
+      "Yin Huang",
+      "Jianqiang Xiao",
+      "Jiaqing Pei"
+    ],
+    "year": 2025,
+    "abstract": "Renovation technology for laser‐induced graphene (LIG) is critical for customizing and expanding its applications. However, existing renovation technology for LIG has been rarely reported and are constrained by the limitations such as poor precision, variable heal parameters, and lack of multifunctionality. Herein, the first time a simple and efficient femtosecond laser method is introduced for atomic scale renovation LIG (FLR‐LIG). The ultrafast and efficient thermal conversion of femtosecond laser pulses by LIG triggers the rearrangement of carbon atoms to heal defects. Raman spectroscopy, atomic‐resolution images, and density functional theory calculations demonstrate that femtosecond laser treatment successfully enhances structural ordering and reduces defect density, thereby lowering ",
+    "doi": "10.1002/adfm.202506215",
+    "pdf_url": "",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/5cbea06e7ba933d5aabf979553394f38de351d48",
+    "fetched_at": "2026-05-31T02:53:17.175979+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b30a8cd6e91cc66e",
+    "source": "semantic_scholar",
+    "title": "Thermoelectric porous laser-induced graphene-based strain-temperature decoupling and self-powered sensing",
+    "authors": [
+      "Li Yang",
+      "Xue Chen",
+      "Ankan Dutta",
+      "Hui Zhang",
+      "Zihan Wang",
+      "Mingyang Xin"
+    ],
+    "year": 2025,
+    "abstract": "Despite rapid developments of wearable self-powered sensors, it is still elusive to decouple the simultaneously applied multiple input signals. Herein, we report the design and demonstration of stretchable thermoelectric porous graphene foam-based materials via facile laser scribing for self-powered decoupled strain and temperature sensing. The resulting sensor can accurately detect temperature with a resolution of 0.5°C and strain with a gauge factor of 1401.5. The design of the nanocomposites also explores the synergistic effect between the porous graphene and thermoelectric components to greatly enhance the Seebeck coefficient by almost four times (from 9.703 to 37.33 μV/°C). Combined with the stretchability of 45%, the self-powered sensor platform allows for early fire detection in rem",
+    "doi": "10.1038/s41467-024-55790-x",
+    "pdf_url": "",
+    "journal": "Nature Communications",
+    "url": "https://www.semanticscholar.org/paper/b30a8cd6e91cc66e58393249cca93b44e8332e1e",
+    "fetched_at": "2026-05-31T02:53:17.175999+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_f5782d436eafb1d9",
+    "source": "semantic_scholar",
+    "title": "Thermoelectric Composites Based on Porous Laser-Induced Graphene and Ion Hydrogel.",
+    "authors": [
+      "Hui Zhang",
+      "Houze Yang",
+      "Mingyang Xin",
+      "Zihan Wang",
+      "Hongyu Zhang",
+      "Ankan Dutta"
+    ],
+    "year": 2025,
+    "abstract": "Despite the rapid development of single-modal flexible sensors, there is an urgent need to develop self-powered multimodal flexible sensing devices to eliminate power constraints. This work reports stretchable thermoelectric composites based on porous laser-induced graphene foams and an ion hydrogel, aiming to create a self-powered sensor that can detect temperature changes and strain with high accuracy. The self-powered strain sensor based on 3D porous laser-induced graphene (LIG) foam exhibits a high maximum sensitivity of 105.9 for strain up to 30%, a low detection limit of 0.071%, and good stability over 5,000 cycles at 30% strain. With an increased Seebeck coefficient of -189.90 μV/K, the sensor can also detect temperatures in the range of -10-100 °C with a resolution of 0.1 °C. The t",
+    "doi": "10.1021/acsami.5c00480",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/f5782d436eafb1d9532862400f13885e3fef2d2a",
+    "fetched_at": "2026-05-31T02:53:17.176010+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e8b84d43aa97b1c9",
+    "source": "semantic_scholar",
+    "title": "Laser‐Induced Graphene for Early Disease Detection: A Review",
+    "authors": [
+      "Sri Ramulu Torati",
+      "G. Slaughter"
+    ],
+    "year": 2025,
+    "abstract": "Electrochemical biosensors have been instrumental in early disease detection, facilitating effective monitoring and treatment. The emergence of graphene has significantly advanced sensor technology in various fields, including biomedicine, electronics, and energy. In this landscape, laser‐induced graphene (LIG) has emerged as a superior alternative to conventional graphene synthesis methods. Its straightforward fabrication process and compatibility with wearable devices boost its practicality and potential for real‐world applications. This review highlights the transformative potential of LIG in biosensing, showcasing its contributions to the development of next‐generation diagnostic tools for early disease detection. An overview of the LIG synthesis process and its applications in detecti",
+    "doi": "10.1002/celc.202400672",
+    "pdf_url": "",
+    "journal": "ChemElectroChem",
+    "url": "https://www.semanticscholar.org/paper/e8b84d43aa97b1c9b67909aedbf5a672f362af17",
+    "fetched_at": "2026-05-31T02:53:17.176017+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e0273ff77f12d5b3",
+    "source": "semantic_scholar",
+    "title": "Flash healing of laser-induced graphene",
+    "authors": [
+      "Le Cheng",
+      "C. Yeung",
+      "Libei Huang",
+      "Ge Ye",
+      "Jie Yan",
+      "Wanpeng Li"
+    ],
+    "year": 2024,
+    "abstract": "The advancement of laser-induced graphene (LIG) technology has streamlined the fabrications of flexible graphene devices. However, the ultrafast kinetics triggered by laser irradiation generates intrinsic amorphous characteristics, leading to high resistivity and compromised performance in electronic devices. Healing graphene defects in specific patterns is technologically challenging by conventional methods. Herein, we report the rapid rectification of LIG’s topological defects by flash Joule heating in milliseconds (referred to as F-LIG), whilst preserving its overall structure and porosity. The F-LIG exhibits a decreased ID/IG ratio from 0.84 – 0.33 and increased crystalline domain from Raman analysis, coupled with a 5-fold surge in conductivity. Pair distribution function and atomic-re",
+    "doi": "10.1038/s41467-024-47341-1",
+    "pdf_url": "https://www.nature.com/articles/s41467-024-47341-1.pdf",
+    "journal": "Nature Communications",
+    "url": "https://www.semanticscholar.org/paper/e0273ff77f12d5b34fb3b5b6aeab721cb2969994",
+    "fetched_at": "2026-05-31T02:53:17.176022+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_1bb0ba4e4f24e5f7",
+    "source": "semantic_scholar",
+    "title": "Laser‐Induced Graphene‐Based Sensors in Health Monitoring: Progress, Sensing Mechanisms, and Applications",
+    "authors": [
+      "Zihao Li",
+      "Libei Huang",
+      "Le Cheng",
+      "Weihua Guo",
+      "Ruquan Ye"
+    ],
+    "year": 2024,
+    "abstract": "The rising global population and improved living standards have led to an alarming increase in non‐communicable diseases, notably cardiovascular and chronic respiratory diseases, posing a severe threat to human health. Wearable sensing devices, utilizing micro‐sensing technology for real‐time monitoring, have emerged as promising tools for disease prevention. Among various sensing platforms, graphene‐based sensors have shown exceptional performance in the field of micro‐sensing. Laser‐induced graphene (LIG) technology, a cost‐effective and facile method for graphene preparation, has gained particular attention. By converting polymer films directly into patterned graphene materials at ambient temperature and pressure, LIG offers a convenient and environmentally friendly alternative to tradi",
+    "doi": "10.1002/smtd.202400118",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smtd.202400118",
+    "journal": "Small Methods",
+    "url": "https://www.semanticscholar.org/paper/1bb0ba4e4f24e5f7ff2af4d55d9b5d98203550fe",
+    "fetched_at": "2026-05-31T02:53:17.176029+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_8b3bfa07fc431770",
+    "source": "semantic_scholar",
+    "title": "Lightweight and drift-free magnetically actuated millirobots via asymmetric laser-induced graphene",
+    "authors": [
+      "Yun Chen",
+      "Yuanhui Guo",
+      "Bin Xie",
+      "Fujun Jin",
+      "Li Ma",
+      "Hao Zhang"
+    ],
+    "year": 2024,
+    "abstract": "Millirobots must have low cost, efficient locomotion, and the ability to track target trajectories precisely if they are to be widely deployed. With current materials and fabrication methods, achieving all of these features in one millirobot remains difficult. We develop a series of graphene-based helical millirobots by introducing asymmetric light pattern distortion to a laser-induced polymer-to-graphene conversion process; this distortion resulted in the spontaneous twisting and peeling off of graphene sheets from the polymer substrate. The lightweight nature of graphene in combine with the laser-induced porous microstructure provides a millirobot scaffold with a low density and high surface hydrophobicity. Magnetically driven nickel-coated graphene-based helical millirobots with rapid l",
+    "doi": "10.1038/s41467-024-48751-x",
+    "pdf_url": "https://www.nature.com/articles/s41467-024-48751-x.pdf",
+    "journal": "Nature Communications",
+    "url": "https://www.semanticscholar.org/paper/8b3bfa07fc431770f81802a1addba0cd511d2fb1",
+    "fetched_at": "2026-05-31T02:53:17.176034+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_21ab616f09380e9a",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene by Multiple Lasing: Toward Electronics on Cloth, Paper, and Food.",
+    "authors": [
+      "Yieu Chyan",
+      "Ruquan Ye",
+      "Yilun Li",
+      "S. Singh",
+      "Christopher J. Arnusch",
+      "J. Tour"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1021/acsnano.7b08539",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/21ab616f09380e9a40c4ce5d43121bb32d49801a",
+    "fetched_at": "2026-05-31T02:53:17.176037+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7607da01dfc57c97",
+    "source": "semantic_scholar",
+    "title": "In situ construction of multifunctional femtosecond laser-induced graphene on arbitrary substrates.",
+    "authors": [
+      "Lingxiao Wang",
+      "Kai Yin",
+      "Xun Li",
+      "Xiaolong Liu",
+      "Jianqiang Xiao",
+      "Jiaqing Pei"
+    ],
+    "year": 2025,
+    "abstract": "The construction of laser-induced graphene (LIG) on various substrates is important for expanding new applications. However, current LIG transfer technologies are hampered by limited substrates, complicated processes, induced graphene defects, and single function. Herein, a facile laser processing method is proposed for in situ construction of multifunctional femtosecond laser-induced graphene (FsLIG) on arbitrary substrates utilizing femtosecond laser acting on polyimide tape. Unlike previous LIG transfer research, the proposed method is applicable to any substrates without introducing additional graphene defects, while also exhibiting multifunctionality. Raman spectra results confirm successful fabrication of FsLIG on various substrates involving paper, aluminum, ceramic, and silicon. Ta",
+    "doi": "10.1039/d5mh00144g",
+    "pdf_url": "",
+    "journal": "Materials horizons",
+    "url": "https://www.semanticscholar.org/paper/7607da01dfc57c972d0d9a1f0b42a366b737c00e",
+    "fetched_at": "2026-05-31T02:53:17.176042+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_465ed020697973e7",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced graphene-based Fabry-Pérot cavity label-free immunosensors for the quantification of cortisol",
+    "authors": [
+      "H. C. Gomes",
+      "Xuecheng Liu",
+      "António J. S. Fernandes",
+      "C.F. Moreirinha",
+      "Ragini Singh",
+      "Santosh Kumar"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.snr.2024.100186",
+    "pdf_url": "https://doi.org/10.1016/j.snr.2024.100186",
+    "journal": "Sensors and Actuators Reports",
+    "url": "https://www.semanticscholar.org/paper/465ed020697973e766af8010c997b67349af2ff9",
+    "fetched_at": "2026-05-31T02:53:17.176046+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_22af06c4da693b5b",
+    "source": "semantic_scholar",
+    "title": "Multiscale hybrid-structured femtosecond laser-induced graphene with outstanding photo-electro-thermal effects for all-day anti-icing/deicing",
+    "authors": [
+      "Lingxiao Wang",
+      "Kai Yin",
+      "Qinwen Deng",
+      "Qiaoqiao Huang",
+      "Christopher J. Arnusch"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.carbon.2024.118824",
+    "pdf_url": "",
+    "journal": "Carbon",
+    "url": "https://www.semanticscholar.org/paper/22af06c4da693b5be877962f1ab189d03e25ea28",
+    "fetched_at": "2026-05-31T02:53:17.176050+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_9aa36602d4f9fa0b",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene for Advanced Sensing: Comprehensive Review of Applications.",
+    "authors": [
+      "Sikandar Aftab",
+      "Ganesh Koyyada",
+      "Maria Mukhtar",
+      "Fahmid Kabir",
+      "Ghazanfar Nazir",
+      "S. Memon"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1021/acssensors.4c01717",
+    "pdf_url": "",
+    "journal": "ACS sensors",
+    "url": "https://www.semanticscholar.org/paper/9aa36602d4f9fa0baf40a14748ac1b9a7f79bb92",
+    "fetched_at": "2026-05-31T02:53:17.176054+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7d2bd9449353d2ff",
+    "source": "semantic_scholar",
+    "title": "Stretchable Electronic Skin using Laser‐Induced Graphene and Liquid Metal with an Action Recognition System Powered by Machine Learning",
+    "authors": [
+      "Yanpeng Li",
+      "Guren Matsumura",
+      "Yan Xuan",
+      "Satoko Honda",
+      "Kuniharu Takei"
+    ],
+    "year": 2024,
+    "abstract": "Monitoring tactile pressure and recognizing action are important functionalities for artificial electronic skin (e‐skin). Furthermore, in order to create conformable coverings for 3D objects, an e‐skin needs to be stretchable, without sacrificing sensitivity to tactile pressure. However, stretching of sensors normally affects their output stability. In this study, a stretchable e‐skin is developed using laser‐induced graphene and a liquid metal alloy, GaInSn, in an elastic ecoflex polymer to create a stretchable, resistive‐type tactile pressure sensor. Furthermore, a pressure sensor array is fabricated as an e‐skin, and output is signal‐processed using machine learning. With this system, the e‐skin also monitors its stretching state, with the result that tactile pressure can be calculated ",
+    "doi": "10.1002/adfm.202313824",
+    "pdf_url": "",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/7d2bd9449353d2ff5a48607caf4034efb8664c46",
+    "fetched_at": "2026-05-31T02:53:17.176058+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_01674c33b7b138f0",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene: Synthesis Advances, Structural Tailoring, Enhanced Properties, and Sensing Applications",
+    "authors": [
+      "S. Movaghgharnezhad",
+      "Pilgyu Kang"
+    ],
+    "year": 2024,
+    "abstract": "Laser-induced graphene (LIG) is a 3D porous material formed through a scalable, patternable, single-step, and cost-effective laser manufacturing technique, using a CO2 laser on carbon-rich materials in an ambient atmosphere....",
+    "doi": "10.1039/d3tc04677j",
+    "pdf_url": "",
+    "journal": "Journal of Materials Chemistry C",
+    "url": "https://www.semanticscholar.org/paper/01674c33b7b138f020d0834f780cab1d9cc59dce",
+    "fetched_at": "2026-05-31T02:53:17.176062+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7f1829471f3bba8c",
+    "source": "semantic_scholar",
+    "title": "Simulation and experimental evaluation of laser-induced graphene on the cellulose and lignin substrates",
+    "authors": [
+      "Ali Ghavipanjeh",
+      "S. Sadeghzadeh"
+    ],
+    "year": 2024,
+    "abstract": "In this article, the formation of laser-induced graphene on the two natural polymers, cellulose, and lignin, as precursors was investigated with molecular dynamics simulations and some experiments. These eco-friendly polymers provide significant industrial advantages due to their low cost, biodegradability, and recyclable aspects. It was discovered during the simulation that LIG has numerous defects and a porous structure. Carbon monoxide, H2, and water vapor are gases released by cellulose and lignin substrates. H2O and CO are released when the polymer transforms into an amorphous structure. Later on, as the amorphous structure changes into an ordered graphitic structure, H2 is released continuously. Since cellulose monomer has a higher mass proportion of oxygen (49%) than lignin monomer ",
+    "doi": "10.1038/s41598-024-54982-1",
+    "pdf_url": "https://www.nature.com/articles/s41598-024-54982-1.pdf",
+    "journal": "Scientific Reports",
+    "url": "https://www.semanticscholar.org/paper/7f1829471f3bba8c4f4b97e4767f3daa0fd01bf9",
+    "fetched_at": "2026-05-31T02:53:17.176066+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e65566986cfefb87",
+    "source": "semantic_scholar",
+    "title": "Laser-induced graphene (LIG)-based electrochemical microfluidic chip for simultaneous analysis of multiplex microRNAs",
+    "authors": [
+      "Xiaojuan Liu",
+      "Yue Wang",
+      "Yun-Han Du",
+      "Jing Zhang",
+      "Yuying Wang",
+      "Yang Xue"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.cej.2024.150233",
+    "pdf_url": "",
+    "journal": "Chemical Engineering Journal",
+    "url": "https://www.semanticscholar.org/paper/e65566986cfefb87af622f829833c254f8337dde",
+    "fetched_at": "2026-05-31T02:53:17.176070+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_13af79d4da45b68e",
+    "source": "semantic_scholar",
+    "title": "Low-Cost, Eco-Friendly, and High-Performance 3D Laser-Induced Graphene Evaporator for Continuous Solar-Powered Water Desalination.",
+    "authors": [
+      "Truong‐Son Dinh Le",
+      "Dongwook Yang",
+      "Han-Ku Nam",
+      "Younggeun Lee",
+      "C. Lim",
+      "Bongjae Lee"
+    ],
+    "year": 2024,
+    "abstract": "Water scarcity has become a global challenge attributed to climate change, deforestation, population growth, and increasing water demand. While advanced water production plants are prevalent in urban areas, remote islands and sparsely populated regions face significant obstacles in establishing such technologies. Consequently, there is an urgent need for efficient, affordable, and sustainable water production technologies in these areas. Herein, we present a facile approach utilizing an ultrashort-pulsed laser to directly convert cotton fabric into graphene under ambient conditions. The resulting laser-induced graphene (LIG) demonstrates the highest light absorption efficiency of 99.0% and a broad absorption range (250-2500 nm). As an excellent solar absorber, LIG on cotton fabric can effi",
+    "doi": "10.1021/acsnano.4c12553",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/13af79d4da45b68e0f4be28f7a9f61e520e3a501",
+    "fetched_at": "2026-05-31T02:53:17.176073+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_2f835c88ecbf41c8",
+    "source": "semantic_scholar",
+    "title": "Boosting High‐Performance Aqueous Zinc‐Ion Hybrid Capacitors via Organic Redox Species on Laser‐Induced Graphene Network",
+    "authors": [
+      "Yiran Li",
+      "Maoqing Zhang",
+      "Hongbo Lu",
+      "Xinxin Cai",
+      "Zhaoyang Jiao",
+      "Shujing Li"
+    ],
+    "year": 2024,
+    "abstract": "Hybrid zinc‐ion capacitors combine the energy storage capabilities of zinc‐ion batteries with the high‐power output of supercapacitors. However, the limited cycle life and narrow electrochemical window of hybrid zinc‐ion capacitors currently restrict their potential applications. Herein, a hybrid zinc‐ion capacitor is fabricated on laser‐induced graphene (LIG) based on in situ electropolymerization of organic compound poly(8‐amino‐2‐naphthol). The electropolymerized long‐conjugated chain polymers on the 3D conductive framework of LIG can enhance reaction kinetics, suppress the dissolution of organic compounds, and boost capacity. Simultaneously, hydrogen bonds form between polymer chains, aiding in proton transport. The assembled Zn//carbon cloth/LIG/poly(8‐amino‐2‐naphthol) hybrid zinc‐io",
+    "doi": "10.1002/adfm.202400663",
+    "pdf_url": "",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/2f835c88ecbf41c8a3c1357d024bdab1fa09f824",
+    "fetched_at": "2026-05-31T02:53:17.176077+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_5945512570559b94",
+    "source": "semantic_scholar",
+    "title": "Portable glucose sensing analysis based on laser-induced graphene composite electrode",
+    "authors": [
+      "Zhaokang Zhang",
+      "Lu Huang",
+      "Yiting Chen",
+      "Zhenli Qiu",
+      "Xiangying Meng",
+      "Yanxia Li"
+    ],
+    "year": 2024,
+    "abstract": "In this work, a portable electrochemical glucose sensor was studied based on a laser-induced graphene (LIG) composite electrode. A flexible graphene electrode was prepared using LIG technology. Poly(3,4-ethylene dioxythiophene) (PEDOT) and gold nanoparticles (Au NPs) were deposited on the electrode surface by potentiostatic deposition to obtain a composite electrode with good conductivity and stability. Glucose oxidase (GOx) was then immobilized using glutaraldehyde (GA) to create an LIG/PEDOT/Au/GOx micro-sensing interface. The concentration of glucose solution is directly related to the current value by chronoamperometry. Results show that the sensor based on the LIG/PEDOT/Au/GOx flexible electrode can detect glucose solutions within a concentration range of 0.5 × 10−5 to 2.5 × 10−3 mol ",
+    "doi": "10.1039/d3ra06947h",
+    "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2024/ra/d3ra06947h",
+    "journal": "RSC Advances",
+    "url": "https://www.semanticscholar.org/paper/5945512570559b94c7de1454b79cc69f486e8866",
+    "fetched_at": "2026-05-31T02:53:17.176089+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_479744e670c4605f",
+    "source": "semantic_scholar",
+    "title": "Structure‐Foldable and Performance‐Tailorable PI Paper‐Based Triboelectric Nanogenerators Processed and Controlled by Laser‐Induced Graphene",
+    "authors": [
+      "Weixiong Yang",
+      "Mingguang Han",
+      "Fu Liu",
+      "Dan Wang",
+      "Yan Gao",
+      "Guantao Wang"
+    ],
+    "year": 2024,
+    "abstract": "Laser‐induced graphene (LIG) technology has provided a new manufacturing strategy for the rapid and scalable assembling of triboelectric nanogenerators (TENG). However, current LIG‐based TENG commonly rely on polymer films, e.g., polyimide (PI) as both friction material and carbon precursor of electrodes, which limit the structural diversity and performance escalation due to its incapability of folding and creasing. Using specialized PI paper composed of randomly distributed PI fibers to substantially enhance its foldability, this work creates a new type of TENG, which are structurally foldable and stackable, and performance tailorable. First, by systematically investigating the laser power‐regulated performance of single‐unit TENG, the open‐circuit voltage can be effectively improved. By ",
+    "doi": "10.1002/advs.202310017",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202310017",
+    "journal": "Advanced Science",
+    "url": "https://www.semanticscholar.org/paper/479744e670c4605ff779d76d7320c368f7427866",
+    "fetched_at": "2026-05-31T02:53:17.176093+00:00",
+    "material": "other"
   }
 ]
