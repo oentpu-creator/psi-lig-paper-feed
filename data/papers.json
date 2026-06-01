@@ -8711,5 +8711,39 @@
     "url": "https://www.semanticscholar.org/paper/479744e670c4605ff779d76d7320c368f7427866",
     "fetched_at": "2026-05-31T02:53:17.176093+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_94bd9b9cc5a0e10a",
+    "source": "semantic_scholar",
+    "title": "Review of Laser-Induced Graphene (LIG) Produced on Eco-Friendly Substrates",
+    "authors": [
+      "Hye-ran Moon",
+      "B. Ryu"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1007/s40684-024-00595-y",
+    "pdf_url": "",
+    "journal": "International Journal of Precision Engineering and Manufacturing-Green Technology",
+    "url": "https://www.semanticscholar.org/paper/94bd9b9cc5a0e10a7432fb62cd43663cba30eaf2",
+    "fetched_at": "2026-06-01T03:30:28.615260+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_a7b8fa8c3c52a5e0",
+    "source": "semantic_scholar",
+    "title": "Recent advances in laser-induced-graphene-based soft skin electronics for intelligent healthcare",
+    "authors": [
+      "Zhiqiang Ma",
+      "B. L. Khoo"
+    ],
+    "year": 2024,
+    "abstract": "Skin is a rich source of invaluable information for healthcare management and disease diagnostics. The integration of soft skin electronics enables precise and timely capture of these cues at the skin interface. Leveraging attributes such as lightweight design, compact size, high integration, biocompatibility, and enhanced comfort, these technologies hold significant promise for advancing various applications. However, the fabrication process for most existing soft skin electronics typically requires expensive platforms and clean-room environments, potentially inflating production costs. In recent years, the emergence of laser-induced-graphene (LIG) has presented a practical solution for developing soft skin electronics that are both cost-effective and high-performing. This advancement pav",
+    "doi": "10.20517/ss.2024.20",
+    "pdf_url": "https://f.oaes.cc/xmlpdf/f3cd7af4-bc6e-44fc-b62a-27c79012c38d/ss4020.pdf",
+    "journal": "Soft Science",
+    "url": "https://www.semanticscholar.org/paper/a7b8fa8c3c52a5e0bf6eb39eb26effe0c9c7992b",
+    "fetched_at": "2026-06-01T03:30:28.615268+00:00",
+    "material": "other"
   }
 ]
