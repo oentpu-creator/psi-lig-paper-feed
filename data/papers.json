@@ -8745,5 +8745,24 @@
     "url": "https://www.semanticscholar.org/paper/a7b8fa8c3c52a5e0bf6eb39eb26effe0c9c7992b",
     "fetched_at": "2026-06-01T03:30:28.615268+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_11676b8ee8242ac7",
+    "source": "semantic_scholar",
+    "title": "Development of Laser-Scribed Graphene Electrodes for Label-Free L-Histidine Sensing in Artificial Sweat",
+    "authors": [
+      "William García-Rodríguez",
+      "Karla Echeverría-Altamar",
+      "José A. Lasalde-Ramírez",
+      "Pedro J. Resto-Irizarry"
+    ],
+    "year": 2026,
+    "abstract": "This study investigates the fabrication of laser-scribed graphene (LSG) electrodes on polyimide substrates using a CO2 laser cutter for label-free L-Histidine detection in artificial sweat. Two-level full factorial and central composite designs were employed to optimize critical manufacturing parameters, including laser speed, power, and electrode width. Electrochemical characterization using cyclic voltammetry with K3Fe[CN]6 demonstrated superior LSG electrode performance compared to standard glassy carbon electrodes, exhibiting a 702 ± 62% higher oxidation current peak at 0.56 mM K3Fe[CN]6 in 0.1 M KCl. We successfully demonstrated the label-free electrochemical detection of L-Histidine in artificial sweat using these LSG electrodes. The results show a linear relationship (R2 = 0.987) be",
+    "doi": "10.3390/bios16060318",
+    "pdf_url": "",
+    "journal": "Biosensors",
+    "url": "https://www.semanticscholar.org/paper/11676b8ee8242ac763429ad77ee57e0e87452693",
+    "fetched_at": "2026-06-05T02:53:19.672498+00:00",
+    "material": "other"
   }
 ]
