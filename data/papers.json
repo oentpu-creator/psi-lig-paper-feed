@@ -8764,5 +8764,227 @@
     "url": "https://www.semanticscholar.org/paper/11676b8ee8242ac763429ad77ee57e0e87452693",
     "fetched_at": "2026-06-05T02:53:19.672498+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.06128v1",
+    "source": "arxiv",
+    "title": "Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostructure",
+    "authors": [
+      "Xinyun Wang",
+      "Magdalena Grzeszczyk",
+      "Maxim Trushin",
+      "Ivan Verzhbitskiy",
+      "Dmitrii Litvinov",
+      "Yi Wei Ho"
+    ],
+    "year": 2026,
+    "abstract": "Long-lived dark excitons in monolayer WSe2 present promising candidates for carrying spin and valley information, but their optical access and spin manipulation have conventionally required the use of strong external magnetic fields. Here, using a ferroelectric hybrid perovskite heterostructure, we leverage the ferroelectric proximity effect to break the WSe2's in-plane rotational symmetry and brighten the spin-forbidden dark excitons under zero magnetic field conditions. Furthermore, we show that the twist angle between the WSe2 and perovskite crystals controls the ferroelectric coupling strength and valley-contrasting polarization. Our proposed mechanism, supported by a four-band tight-binding model, suggests that the ferroelectric proximity effect induces an asymmetric intersublattice i",
+    "doi": "10.1038/s41467-026-72143-y",
+    "pdf_url": "https://arxiv.org/pdf/2606.06128v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.06128v1",
+    "fetched_at": "2026-06-06T02:37:58.078621+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.04313v1",
+    "source": "arxiv",
+    "title": "Mid-infrared photon counting and resolving via efficient frequency upconversion",
+    "authors": [
+      "Kun Huang",
+      "Yinqi Wang",
+      "Jianan Fang",
+      "Weiyan Kang",
+      "Ying Sun",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "Optical detectors with single-photon sensitivity and large dynamic range would facilitate a variety of applications. Especially, the capability of extending operation wavelengths into the mid-infrared region is highly attractive. Here we implement a mid-infrared frequency upconversion detector for counting and resolving photons at 3 $μ$m. Thanks to the spectro-temporal engineering of the involved optical fields, the mid-infrared photons could be spectrally translated into the visible band with a conversion efficiency of 80\\%. In combination with a silicon avalanche photodiode, we obtained unprecedented performances with a high overall detection efficiency of 37\\% and a low noise equivalent power of 1.8$\\times$10$^{-17}$ W/Hz$^{1/2}$. Furthermore, photon-number-resolving detection at mid-in",
+    "doi": "10.1364/PRJ.410302",
+    "pdf_url": "https://arxiv.org/pdf/2606.04313v1",
+    "journal": "Photonics Research 9, 259 (2021)",
+    "url": "http://arxiv.org/abs/2606.04313v1",
+    "fetched_at": "2026-06-06T02:38:03.854675+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.03208v1",
+    "source": "arxiv",
+    "title": "Highly sensitive detection for infrared photons by non-degenerate two-photon absorption under mid-infrared pumping",
+    "authors": [
+      "Jianan Fang",
+      "Yinqi Wang",
+      "Ming Yan",
+      "E Wu",
+      "Kun Huang",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "We have demonstrated highly-sensitive photon counting in the infrared based on the two-photon absorption (2PA) in a silicon avalanche photodiode, where the required photon energy for inducing effective conductivity was provided by an intense mid-infrared (MIR) field at 3 $μ$m. The used MIR pumping scheme could not only benefit from the enhanced 2PA coefficient in the non-degenerate regime, but also eliminate the detrimental background noises due to the pump harmonic excitation of the pump. Consequently, the enhancement factor for the signal counting rate unprecedented reached to about $10^{5}$ with input infrared pulses at the femtojoule level. Additionally, the noise equivalent power was substantially improved by two orders of magnitude comparing to conventional schemes with near-infrared",
+    "doi": "10.1103/PhysRevApplied.14.064035",
+    "pdf_url": "https://arxiv.org/pdf/2606.03208v1",
+    "journal": "Physical Review Applied 14, 064035 (2020)",
+    "url": "http://arxiv.org/abs/2606.03208v1",
+    "fetched_at": "2026-06-06T02:38:03.854837+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.03206v1",
+    "source": "arxiv",
+    "title": "Wide-field mid-infrared single-photon upconversion imaging",
+    "authors": [
+      "Kun Huang",
+      "Jianan Fang",
+      "Ming Yan",
+      "E Wu",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "Frequency upconversion technique, where the infrared signal is nonlinearly translated into the visible band to leverage the silicon sensors, offers a promising alternation for the mid-infrared (MIR) imaging. However, the intrinsic field of view (FOV) is typically limited by the phase-matching condition, thus imposing a remaining challenge to promote subsequent applications. Here, we demonstrate a wide-field upconversion imaging based on the aperiodic quasi-phase-matching configuration. The acceptance angle is significantly expanded to about 30$^\\circ$, over tenfold larger than that with the periodical poling crystal. The extended FOV is realized in one shot without the need of parameter scanning or post-processing. Consequently, a fast snapshot allows to facilitate high-speed imaging at a ",
+    "doi": "10.1038/s41467-022-28716-8",
+    "pdf_url": "https://arxiv.org/pdf/2606.03206v1",
+    "journal": "Nature Communications 13, 1077 (2022)",
+    "url": "http://arxiv.org/abs/2606.03206v1",
+    "fetched_at": "2026-06-06T02:38:03.854867+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.04622v1",
+    "source": "arxiv",
+    "title": "Functional trends and rheological evaluation of polyurethane microcapsules in dermato-cosmetic applications",
+    "authors": [
+      "Sharadwata Pan",
+      "Andreas Wierschem",
+      "Natalie Germann",
+      "Thomas Becker"
+    ],
+    "year": 2026,
+    "abstract": "To date, natural and synthetic polymer-based microcapsules have been used extensively in various dermato-cosmetic applications, with an emphasis on the targeted delivery of active ingredients, including therapeutic and aesthetic interventions. Although numerous polymer candidates have been comprehensively investigated, polyurethane based microcapsules have received comparatively minor attention, despite possessing a multitude of intrinsic benefits. However, in recent years, although there has been an upsurge of studies involving polyurethane, predominantly as a capsule wall or shell component, towards tangible dermato-cosmetic applications, these are only intermittently documented. In the current review, we target this lacuna, explore, and collate only the most contemporary trends and adva",
+    "doi": "10.1515/tp-2026-0006",
+    "pdf_url": "https://arxiv.org/pdf/2606.04622v1",
+    "journal": "Transport Phenomena 2026; 1(1): 20260006",
+    "url": "http://arxiv.org/abs/2606.04622v1",
+    "fetched_at": "2026-06-06T02:38:29.942672+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.06265v1",
+    "source": "arxiv",
+    "title": "Robust Ensemble of Selectively Strengthened and Augmented Predictors",
+    "authors": [
+      "Parsa Memarzadehsaghezi",
+      "Zahra Hashemi",
+      "Pooria Madani",
+      "Mehran Ebrahimi"
+    ],
+    "year": 2026,
+    "abstract": "Evasion attacks present a significant challenge to the robustness of machine learning (ML)-based classifiers, particularly in critical applications such as fraud detection and cybersecurity. Although existing defense mechanisms are effective in some settings, they often suffer from limited generalizability and do not systematically improve model robustness across diverse attack scenarios. To address these limitations, we introduce Robust Ensemble of Selectively Strengthened and Augmented Predictors (RESSAP), a novel framework that transforms a single classifier into an ensemble of robust classifiers. Each classifier in the ensemble is trained on a carefully selected subset of features, where feature selection is guided by a resilience metric that accounts for both feature importance and ro",
+    "doi": "10.1145/3806007.3810966",
+    "pdf_url": "https://arxiv.org/pdf/2606.06265v1",
+    "journal": "In Proceedings of the 12th ACM International Workshop on Security and Privacy Analytics (IWSPA 2026), June 24, 2026, Frankfurt am Main, Germany",
+    "url": "http://arxiv.org/abs/2606.06265v1",
+    "fetched_at": "2026-06-06T02:38:41.201522+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.05902v1",
+    "source": "arxiv",
+    "title": "PriSrv+: Privacy and Usability-Enhanced Wireless Service Discovery with Fast and Expressive Matchmaking Encryption",
+    "authors": [
+      "Yang Yang",
+      "Guomin Yang",
+      "Yingjiu Li",
+      "Pengfei Wu",
+      "Rui Shi",
+      "Minming Huang"
+    ],
+    "year": 2026,
+    "abstract": "Service discovery is a fundamental process in wireless networks, enabling devices to find and communicate with services dynamically, and is critical for the seamless operation of modern systems like 5G and IoT. This paper introduces PriSrv+, an advanced privacy and usability-enhanced service discovery protocol for modern wireless networks and resource-constrained environments. PriSrv+ builds upon PriSrv (NDSS'24), by addressing critical limitations in expressiveness, privacy, scalability, and efficiency, while maintaining compatibility with widely-used wireless protocols such as mDNS, BLE, and Wi-Fi.   A key innovation in PriSrv+ is the development of Fast and Expressive Matchmaking Encryption (FEME), the first matchmaking encryption scheme capable of supporting expressive access control p",
+    "doi": "10.14722/ndss.2026.230087",
+    "pdf_url": "https://arxiv.org/pdf/2606.05902v1",
+    "journal": "Proceedings of the Network and Distributed System Security Symposium (NDSS) 2026",
+    "url": "http://arxiv.org/abs/2606.05902v1",
+    "fetched_at": "2026-06-06T02:38:41.201823+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.05811v1",
+    "source": "arxiv",
+    "title": "Observing the integrated and spatially resolved Sun with ultra-high spectral resolution",
+    "authors": [
+      "S. Schäfer",
+      "K. Royen",
+      "A. Huster Zapke",
+      "M. Ellwarth",
+      "A. Reiners"
+    ],
+    "year": 2026,
+    "abstract": "The Institute for Astrophysics Göttingen operates a solar observatory that combines a 50\\,cm siderostat with (1) a vacuum vertical telescope, (2) a very high resolution Fourier Transform Spectrograph ($R > 900,000$ at 600\\,nm), and (3) a Laser Frequency Comb for extremely precise and accurate frequency calibration ($<10\\,cm/s$). We introduce our setup that feeds the spectrograph with either a 32.5\" field of view of the solar surface, or with disk-integrated sunlight for Sun-as-a-star observations and explain the necessary computational steps to guide specific positions on the solar surface into the fiber.   Our instrument suite can deliver spectroscopic measurements with extremely accurate frequency calibration, which is valid across very large frequency regions (approx. 400-800\\,nm in wav",
+    "doi": "10.1117/12.2560156",
+    "pdf_url": "https://arxiv.org/pdf/2606.05811v1",
+    "journal": "Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 11447A9 (13 Dec 2020)",
+    "url": "http://arxiv.org/abs/2606.05811v1",
+    "fetched_at": "2026-06-06T02:39:03.791032+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.05810v1",
+    "source": "arxiv",
+    "title": "Fiber-coupling of Fourier Transform Spectrographs",
+    "authors": [
+      "S. Schäfer",
+      "P. Huke",
+      "D. Meyer",
+      "A. Reiners"
+    ],
+    "year": 2026,
+    "abstract": "Fourier Transform Spectrographs (FTS) are versatile tools for measuring accurate, high resolution spectra. They are internally calibrated by a reference laser that runs in parallel to the science light. Therefore it is crucial to properly align these two beams with respect to each other. We show how this can be achieved by feeding a part of the reference light into the optical path of the science beam.   For astronomical applications it's often useful to use optical fibers. We present a coupling setup for our Bruker Optics IFS 125 FTS, consisting of (1) two hexagonal input fibers, (2) dichroic beam-combining for measuring two light sources simultaneously and (3) optimized optics to match the original Bruker design. The hexagonal shape of the fiber cores secures sufficient mode scrambling i",
+    "doi": "10.1117/12.2561599",
+    "pdf_url": "https://arxiv.org/pdf/2606.05810v1",
+    "journal": "Proc. SPIE 11447, Ground-based and Airborne Instrumentation for Astronomy VIII, 114473Q (13 Dec 2020)",
+    "url": "http://arxiv.org/abs/2606.05810v1",
+    "fetched_at": "2026-06-06T02:39:03.791075+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.05612v1",
+    "source": "arxiv",
+    "title": "Controlled generation of ultrafast vector vortex beams from a mode-locked fiber laser",
+    "authors": [
+      "Kun Huang",
+      "Jing Zeng",
+      "Jiwei Gan",
+      "Qiang Hao",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "We report on a new class of mode-locked fiber laser that allows direct creation of ultrafast vector vortex beams at arbitrary positions on the higher-order Poincaré sphere. The on-demand generation of space-variant polarization patterns was realized by controlling geometric phases inside the laser resonator to map polarization to orbital angular momentum. Thanks to the ingenious cavity design, the required intracavity manipulation of the geometric phase imposed no disturbance on the passively mode-locked operation, thus demonstrating robust and flexible switching of vectorial modes with a 8.5-ps pulse duration. Analytical expressions were deduced to model the generated cylindrically-symmetric polarization profiles, and agreed exceedingly well with experimental observations. The presented f",
+    "doi": "10.1364/OL.43.003933",
+    "pdf_url": "https://arxiv.org/pdf/2606.05612v1",
+    "journal": "Optics Letters 43, 3933 (2018)",
+    "url": "http://arxiv.org/abs/2606.05612v1",
+    "fetched_at": "2026-06-06T02:39:03.791120+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.05595v1",
+    "source": "arxiv",
+    "title": "Passively synchronized dual-color mode-locked fiber lasers based on nonlinear amplifying loop mirrors",
+    "authors": [
+      "Jing Zeng",
+      "Bowen Li",
+      "Qiang Hao",
+      "Ming Yan",
+      "Kun Huang",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "We have proposed and implemented a novel scheme for passive all-optical synchronization between erbium and ytterbium mode-locked fiber lasers. The passive locking of repetition rates for the dual-color pulses was realized by cross-phase modulation within phase-biased nonlinear amplifying loop mirrors. In contrast to previous demonstrations, the synchronization system was configured in an all-polarization-maintaining structure, thus gaining substantially improved stability and robustness. Consequently, the maximum tolerance of cavity-length mismatch of 16.2 mm was achieved unprecedentedly, which was at least one order of magnitude longer than previously reported results for comparable temporal durations of involved pulses. The corresponding relative timing jitter was measured to be 31 fs wi",
+    "doi": "10.1364/OL.44.005061",
+    "pdf_url": "https://arxiv.org/pdf/2606.05595v1",
+    "journal": "Optics Letters 44, 5061 (2019)",
+    "url": "http://arxiv.org/abs/2606.05595v1",
+    "fetched_at": "2026-06-06T02:39:03.791149+00:00",
+    "material": "other"
   }
 ]
