@@ -8986,5 +8986,163 @@
     "url": "http://arxiv.org/abs/2606.05595v1",
     "fetched_at": "2026-06-06T02:39:03.791149+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07395v1",
+    "source": "arxiv",
+    "title": "Polar and quadratic magneto-optical Kerr effects in nonmagnetic/ferromagnet bilayers for spin-orbit torque measurements",
+    "authors": [
+      "Yukihiro Marui",
+      "Masashi Kawaguchi",
+      "Kohji Nakamura",
+      "Masamitsu Hayashi"
+    ],
+    "year": 2026,
+    "abstract": "Recent studies have revealed that spin Hall magnetoresistance (SMR) contributes to both the anomalous and planar Hall resistances in nonmagnetic metal (NM)/ferromagnetic metal (FM) bilayers. This effect becomes pronounced when the NM layer exhibits a large spin Hall angle, as in W/CoFeB bilayers. In such systems, the ratio of planar to anomalous Hall resistances, normally small in single CoFeB layers, can approach unity. This unusually large ratio complicates the determination of spin-torque efficiency using harmonic Hall voltage measurements. To overcome this limitation, magneto-optical Kerr effect (MOKE) measurements have been proposed as an alternative approach. Here, we investigate the polar and quadratic MOKE components, which correspond to, respectively, the anomalous and planar Hall",
+    "doi": "10.1103/6wrg-dzy6",
+    "pdf_url": "https://arxiv.org/pdf/2606.07395v1",
+    "journal": "Phys. Rev. B 113, 214419 (2026)",
+    "url": "http://arxiv.org/abs/2606.07395v1",
+    "fetched_at": "2026-06-08T02:59:11.056938+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07251v1",
+    "source": "arxiv",
+    "title": "Laser-Stabilized Fiber Sensing on Terrestrial Field-Deployed Cable for Enhanced Sensitivity",
+    "authors": [
+      "Rajiv Boddeda",
+      "Adrish Sahu",
+      "Christian Dorize",
+      "Arnaud Dupas",
+      "Pierre Brochard",
+      "Haïk Mardoyan"
+    ],
+    "year": 2026,
+    "abstract": "We demonstrate distributed acoustic sensing on deployed buried cable leveraging laser frequency stabilization and probing code optimization. Our results confirm the capability to accurately localize weak events with high resolution and sensitivity over 80 km.",
+    "doi": "10.1364/OFC.2026.M3J.3",
+    "pdf_url": "https://arxiv.org/pdf/2606.07251v1",
+    "journal": "Optical Fiber Communication Conference (OFC) 2026, Technical Digest Series (Optica Publishing Group, 2026)",
+    "url": "http://arxiv.org/abs/2606.07251v1",
+    "fetched_at": "2026-06-08T02:59:11.057148+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07154v1",
+    "source": "arxiv",
+    "title": "Second-Generation Fabry-Pérot Unit for CARMENES",
+    "authors": [
+      "Hanna Lina Pleteit",
+      "Michael Debus",
+      "Sebastian Schäfer",
+      "Ansgar Reiners"
+    ],
+    "year": 2026,
+    "abstract": "CARMENES consists of two high-resolution spectrographs located at the Calar Alto 3.5m telescope, covering the wavelength range from 520nm to 1710 nm. The original Fabry-Perot (FP) units have been essential to track and remove instrumental drift while also improving the wavelength solution provided by the hollow cathode lamps. In this paper we present the second-generation FP unit that has begun operation at Calar Alto in April 2024. It features drastically improved temperature stabilization, additional temperature monitoring, and enhanced optomechanics. Temperature stabilization is improved through better vacuum vessel design, thermal shielding and improved thermal control. The temperature is now monitored with Pt-100 sensors inside the vacuum vessel, one of which is used to drive the temp",
+    "doi": "10.1117/12.3017975",
+    "pdf_url": "https://arxiv.org/pdf/2606.07154v1",
+    "journal": "Proc. SPIE 13096, Ground-based and Airborne Instrumentation for Astronomy X, 130968A (18 Jul 2024)",
+    "url": "http://arxiv.org/abs/2606.07154v1",
+    "fetched_at": "2026-06-08T02:59:11.057180+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07226v1",
+    "source": "arxiv",
+    "title": "DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios",
+    "authors": [
+      "Tongzhou Yu",
+      "Mingjia Li",
+      "Hong Qian",
+      "Wenkai Wang",
+      "Zongbao Zhang",
+      "Yaoyu Jiang"
+    ],
+    "year": 2026,
+    "abstract": "Human creativity has emerged as a critical competency in the era of large language models. Assessing creativity in complex, open-ended environments is a grand challenge in data mining, currently hindered by a reliance on standardized simple tasks and the scarcity of fine-grained expert data. As an ecologically valid assessment context, debate reflects multiple dimensions of creativity, encompassing both divergent thinking and convergent thinking. Moreover, debate is a data-rich domain, with a large volume of publicly accessible materials. Current mainstream automated scoring methods are poorly suited to complex settings such as debate, and therefore still rely on costly human evaluation. To this end, this paper proposes DEFINED, a data-efficient computational framework for fine-grained cre",
+    "doi": "10.1145/3770855.3817874",
+    "pdf_url": "https://arxiv.org/pdf/2606.07226v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.07226v1",
+    "fetched_at": "2026-06-08T02:59:32.931928+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07306v1",
+    "source": "arxiv",
+    "title": "Vacuum fluctuation induced quantum resource harvesting in triple-layer graphene",
+    "authors": [
+      "Yassine Dakir",
+      "Abdallah Slaoui",
+      "Rachid Ahl Laamara"
+    ],
+    "year": 2026,
+    "abstract": "We examine the non-Markovian dynamics and the generation of quantum coherence and entanglement within a triple-layer graphene (TLG) system embedded in a planar microcavity. Using time-dependent perturbation theory, we derive an exact analytic solution for the system and demonstrate how the confined electromagnetic field mediates quantum correlations between the graphene layers. We employ three complementary measures; the relative entropy of coherence (REC) to quantify quantum coherence, the tangle to assess tripartite entanglement, and a non-Markovianity measure derived from the REC to characterize quantum memory effects. Our analysis reveals that these quantum resources exhibit remarkable sensitivity to various control parameters. Specifically, we demonstrate that the number of cutoff mod",
+    "doi": "10.1088/1361-648X/ae74a3",
+    "pdf_url": "https://arxiv.org/pdf/2606.07306v1",
+    "journal": "Journal of Physics: Condensed Matter, 2026",
+    "url": "http://arxiv.org/abs/2606.07306v1",
+    "fetched_at": "2026-06-08T02:59:44.263510+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07273v1",
+    "source": "arxiv",
+    "title": "B-Spline for Self-Consistent Field Theory with a Z-Dependent Pauli Potential for Atomic Binding Energies",
+    "authors": [
+      "Vipul Badhan",
+      "Russell B. Thompson",
+      "Bindiya Arora"
+    ],
+    "year": 2026,
+    "abstract": "Polymer self-consistent field theory (SCFT) has recently been established as a promising alternative framework to Kohn-Sham density functional theory (KS-DFT) for modeling quantum many-body systems. It uses real-valued propagators instead of orbitals, simplifying the self-consistent numerical solution. However, SCFT suffers from inaccuracies in heavy-element systems due to the approximate treatment of the Pauli potential, particularly the use of a constant repulsion strength parameter. In this work, we address this central limitation by introducing a Z-dependent Pauli potential that improves agreement with Hartree-Fock (HF) results. Furthermore, we advance SCFT implementation by employing B-spline basis functions-highly localized, piecewise-polynomial functions widely used in atomic struct",
+    "doi": "10.1016/j.physleta.2026.131807",
+    "pdf_url": "https://arxiv.org/pdf/2606.07273v1",
+    "journal": "Physics Letters A Volume 590, 15 September 2026, 131807",
+    "url": "http://arxiv.org/abs/2606.07273v1",
+    "fetched_at": "2026-06-08T02:59:49.878866+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_6af008bf32aba858",
+    "source": "semantic_scholar",
+    "title": "Laser-induced graphene electrode modified by platinum nanoparticle/zein/gelatin/glucose oxidase for non-invasive glucose sensor in multiple biofluids.",
+    "authors": [
+      "Kittiya Sakdaphetsiri",
+      "Thana Thaweeskulchai",
+      "W. Sukmas",
+      "Joseph Wang",
+      "Albert Schulte",
+      "Nadnudda Rodthongkum"
+    ],
+    "year": 2025,
+    "abstract": "BACKGROUND\nA non-invasive glucose biosensor for multiple biofluids based on platinum nanoparticle (Pt-NP)-modified laser-induced graphene (LIG) electrodes coated with a zein/gelatin/glucose oxidase (GOx) for amperometric detection of glucose is created. The biosensor fabrication is cost-effective and scalable, as it combines simple LIG electrode fabrication with direct Pt-NP electrodeposition and a sequence of drop-and-dry steps for zein and gelatin layer then GOx enzyme. The Pt-NP modification on the LIG electrode functions as an electrocatalyst to enhance the anodic H2O2 signal, which is directly proportional to glucose concentration. The zein layer acts as a diffusion barrier to mitigate potential interferences, while the gelatin film provides amine groups for the glutaraldehyde-mediate",
+    "doi": "10.1016/j.aca.2025.343974",
+    "pdf_url": "",
+    "journal": "Analytica chimica acta",
+    "url": "https://www.semanticscholar.org/paper/6af008bf32aba8589db3bd989994e4f5235ac763",
+    "fetched_at": "2026-06-08T02:59:50.887870+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2606.06799v1",
+    "source": "arxiv",
+    "title": "Passive all-optical synchronization for polarization-maintaining ultrafast fiber lasers",
+    "authors": [
+      "Kun Huang",
+      "Jing Zeng",
+      "Jiwei Gan",
+      "Qiang Hao",
+      "Ming Yan",
+      "Heping Zeng"
+    ],
+    "year": 2026,
+    "abstract": "We have proposed and implemented for the first time to our best knowledge a passive and all-optical pulse synchronization for polarization-maintaining ultrafast fiber lasers. Specifically, the synchronization system was comprised of two independent Yb-doped and Er-doped mode-locked fiber lasers in a master-slave configuration. Master pulses were injected into the slave laser cavity consisting of a nonlinear amplifying loop mirror, which provided an effective fast intensity modulator due to the periodic introduction of nonreciprocal phase difference. As a result, robust and tight timing synchronization was achieved with a cavity mismatch tolerance of 800 $μ$m and a relative timing jitter of 26 fs within 1-MHz bandwidth. In combination with all-polarization-maintaining structure of fiber las",
+    "doi": "10.1364/OE.26.032184",
+    "pdf_url": "https://arxiv.org/pdf/2606.06799v1",
+    "journal": "Optics Express 26, 32184 (2018)",
+    "url": "http://arxiv.org/abs/2606.06799v1",
+    "fetched_at": "2026-06-08T03:00:13.025435+00:00",
+    "material": "other"
   }
 ]
