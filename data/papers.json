@@ -9144,5 +9144,46 @@
     "url": "http://arxiv.org/abs/2606.06799v1",
     "fetched_at": "2026-06-08T03:00:13.025435+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.08867v1",
+    "source": "arxiv",
+    "title": "Building Customer Support AI Agents at 100M-User Scale: An Evaluation-Driven Framework",
+    "authors": [
+      "Aman Gupta",
+      "Kevin Rossell",
+      "Edesio Alcobaça",
+      "Jose Chrystian Lima Pacheco",
+      "Carolina Baptista de Lima",
+      "Shao Tang"
+    ],
+    "year": 2026,
+    "abstract": "The rapid rise in LLM capabilities has made AI agents increasingly viable across a broad range of tasks. Among the most promising applications is building production-ready customer-facing agents, a challenge that demands coordinated excellence in evaluation methodology, context engineering, training, and online measurement. Yet these critical pillars are typically developed in isolation, creating blind spots that only surface after deployment.   In this paper, we present a unified framework that bridges offline development with online impact for customer support AI agents at Nubank, a company with 100M+ users. Our approach integrates several key components: (1) structured context engineering tailored to customer support agents, (2) systematic human-in-the-loop prompt iteration, (3) rigorou",
+    "doi": "10.1145/3770855.3818332",
+    "pdf_url": "https://arxiv.org/pdf/2606.08867v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.08867v1",
+    "fetched_at": "2026-06-09T02:36:53.382428+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.09281v1",
+    "source": "arxiv",
+    "title": "Unconventional incommensurate epitaxy of superconducting FeSe films on SrTiO$_3$",
+    "authors": [
+      "M. Klement",
+      "K. M. Fijalkowski",
+      "M. Kamp",
+      "C. Gould",
+      "L. W. Molenkamp"
+    ],
+    "year": 2026,
+    "abstract": "We present a combined X-ray diffraction and transmission electron microscopy study of superconducting FeSe/FeTe multilayers grown by molecular beam epitaxy on SrTiO$_3$(001) substrates. While X-ray diffraction confirms perfect in-plane epitaxial alignment between FeSe, FeTe, and the substrate, scanning transmission electron microscopy reveals a surprising lack of atomic registry at the FeSe/SrTiO$_3$ interface. Instead of adapting to the substrate lattice, FeSe retains its own in-plane lattice spacing. A periodic lateral shift between the atomic positions of FeSe and SrTiO$_3$ is observed, with a registry recurrence length that matches the lattice mismatch determined by X-ray diffraction. No misfit dislocations or other relaxation features are detected at the interface. This coexistence of",
+    "doi": "10.1103/j4j1-jfcf",
+    "pdf_url": "https://arxiv.org/pdf/2606.09281v1",
+    "journal": "Phys. Rev. Materials 10, 064801 (2026)",
+    "url": "http://arxiv.org/abs/2606.09281v1",
+    "fetched_at": "2026-06-09T02:37:22.484027+00:00",
+    "material": "other"
   }
 ]
