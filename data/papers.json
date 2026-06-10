@@ -9185,5 +9185,225 @@
     "url": "http://arxiv.org/abs/2606.09281v1",
     "fetched_at": "2026-06-09T02:37:22.484027+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10942v1",
+    "source": "arxiv",
+    "title": "Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions",
+    "authors": [
+      "Kiarash Rezaei",
+      "Omran Ayoub",
+      "Sebastian Troia",
+      "Francesco Lelli",
+      "Paolo Monti",
+      "Carlos Natalino"
+    ],
+    "year": 2026,
+    "abstract": "As artificial intelligence and machine learning (AI/ML) models become integral to network operations, their lack of transparency poses a significant barrier to operator trust. Existing explainable artificial intelligence (XAI) techniques often fail to bridge this gap for non-specialists, producing technical outputs that are difficult to translate into actionable insights. This paper presents a framework specifically designed to address this shortcoming. It leverages a moderately sized large language model (LLM) and extends beyond the standard use of SHapley Additive exPlanations (SHAP) feature influence values. The framework employs a structured prompt enriched with mutual feature interaction data to generate human-understandable natural language explanations. To validate our framework, we",
+    "doi": "10.1109/WiMob66857.2025.11257542",
+    "pdf_url": "https://arxiv.org/pdf/2606.10942v1",
+    "journal": "Proc. WiMob, Marrakesh, Morocco, 2025",
+    "url": "http://arxiv.org/abs/2606.10942v1",
+    "fetched_at": "2026-06-10T02:50:55.180673+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10827v1",
+    "source": "arxiv",
+    "title": "A Unified Siamese Learning Framework for Zero-Day Anomaly Detection and Classification in Optical Networks",
+    "authors": [
+      "Carlos Natalino",
+      "Flávia P. Monteiro",
+      "Paolo Monti"
+    ],
+    "year": 2026,
+    "abstract": "A multi-similarity Siamese neural network unifies zero-day anomaly detection and one-shot classification in optical networks, achieving over 99% accuracy and instant adaptability across lightpaths and unseen anomaly types without any retraining.",
+    "doi": "10.1364/OFC.2026.M3A.2",
+    "pdf_url": "https://arxiv.org/pdf/2606.10827v1",
+    "journal": "Optical Fiber Communication Conference (OFC) 2026",
+    "url": "http://arxiv.org/abs/2606.10827v1",
+    "fetched_at": "2026-06-10T02:50:55.180863+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.07256v2",
+    "source": "arxiv",
+    "title": "The Universe Observed with Particle Detectors: Astrophysical Legacy of Guido Barbiellini Amidei",
+    "authors": [
+      "Roberto Capuzzo Dolcetta"
+    ],
+    "year": 2026,
+    "abstract": "The development of modern high-energy astrophysics has been deeply intertwined with advances in particle detector technology. Guido Barbiellini Amidei (1943-2024) played a pivotal role in bridging experimental particle physics and astrophysical observation. His scientific career spanned over four decades, from early electron-positron collider experiments at ADONE and LEP (DELPHI) to space based missions such as AGILE, Fermi, and PAMELA. This memorial paper reviews the evolution of high-energy astrophysics as a detector-driven science, highlighting key domains where Barbiellini left an indelible mark: gamma-ray astronomy, cosmic-ray physics, and antimatter studies. We discuss his personal contributions to silicon tracking, calorimetry, data analysis, and his leadership in international coll",
+    "doi": "10.3390/condmat11020022",
+    "pdf_url": "https://arxiv.org/pdf/2606.07256v2",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.07256v2",
+    "fetched_at": "2026-06-10T02:51:01.484316+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.11023v1",
+    "source": "arxiv",
+    "title": "Generative Archetype-Grounded Item Representations for Sequential Recommendation",
+    "authors": [
+      "Yifan Li",
+      "Jiahong Liu",
+      "Xinni Zhang",
+      "Hao Chen",
+      "Yankai Chen",
+      "Wenhao Yu"
+    ],
+    "year": 2026,
+    "abstract": "Sequential recommendation aims to predict users' next interaction with items by analyzing their historical behavior. However, the limited quality of item representations remains a critical bottleneck. While pre-trained large language models (LLMs) can provide rich semantic representations, existing approaches only rely on static encoding of fixed attributes, overlooking the crucial role of target audiences in defining item identity. Moreover, the semantic space struggles to reflect actual user behavior, resulting in a significant gap between semantic representations and behavioral patterns. To address these limitations, we propose GenAIR, a general framework that empowers sequential recommendation with Generative Archetype-grounded Item Representations. Specifically, we first leverage an L",
+    "doi": "10.1145/3774904.3792587",
+    "pdf_url": "https://arxiv.org/pdf/2606.11023v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.11023v1",
+    "fetched_at": "2026-06-10T02:51:18.133683+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.11088v1",
+    "source": "arxiv",
+    "title": "A Distributed Multi-UGV Exploration Framework With Loop-Aware Planning and Descriptor-Aided Localization in Resource-Limited Environments",
+    "authors": [
+      "Zhiwei Li",
+      "Haiou Liu",
+      "Xijun Zhao",
+      "Ji Li",
+      "Yingze Wang",
+      "Boyang Wang"
+    ],
+    "year": 2026,
+    "abstract": "Robust and efficient cooperative exploration with multiple unmanned ground vehicles (UGVs) in unknown, GPSdenied, and bandwidth-limited environments without prior maps remains challenging, as localization drift degrades map consistency and induces redundant coverage. This paper presents a fully distributed exploration framework that couples descriptoraided inter-UGV loop closure with loop-aware hierarchical planning while enabling autonomous localization and exploration. We develop a lightweight LiDAR global descriptor with range-image prealignment to enable robust cross-UGV place recognition under large yaw and lateral variations, and use verified loop closures to maintain globally consistent trajectories and a sparse topological representation. We further introduce an uncertainty-aware c",
+    "doi": "10.1109/TIE.2026.3684182",
+    "pdf_url": "https://arxiv.org/pdf/2606.11088v1",
+    "journal": "IEEE Transactions on Industrial Electronics, 2026",
+    "url": "http://arxiv.org/abs/2606.11088v1",
+    "fetched_at": "2026-06-10T02:51:29.265317+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.11006v1",
+    "source": "arxiv",
+    "title": "Spectroscopic analysis of RGB stars in nine open clusters",
+    "authors": [
+      "Saulo de Oliveira Cantanhêde",
+      "Alan Alves-Brito",
+      "Rodolfo Smiljanic",
+      "Beatriz Barbuy",
+      "Nadège Lagarde",
+      "Corinne Charbonnel"
+    ],
+    "year": 2026,
+    "abstract": "Stellar clusters are crucial tools for studying the age, spatial distribution, dynamics, kinematics, and chemical composition of different Galactic stellar populations. In this work, we used red giant stars from open clusters to better understand the extra-mixing process through the CNO abundances and $^{12}$C/$^{13}$C, $^{16}$O/$^{17}$O and $^{16}$O/$^{18}$O isotopic ratios determined using high-quality spectra in the visible and near-infrared regions. We analysed the radial velocities and chemical composition of 22 K-type giant stars from nine open clusters (NGC188, NGC2682, NGC3680, NGC5822, IC4756, NGC6633, NGC3532, NGC6281, and NGC5460). High-resolution and high signal-to-noise spectra of stars in the NGC188 cluster were obtained with the ESPaDOnS spectrograph at the CFHT in the visib",
+    "doi": "10.1093/mnras/stag1103",
+    "pdf_url": "https://arxiv.org/pdf/2606.11006v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.11006v1",
+    "fetched_at": "2026-06-10T02:51:29.265569+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10851v1",
+    "source": "arxiv",
+    "title": "Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format",
+    "authors": [
+      "Nikolai Khriapov",
+      "Mohamed Taha Drif",
+      "Renjue Li",
+      "Cas Widdershoven"
+    ],
+    "year": 2026,
+    "abstract": "The rapid advancement of autonomous driving systems (ADS) has introduced significant challenges, particularly in the creation of realistic and complex scenarios for testing and validation. This paper introduces Modular2Simple, a tool designed to address these challenges by simplifying and enhancing the process of creating complex ADS scenarios. Modular2Simple seamlessly integrates with the CARLA simulator and is applicable to any software that supports the OpenSCENARIO format. By leveraging existing simple scenarios in the OpenSCENARIO format, the tool enables developers to create easily customizable modular scenarios through the combination of multiple simple or modular scenarios, significantly simplifying the scenario creation process while maintaining flexibility in scenario design. Thi",
+    "doi": "10.1007/978-981-96-6827-4_49",
+    "pdf_url": "https://arxiv.org/pdf/2606.10851v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.10851v1",
+    "fetched_at": "2026-06-10T02:51:34.889723+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.11114v1",
+    "source": "arxiv",
+    "title": "Flower-like WO3-modified Vulcan carbon GDEs for photoelectro-Fenton process: Efficient ciprofloxacin degradation and mechanistic insights",
+    "authors": [
+      "João Paulo C. Moura",
+      "Vanessa S. Antonin",
+      "Caio Machado Fernandes",
+      "Aline B. Trench",
+      "Erica S. Conrado",
+      "Michell O. Almeida"
+    ],
+    "year": 2026,
+    "abstract": "Electrochemical H2O2 synthesis was investigated using a 3 percent WO3 C gas diffusion electrode GDE. The catalyst outperformed bare Vulcan carbon, generating H2O2 concentrations of 423, 586, and 916 mg L at 50, 75, and 100 mA cm2, respectively, maintaining around 70 percent current efficiency. This performance and lower energy consumption are attributed to the WO3 carbon synergistic effect. In electro Fenton EF applications, the WO3 C GDE achieved rapid initial ciprofloxacin CIP degradation of around 70 percent in 30 min, though limited later by slow Fe2 regeneration. Incorporating UV light photoelectro Fenton overcame this constraint, yielding complete CIP removal within 90 min, while a boron doped diamond BDD anode enhanced total organic carbon TOC mineralization to 66 percent. The propo",
+    "doi": "10.1016/j.jenvman.2026.129570",
+    "pdf_url": "https://arxiv.org/pdf/2606.11114v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.11114v1",
+    "fetched_at": "2026-06-10T02:51:57.389164+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10674v1",
+    "source": "arxiv",
+    "title": "A Comprehensive Study on the Line Profiles and Stark Widths of Ionic Transitions from Laser Produced Aluminum Plasma",
+    "authors": [
+      "B R Geethika",
+      "Judhishtir Shamal",
+      "Renjtih Kumar",
+      "Hem Chandra Joshi",
+      "Jinto Thomas"
+    ],
+    "year": 2026,
+    "abstract": "We present a systematic spectroscopic investigation of laser-produced aluminum plasma to address inconsistencies in Stark broadening parameters and establish a self-consistent reference datasets for electron density diagnostics. Optical line emissions of Al II and Al III in the visible wavelength range were recorded from plasmas having different electron densities and temperatures, however, with the same experimental configuration, only by varying the background pressure, spatial positions, and delay time. The Stark width parameter of Al III lines, which shows consistency across different earlier studies, is used for standardizing the Al II transition from the highest energy level, which is abundant in the emission spectra. This reference spectrum is then used to estimate the Stark paramet",
+    "doi": "10.1063/5.0324581",
+    "pdf_url": "https://arxiv.org/pdf/2606.10674v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.10674v1",
+    "fetched_at": "2026-06-10T02:51:57.389510+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10379v1",
+    "source": "arxiv",
+    "title": "Nonreciprocal photon bundle emission",
+    "authors": [
+      "Baijun Li",
+      "Jing-Xue Liu",
+      "Tian-Xiang Lu",
+      "Le-Man Kuang",
+      "Chaohong Lee",
+      "Hui Jing"
+    ],
+    "year": 2026,
+    "abstract": "Quantum squeezing, a cornerstone of quantum optics and photonics, has played a key role in achieving ultra-precision sensing and realizing nonreciprocal engineering. However, the nonreciprocal multiquanta emission has remained largely unexplored by using directional quantum squeezing. Here, the one-way photon-photon bundle emission in a compound system consisted of two coupled optical resonators and a two-level atom is investigated. It is found that the directional quantum squeezing induces the asymmetric frequency detuning and photon hopping interaction between the two resonators, leading to the directional excitation of the two-photon super-Rabi oscillation. In particular, by harnessing intrinsic dissipation of the system, two types of two-photon bundle emission can be selectively induce",
+    "doi": "10.1002/lpor.71360",
+    "pdf_url": "https://arxiv.org/pdf/2606.10379v1",
+    "journal": "Laser & Photonics Reviews, (2026) 0: e71360",
+    "url": "http://arxiv.org/abs/2606.10379v1",
+    "fetched_at": "2026-06-10T02:51:57.389643+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.10319v1",
+    "source": "arxiv",
+    "title": "Nonreciprocal Photon Blockade in an Asymmetric Cavity",
+    "authors": [
+      "Shao-Xiong Wu",
+      "Jin-Na Fan",
+      "Dan Yan",
+      "Cheng-Hua Bai",
+      "Qiannan Wu",
+      "Mengwei Li"
+    ],
+    "year": 2026,
+    "abstract": "We propose a scheme to realize tunable and strong nonreciprocal photon blockade (PB) in an asymmetric Fabry-Pérot cavity. The setup consists of a single-mode optical cavity trapping a two-level atom, with the cavity coherently driven by a laser and the atom pumped by an auxiliary control field of the same frequency. By engineering quantum interference between multiple excitation pathways by adjusting the amplitude and relative phase of the control laser, we identify two distinct optimal control conditions that enable directional suppression of two-photon states. Under optimal control conditions, strong nonreciprocal PB is achieved, with a nonreciprocal ratio exceeding 30 dB over a broad operational bandwidth. The proposed protocol requires only standard coherent laser sources and is compat",
+    "doi": "10.1002/qute.70324",
+    "pdf_url": "https://arxiv.org/pdf/2606.10319v1",
+    "journal": "Advanced Quantum Technologies, 2026; 9: e70324",
+    "url": "http://arxiv.org/abs/2606.10319v1",
+    "fetched_at": "2026-06-10T02:51:57.389677+00:00",
+    "material": "other"
   }
 ]
