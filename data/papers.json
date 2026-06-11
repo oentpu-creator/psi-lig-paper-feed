@@ -9405,5 +9405,182 @@
     "url": "http://arxiv.org/abs/2606.10319v1",
     "fetched_at": "2026-06-10T02:51:57.389677+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12353v1",
+    "source": "arxiv",
+    "title": "Gate-tunable spin-valley transport via carrier velocity in monolayer WSe$_2$",
+    "authors": [
+      "Otman Bouladiane",
+      "Hocine Bahlouli",
+      "Clarence Cortes",
+      "David Laroze",
+      "Ahmed Jellal"
+    ],
+    "year": 2026,
+    "abstract": "We theoretically investigate spin- and valley-resolved quantum transport in monolayer tungsten diselenide (WSe$_2$) described by an effective massive Dirac Hamiltonian. Particular attention is devoted to a finite barrier region characterized by simultaneously modulated Fermi velocity and scalar potential. The barrier velocity $v_2$ is related to the external velocity $v_1$ through a velocity ratio $ξ=v_2/v_1$, motivated by an optical analogy with the Snell-Descartes law. The exact refraction condition depends on the full spin- and valley-resolved dispersion, and the simple ratio $ξ=v_2/v_1$ is recovered only in the massless, symmetric limit. The interplay of intrinsic spin-orbit coupling in the conduction and valence bands, quantified by $λ_c$ and $λ_v$, with spin- and valley-dependent Zee",
+    "doi": "10.1016/j.aop.2026.170576",
+    "pdf_url": "https://arxiv.org/pdf/2606.12353v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.12353v1",
+    "fetched_at": "2026-06-11T03:21:55.694647+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12340v1",
+    "source": "arxiv",
+    "title": "Echoes of the Prior: A Computational Phenomenology of Forgetting",
+    "authors": [
+      "Gege Gao",
+      "Bernhard Schölkopf",
+      "Andreas Geiger"
+    ],
+    "year": 2026,
+    "abstract": "Memory is not merely the storage of data; it is the scaffolding of reality. When biological memory fades, the world does not simply turn black; it regresses into an unrecognizable chaos. Echoes of the Prior is an interactive installation that attempts to visualize this subjective phenomenology of forgetting. By inducing controlled synaptic decay within a Feed-Forward 3D Reconstruction model, we create an artistic analogy for the erosion of the brain's predictive priors. We position the Neural Network not as a tool for engineering, but as a cognitive proxy - a silicon brain whose structural degeneration evokes the disorienting, poetic, and terrifying experience of losing one's grip on the world. Ultimately, we offer this framework as a catalyst, inviting the wider community to explore the u",
+    "doi": "10.1145/3816072",
+    "pdf_url": "https://arxiv.org/pdf/2606.12340v1",
+    "journal": "Proc. ACM Comput. Graph. Interact. Tech, ACM SIGGRAPH, 2026",
+    "url": "http://arxiv.org/abs/2606.12340v1",
+    "fetched_at": "2026-06-11T03:21:55.694695+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12110v1",
+    "source": "arxiv",
+    "title": "Scalable Conformal MoSx Catalyst for Efficient Hydrogen Evolution at Industrial-Level Current Density in Alkaline Electrolyzers",
+    "authors": [
+      "Yong Zuo",
+      "Sebastiano Bellani",
+      "Meysoun Jabrane",
+      "Gabriele Saleh",
+      "Thi-Hong-Hanh Le",
+      "Michele Ferri"
+    ],
+    "year": 2026,
+    "abstract": "The development of simple and scalable fabrication strategies for cost-effective electrodes is crucial to advance water splitting in alkaline water electrolyzers (AWEs). Here, we present a coating-annealing method to conformally coat a MoSx catalyst layer onto a porous Ni foam (NF) substrate. By controlling the annealing process, the composition of the MoSx layer could be tuned from MoS2 to MoS3 and its catalytic performance for hydrogen evolution reaction (HER) in alkaline media was optimized. The MoS3@NF synthesized by this method achieved industrially relevant HER current densities of 200 mA/cm2 at a low overpotential of 246 mV, maintaining stable operation for over 240 h. The MoS3@NF cathode, combined with a stainless steel anode, enabled an alkaline water electrolyzer (AWE) cell to op",
+    "doi": "10.1016/j.checat.2026.101763",
+    "pdf_url": "https://arxiv.org/pdf/2606.12110v1",
+    "journal": "Chem Catalysis 6, 101763, 2026 (2026)",
+    "url": "http://arxiv.org/abs/2606.12110v1",
+    "fetched_at": "2026-06-11T03:21:55.694972+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12103v1",
+    "source": "arxiv",
+    "title": "The PM-EdgeMap: Towards Real-Time Process Mining on the Edge-Cloud Continuum",
+    "authors": [
+      "Hendrik Reiter",
+      "Christian Imenkamp",
+      "Olaf Landsiedel",
+      "Andrea Maldonado",
+      "Patrick Rathje",
+      "Wilhelm Hasselbring"
+    ],
+    "year": 2026,
+    "abstract": "Smart factories are evolving into Cyber-Physical Systems (CPS), demanding increased autonomy. This necessitates real-time decision making, facilitated by insights derived from sensor data. Process mining offers a valuable approach to gain such insights and guide actions. The edge computing paradigm supports this real-time requirement by enabling network communication between sensors and leveraging nearby computing resources. This paper investigates the implications of performing real-time process mining algorithms on the edge. Within this paper, we first propose a formalism to describe relevant datasets and the computing topology. We then evaluate the edge computing approach through a case study involving an edge-based conformance checking algorithm. The results demonstrate the feasibility",
+    "doi": "10.1007/978-3-032-13426-4_16",
+    "pdf_url": "https://arxiv.org/pdf/2606.12103v1",
+    "journal": "Business Process Management Workshops. BPM 2025. Lecture Notes in Business Information Processing, vol 569. Springer",
+    "url": "http://arxiv.org/abs/2606.12103v1",
+    "fetched_at": "2026-06-11T03:21:55.695039+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12043v1",
+    "source": "arxiv",
+    "title": "Pearl supratransmission in a boundary-driven two-dimensional nonlinear Schrödinger equation with a hole",
+    "authors": [
+      "Rudy Kusdiantara",
+      "Hadi Susanto"
+    ],
+    "year": 2026,
+    "abstract": "We investigate energy supratransmission in a boundary-driven two-dimensional nonlinear Schrödinger equation with a central hole. Harmonic forcing with azimuthal modulation generates standing-wave states whose existence and stability depend on the driving amplitude, the inner radius, and the imposed azimuthal charge. Bifurcation analysis shows that small inner radii produce strongly confined states with higher destabilization thresholds, whereas larger radii yield broader profiles and smoother transitions between stable and unstable branches. The cubic--quintic and saturable models exhibit similar qualitative behaviour but differ quantitatively in their critical amplitudes and parameter dependence. A variational approximation captures the dependence of the critical drive on the azimuthal ch",
+    "doi": "10.1103/d4l3-yx9z",
+    "pdf_url": "https://arxiv.org/pdf/2606.12043v1",
+    "journal": "Phys. Rev. E 113, 064204 (2026)",
+    "url": "http://arxiv.org/abs/2606.12043v1",
+    "fetched_at": "2026-06-11T03:21:55.695095+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12123v1",
+    "source": "arxiv",
+    "title": "An Indoor Localization Technique Utilizing Passive Tags and 3-D Microwave Passive Radar Imaging",
+    "authors": [
+      "Quanfeng Wang",
+      "Alexander H. Paulus",
+      "Mei Song Tong",
+      "Thomas F. Eibert"
+    ],
+    "year": 2026,
+    "abstract": "A privacy-compliant indoor localization approach utilizing a 3-D near-field (NF) passive radar imaging technique is presented. This technique leverages ubiquitously radiated electromagnetic fields for imaging, with passive tags introduced to enhance the strength of scattering fields, thereby enabling precise localization at the imaging level. The method also supports localization in non-ideal imaging scenarios, such as for limited bandwidth or in highly-reflective environments. Based on their geometrical properties the simple and low-cost passive tags enable intuitive differentiation between individuals or objects. Associated privacy protection mechanisms are discussed, where the frequency-varying properties of the passive tags provide additional flexibility and potential applications unde",
+    "doi": "10.2528/PIER24120903",
+    "pdf_url": "https://arxiv.org/pdf/2606.12123v1",
+    "journal": "Progress In Electromagnetics Research, Vol. 181, 89-98, 2024",
+    "url": "http://arxiv.org/abs/2606.12123v1",
+    "fetched_at": "2026-06-11T03:22:18.765373+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12048v1",
+    "source": "arxiv",
+    "title": "Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom",
+    "authors": [
+      "Balázs Gyenes",
+      "Nikolai Franke",
+      "Paul Maria Scheikl",
+      "Pit Henrich",
+      "Rayan Younis",
+      "Gerhard Neumann"
+    ],
+    "year": 2026,
+    "abstract": "High-risk applications in robotics, such as robot-assisted surgery, present unique challenges. These systems must be both highly precise and interpretable in order to be deployed in environments with very low tolerance for error or unsafe exploration. We present the first robotic system to demonstrate autonomous clip positioning on a physical phantom in laparoscopic surgery, one of the most common interventions in general surgery. After segmentation of a colorless point cloud from a single camera, target positions for the clips are extracted using spline interpolation, and can then be adjusted by the human operator. The segmentation model is trained on only 60 hand-labeled real point clouds, reflecting data scarcity in the surgical domain. We overcome this with a combination of pre-trainin",
+    "doi": "10.1109/LRA.2025.3585357",
+    "pdf_url": "https://arxiv.org/pdf/2606.12048v1",
+    "journal": "IEEE Robotics and Automation Letters (Volume: 10, Issue: 8, August 2025)",
+    "url": "http://arxiv.org/abs/2606.12048v1",
+    "fetched_at": "2026-06-11T03:22:18.765508+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12139v1",
+    "source": "arxiv",
+    "title": "Reconfigurable Antennas for Next-generation Mobile Communication Networks: A Comprehensive Survey and Tutorial",
+    "authors": [
+      "Yizhe Zhao",
+      "Long Zhang",
+      "Halvin Yang",
+      "Kun Yang",
+      "Rui Zhang",
+      "Lingyang Song"
+    ],
+    "year": 2026,
+    "abstract": "The transition to next-generation mobile communication networks, particularly 6G, demands advanced technologies to meet the requirements for ultra-reliable, low-latency communication, massive connectivity, and intelligent applications. Reconfigurable antennas (RAs) play a crucial role in achieving these objectives by enabling dynamic adjustments to the radio frequency (RF) characteristics of antennas, such as gain, radiation pattern, impedance, and polarization. Unlike traditional fixed-position antennas, RAs can alter both their radiation patterns and positions, offering flexibility in response to varying communication environments. This paper presents a comprehensive survey and tutorial on RAs, with a focus on fluid antennas (FAs), movable antennas (MAs), pinching antennas (PAs), and rec",
+    "doi": "10.1109/COMST.2026.3673688",
+    "pdf_url": "https://arxiv.org/pdf/2606.12139v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.12139v1",
+    "fetched_at": "2026-06-11T03:22:37.287720+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12065v1",
+    "source": "arxiv",
+    "title": "Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework",
+    "authors": [
+      "Zixuan Xiao",
+      "Pei Troh Koh",
+      "Jun Ma",
+      "Jack C. P. Cheng"
+    ],
+    "year": 2026,
+    "abstract": "Automating compliance check for geometry-intensive regulations remains a significant technical bottleneck in Building Information Modeling (BIM), primarily due to the semantic disparity between high-level regulatory logic and structured IFC data. Existing methods, often reliant on static rule templates, struggle to traverse multi-hop reasoning chains or resolve latent spatial dependencies across multiple building entities. To address these challenges, a Spatial-Geometric Reasoning System for Building Information Modeling (SGR-BIM) is proposed as an integrative graph-driven reasoning framework. SGR-BIM dynamically constructs a cross-modal knowledge graph that aligns user intent, regulatory semantics, and BIM geometry, enabling interpretable reasoning without rigid hard-coding. Validated on ",
+    "doi": "10.1016/j.autcon.2026.107038",
+    "pdf_url": "https://arxiv.org/pdf/2606.12065v1",
+    "journal": "Automation in Construction 189 (2026) 107038",
+    "url": "http://arxiv.org/abs/2606.12065v1",
+    "fetched_at": "2026-06-11T03:22:37.287845+00:00",
+    "material": "other"
   }
 ]
