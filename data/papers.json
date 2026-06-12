@@ -9582,5 +9582,121 @@
     "url": "http://arxiv.org/abs/2606.12065v1",
     "fetched_at": "2026-06-11T03:22:37.287845+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.13622v1",
+    "source": "arxiv",
+    "title": "Electric-Field Mapping of Optically Perturbed CdTe Radiation Detectors",
+    "authors": [
+      "Adriano Cola",
+      "Lorenzo Dominici",
+      "Antonio Valletta"
+    ],
+    "year": 2026,
+    "abstract": "In radiation detectors, the spatial distribution of the electric field plays a fundamental role in their operation. Access to this field distribution is of strategic importance, especially when investigating the perturbing effects induced by incident radiation. For example, one dangerous effect that prevents their proper operation is the accumulation of internal space charge. Here, we probe the two-dimensional electric field in a Schottky CdTe detector using the Pockels effect and report on its local perturbation after exposure to an optical beam at the anode electrode. Our electro-optical imaging setup, together with a custom processing routine, allows the extraction of the electric-field vector maps and their dynamics during a voltage bias-optical exposure sequence. The results are in ag",
+    "doi": "10.3390/s23104795",
+    "pdf_url": "https://arxiv.org/pdf/2606.13622v1",
+    "journal": "Sensors 2023, 23, 4795",
+    "url": "http://arxiv.org/abs/2606.13622v1",
+    "fetched_at": "2026-06-12T02:57:05.177200+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.13511v1",
+    "source": "arxiv",
+    "title": "Spectrum Sharing Across Terrestrial and Non-Terrestrial Services in the FR3 Upper Midband",
+    "authors": [
+      "Paolo Testolina",
+      "Ergest Beshaj",
+      "Michele Polese",
+      "Tommaso Melodia"
+    ],
+    "year": 2026,
+    "abstract": "The frequency bands between 7 and 24 GHz, also known as upper midband or Frequency Range (FR) 3, are being considered as an enabler of 6th Generation (6G) mobile networks. This portion of the spectrum exhibits different propagation characteristics compared to frequencies above 24 GHz, while also offering the potential to provide larger bandwidth allocations for mobile systems than those available in the sub-6 GHz range. 6G technology and spectrum policy, however, will need to guarantee coexistence with the incumbents that already use these frequency bands, which include a variety of services, from radiolocation to satellite-based communications, remote sensing, and radioastronomy. In this paper, we consider the challenge of coexistence between 6G terrestrial systems and satellite incumbent",
+    "doi": "10.1109/DySPAN64764.2025.11115947",
+    "pdf_url": "https://arxiv.org/pdf/2606.13511v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.13511v1",
+    "fetched_at": "2026-06-12T02:57:29.142260+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.13427v1",
+    "source": "arxiv",
+    "title": "VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits",
+    "authors": [
+      "Hoang-Nguyen Cao",
+      "Le-Hoang Bui",
+      "Dinh-Khoi Vo",
+      "Minh-Triet Tran",
+      "Trung-Nghia Le"
+    ],
+    "year": 2026,
+    "abstract": "Cultural garments pose a unique challenge for visual retrieval systems, as their identity often depends on subtle structural and symbolic details that are poorly captured by standard AI models. We introduce VietFashion, a new benchmark for sketch-text composed image retrieval centered on the Ao Dai, a traditional Vietnamese garment. VietFashion enables designers and researchers to retrieve culturally meaningful outfits using a combination of hand-drawn sketches, which convey garment structure, and textual descriptions, which encode cultural semantics. The dataset is initialized with 650 sketches and expanded using generative models to produce over 21,000 photorealistic images with aligned captions. Textual prompts that describe detailed outfit attributes, which are extracted from fashion m",
+    "doi": "10.1145/3805622.3810590",
+    "pdf_url": "https://arxiv.org/pdf/2606.13427v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.13427v1",
+    "fetched_at": "2026-06-12T02:57:29.142483+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.13395v1",
+    "source": "arxiv",
+    "title": "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb",
+    "authors": [
+      "Yan Zhang",
+      "Yixuan Luo",
+      "Yue Yang",
+      "Zilong Li",
+      "Weilong Qiu",
+      "Lunhui Hu"
+    ],
+    "year": 2026,
+    "abstract": "Altermagnetic materials have recently emerged as promising candidates for next-generation spintronic applications, characterized by the k-dependent spin-splitted band structure and a simultaneous zero-net-magnetization. Among them, altermagnetic candidate CrSb has attracted considerable attention, owing to its g-wave spin splitting and high Néel temperature. In this article, we employed mechanical point-contact spectroscopy (MPCS) with superconducting Nb tips to probe the Andreev reflection on CrSb single crystals along three principal crystallographic orientations. The extracted momentum-dependent spin polarizations are approximately 73.4% for the (0001) plane, 67.9% for the (-1-120) plane, and 61.9% for the (10-10) plane, respectively, distinct from conventional antiferromagnets. Further",
+    "doi": "10.1103/42m7-p7l3",
+    "pdf_url": "https://arxiv.org/pdf/2606.13395v1",
+    "journal": "PRL(2026)",
+    "url": "http://arxiv.org/abs/2606.13395v1",
+    "fetched_at": "2026-06-12T02:57:29.142563+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.13580v1",
+    "source": "arxiv",
+    "title": "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution",
+    "authors": [
+      "Dachun Kai",
+      "Jiayao Lu",
+      "Yueyi Zhang",
+      "Xiaoyan Sun"
+    ],
+    "year": 2026,
+    "abstract": "Event-based vision has drawn increasing attention owing to its distinctive properties, including ultra-high temporal resolution and extreme dynamic range. Recent works have introduced it to video super-resolution (VSR) to enhance flow estimation and temporal alignment. In contrast, this paper shifts the focus of event signals from motion refinement to texture enhancement in VSR. We propose EvTexture++, the first event-driven framework dedicated to texture enhancement in VSR. It leverages high-frequency spatiotemporal details from events to improve texture recovery. EvTexture++ incorporates a customized texture enhancement branch, along with an iterative texture enhancement module that progressively exploits high-temporal-resolution event information for texture restoration. This enables gr",
+    "doi": "10.1109/TPAMI.2026.3660020",
+    "pdf_url": "https://arxiv.org/pdf/2606.13580v1",
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 6, pp. 6642-6659, June 2026",
+    "url": "http://arxiv.org/abs/2606.13580v1",
+    "fetched_at": "2026-06-12T02:57:46.308746+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.12952v1",
+    "source": "arxiv",
+    "title": "Gravitational wave background from extreme-mass-ratio inspirals",
+    "authors": [
+      "Haoyu Zhao",
+      "Yuanhao Zhang",
+      "Xilong Fan",
+      "Wenbiao Han"
+    ],
+    "year": 2026,
+    "abstract": "The gravitational wave background (GWB) produced by extreme-mass-ratio inspirals (EMRIs) serves as a powerful tool for probing the astrophysical and dynamical processes in galactic centers. EMRI systems are a primary target for the space-based detector LISA due to their long-lived signals and high signal-to-noise ratios. This study explores the statistical properties of the GWB from EMRI, focusing on the calculation methods for the GWB, the astrophysical distribution of EMRI sources, and the influence of key parameters, including the spin of supermassive black holes (SMBHs) and the masses of compact objects (COs). By analyzing these factors, we determine the distribution range of the characteristic strain of the GWB from EMRIs. We find that the final eccentricity distributions appear to ha",
+    "doi": "10.1088/0256-307X/42/5/059201",
+    "pdf_url": "https://arxiv.org/pdf/2606.12952v1",
+    "journal": "Chinese Physics Letters 42, 059201 (2025)",
+    "url": "http://arxiv.org/abs/2606.12952v1",
+    "fetched_at": "2026-06-12T02:58:03.234762+00:00",
+    "material": "other"
   }
 ]
