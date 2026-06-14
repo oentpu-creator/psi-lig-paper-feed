@@ -9698,5 +9698,26 @@
     "url": "http://arxiv.org/abs/2606.12952v1",
     "fetched_at": "2026-06-12T02:58:03.234762+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_c959e3baa5647c02",
+    "source": "semantic_scholar",
+    "title": "Flexible Metamaterial Absorbers Based on Fe3O4-Doped Laser-Induced Graphene with Tunable Absorption Bands.",
+    "authors": [
+      "Chunhui Chen",
+      "Siyi Bi",
+      "Yu Bai",
+      "Minghao Li",
+      "Ziyang Jiang",
+      "Wenqing Hai"
+    ],
+    "year": 2025,
+    "abstract": "Due to widespread applications of electromagnetic waves (EMWs) in radar and communication systems, there is an urgent need for developing EMW absorbers capable of working efficiently at multiple frequency points. In this work, flexible metamaterial absorbers (MAs) based on Fe3O4-doped laser-induced graphene (LIG/Fe3O4) are large-scale fabricated with the absorption bands tunable by regulating ferric chloride concentration and laser path of the LIG/Fe3O4 meta-surface. The as-prepared triple band LIG/Fe3O4 MA demonstrates superior S11 values of -15.0 dB (9.0 GHz), -40.7 dB (12.2 GHz), and -23.2 dB (16.8 GHz), respectively, attributed to subwavelength units of LIG/Fe3O4, synergistically combining dielectric and magnetic loss. Moreover, LIG/Fe3O4 MAs exhibit commendable corrosion resistance an",
+    "doi": "10.1021/acsami.5c00280",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/c959e3baa5647c02d117162029b25d52ae8c6846",
+    "fetched_at": "2026-06-14T03:26:10.863065+00:00",
+    "material": "LIG"
   }
 ]
