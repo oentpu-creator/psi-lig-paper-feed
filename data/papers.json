@@ -9719,5 +9719,142 @@
     "url": "https://www.semanticscholar.org/paper/c959e3baa5647c02d117162029b25d52ae8c6846",
     "fetched_at": "2026-06-14T03:26:10.863065+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2606.14638v1",
+    "source": "arxiv",
+    "title": "Improving Lunar Topography with Deep Learning Schrödinger Bridges",
+    "authors": [
+      "Matthew Repasky",
+      "Erwan Mazarico",
+      "Michael K. Barker",
+      "Stefano Bertone",
+      "Terence J. Sabaka",
+      "Yao Xie"
+    ],
+    "year": 2026,
+    "abstract": "Increasing the resolution of planetary topography models can enable a better understanding of surface processes and geomorphology; however, existing analytical super-resolution methods are expensive and difficult to apply at large scales. Generative models provide the tools to learn complex relationships within data and can be applied at scale due to hardware accelerators and parallelization. We present a diffusion-based Schrödinger Bridge (SB) generative modeling approach for lunar topography super-resolution, connecting the distribution of low-resolution topography to that of high-resolution topography, incorporating physically-constraining optical imagery. Our approach is inspired by existing Shape-from-Shading methods, which improve a priori low-resolution topography by using optical i",
+    "doi": "10.3847/PSJ/ae6244",
+    "pdf_url": "https://arxiv.org/pdf/2606.14638v1",
+    "journal": "The Planetary Science Journal 7.6 (2026): 139",
+    "url": "http://arxiv.org/abs/2606.14638v1",
+    "fetched_at": "2026-06-15T03:35:57.056237+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14569v1",
+    "source": "arxiv",
+    "title": "Research on the Flat Field Measurement Method of Coronagraph",
+    "authors": [
+      "Yulong Feng",
+      "Xuefei Zhang",
+      "Hongfei Liang",
+      "Yu Liu",
+      "Mingzhe Sun",
+      "Tengfei Song"
+    ],
+    "year": 2026,
+    "abstract": "The solar corona has an extremely low density, and its brightness is only about one millionth of that of the photosphere. High-dynamic-range imaging of its faint structure is therefore essential for studying coronal heating, coronal mass ejections, and space weather. Quantitative coronagraph imaging requires flat-field measurement and calibration, which underpin intensity calibration, small-scale feature detection, and long-term cyclic analysis. This paper analyzes the coronagraph imaging chain and the origins of flat-field errors, including optical aberrations, stray light, and pixel-response non-uniformity, and summarizes the resulting calibration requirements of next-generation coronagraphs. On this basis, ground-based and space-based flat-fielding methods are systematically reviewed: t",
+    "doi": "10.3390/universe12060165",
+    "pdf_url": "https://arxiv.org/pdf/2606.14569v1",
+    "journal": "universe,12,165(2026)",
+    "url": "http://arxiv.org/abs/2606.14569v1",
+    "fetched_at": "2026-06-15T03:35:57.056413+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14424v1",
+    "source": "arxiv",
+    "title": "Strain- and doping-tunable optical resonance in Kekulé-Y graphene",
+    "authors": [
+      "Yawar Mohammadi"
+    ],
+    "year": 2026,
+    "abstract": "We investigate the optical response of Kekulé-Y graphene under uniaxial strain and carrier doping. Using a low-energy effective Hamiltonian, we show that strain reshapes the low-energy electronic structure of the Kekulé-Y phase and induces Van Hove singularities at energies well below those of pristine graphene. Within the Kubo formalism, we calculate the optical conductivity and identify multiple anisotropic interband features, with a pronounced resonance arising from strain-induced Van Hove singularities. The pronounced resonance is strongly anisotropic and robust against moderate thermal broadening and disorder, providing a clear optical signature of Kekulé-Y ordering. We further derive analytical expressions for the low-energy optical conductivity and the Drude weight, providing a deta",
+    "doi": "10.1103/p5dz-j14w",
+    "pdf_url": "https://arxiv.org/pdf/2606.14424v1",
+    "journal": "Phys. Rev. B 113 (2026) 165406",
+    "url": "http://arxiv.org/abs/2606.14424v1",
+    "fetched_at": "2026-06-15T03:35:57.056645+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14486v1",
+    "source": "arxiv",
+    "title": "Implications of the Reciprocity Theorem for Reconfigurable Intelligent Surfaces",
+    "authors": [
+      "Uday K Khankhoje",
+      "Debidas Kundu"
+    ],
+    "year": 2026,
+    "abstract": "Reciprocity between a transmitter and receiver is a foundational requirement in wireless communications. A few recent works have suggested that reciprocity is broken under reflection by reconfigurable intelligent surfaces (RIS) when the reflection phase becomes incident angle dependent. In this work, we rigorously show that these claims are based on the use of idealized reflection coefficients that ignore mutual coupling between heterogeneous unit cells, surface-truncation effects, and structural scattering contributions from the RIS. Full-wave electromagnetic simulations of transmit/receive antennas and a finite-size RIS implemented via a particular unit cell design are performed to quantitatively demonstrate that reciprocity holds even in the presence of incident-angle dependent reflecti",
+    "doi": "10.1109/LCOMM.2026.3698050",
+    "pdf_url": "https://arxiv.org/pdf/2606.14486v1",
+    "journal": "IEEE Communications Letters 2026",
+    "url": "http://arxiv.org/abs/2606.14486v1",
+    "fetched_at": "2026-06-15T03:36:29.576002+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14196v1",
+    "source": "arxiv",
+    "title": "Ferromagnetic Order of Reduced Magnetic Moments in a Frustrated Sawtooth Chain of the Magnetic Semiconductor ZnYb$_2$S$_4$",
+    "authors": [
+      "Shinji Okada",
+      "Hiroto Suzuki",
+      "Nonoka Higa",
+      "Yasuyuki Shimura",
+      "Takanori Taniguchi",
+      "Takahiro Onimaru"
+    ],
+    "year": 2026,
+    "abstract": "In a sawtooth spin chain, competing nearest- and next-nearest-neighbor interactions suppress long-range order, yielding novel quantum states such as a spin-dimer singlet, 1/2 magnetization plateau, and spin contraction. Here, we investigate the magnetic properties of the orthorhombic semiconductor ZnYb$_2$S$_4$, in which Yb$^{3+}$ ions with an effective spin-1/2 form a sawtooth chain along the $b$-axis. The specific heat exhibits a sharp peak at ${T}_{\\rm m}$ $=$ 1.4 K, at which the magnetic entropy $S_{\\rm m}$ reaches only 27% of $R$ln2. This reduced $S_{\\rm m}$ at $T_{\\rm m}$ indicates the entropy release of the ground state doublet of Yb$^{3+}$ even for $T$ $>$ $T_{\\rm m}$. The isothermal magnetization $M(B)$ at 0.28 K exhibits hysteresis for $\\left|B\\right| \\leq 0.2$ T and increases mo",
+    "doi": "10.7566/JPSJ.95.074706",
+    "pdf_url": "https://arxiv.org/pdf/2606.14196v1",
+    "journal": "J. Phys. Soc. Jpn. 95, 074706 (2026)",
+    "url": "http://arxiv.org/abs/2606.14196v1",
+    "fetched_at": "2026-06-15T03:36:29.576231+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14658v1",
+    "source": "arxiv",
+    "title": "Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications",
+    "authors": [
+      "Nicole Villavicencio-Garduño",
+      "Maksim Ekin Eren",
+      "Milo Prisbrey",
+      "Ben Migliori",
+      "Michael Teti"
+    ],
+    "year": 2026,
+    "abstract": "Artificial Intelligence (AI) is increasingly used to automate a variety of real-world computer vision (CV) applications, such as autonomous vehicle control, facial recognition, and security cameras. Recent research has shown that acoustic vibration can induce real physical motion in cameras, interfering with their internal stabilization mechanisms. Because the motion falls outside the conditions the stabilization system was designed to handle, the system introduces artifacts into the frame, causing AI-based CV models to misclassify, miss targets, or hallucinate objects.   Previous work used ultrasonic frequencies (>20 kHz) to perform short-range attacks, which limits them to short distances due to the attenuation exhibited by high frequencies. In this work, we investigate acoustic attacks ",
+    "doi": "10.1117/12.3093699",
+    "pdf_url": "https://arxiv.org/pdf/2606.14658v1",
+    "journal": "Proc. SPIE 14046, Assurance and Security for AI-enabled Systems 2026, 1404609 (10 Jun 2026)",
+    "url": "http://arxiv.org/abs/2606.14658v1",
+    "fetched_at": "2026-06-15T03:37:05.016750+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.14566v1",
+    "source": "arxiv",
+    "title": "Extended Abstract: Re-Evaluating the Real-System Modeling Accuracy of Ramulator 2.0",
+    "authors": [
+      "F. Nisa Bostanci",
+      "Haocong Luo",
+      "Ataberk Olgun",
+      "Maria Makeenkova",
+      "Geraldo F. Oliveira",
+      "A. Giray Yaglikci"
+    ],
+    "year": 2026,
+    "abstract": "Cycle-level DRAM simulators provide accurate and flexible models for DRAM and memory controller operations and enable research on current and future memory systems. Therefore, they are critical for improving the performance, efficiency, and robustness of DRAM-based memory systems. Ramulator 2.0 (successor of Ramulator) is a highly modular and extensible cycle-accurate DRAM simulator that enables rapid exploration of new ideas in DRAM-based memory systems.   A MICRO 2024 best paper runner-up publication, A Mess of Memory System Benchmarking, Simulation and Application Profiling, which we refer to as \"the Mess paper,\" with all three artifact badges awarded (including \"Reproducible\"), proposes a new benchmark to evaluate real and simulated memory system performance. While doing so, it makes s",
+    "doi": "10.1145/3774895.3820146",
+    "pdf_url": "https://arxiv.org/pdf/2606.14566v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.14566v1",
+    "fetched_at": "2026-06-15T03:37:20.346379+00:00",
+    "material": "other"
   }
 ]
