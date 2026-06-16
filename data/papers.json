@@ -9856,5 +9856,23 @@
     "url": "http://arxiv.org/abs/2606.14566v1",
     "fetched_at": "2026-06-15T03:37:20.346379+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_2c0117581a8f441b",
+    "source": "semantic_scholar",
+    "title": "Silver oxide nanostructure prepared on porous silicon for optoelectronic application",
+    "authors": [
+      "M. Hassan",
+      "I. Agool",
+      "L. M. Raoof"
+    ],
+    "year": 2014,
+    "abstract": "The thermal evaporation system type (Edwards) has been used to evaporate high purity (99.9 %) silver on glass, n- and p-type silicon and porous silicon substrates at room temperature under low pressure (about 10−6 torr) for different thickness (50, 75, 100, 125 and 150 nm). Using a rapid thermal oxidation of Ag film at oxidation temperature 350 °C and different oxidation times, Ag2O thin film was prepared. The structural properties of Ag2O film were investigated and compared with other published results. The structural investigation showed that the films formed at thickness 100 nm showed (111) strong reflection along with weak reflections of (101) corresponding to the growth of single phase Ag2O with cubic structure. Dark and illuminatedI–V of p-Ag2O/p-Si, p-Ag2O/n-Si, Al/p-PSi/Al, Al/n-PS",
+    "doi": "10.1007/s13204-013-0215-z",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs13204-013-0215-z.pdf",
+    "journal": "Applied Nanoscience",
+    "url": "https://www.semanticscholar.org/paper/2c0117581a8f441b6c133b4652f21a5f89fcbef4",
+    "fetched_at": "2026-06-16T03:33:21.923606+00:00",
+    "material": "PSi"
   }
 ]
