@@ -9874,5 +9874,163 @@
     "url": "https://www.semanticscholar.org/paper/2c0117581a8f441b6c133b4652f21a5f89fcbef4",
     "fetched_at": "2026-06-16T03:33:21.923606+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2606.15463v1",
+    "source": "arxiv",
+    "title": "DarkFlow: Hierarchical Digital SiPM Architecture with Low-Loss Dataflow Readout for Dark Matter Detection",
+    "authors": [
+      "Zirui Wang",
+      "Aras Repond",
+      "Shawn Westerdale",
+      "Wantong Li"
+    ],
+    "year": 2026,
+    "abstract": "Direct dark matter detection experiments require large-scale photon sensing arrays with hundreds of thousands of synchronized readout channels. Silicon photomultipliers (SiPMs) have emerged as a leading candidate for these detectors due to their high integration density, low bias voltage, and superior radiopurity. However, existing digital SiPM readout architectures struggle to simultaneously preserve nanosecond-level temporal resolution for sparse scintillation events and sustain data integrity during high-intensity photon bursts. We propose DarkFlow, a hierarchical digital SiPM architecture that features local data aggregation, compact relative-time encoding, consumer-driven backpressure, and occupancy-aware eDRAM burst buffering within a unified dataflow framework. We show that DarkFlow",
+    "doi": "10.1145/3787109.3815257",
+    "pdf_url": "https://arxiv.org/pdf/2606.15463v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.15463v1",
+    "fetched_at": "2026-06-17T03:29:36.860936+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18082v1",
+    "source": "arxiv",
+    "title": "Variability in Cosmological Hydrodynamical Simulations: how Stochastic Processes, Numerical Effects, and Reproducibility Limits impact Predictability",
+    "authors": [
+      "Chaitra",
+      "Antonio Ragagnin",
+      "Milena Valentini",
+      "Giuseppe Murante",
+      "Stefano Borgani",
+      "Giuliano Taffoni"
+    ],
+    "year": 2026,
+    "abstract": "Cosmological hydrodynamical simulations are powerful tools for studying galaxy formation, yet their predictive precision is limited by stochastic variability and numerical uncertainty. We quantify this variability using four identical realizations of a zoom-in galaxy-cluster simulation evolved with \\textsc{OpenGadget3} under tightly controlled compiler, library, and hardware settings. Variability is measured through the properties of matched galaxies across repeated runs, including a mixed linear model that separates run-to-run variation from within-run noise.   Variations of approximately $10$-$25\\%$ are found in galaxy dark matter and stellar masses for the baseline simulations. The variability trending above the shot-noise floor reflects the combined effects of stochastic star formation",
+    "doi": "10.1016/j.ascom.2026.101127",
+    "pdf_url": "https://arxiv.org/pdf/2606.18082v1",
+    "journal": "Astronomy and Computing 56 (2026) 101127",
+    "url": "http://arxiv.org/abs/2606.18082v1",
+    "fetched_at": "2026-06-17T03:29:56.753492+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.17917v1",
+    "source": "arxiv",
+    "title": "Demand-agnostic assessment of on-demand pooled transit services",
+    "authors": [
+      "Olha Shulika",
+      "Hanna Vasiutina",
+      "Michał Bujak",
+      "Farnoud Ghasemi",
+      "Rafał Kucharski"
+    ],
+    "year": 2026,
+    "abstract": "This study proposes a method to assess the potential of pooled on-demand transit feeder services in urban areas where demand is not yet known. We introduce the fraction of demand, reflecting the probability that a resident will use the service. Demand is generated on the distribution of residents address points at varying demand fraction levels. Through simulations, we match travellers into pooled rides and evaluate the service potential using three performance indicators (KPIs). We observe how these KPIs change with varying demand fractions and identify the most promising hub for each area. By setting KPI thresholds, we select the optimal combination of area and hub that meets these thresholds at the lowest demand fraction. This approach provides municipalities with a structured tool for ",
+    "doi": "10.1186/s12544-026-00801-9",
+    "pdf_url": "https://arxiv.org/pdf/2606.17917v1",
+    "journal": "Eur. Transp. Res. Rev. 18, 40 (2026)",
+    "url": "http://arxiv.org/abs/2606.17917v1",
+    "fetched_at": "2026-06-17T03:29:56.753685+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.17786v1",
+    "source": "arxiv",
+    "title": "Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars",
+    "authors": [
+      "Pascal Riachi",
+      "Sofie Kamber",
+      "Stella Brogna",
+      "Andrew Gloster",
+      "Rafael Wampfler"
+    ],
+    "year": 2026,
+    "abstract": "Training psychotherapists in evidence-based interventions such as Acceptance and Commitment Therapy (ACT) requires repeated practice with meaningful feedback, yet opportunities for safe, standardized training are limited by ethical, logistical, and resource constraints. We introduce a system designed to support ACT-oriented psychotherapy training through spoken dialogue with an embodied virtual patient. The system uses large language models to simulate patient behavior conditioned on profiles derived from real therapy sessions and configurable clinical scenarios, while a separate automated evaluator provides turn-by-turn feedback on therapist responses based on established ACT fidelity criteria. Rather than aiming to replace supervision, the system is intended to support deliberate practic",
+    "doi": "10.1109/ICHI69079.2026.00124",
+    "pdf_url": "https://arxiv.org/pdf/2606.17786v1",
+    "journal": "2026 IEEE 14th International Conference on Healthcare Informatics (ICHI), Minneapolis, MN, June 1-3, 2026, pp. 990-995",
+    "url": "http://arxiv.org/abs/2606.17786v1",
+    "fetched_at": "2026-06-17T03:29:56.753784+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.17336v1",
+    "source": "arxiv",
+    "title": "Characterization of ultrathin nickel films deposited by thermal laser evaporation",
+    "authors": [
+      "David S. Catherall",
+      "Yifei Yan",
+      "Finley B. Donachie",
+      "Azmain A. Hossain",
+      "Austin J. Minnich"
+    ],
+    "year": 2026,
+    "abstract": "Thermal laser evaporation is a physical vapor deposition technique of increasing interest because of its ability to evaporate essentially any solid element, even the most refractory such as W. However, many films deposited by this method, especially non-epitaxial films, remain to be characterized; further, key system components such as the laser delivery system have not been described in detail. Here, we present the evaporation and characterization of ultrathin Ni films deposited with a home-built thermal laser evaporation system. The system employs a continuous-wave 1 kW fiber laser (1070 nm) focused to sub-millimeter diameter onto a Ni target rod mounted inside an ultrahigh-vacuum chamber. The laser heats the target to a temperature high enough to produce vapor for film deposition; for N",
+    "doi": "10.1063/5.0309594",
+    "pdf_url": "https://arxiv.org/pdf/2606.17336v1",
+    "journal": "Appl. Phys. Lett. 23 February 2026; 128 (8): 081902",
+    "url": "http://arxiv.org/abs/2606.17336v1",
+    "fetched_at": "2026-06-17T03:30:02.384020+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18016v1",
+    "source": "arxiv",
+    "title": "User-Mobility-Aware Optimization of Fiber Placement in Hybrid Fiber-IAB Networks",
+    "authors": [
+      "Piotr Lechowicz",
+      "Charitha Madapatha",
+      "Carlos Natalino",
+      "Tommy Svensson",
+      "Paolo Monti"
+    ],
+    "year": 2026,
+    "abstract": "Metaheuristic optimization of hybrid fiber-IAB networks demonstrates that integrating user dynamics into topology design enables more adaptive and cost-efficient backhaul architectures, contributing to the development of scalable and flexible 6G network infrastructures.",
+    "doi": "10.1364/OFC.2026.W1H.7",
+    "pdf_url": "https://arxiv.org/pdf/2606.18016v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.18016v1",
+    "fetched_at": "2026-06-17T03:30:13.871307+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.17789v1",
+    "source": "arxiv",
+    "title": "Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy",
+    "authors": [
+      "Sofie Kamber",
+      "Lukas Diebold",
+      "Pascal Riachi",
+      "Stella Brogna",
+      "Andrew Gloster",
+      "Rafael Wampfler"
+    ],
+    "year": 2026,
+    "abstract": "Access to evidence-based psychotherapy remains limited worldwide, with long waitlists even in high-income regions. Recent advances in large language models (LLMs) offer potential for scalable mental health support when designed with clinical oversight and safety mechanisms. We present Mind Companion, an LLM-based embodied conversational agent integrating multi-layered psychological analysis with process-based therapy principles. The system performs real-time analysis of client statements across fact extraction, psychological flexibility process detection, emotion recognition, and safety monitoring. Analysis results are stored for supervising clinicians to inform therapeutic planning. Response generation incorporates retrieval-augmented generation from evidence-based therapeutic literature ",
+    "doi": "10.1109/ICHI69079.2026.00123",
+    "pdf_url": "https://arxiv.org/pdf/2606.17789v1",
+    "journal": "2026 IEEE 14th International Conference on Healthcare Informatics (ICHI), Minneapolis, MN, June 1-3, 2026, pp. 980-989",
+    "url": "http://arxiv.org/abs/2606.17789v1",
+    "fetched_at": "2026-06-17T03:30:13.871519+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.16676v1",
+    "source": "arxiv",
+    "title": "Optical vortex probe of loop-current chirality in moiré materials",
+    "authors": [
+      "Nobuhiko Yokoshi",
+      "Akihito Kato"
+    ],
+    "year": 2026,
+    "abstract": "We propose a symmetry-resolved optical probe of intrinsic loop-current chirality in moiré materials, with twisted bilayer graphene as a representative realization. Interlayer interference generates chiral electronic circulation on triangular plaquettes, giving rise to an intrinsic geometric chirality that enters the second-order response through a $C_3$-selected angular harmonic of the Berry curvature and can be isolated by the orbital-angular-momentum difference $Δ\\ell$ of interfering optical vortex beams. When moiré $C_3$ symmetry is preserved, the intrinsic contribution appears in the $Δ\\ell=3$ channel of the helicity-dependent dc photocurrent, whereas $C_3$-breaking perturbations activate additional channels. These results establish angular-momentum-resolved nonlinear optics as a route",
+    "doi": "10.1103/dlgp-bgbb",
+    "pdf_url": "https://arxiv.org/pdf/2606.16676v1",
+    "journal": "Phys. Rev. B 113, 245303 (2026)",
+    "url": "http://arxiv.org/abs/2606.16676v1",
+    "fetched_at": "2026-06-17T03:30:38.021975+00:00",
+    "material": "other"
   }
 ]
