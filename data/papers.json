@@ -10032,5 +10032,124 @@
     "url": "http://arxiv.org/abs/2606.16676v1",
     "fetched_at": "2026-06-17T03:30:38.021975+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19237v1",
+    "source": "arxiv",
+    "title": "Supratransmission in Lattices with Purely Nonlinear Coupling",
+    "authors": [
+      "Defri Ahmad",
+      "Tae-Yeon Kim",
+      "Andreas Schiffer",
+      "Jinkyu Yang",
+      "Hadi Susanto"
+    ],
+    "year": 2026,
+    "abstract": "Supratransmission is examined in nonlinear lattices with purely nonlinear coupling, extending the phenomenon to systems that lack a linear pass band. In contrast to standard lattices with mixed linear-nonlinear interactions, the present model has no linear spectrum, so energy propagation arises entirely from nonlinear effects. Asymptotic analysis yields a discrete $p$-Schrödinger (DpS) equation that {provides an accurate description in the weak- and intermediate-coupling regimes and offers qualitative insight in the strong-coupling regime}. Perturbation provides analytical approximations for the critical driving amplitude, explicitly showing its dependence on the driving frequency, coupling strength, and the nonlinearity exponent $p$. The analysis identifies a non-trivial dependence of the",
+    "doi": "10.1103/x5m6-wqkm",
+    "pdf_url": "https://arxiv.org/pdf/2606.19237v1",
+    "journal": "Physical Review E, Vol. 113, Iss. 6 (2026), page 064205",
+    "url": "http://arxiv.org/abs/2606.19237v1",
+    "fetched_at": "2026-06-18T02:58:09.273742+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18593v1",
+    "source": "arxiv",
+    "title": "\"The New Era of Tech-Enabled Traceability\": Tensions between the FDA's Data Governance Vision and the Lived Realities of Food Producers",
+    "authors": [
+      "Soonho Kwon",
+      "Catherine Wieczorek",
+      "Heidi Biggs",
+      "Shellye Suttles",
+      "Tammi S. Etheridge",
+      "Annabel Rothschild"
+    ],
+    "year": 2026,
+    "abstract": "The U.S. Food and Drug Administration (FDA)'s Food Traceability Rule requires agri-food supply chain stakeholders (stakeholders)--including farmers, fishers, retail workers, and others--to maintain detailed tracking records beginning in January 2026. Through this Rule, the FDA envisions a \"New Era of Tech-Enabled Traceability,\" in which standardized, harmonized tracking data serve as a foundational public health infrastructure, enabling more rapid identification and removal of potentially contaminated food and ultimately reducing the risk of foodborne illness.   Despite this promising vision, we observe that the Rule reconfigures agri-food stakeholders into data laborers by mandating stringent data collection, formatting, and reporting requirements. In this paper, we examine the tensions a",
+    "doi": "10.1145/3817012",
+    "pdf_url": "https://arxiv.org/pdf/2606.18593v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.18593v1",
+    "fetched_at": "2026-06-18T02:58:38.919712+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18808v1",
+    "source": "arxiv",
+    "title": "Efficient simulation of noisy entanglement generation",
+    "authors": [
+      "Lorenzo Brevi",
+      "Federico Grasselli",
+      "Alessandro Caraceni",
+      "Massimiliano Proietti",
+      "Massimiliano Dispenza",
+      "Enrico Prati"
+    ],
+    "year": 2026,
+    "abstract": "End-to-end entanglement distribution is a key capability of upcoming quantum networks, enabling applications like distributed quantum computing, quantum sensor networks, and secure communications. Hence, its realistic and efficient simulation is crucial for quantum network design and for assessing the ability of a network to run certain applications. This work provides tools to scale-up and improve the realism of entanglement generation simulations in quantum networks. This is achieved by deriving analytical results that directly return the success probability, the output state and corresponding fidelity of a selected entanglement generation protocol, while accounting for a variety of noise sources affecting the protocol. These results are then integrated and streamlined in an upgraded ver",
+    "doi": "10.1002/qute.202500870",
+    "pdf_url": "https://arxiv.org/pdf/2606.18808v1",
+    "journal": "Advanced Quantum Technologies9, no. 6 (2026): e00870",
+    "url": "http://arxiv.org/abs/2606.18808v1",
+    "fetched_at": "2026-06-18T02:59:09.506002+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19024v1",
+    "source": "arxiv",
+    "title": "Room-Temperature Calcium Intercalation into Graphite Catalyzed by Sodium",
+    "authors": [
+      "Akira Iyo",
+      "Shigeyuki Ishida",
+      "Hiroshi Eisaki",
+      "Hiraku Ogino",
+      "Kenji Kawashima"
+    ],
+    "year": 2026,
+    "abstract": "Calcium (Ca) insertion into graphite (C) has been considered to require elevated temperatures, and its occurrence at room temperature (RT) has been regarded as highly unlikely. Here, we demonstrate that sodium (Na) catalysis enables the formation of superconducting CaC$_6$ even at RT. In mixtures of Ca, Na, and graphite, the gradual development of superconducting diamagnetism and the emergence of X-ray diffraction peaks confirm the formation of CaC$_6$ during storage at RT. The superconducting transition temperature increases with storage time, and the amount of CaC$_6$ scales proportionally to the square root of storage time. These findings provide new insights into the mechanism of superconductivity and Na-catalyzed formation of CaC$_6$, and highlight the potential of this RT intercalati",
+    "doi": "10.1063/5.0312451",
+    "pdf_url": "https://arxiv.org/pdf/2606.19024v1",
+    "journal": "Appl. Phys. Lett. 128, 113906 (2026)",
+    "url": "http://arxiv.org/abs/2606.19024v1",
+    "fetched_at": "2026-06-18T02:59:16.299372+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18798v1",
+    "source": "arxiv",
+    "title": "The Array Control and Data Acquisition software of the Cherenkov Telescope Array Observatory",
+    "authors": [
+      "I. Oya",
+      "B. López",
+      "P. Aubert",
+      "G. Barni",
+      "P. Bauza",
+      "D. Berge"
+    ],
+    "year": 2026,
+    "abstract": "The Cherenkov Telescope Array Observatory (CTAO) aims to advance knowledge of the gamma-ray sky as the largest gamma-ray observatory ever built. The CTAO will be deployed at two sites, one in the Northern Hemisphere and the other in the Southern Hemisphere, containing telescopes of three sizes to cover different energy domains. Commissioning of the prototype CTAO Large-Sized Telescope (LST-1) is being finalized at the northern site, while three additional LSTs are under construction. Additional calibration and environmental monitoring instruments, such as laser imaging detection and ranging (LIDAR) systems and weather stations, will support telescope operations. The Array Control and Data Acquisition (ACADA) system serves as the central element for on-site CTAO operations. ACADA controls, ",
+    "doi": "10.1016/j.ascom.2026.101147",
+    "pdf_url": "https://arxiv.org/pdf/2606.18798v1",
+    "journal": "Astronomy and Computing, Volume 57, 2026, 101147",
+    "url": "http://arxiv.org/abs/2606.18798v1",
+    "fetched_at": "2026-06-18T02:59:16.299655+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.18461v1",
+    "source": "arxiv",
+    "title": "Persistent current and orbital magnetization along a valley-contrasting junction in bilayer graphene in a magnetic field",
+    "authors": [
+      "K. Shizuya"
+    ],
+    "year": 2026,
+    "abstract": "In a magnetic field bilayer graphene hosts an octet of pseudo-zero-mode electron levels nearly degenerate in orbitals $n=(0,1)$, valleys and spins. They split in valleys by electrostatic gating. In gated bilayer graphene, in which the interlayer bias is set up to flip sign across a line, one has a line junction that traps a portion of pseudo-zero-mode electrons inside the insulating bulk band gap, giving rise to electron states localized along the junction, known as kink states. A close look is made into the spectra and electromagnetic response of such kink states. There are two species of valley current associated with them, a drift current driven by the bias gradient and a circulating current coming from cyclotron motion. It turns out that they both flow in essentially the same direction",
+    "doi": "10.1103/wcv4-j7gd",
+    "pdf_url": "https://arxiv.org/pdf/2606.18461v1",
+    "journal": "Phys. Rev. B 113, 235422 (2026)",
+    "url": "http://arxiv.org/abs/2606.18461v1",
+    "fetched_at": "2026-06-18T02:59:16.299705+00:00",
+    "material": "other"
   }
 ]
