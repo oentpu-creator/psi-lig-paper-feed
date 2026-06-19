@@ -10151,5 +10151,140 @@
     "url": "http://arxiv.org/abs/2606.18461v1",
     "fetched_at": "2026-06-18T02:59:16.299705+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19582v1",
+    "source": "arxiv",
+    "title": "Deposition and Growth of the AlCoCuFeNi High-Entropy Alloy Thin Film: Molecular Dynamics Simulation",
+    "authors": [
+      "Oleksandr I. Kushnerov",
+      "Valerij F. Bashev",
+      "Sergey I. Ryabtsev"
+    ],
+    "year": 2026,
+    "abstract": "The growth of a thin film of a high-entropy AlCoCuFeNi alloy on a silicon (100) substrate was studied using molecular dynamics modeling. The simulation was carried out using the embedded atom model to describe the interactions among Al, Co, Cu, Ni, and Fe atoms. The interaction between Al, Co, Cu, Fe, Ni atoms and the Si substrate was modeled using the Lennard-Jones potential, while the interaction between silicon atoms was described using the Stillinger-Weber potential. The total simulation time was 50 ns. It was found that small clusters were formed at the first stage of deposition and that crystallization started after approximately 5 ns of simulation, when the characteristic cluster size was about 2 nm. At the end of the simulation, after 50 ns of modeling, the simulated film contained",
+    "doi": "10.1007/978-3-030-74741-1_28",
+    "pdf_url": "https://arxiv.org/pdf/2606.19582v1",
+    "journal": "Springer Proc. Phys. 263 (2021) 419",
+    "url": "http://arxiv.org/abs/2606.19582v1",
+    "fetched_at": "2026-06-19T03:44:20.009484+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.20279v1",
+    "source": "arxiv",
+    "title": "Spin transport in a normal meta-altermagnetic superconducting nanowire junction",
+    "authors": [
+      "Xing-Jian Yi",
+      "Yi-Xin Dai",
+      "Yue Mao",
+      "Qing-Feng Sun"
+    ],
+    "year": 2026,
+    "abstract": "Spin triplet superconductors are considered a promising platform for dissipationless spin transport, where spin currents are carried by spin triplet Cooper pairs. In this paper, we propose that the spin triplet superconductivity and spin supercurrent can be engineered in an altermagnetic superconducting nanowire, where a one-dimensional nanowire is placed on the surface of an s-wave superconductor and in proximity to the altermagnet. Using the nonequilibrium Green's function method, we demonstrate a nonzero equal spin Andreev reflection coefficient at the normal metal-altermagnetic superconducting nanowire interface, thereby verifying the injection of spin triplet Cooper pairs. Furthermore, we systematically investigate the spin transport properties in this hybrid system under a spin bias.",
+    "doi": "10.1103/h77q-66fn",
+    "pdf_url": "https://arxiv.org/pdf/2606.20279v1",
+    "journal": "Phys. Rev. B 113, 134502 (2026)",
+    "url": "http://arxiv.org/abs/2606.20279v1",
+    "fetched_at": "2026-06-19T03:44:37.138042+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_86f129fef18bb146",
+    "source": "semantic_scholar",
+    "title": "Laser-induced graphene: Carbon precursors, fabrication mechanisms, material characteristics, and applications in energy storage",
+    "authors": [
+      "Shigen Bai",
+      "Luoyuan Ruan",
+      "Huanjian Chen",
+      "Yuping Du",
+      "H. Deng",
+      "Ning Dai"
+    ],
+    "year": 2024,
+    "abstract": "",
+    "doi": "10.1016/j.cej.2024.152805",
+    "pdf_url": "",
+    "journal": "Chemical Engineering Journal",
+    "url": "https://www.semanticscholar.org/paper/86f129fef18bb1462102b0e0d64842e746574e10",
+    "fetched_at": "2026-06-19T03:44:46.202047+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2606.19850v1",
+    "source": "arxiv",
+    "title": "Neural Additive and Basis Models with Feature Selection and Interactions",
+    "authors": [
+      "Yasutoshi Kishimoto",
+      "Kota Yamanishi",
+      "Takuya Matsuda",
+      "Shinichi Shirakawa"
+    ],
+    "year": 2026,
+    "abstract": "Deep neural networks (DNNs) exhibit attractive performance in various fields but often suffer from low interpretability. The neural additive model (NAM) and its variant called the neural basis model (NBM) use neural networks (NNs) as nonlinear shape functions in generalized additive models (GAMs). Both models are highly interpretable and exhibit good performance and flexibility for NN training. NAM and NBM can provide and visualize the contribution of each feature to the prediction owing to GAM-based architectures. However, when using two-input NNs to consider feature interactions or when applying them to high-dimensional datasets, training NAM and NBM becomes intractable due to the increase in the computational resources required. This paper proposes incorporating the feature selection me",
+    "doi": "10.1007/978-981-97-2259-4_1",
+    "pdf_url": "https://arxiv.org/pdf/2606.19850v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.19850v1",
+    "fetched_at": "2026-06-19T03:44:57.306504+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19976v1",
+    "source": "arxiv",
+    "title": "A 3D passive ring gyroscope for seismology",
+    "authors": [
+      "Thomas Gereons",
+      "Jannik Zenner",
+      "Thorsten Groh",
+      "Simon Stellmer"
+    ],
+    "year": 2026,
+    "abstract": "In seismology and related fields, the measurement of rotation in all three spatial dimensions is essential to complement the observation of translations. Access to all six degrees of freedom allows for full reconstruction of seismic wavefields and improves the understanding of complex ground motion during seismic events. In this regard, Sagnac interferometers in the form of large active ring laser systems have demonstrated remarkable performance. So-called passive ring gyroscopes offer the potential to bypass some of the limitations of active ring lasers and could represent a promising complement to existing sensor technology. Here, we present a prototype of a transportable three dimensional free-space passive ring gyroscope, reaching a sensitivity in the micro rad/s/sqrt(Hz) regime in all",
+    "doi": "10.1088/1361-6501/ae7994",
+    "pdf_url": "https://arxiv.org/pdf/2606.19976v1",
+    "journal": "Measurement Science and Technology (2026)",
+    "url": "http://arxiv.org/abs/2606.19976v1",
+    "fetched_at": "2026-06-19T03:45:14.646084+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19721v1",
+    "source": "arxiv",
+    "title": "OnDeFog: Online Decision Transformer under Frame Dropping",
+    "authors": [
+      "Daiki Yotsufuji",
+      "Kenta Nishihara",
+      "Shoma Shimizu",
+      "Kento Uchida",
+      "Shinichi Shirakawa"
+    ],
+    "year": 2026,
+    "abstract": "In challenging real-world reinforcement learning applications, communication delays or sensor failures often cause frame dropping, in which the agent cannot receive the dropped states and associated rewards. To address the performance degradation caused by frame dropping, the Decision Transformer under Random Frame Dropping (DeFog) was developed by incorporating additional mechanisms into the decision transformer to tackle frame dropping. Although DeFog can mitigate performance degradation in frame-dropping environments, since DeFog is an offline learning method, it struggles to effectively generalize to novel states not adequately represented in the training dataset. In this study, we propose OnDeFog, which integrates the mechanisms in DeFog with the online decision transformer (ODT), an ",
+    "doi": "10.1007/978-981-95-7072-0_10",
+    "pdf_url": "https://arxiv.org/pdf/2606.19721v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.19721v1",
+    "fetched_at": "2026-06-19T03:45:14.646229+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.19556v1",
+    "source": "arxiv",
+    "title": "A hybrid sharp-diffuse interface approach to accurately model melt pool dynamics with rapid evaporation in laser-based processing of metals",
+    "authors": [
+      "Nils Much",
+      "Andreas Koch",
+      "Christoph Meier",
+      "Magdalena Schreter-Fleischhacker"
+    ],
+    "year": 2026,
+    "abstract": "Predictive simulation of melt pool dynamics in laser-based processing of metals, e.g., laser beam welding or laser powder bed fusion additive manufacturing, requires accurate resolution of thermo-hydrodynamic interactions at the melt-gas interface. Here, evaporation-induced recoil pressure and temperature-dependent surface tension govern the flow. Because these mechanisms depend sensitively, often exponentially, on the interface temperature, reliable predictions demand highly accurate heat transfer models. Popular diffuse-interface formulations smear the extreme thermal gradients as typical for laser-metal interactions, leading to interface temperature errors that critically degrade the accuracy of interface force predictions and melt pool dynamics. We present a hybrid sharp-diffuse interf",
+    "doi": "10.1016/j.cma.2026.119023",
+    "pdf_url": "https://arxiv.org/pdf/2606.19556v1",
+    "journal": "Computer Methods in Applied Mechanics and Engineering 457, 119023, 2026",
+    "url": "http://arxiv.org/abs/2606.19556v1",
+    "fetched_at": "2026-06-19T03:45:20.253016+00:00",
+    "material": "other"
   }
 ]
