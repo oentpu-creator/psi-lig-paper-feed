@@ -10286,5 +10286,26 @@
     "url": "http://arxiv.org/abs/2606.19556v1",
     "fetched_at": "2026-06-19T03:45:20.253016+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_578489af3d637f27",
+    "source": "semantic_scholar",
+    "title": "Crack-Expansion Patterned Laser-Induced Graphene Strain Sensors for Machine Learning-Assisted Neck Posture Monitoring.",
+    "authors": [
+      "Bangbang Nie",
+      "Wenjing Sun",
+      "Yihong Zhu",
+      "Jiyu Chen",
+      "Hongming Chen",
+      "Mengqiu Wang"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1021/acs.langmuir.6c01522",
+    "pdf_url": "",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "url": "https://www.semanticscholar.org/paper/578489af3d637f27846b28f17e169519d70d273f",
+    "fetched_at": "2026-06-21T03:35:05.086918+00:00",
+    "material": "LIG"
   }
 ]
