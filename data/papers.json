@@ -10307,5 +10307,26 @@
     "url": "https://www.semanticscholar.org/paper/578489af3d637f27846b28f17e169519d70d273f",
     "fetched_at": "2026-06-21T03:35:05.086918+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "ss_4ffa30270e3e1a9e",
+    "source": "semantic_scholar",
+    "title": "Laser-Induced Graphene on Gelatin-Functionalized Cellulose Paper for Efficient Interfacial Solar Steam Generation.",
+    "authors": [
+      "Zhijian Huang",
+      "Yujun Wei",
+      "Jing Zhang",
+      "Penghui Chen",
+      "Hongzhen Zeng",
+      "Sihui Chen"
+    ],
+    "year": 2025,
+    "abstract": "Interfacial solar steam generation (ISSG) offers a promising and eco-friendly approach to produce clean water efficiently. As a green and sustainable material, cellulose paper has been extensively used in ISSG. However, conventional methods for transforming cellulose paper into photothermal material are still cumbersome. In this work, a cellulose paper-based solar evaporator is fabricated by laser engraving. In detail, through a pretreatment process with a composite gelatin coating followed by laser direct writing, the study achieves one-step in-situ fabrication of cobalt-doped graphene on cellulose paper. The gelatin-based coating is formulated using cobalt nitrate and gelatin as precursor materials. The synergistic effects of cellulose paper's natural porous fibrous framework and gelatin",
+    "doi": "10.1002/smll.202505931",
+    "pdf_url": "",
+    "journal": "Small",
+    "url": "https://www.semanticscholar.org/paper/4ffa30270e3e1a9e80cb2ef3834017bd4dd357ca",
+    "fetched_at": "2026-06-22T03:36:50.348656+00:00",
+    "material": "LIG"
   }
 ]
