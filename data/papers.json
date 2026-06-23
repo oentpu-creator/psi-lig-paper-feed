@@ -10328,5 +10328,96 @@
     "url": "https://www.semanticscholar.org/paper/4ffa30270e3e1a9e80cb2ef3834017bd4dd357ca",
     "fetched_at": "2026-06-22T03:36:50.348656+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2606.22553v1",
+    "source": "arxiv",
+    "title": "Dimensional reduction for optical beams with thermal nonlocal nonlinearity",
+    "authors": [
+      "Francesco Lorenzi",
+      "Luca Salasnich"
+    ],
+    "year": 2026,
+    "abstract": "Nonlocal optical nonlinearities arising from the thermorefractive effect provide a long-range material response determined by heat diffusion and absorption. In graded-index media, this nonlocality fundamentally alters modal interactions, yet its accurate modeling remains computationally demanding when starting from the full spatial nonlinear Schrödinger equation. In this work, inspired by the nonpolynomial Schrödinger equation (NPSE) framework, we extend the dimensional reduction techniques to incorporate thermally mediated nonlocal nonlinearities. By coupling the optical field to an equation for the temperature-induced refractive index change, and employing a variational ansatz based on Laguerre--Gauss modes of the annular kind, of arbitrary azimuthal order, we derive explicit analytic ex",
+    "doi": "10.15302/frontphys.2026.102203",
+    "pdf_url": "https://arxiv.org/pdf/2606.22553v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.22553v1",
+    "fetched_at": "2026-06-23T02:42:09.582136+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.22264v1",
+    "source": "arxiv",
+    "title": "Defect-Width-Tunable Resonant Elastic-Wave Transmission in Micro-Pillar Arrays",
+    "authors": [
+      "Alok Pokharel"
+    ],
+    "year": 2026,
+    "abstract": "Periodic micro-pillar lattices integrated on elastic substrates provide a promising plat-form for controlling elastic-wave propagation through localized resonant interactions. In this work, defect-engineered resonant transmission in periodic tungsten micro-pillar arrays deposited on silicon substrates is numerically investigated using finite-element simulations. Two-dimensional frequency-domain analyses were performed to evaluate the influence of one-, two- and three-pillar defects on elastic wave transmission characteristics. The results reveal strong defect-width-dependent transmission modulation together with the localized resonant elastic-wave redistribution within the periodic lattice. Full three-dimensional simulations further confirm the presence of defect-sensitive resonant localiz",
+    "doi": "10.5281/zenodo.20687189",
+    "pdf_url": "https://arxiv.org/pdf/2606.22264v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.22264v1",
+    "fetched_at": "2026-06-23T02:42:09.582621+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.22171v1",
+    "source": "arxiv",
+    "title": "Beyond Time Series: Spatial Reasoning for Epidemic Forecasting via Multimodal Learning",
+    "authors": [
+      "Diana Guadalupe Gomez",
+      "Chenwei Wu",
+      "Zhiyi Wang",
+      "Liyue Shen",
+      "Alexander Rodríguez"
+    ],
+    "year": 2026,
+    "abstract": "Epidemic forecasting models typically rely on surveillance data reported over administrative regions, treating them as atomic units, thereby obscuring sub-regional spatial structure that shapes disease dynamics. We introduce a spatially structured multimodal epidemic forecasting setting that integrates region-level temporal surveillance data with spatially localized auxiliary signals that are misaligned in resolution and structure, reflecting realistic public health reporting constraints. Building on this formulation, we propose M-SPICE (Multimodal SPatIal Context for Epidemic Forecasting), a structure-aware spatiotemporal forecasting framework that performs joint reasoning over temporal disease dynamics and spatial context via attention-based multimodal fusion, allowing spatial signals to",
+    "doi": "10.1145/3770855.3819015",
+    "pdf_url": "https://arxiv.org/pdf/2606.22171v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.22171v1",
+    "fetched_at": "2026-06-23T02:43:10.303783+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.22202v1",
+    "source": "arxiv",
+    "title": "On Potentials and Complementary Potentials in One-Dimensional Nonlocal Integral Formulations",
+    "authors": [
+      "Marko Čanađija",
+      "Ante Skoblar"
+    ],
+    "year": 2026,
+    "abstract": "The present research presents potentials and complementary potentials used in the one-dimensional nonlocal integral formulations. The pure stress and the pure strain nonlocal formulations were considered. While the potential used in the strain driven formulation is well known, the complementary potential has not yet been presented in the literature. The same applies to the stress driven formulation. The equivalent formulations are obtained by resorting to the Legendre transformation, and their equivalence is proved. It is also shown that these results can be used to postulate a novel potential, i.e. a kind of mixed stress-strain potential, which is, however, as ill-conditioned as the pure strain-driven formulation. Finally, an example is given that practically confirms that the stress-driv",
+    "doi": "10.1007/s11012-025-01985-5",
+    "pdf_url": "https://arxiv.org/pdf/2606.22202v1",
+    "journal": "Čanađija, M., Skoblar, A. On potentials and complementary potentials in one-dimensional nonlocal integral formulations. Meccanica 60, 3387-3396 (2025)",
+    "url": "http://arxiv.org/abs/2606.22202v1",
+    "fetched_at": "2026-06-23T02:44:18.551460+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.21853v1",
+    "source": "arxiv",
+    "title": "Plasma Flow Generation and Particle Acceleration from Expanding Magnetic Bubbles",
+    "authors": [
+      "Yang Zhang",
+      "Brandon K. Russell",
+      "Geoffrey Pomraning",
+      "Lan Gao",
+      "Xiaocan Li",
+      "Adam Stainer"
+    ],
+    "year": 2026,
+    "abstract": "Impulsive plasma dynamics in the laboratory are often driven by rising electric currents, yet their quantitative plasma response has not been well established. By means of fully kinetic particle-in-cell simulations and laser-driven capacitor-coil experiments, we show that a rising current expels plasma, forming an expanding magnetic bubble and accelerating particles. The expansion front velocity scales with the Alfvén speed determined by the magnetic field at its inner edge and the plasma density at its outer edge. This mechanism establishes impulsive current drive as a fundamental way that generates plasma flows and accelerates particles in laboratory plasmas, with potential relevance to astrophysics.",
+    "doi": "10.1103/yw76-d6kh",
+    "pdf_url": "https://arxiv.org/pdf/2606.21853v1",
+    "journal": "Phys. Rev. Research 8, 023317 (2026)",
+    "url": "http://arxiv.org/abs/2606.21853v1",
+    "fetched_at": "2026-06-23T02:44:27.941007+00:00",
+    "material": "other"
   }
 ]
