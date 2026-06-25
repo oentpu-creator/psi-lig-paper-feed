@@ -10419,5 +10419,141 @@
     "url": "http://arxiv.org/abs/2606.21853v1",
     "fetched_at": "2026-06-23T02:44:27.941007+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.25891v1",
+    "source": "arxiv",
+    "title": "The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors",
+    "authors": [
+      "Belinda J. Boehm",
+      "Huong T. L. Nguyen",
+      "David M. Huang"
+    ],
+    "year": 2026,
+    "abstract": "Organic semiconductors, which include a diverse range of carbon-based small molecules and polymers with interesting optoelectronic properties, offer many advantages over conventional inorganic semiconductors such as silicon and are growing in importance in electronic applications. Although these materials are now the basis of a lucrative industry in electronic displays, many promising applications such as photovoltaics remain largely untapped. One major impediment to more rapid development and widespread adoption of organic semiconductor technologies is that device performance is not easily predicted from the chemical structure of the constituent molecules. Fundamentally, this is because organic semiconductor molecules, unlike inorganic materials, interact by weak non-covalent forces, resu",
+    "doi": "10.1088/1361-648X/ab2ac2",
+    "pdf_url": "https://arxiv.org/pdf/2606.25891v1",
+    "journal": "J. Phys.: Condens. Matter 31, 423001 (2019)",
+    "url": "http://arxiv.org/abs/2606.25891v1",
+    "fetched_at": "2026-06-25T02:43:26.957555+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.23173v1",
+    "source": "arxiv",
+    "title": "Silicon Ring Based 64$\\times$100 GHz Wavelength Division Multiplexing filter",
+    "authors": [
+      "Q. Deng",
+      "A. Elshazly",
+      "M. Oktay",
+      "J. De Coster",
+      "R. Magdziak",
+      "C. Marchese"
+    ],
+    "year": 2026,
+    "abstract": "Silicon-based wavelength division multiplexing (WDM) filters are essential for scaling optical communication capacity in data centers and telecommunications networks.However, extending silicon WDM systems beyond 32 channels with 100 GHz spacing poses significant challenges due to limitations in conventional filter architectures. Here we present the first silicon 64$\\times$100 GHz WDM filter by introducing a novel ring-Mach-Zehnder interferometer (MZI) cascade architecture. Our design utilizes third-order polynomial interconnected circular (TOPIC) bends to construct low-loss half-ring waveguides, facilitating an MZI configuration where the arm length difference is determined entirely by half of the ring structure. This approach ensures precise alignment between the MZI interference peaks an",
+    "doi": "10.1021/acsphotonics.5c02668",
+    "pdf_url": "https://arxiv.org/pdf/2606.23173v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.23173v1",
+    "fetched_at": "2026-06-25T02:43:33.062164+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.25664v1",
+    "source": "arxiv",
+    "title": "VLT Beyond 2030 and Call for White Papers",
+    "authors": [
+      "Céline Péroux",
+      "Antoine Mérand",
+      "Martyna Chruślińska"
+    ],
+    "year": 2026,
+    "abstract": "The VLT Beyond 2030 conference gathered participants from the community and ESO experts to present and discuss science and technological ideas for the future of both the Very Large Telescope (VLT) and its interferometer (VLTI). An effort was made to pair participants with science and engineering backgrounds so as to optimise cross-field fertilisation and initiate 'out-of-the-main-room' discussions. The well-attended conference reflected the continued interest within our community in developing new projects for the VLT/I and the will to use this facility to answer key science questions that are likely to be crucial in the decades to come. This article presents a summary of the overall points of focus during the conference and also serves as the opening of the call for White Papers with a de",
+    "doi": "10.18727/0722-6691/5422",
+    "pdf_url": "https://arxiv.org/pdf/2606.25664v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.25664v1",
+    "fetched_at": "2026-06-25T02:43:49.808803+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.25470v1",
+    "source": "arxiv",
+    "title": "Spin-flip optical excitations in van der Waals antiferromagnet CrPS$_4$",
+    "authors": [
+      "Dipankar Jana",
+      "Aljoscha Soll",
+      "Zdenek Sofer",
+      "Milan Orlita",
+      "Clement Faugeras",
+      "Maciej Koperski"
+    ],
+    "year": 2026,
+    "abstract": "We investigate the near-infrared optical response of the semiconducting van der Waals antiferromagnet CrPS$_4$ and identify previously unreported spin-entangled optical resonances. The strong and anisotropic magnetic-field dependence of these resonances reflects the underlying magnetic order and confirms the biaxial antiferromagnetic nature of CrPS$_4$. From the magnetic field evolution of the optical transition, we extract key magnetic parameters, including the spin-flop ($\\approx0.9$~T) and spin-saturation ($\\approx8$~T) fields. These results demonstrate a potential pathway for all-optical probing of spin states in van der Waals antiferromagnets, with relevance for spin-sensitive optoelectronic and magneto-optical devices.",
+    "doi": "10.1021/acs.nanolett.6c01101",
+    "pdf_url": "https://arxiv.org/pdf/2606.25470v1",
+    "journal": "Nano Letters (2026)",
+    "url": "http://arxiv.org/abs/2606.25470v1",
+    "fetched_at": "2026-06-25T02:43:49.808920+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.26078v1",
+    "source": "arxiv",
+    "title": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
+    "authors": [
+      "Sen Li",
+      "Haichao Cui",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Xinhua Tang"
+    ],
+    "year": 2026,
+    "abstract": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models between welding processes with distinct physical mechanisms:for instance, from arc-dominated tungsten inert gas (TIG) welding to keyhole-based laser welding. To overcome this limitation, we propose an unsupervised domain adaptation (UDA) framework integrated with a gradual source domain expansion (GSDE) strategy. Evaluated on dedicated TIG and laser welding datasets, our approach achieves high accuracy in both same-process and cross-process transfer tasks. Specifically, it attains average accuracies of 90.65% on TIGFH and 90.72% on LSPS in same-process settings, surpassing a supervised baseline by",
+    "doi": "10.1016/j.jmapro.2025.10.101",
+    "pdf_url": "https://arxiv.org/pdf/2606.26078v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.26078v1",
+    "fetched_at": "2026-06-25T02:44:01.208952+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.26059v1",
+    "source": "arxiv",
+    "title": "A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks",
+    "authors": [
+      "Sen Li",
+      "Xiaoying Liu",
+      "Xiaojian Xu",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Ling Lan"
+    ],
+    "year": 2026,
+    "abstract": "The laser welding full-penetration is of critical importance, as it constitutes one of the fundamental factors in achieving defect-free welded joints. Accurate prediction of the penetration state is therefore essential for ensuring weld quality. To this end, this paper introduces SimPhysNet, a novel algorithm that achieves high classification accuracy in laser welding penetration prediction using only a limited number of labelled images. This approach effectively overcomes the limitations of supervised learning classification algorithms, which are hindered in industrial applications by their dependence on extensive, high-quality labelled data. The core of SimPhysNet is a unique self-supervised learning paradigm that embeds physical priors into a contrastive learning framework. By incorpora",
+    "doi": "10.1016/j.jmapro.2026.01.035",
+    "pdf_url": "https://arxiv.org/pdf/2606.26059v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.26059v1",
+    "fetched_at": "2026-06-25T02:44:01.209044+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.25526v1",
+    "source": "arxiv",
+    "title": "Low Variance Trust Region Optimization with Independent Actors and Sequential Updates in Cooperative Multi-agent Reinforcement Learning",
+    "authors": [
+      "Bang Giang Le",
+      "Viet Cuong Ta"
+    ],
+    "year": 2026,
+    "abstract": "Cooperative multi-agent reinforcement learning assumes each agent shares the same reward function and can be trained effectively using the Trust Region framework of single-agent. Instead of relying on other agents' actions, the independent actors setting considers each agent to act based only on its local information, thus having more flexible applications. However, in the sequential update framework, it is required to re-estimate the joint advantage function after each individual agent's policy step. Despite the practical success of importance sampling, the updated advantage function suffers from exponentially high variance problems, which likely result in unstable convergence. In this work, we first analyze the high variance advantage both empirically and theoretically. To overcome this ",
+    "doi": "10.1007/s10458-025-09695-8",
+    "pdf_url": "https://arxiv.org/pdf/2606.25526v1",
+    "journal": "utonomous Agents and Multi-Agent Systems 39.1 (2025): 12",
+    "url": "http://arxiv.org/abs/2606.25526v1",
+    "fetched_at": "2026-06-25T02:44:07.092975+00:00",
+    "material": "other"
   }
 ]
