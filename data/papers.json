@@ -10555,5 +10555,63 @@
     "url": "http://arxiv.org/abs/2606.25526v1",
     "fetched_at": "2026-06-25T02:44:07.092975+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.27221v1",
+    "source": "arxiv",
+    "title": "Cross-correlation transmission spectroscopy of ultra-hot Jupiters WASP-189b, HAT-P-57b, KELT-17b, and KELT-21b with GIANO-B",
+    "authors": [
+      "P. Meni-Gallardo",
+      "J. Orell-Miquel",
+      "Gareb Fernández-Rodríguez",
+      "H. Parviainen",
+      "M. Basilicata",
+      "E. Pallé"
+    ],
+    "year": 2026,
+    "abstract": "Since the discovery of the first exoplanet, significant efforts have been made to characterise their atmospheres. Ultra-hot Jupiters (UHJs) are of particular interest due to their extended and hot atmospheres. Although previous studies have focused on the detection of atomic species at optical wavelengths, near-infrared (NIR) observations offer the potential to detect molecules. In our study, we applied the cross-correlation technique to NIR transmission spectra from \\giano. The analysis focuses on the search for H$_2$O, CO, CO$_2$, CH$_4$, HCN, and FeH molecular signals in the atmospheres of four UHJs: HAT-P-57 b, KELT-17 b, KELT-21 b, and WASP-189 b. For the first time, we report results on the NIR transmission spectra of KELT-17b, KELT-21b, and WASP-189b. We report a tentative detection",
+    "doi": "10.1051/0004-6361/202557881",
+    "pdf_url": "https://arxiv.org/pdf/2606.27221v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.27221v1",
+    "fetched_at": "2026-06-26T02:47:27.644303+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.26404v1",
+    "source": "arxiv",
+    "title": "Air cargo load and route planning in pickup and delivery operations",
+    "authors": [
+      "A. C. P. Mesquita",
+      "C. A. A. Sanches"
+    ],
+    "year": 2026,
+    "abstract": "In the aerial pickup and delivery of goods in a distribution network, transport aviation faces risks of load imbalance due to the urgency required for loading, immediate take-off, and mission accomplishment. Transport planners deal with trip itineraries, prioritisation of items, building up pallets, and balanced loading, but there are no commercially available systems that can integrally assist in all these requirements. This enables other risks, such as improper delivery, excessive fuel burn, and possible safety issues due to cargo imbalance, as well as a longer than necessary turn-around time. This NP-hard problem, named \"Air Cargo Load Planning with Routing, Pickup, and Delivery Problem\" (ACLP+RPDP), is mathematically modelled using standardised pallets in fixed positions. We developed ",
+    "doi": "10.1016/j.eswa.2024.123711",
+    "pdf_url": "https://arxiv.org/pdf/2606.26404v1",
+    "journal": "Expert Systems with Applications, Vol. 249, Part B, 1237111, 2024",
+    "url": "http://arxiv.org/abs/2606.26404v1",
+    "fetched_at": "2026-06-26T02:47:55.822852+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.26260v1",
+    "source": "arxiv",
+    "title": "A multi-task spatiotemporal deep neural network for predicting penetration depth and morphology in laser welding",
+    "authors": [
+      "Sen Li",
+      "Haichao Cui",
+      "Chendong Shao",
+      "Yaqi Wang",
+      "Xinhua Tang"
+    ],
+    "year": 2026,
+    "abstract": "In laser penetration welding, the assessment of penetration state and weld seam morphology plays a crucial role in determining the weld quality. This paper presents a comprehensive introduction of the innovative muti-task deep learning model that has the capability to predict penetration state, depth, and weld seam morphology with high accuracy. The monitoring platform relies on weld pool images captured during the laser welding process using a complementary metal-oxide-semiconductor camera. The proposed model integrates spatiotemporal features extracted from top weld pool images along with welding parameters, establishing a deep learning framework based on convolutional neural networks and state space models for more efficient extraction and processing of spatial-temporal information. Fur",
+    "doi": "10.1016/j.engappai.2025.113641",
+    "pdf_url": "https://arxiv.org/pdf/2606.26260v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.26260v1",
+    "fetched_at": "2026-06-26T02:48:29.817362+00:00",
+    "material": "other"
   }
 ]
