@@ -10613,5 +10613,26 @@
     "url": "http://arxiv.org/abs/2606.26260v1",
     "fetched_at": "2026-06-26T02:48:29.817362+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_3313617968a425f5",
+    "source": "semantic_scholar",
+    "title": "Laser-induced graphene fabrication on polyimide using a 450 nm diode laser: toward scalable supercapacitor electrodes",
+    "authors": [
+      "I. T. Sugiarto",
+      "Lenny Intan Martila",
+      "Suryadi",
+      "N. Yulianto",
+      "Isnaeni",
+      "F. Destyorini"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1007/s00339-026-09652-6",
+    "pdf_url": "",
+    "journal": "Applied Physics A",
+    "url": "https://www.semanticscholar.org/paper/3313617968a425f5520acdff3c2471b27e648004",
+    "fetched_at": "2026-06-27T02:39:22.271061+00:00",
+    "material": "LIG"
   }
 ]
