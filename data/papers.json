@@ -10634,5 +10634,83 @@
     "url": "https://www.semanticscholar.org/paper/3313617968a425f5520acdff3c2471b27e648004",
     "fetched_at": "2026-06-27T02:39:22.271061+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2606.27892v1",
+    "source": "arxiv",
+    "title": "Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics",
+    "authors": [
+      "Paula Carolina Lozano Duarte",
+      "Georgios Zervakis",
+      "Mehdi Tahoori",
+      "Sani Nassif"
+    ],
+    "year": 2026,
+    "abstract": "Wearable devices and Internet of Things (IoT) sensors require on-sensor processing of biosignals and environmental data, including computationally demanding operations such as nonlinear activation functions for neural network inference, sensor calibration curves to map raw readings to physical units, and signal preprocessing functions like logarithmic compression and power operations for feature extraction. These functions exhibit significant complexity, often involving transcendental operations and multivariate dependencies that are costly to implement digitally. Analog function approximation provides a power-efficient alternative by performing these computations in the analog domain, thereby reducing the energy overhead associated with analog-to-digital conversion and subsequent digital ",
+    "doi": "10.1109/JETCAS.2026.3707339",
+    "pdf_url": "https://arxiv.org/pdf/2606.27892v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.27892v1",
+    "fetched_at": "2026-06-29T02:53:20.081984+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.27612v1",
+    "source": "arxiv",
+    "title": "Enhancing Co-packaging Optics Enabled Silicon Photonics Security Assurance Hardware Fingerprinting",
+    "authors": [
+      "Liton Kumar Biswas",
+      "M Shafkat M Khan",
+      "Himanandhan Reddy Kottur",
+      "Hao Wang",
+      "Hamed Dalir",
+      "Navid Asadizanjani"
+    ],
+    "year": 2026,
+    "abstract": "Silicon photonics enables integration of optical components using standard semiconductor processes, greatly improving data communication bandwidth and energy efficiency. However, photonics integrated circuits (PICs) face unique security challenges, such as counterfeit or tampering threats, that conventional electronic security methods do not address. We propose a novel hardware fingerprinting technique that embeds two dimensional photonic crystal patterns into the density control filler regions of a PIC. Each PhC pattern is designed to resonate a specific visible to near infrared wavelengths, producing a distinctive optical signature (based on wavelength, polarization, and incident angle) for each device. Finite difference time domain (FDTD) simulation using ANSYS Lumerical is employed to ",
+    "doi": "10.4071/001c.147091",
+    "pdf_url": "https://arxiv.org/pdf/2606.27612v1",
+    "journal": "IMAPSource Proceedings 2025 (Symposium) : 7-12, 2025",
+    "url": "http://arxiv.org/abs/2606.27612v1",
+    "fetched_at": "2026-06-29T02:53:25.699211+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.27979v1",
+    "source": "arxiv",
+    "title": "DiStash: A Disaggregated Multi-Stash Transactional Key-Value Store",
+    "authors": [
+      "Yiming Gao",
+      "Hieu Nguyen",
+      "Jun Li",
+      "Shahram Ghandeharizadeh"
+    ],
+    "year": 2026,
+    "abstract": "A stash is a storage medium such as Dynamic Random Access Memory (DRAM), Solid State Disk (SSD), Hard Disk Drive (HDD), or Non-Volatile Memory (NVM). This paper presents a disaggregated transactional key-value (KV) store, DiStash, that governs KVs cross pools of stash types. It enables an application to use a single transaction to read and write different copies of one or more key-value pair across the different pools of stashes. It simplifies the application logic by (a) preventing undesirable race conditions that may cause copies of data across different stash pools to reflect different values and/or (b) failures that may result in loss of key-value pairs. A configuration of DiStash may use a pool of stashes as either ephemeral or durable storage. The application dictates whether the con",
+    "doi": "10.1007/978-3-032-18070-4_8",
+    "pdf_url": "https://arxiv.org/pdf/2606.27979v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.27979v1",
+    "fetched_at": "2026-06-29T02:53:42.462966+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.28195v1",
+    "source": "arxiv",
+    "title": "Role of the Casimir force in the capacitive radio-frequency microelectromechanical switches",
+    "authors": [
+      "G. L. Klimchitskaya",
+      "A. S. Korotkov",
+      "V. V. Loboda",
+      "V. M. Mostepanenko"
+    ],
+    "year": 2026,
+    "abstract": "We determine the role of the fluctuation-induced Casimir force acting between a membrane of cylindrical shape and a bottom electrode in microelectromechanical capacitive switches. For this purpose, the Casimir force is computed taking into account the real properties of both a membrane and a bottom electrode materials with account of surface roughness. The obtained results are compared with those found for the smooth surfaces using the idealization of ideal metal. It is shown that an account of both the real material properties and surface roughness is crucial for obtaining the correct values of the Casimir force. According to our results, at the shortest separations, when the switch membrane is in contact with the transmission line, the magnitudes of the Casimir force may exceed the magni",
+    "doi": "10.1063/5.0337886",
+    "pdf_url": "https://arxiv.org/pdf/2606.28195v1",
+    "journal": "J. Chem. Phys. v.164, 224707 (2026). J. Chem Phys. v.164, 224707 (2026)",
+    "url": "http://arxiv.org/abs/2606.28195v1",
+    "fetched_at": "2026-06-29T02:53:53.577514+00:00",
+    "material": "other"
   }
 ]
