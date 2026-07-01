@@ -10857,5 +10857,134 @@
     "url": "https://www.semanticscholar.org/paper/2d226deaa856cbfb9ee0a15514a409bb2bceb49e",
     "fetched_at": "2026-06-30T02:48:56.879102+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "ss_7bea5cd7a4dc240f",
+    "source": "semantic_scholar",
+    "title": "Drug Delivery Systems Derived from Porous Silicon and Polymers for Cancer Treatments",
+    "authors": [
+      "Dexiang Zhang"
+    ],
+    "year": 2019,
+    "abstract": "",
+    "doi": "10.26180/5DBD6CDFB3F0D",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/7bea5cd7a4dc240f06d86f9c5d5838b8515970cd",
+    "fetched_at": "2026-07-01T02:53:58.492948+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2606.31934v1",
+    "source": "arxiv",
+    "title": "Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy",
+    "authors": [
+      "Pankaj Kumar",
+      "Michel Bosman",
+      "Nikolai Lavrentev",
+      "He Zheng",
+      "Ding Peng",
+      "Kostya S. Novoselov"
+    ],
+    "year": 2026,
+    "abstract": "Reconstruction of the atomic crystal structure in twisted 2D materials has been demonstrated to be responsible for multiple exciting phenomena in van der Waals heterostructures, from the appearance of flat bands in twisted bilayer graphene to Wigner crystallization in transition metal dichalcogenides (TMDs). However, there are still no experimental methods for accessing the 3D atomic distributions nor models that describe the exact atomic shifts in such reconstructed structures, which significantly impedes the development of the field. Dark field (DF) transmission electron microscopy (TEM) has been conventionally employed to visualize the local in-plane atomic displacements. Here we expand this method to obtain a full description of the reconstructed atomic systems and demonstrate the quan",
+    "doi": "10.1021/acs.nanolett.6c00944",
+    "pdf_url": "https://arxiv.org/pdf/2606.31934v1",
+    "journal": "Nano Letters, Volume 26, Issue 21, 6965-6971, 2026",
+    "url": "http://arxiv.org/abs/2606.31934v1",
+    "fetched_at": "2026-07-01T02:54:10.059088+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.31927v1",
+    "source": "arxiv",
+    "title": "Some Results on Causal Modalities in General Spacetimes",
+    "authors": [
+      "Marco Lewis",
+      "Nesta van der Schaaf"
+    ],
+    "year": 2026,
+    "abstract": "Causality is one of the fundamental structures of spacetimes, determining the possible behaviour and propagation of physical information. Causal structure can be analysed through the various modal logics it induces. The modal logics for the chronological and causal relations of the archetypal Minkowski spacetime have been classified. However, only partial results have been achieved for the strict variant of the causal relation, known as the after relation. Towards classification, it was shown by Shapirovsky and Shehtman that the after modality in Minkowski space satisfies a formula we call the 'after formula'.   The present work continues this analysis towards arbitrary spacetimes. In particular, we prove that the after modality in any smooth spacetime satisfies the after formula. We intro",
+    "doi": "10.4204/EPTCS.447.33",
+    "pdf_url": "https://arxiv.org/pdf/2606.31927v1",
+    "journal": "EPTCS 447, 2026, pp. 584-602",
+    "url": "http://arxiv.org/abs/2606.31927v1",
+    "fetched_at": "2026-07-01T02:54:10.059148+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.31861v1",
+    "source": "arxiv",
+    "title": "Belief Contraction in Dynamic Epistemic Logic",
+    "authors": [
+      "Gaia Belardinelli",
+      "Snow Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Dynamic epistemic logic represents belief change via model transformations induced by epistemic events. Its standard formulation (Baltag, Moss, Solecki, 1998) provides a natural account of belief expansion through the elimination of possibilities, but it cannot model belief contraction about factual propositions. A classic response enriches Kripke models with plausibility orderings, representing contraction as an update that promotes certain possibilities over others. We show that this approach has expressive limitations. In particular, the approach cannot model belief that violates positive introspection and contraction dynamics in response to a hedged public announcement that phi might be false.    Motivated by these considerations, we introduce a mechanism for belief contraction defined",
+    "doi": "10.4204/EPTCS.447.8",
+    "pdf_url": "https://arxiv.org/pdf/2606.31861v1",
+    "journal": "EPTCS 447, 2026, pp. 137-157",
+    "url": "http://arxiv.org/abs/2606.31861v1",
+    "fetched_at": "2026-07-01T02:54:10.059299+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.31762v1",
+    "source": "arxiv",
+    "title": "Investigating LLM-Powered Dissenting Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies",
+    "authors": [
+      "Soohwan Lee",
+      "Seoyeong Hwang",
+      "Mingyu Kim",
+      "Dajung Kim",
+      "Kyungho Lee"
+    ],
+    "year": 2026,
+    "abstract": "Minority viewpoints are often suppressed in power-imbalanced group decision-making due to social pressure to comply with the majority. To address this problem, we developed an LLM-powered dissenting minority support system that aimed to foster attention to minority views through either AI-generated counterarguments or AI-mediated messages. We conducted a mixed-method experiment with 96 participants in 24 groups, comparing minority members' experiences across baseline, AI-counterargument, and AI-mediated message conditions. Our findings revealed a nuanced trade-off: AI-generated counterarguments fostered a more flexible atmosphere and enhanced satisfaction, while AI-mediated messaging increased minority participation but unexpectedly reduced their psychological safety. This research contrib",
+    "doi": "10.1145/3816954",
+    "pdf_url": "https://arxiv.org/pdf/2606.31762v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2606.31762v1",
+    "fetched_at": "2026-07-01T02:54:16.468212+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.31506v1",
+    "source": "arxiv",
+    "title": "Configured Grant Scheduling for the Support of TSN Traffic in 5G and Beyond Industrial Networks",
+    "authors": [
+      "M. Carmen Lucas-Estañ",
+      "Ana Larrañaga",
+      "Javier Gozalvez",
+      "Imanol Martínez"
+    ],
+    "year": 2026,
+    "abstract": "5G and beyond networks can facilitate the digital transformation of manufacturing and support more flexible and reconfigurable factories with ubiquitous mobile connectivity. This requires integrating 5G networks with industrial networks that increasingly rely on TSN (Time Sensitive Networking) to support deterministic communications with bounded latencies. Deterministic communications are critical for many industrial applications, but 5G does not natively support deterministic communications. To address this limitation, this study proposes the coordination of the 5G and TSN schedulers and presents a novel 5G configured grant scheduling scheme to support TSN traffic. The scheme uses information about the characteristics of the TSN traffic (packet size, periodicity, and arrival time) to coor",
+    "doi": "10.1109/VTC2023-Fall60731.2023.10333523",
+    "pdf_url": "https://arxiv.org/pdf/2606.31506v1",
+    "journal": "Proceedings of the 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), 2023, pp. 1-5",
+    "url": "http://arxiv.org/abs/2606.31506v1",
+    "fetched_at": "2026-07-01T02:54:16.468519+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2606.31578v1",
+    "source": "arxiv",
+    "title": "Holonic Active Distillation for Scalable Multi-Agent Learning in Multi-Sensor Systems",
+    "authors": [
+      "Dani Manjah",
+      "Tim Bary",
+      "Benoît Macq",
+      "Stéphane Galland"
+    ],
+    "year": 2026,
+    "abstract": "The rapid expansion of sensor-based networks introduces major challenges in scalability, adaptability, and knowledge transfer, especially in open environments where new subsystems can dynamically join or leave. In this work, we propose a Holonic Active Distillation architecture within a Holonic Multi-Agent System (HMAS) to address these issues. Our approach integrates Clustered Stream-Based Active Distillation (CSBAD), a framework in which specialized student models collect local data, query pseudo-labels from teacher models, and cluster into groups of similar sensors.   Results show that the holonic organization balances local specialization with global generalization, while efficiently adapting to sensor departures and re-integrations. We also analyzed trade-offs among incremental model ",
+    "doi": "10.1007/978-3-032-18011-7_6",
+    "pdf_url": "https://arxiv.org/pdf/2606.31578v1",
+    "journal": "2025 13th International Workshop on Engineering Multi-Agent Systems",
+    "url": "http://arxiv.org/abs/2606.31578v1",
+    "fetched_at": "2026-07-01T02:54:41.005086+00:00",
+    "material": "other"
   }
 ]
