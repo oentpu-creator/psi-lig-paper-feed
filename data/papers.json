@@ -11135,5 +11135,61 @@
     "url": "http://arxiv.org/abs/2607.00583v1",
     "fetched_at": "2026-07-02T02:44:07.606859+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.02298v1",
+    "source": "arxiv",
+    "title": "Real-Time Visual Intelligence on Low-Cost UAVs: A Modular Approach for Tracking, Scanning, and Navigation",
+    "authors": [
+      "Andrei-Marian Ungureanu",
+      "Stelian Spînu"
+    ],
+    "year": 2026,
+    "abstract": "Autonomous drones are rapidly transforming modern warfare and civil applications alike. This paper presents the development of an integrated intelligent drone system designed to serve as a personal assistant. Leveraging the DJI Tello drone platform, we implemented a modular architecture that integrates three core artificial intelligence functionalities: facial detection, facial recognition, and depth estimation from monocular vision. A web-based interface enables seamless drone control and real-time video monitoring, while a Python-based server processes visual data and executes inference pipelines using lightweight neural models optimized for embedded systems. Unlike existing commercial solutions, this system emphasizes accessibility, low-cost hardware, and open-source technologies. The s",
+    "doi": "10.32754/JMT.2026.1.07",
+    "pdf_url": "https://arxiv.org/pdf/2607.02298v1",
+    "journal": "Journal of Military Technology, Vol. 9, No. 1, pp. 47-52, Jun. 2026",
+    "url": "http://arxiv.org/abs/2607.02298v1",
+    "fetched_at": "2026-07-06T02:37:10.717686+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.02106v1",
+    "source": "arxiv",
+    "title": "Development of a cosmic ray detector using CMOS sensors embedded in smartphones and Raspberry Pi devices",
+    "authors": [
+      "Wakiko Takano",
+      "Shigeharu Udo",
+      "Atsushi Shiomi",
+      "Kinya Hibino"
+    ],
+    "year": 2026,
+    "abstract": "Cosmic rays are ubiquitous; however, their direct observation traditionally demands specialized, high-cost hardware and significant technical expertise, presenting a high barrier for non-specialist environments such as schools and community settings. We present SORAMAME, a smartphone and tablet application that lowers this barrier by repurposing built-in CMOS image sensors as particle detectors. The system enables real-time recording and visualization of particle-like events without additional hardware, integrating on-device extraction - calibration, noise filtering, and track-candidate detection - with cloud-based data management.   By simplifying the detection process, SORAMAME facilitates widespread adoption across diverse user groups, fostering an environment where educational outreach",
+    "doi": "10.1007/s10686-026-10063-x",
+    "pdf_url": "https://arxiv.org/pdf/2607.02106v1",
+    "journal": "Experimental Astronomy (2026) 62:3",
+    "url": "http://arxiv.org/abs/2607.02106v1",
+    "fetched_at": "2026-07-06T02:37:10.718017+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.02077v1",
+    "source": "arxiv",
+    "title": "Anisotropic tunneling through magnetic barriers in 8-Pmmn borophene",
+    "authors": [
+      "Rachid El Aitouni",
+      "Sanae Zriouel",
+      "Clarence Cortes",
+      "David Laroze",
+      "Ahmed Jellal"
+    ],
+    "year": 2026,
+    "abstract": "We present a theoretical study of electron tunneling through a magnetic barrier in 8-Pmmn borophene, created by depositing two ferromagnetic strips on the borophene sheet. Using a low-energy effective Hamiltonian that captures the anisotropic Dirac spectrum, we solve the Dirac equation in three regions and impose wave-function continuity at the interfaces. From the resulting spinor solutions, we compute current densities and determine transmission and reflection probabilities as functions of incident energy, angle, and barrier parameters. The transmission exhibits strong anisotropy due to the tilted Dirac cones, with pronounced suppression for specific incident directions, suggesting directional filtering of carriers. We further calculate the conductance using the Landauer-Büttiker formali",
+    "doi": "10.1016/j.physleta.2026.131958",
+    "pdf_url": "https://arxiv.org/pdf/2607.02077v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.02077v1",
+    "fetched_at": "2026-07-06T02:37:38.758325+00:00",
+    "material": "other"
   }
 ]
