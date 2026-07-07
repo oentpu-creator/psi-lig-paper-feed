@@ -11191,5 +11191,21 @@
     "url": "http://arxiv.org/abs/2607.02077v1",
     "fetched_at": "2026-07-06T02:37:38.758325+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_9438ef19df532381",
+    "source": "semantic_scholar",
+    "title": "Influence on the Porous Silicon Photoluminescence By Magnetic Nanostructures",
+    "authors": [
+      "P. Granitzer"
+    ],
+    "year": 2018,
+    "abstract": "",
+    "doi": "10.1149/ma2018-01/16/1161",
+    "pdf_url": "",
+    "journal": "",
+    "url": "https://www.semanticscholar.org/paper/9438ef19df532381a416b44ea9259a56b6ae0f84",
+    "fetched_at": "2026-07-07T02:33:34.845255+00:00",
+    "material": "PSi"
   }
 ]
