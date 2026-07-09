@@ -11207,5 +11207,272 @@
     "url": "https://www.semanticscholar.org/paper/9438ef19df532381a416b44ea9259a56b6ae0f84",
     "fetched_at": "2026-07-07T02:33:34.845255+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2607.07582v1",
+    "source": "arxiv",
+    "title": "X-ray and Gamma-ray Emission from a High-Temperature Plasma and the Spectra of Accreting Black Holes",
+    "authors": [
+      "S. A. Grebenev"
+    ],
+    "year": 2026,
+    "abstract": "We present our numerical computations of broadband radiation spectra forming in a layer of high-temperature (kTe ~ 50 keV) semitransparent (with a Thomson optical depth ~1-3) plasma with an electron density Ne ~ 10^{17}-10^{19} cm^{-3}, typical for the accretion disk regions surrounding a black hole in X-ray binaries. The computations take into account the bremsstrahlung processes of photon production and absorption and their Comptonization. We show that the intrinsic radiation of such a plasma is sufficient to explain the X-ray spectra observed in the low (hard) state of Galactic black holes. No commonly assumed additional soft (with E < 1 keV) photons to maintain Comptonization are required; moreover, their presence would lead to severe distortions of the spectrum compared to the observe",
+    "doi": "10.1134/S106377372670009X",
+    "pdf_url": "https://arxiv.org/pdf/2607.07582v1",
+    "journal": "Astronomy Letters, 51 (2025), 655-691",
+    "url": "http://arxiv.org/abs/2607.07582v1",
+    "fetched_at": "2026-07-09T02:25:40.770914+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07441v1",
+    "source": "arxiv",
+    "title": "A machine learning approach to estimating HI deficiency in galaxies",
+    "authors": [
+      "Filip Janák",
+      "Boris Deshev",
+      "Roman Nagy",
+      "Rhys Taylor"
+    ],
+    "year": 2026,
+    "abstract": "Measurements of the HI content of galaxies serve as an important tracer for probing the impact of environment on galaxy evolution. More specifically, the HI deficiency (defined as the difference between expected unaltered and observed HI content of a galaxy) is closely related with environmental effects, which are most significant in large groups and clusters. In this work, we aim to estimate the HI deficiency of ALFALFA galaxies and investigate its relation with galactic environment. Using a random forest machine learning algorithm, we developed a predictive model capable of estimating the original HI content of a galaxy based solely on its optical properties. The model was trained on a subsample of 6 982 isolated ALFALFA galaxies with optical photometric data from the Sloan Digital Sky S",
+    "doi": "10.1088/1538-3873/ae782c",
+    "pdf_url": "https://arxiv.org/pdf/2607.07441v1",
+    "journal": "Janák, F., Deshev, B., Nagy, R., & Taylor, R. 2026, A Machine Learning Approach to Estimating H I Deficiency in Galaxies, Publ. Astron. Soc. Pac., 138, 064102",
+    "url": "http://arxiv.org/abs/2607.07441v1",
+    "fetched_at": "2026-07-09T02:25:40.771150+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.06963v1",
+    "source": "arxiv",
+    "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+    "authors": [
+      "Kiarash Ahi",
+      "Saeed Valizadeh"
+    ],
+    "year": 2026,
+    "abstract": "Large Language Models (LLMs) and generative AI (GenAI) systems, such as ChatGPT, Claude, Gemini, LLaMA, Copilot, Stable Diffusion by OpenAI, Anthropic, Google, Meta, Microsoft, Stability AI, respectively, are revolutionizing cybersecurity, enabling both automated defense and sophisticated attacks. These technologies power real-time threat detection, phishing defense, secure code generation, and vulnerability exploitation at unprecedented scales. Following a rapid surge where LLM-generated malware grew to account for an estimated 50% of detected threats by 2025, up from just 2% in 2021, navigating this highly automated threat landscape in 2026 demands next-generation security frameworks. This paper presents a comprehensive survey of the beneficial and malicious applications of LLMs in cyber",
+    "doi": "10.1109/SVCC65277.2025.11133642",
+    "pdf_url": "https://arxiv.org/pdf/2607.06963v1",
+    "journal": "2025 Silicon Valley Cybersecurity Conference (SVCC), San Francisco, CA, USA, 2025, pp. 1-10",
+    "url": "http://arxiv.org/abs/2607.06963v1",
+    "fetched_at": "2026-07-09T02:25:46.587880+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.04855v1",
+    "source": "arxiv",
+    "title": "Red Pitaya DAQ for fast neutron detection: a scalable, compact and low-cost solution",
+    "authors": [
+      "Dzmitry Kazlou",
+      "Roman Bergert",
+      "Hans-Georg Zaunick",
+      "Kai-Thomas Brinkmann"
+    ],
+    "year": 2026,
+    "abstract": "In this work, we present the initial results of a compact fast-neutron detection system based on the EJ-276D plastic scintillator, a dual-channel readout using two silicon photomultipliers (SiPMs) with complementary cell geometries, and a data acquisition (DAQ) system built on the StemLab Red Pitaya FPGA platform. The system combines the pulse shape discrimination (PSD) capability of EJ-276D with custom, cost-effective analog front-end electronics and open-source DAQ firmware. Unlike traditional systems relying on bulky photomultiplier tubes or liquid scintillator detectors, our design is portable and scalable. It achieves a Figure of Merit of 1.61 in the 2.75--3.0\\,MeV$_{ee}$ energy range, comparable to established setups, while requiring only a single +5\\,V USB power source. The results ",
+    "doi": "10.1088/1748-0221/21/07/P07005",
+    "pdf_url": "https://arxiv.org/pdf/2607.04855v1",
+    "journal": "JINST 21 P07005 (2026)",
+    "url": "http://arxiv.org/abs/2607.04855v1",
+    "fetched_at": "2026-07-09T02:25:52.747253+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.05453v1",
+    "source": "arxiv",
+    "title": "Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease",
+    "authors": [
+      "Md Abu Bakr Siddique",
+      "Jakub Orłowski",
+      "Yan Zhang",
+      "Hongyu An"
+    ],
+    "year": 2026,
+    "abstract": "Parkinson's disease (PD) affects millions worldwide and causes severe motor symptoms. Adaptive deep brain stimulation (aDBS) delivers physiologically informed stimulation that can track fluctuations in PD motor symptoms, enabling more intelligent DBS control. However, most existing aDBS approaches are primarily algorithm- and software-driven, with limited efforts toward circuit realization, particularly low-power and implantable integrated circuits. This paper presents the Silicon Leaky Integrate-and-Fire Deep Brain Stimulation (SiLIF-DBS) controller, a neuromorphic silicon neuron stimulator implemented with metal-oxide-semiconductor (CMOS) technology. For system-level evaluation, a simplified computational model of the SiLIF-DBS controller is derived and embedded within a Parkinsonian cor",
+    "doi": "10.1145/3822454.3822465",
+    "pdf_url": "https://arxiv.org/pdf/2607.05453v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.05453v1",
+    "fetched_at": "2026-07-09T02:25:52.747325+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07657v1",
+    "source": "arxiv",
+    "title": "Predicting Multi-Order Magnetic Polariton Resonances for Radiative Properties Tailoring by Distributed Circuit Model",
+    "authors": [
+      "Hangjie Li",
+      "Junming Zhao"
+    ],
+    "year": 2026,
+    "abstract": "Surface plasmon polaritons (SPPs) and magnetic polaritons (MPs) are fundamental resonance modes that are widely used to tailor the thermal radiation properties of micro/nanostructured metamaterials. Lumped circuit models (LCMs) are usually constructed empirically to describe the MP resonance conditions, and different LCMs have to be constructed for different orders of MPs, but these are difficult to be built for high-order MP modes due to the complex electromagnetic field distribution. This work proposes a new type of circuit model, distributed circuit model (DCM), to describe and predict multi-order MP resonances inside the structure based on the minimum total impedance condition. This allows both fundamental and high-order MP resonances to be predicted with a unified circuit, significant",
+    "doi": "10.1016/j.ijheatmasstransfer.2025.128153",
+    "pdf_url": "https://arxiv.org/pdf/2607.07657v1",
+    "journal": "International Journal of Heat and Mass Transfer.2026,256:128153",
+    "url": "http://arxiv.org/abs/2607.07657v1",
+    "fetched_at": "2026-07-09T02:25:58.330416+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07292v1",
+    "source": "arxiv",
+    "title": "CarbonCLIP: Enhance Carbon Prediction from Satellite Imagery via Integrated Street-View Semantics and Temporal Context Training",
+    "authors": [
+      "Zeru Yang",
+      "Fang-Ying Gong",
+      "Steve H. L. Yim",
+      "Chau Yuen"
+    ],
+    "year": 2026,
+    "abstract": "Accurately estimating urban carbon emissions is critical for sustainable urban planning, yet many existing approaches remain difficult to apply consistently across cities due to data-source heterogeneity and the lack of fine-grained semantic-temporal context in remote sensing data. We propose CarbonCLIP, a task-oriented multimodal distillation framework that improves satellite-based carbon emission prediction by transferring contextual knowledge into a unified satellite representation through dual-branch contrastive learning. Unlike conventional methods that rely on static visual features, CarbonCLIP explicitly bridges the gap between top-down satellite views and ground-level human activities. Specifically, the spatial branch uses fine-grained textual descriptions automatically generated f",
+    "doi": "10.1109/JSTARS.2026.3710502",
+    "pdf_url": "https://arxiv.org/pdf/2607.07292v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.07292v1",
+    "fetched_at": "2026-07-09T02:26:03.816806+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07681v1",
+    "source": "arxiv",
+    "title": "Multistage development of short-range spin correlations and weak magnetic order in the two coupled trillium lattices of K2Fe2(MoO4)(PO4)2",
+    "authors": [
+      "J. Khatua",
+      "Sritharan Krishnamoorthi",
+      "Changhyun Koo",
+      "Gyungbin Ban",
+      "Taeyun Kim",
+      "Yugo Oshima"
+    ],
+    "year": 2026,
+    "abstract": "Trillium lattices, where magnetic ions form a chiral network of corner-sharing triangles, offer a three-dimensional magnetic framework that can host fragile classical spin-liquid states. Herein, we report on the magnetization, specific heat, electron spin resonance (ESR), and muon spin relaxation ($μ$SR) of K$_{2}$Fe$_{2}$(MoO$_{4}$)(PO$_{4}$)$_{2}$ single crystals. Magnetization measurements reveal strong antiferromagnetic interactions coexisting with weak magnetic order at $T_{\\rm N} = 5.2$~K, as evidenced by a $λ$-like anomaly observed in the magnetic susceptibility, a critical enhancement of the muon spin relaxation rate and the wipeout of the ESR signal as the temperature approaches $T_{\\rm N}$. Above $T_{\\rm N}$, two distinct developments of short-range spin correlations are identifi",
+    "doi": "10.1103/s6y4-2n8m",
+    "pdf_url": "https://arxiv.org/pdf/2607.07681v1",
+    "journal": "Phys. Rev. B 114, 034410(2026)",
+    "url": "http://arxiv.org/abs/2607.07681v1",
+    "fetched_at": "2026-07-09T02:26:15.178508+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.06946v1",
+    "source": "arxiv",
+    "title": "Ultrafast proton radiography of the magnetic fields generated by a laser-driven coil current",
+    "authors": [
+      "Lan Gao",
+      "Hantao Ji",
+      "Gennady Fiksel",
+      "William Fox",
+      "Michelle Evans",
+      "Noel Alfonso"
+    ],
+    "year": 2026,
+    "abstract": "Magnetic fields generated by a current flowing through a U-shaped coil connecting two copper foils were measured using ultrafast proton radiography. Two $\\sim$1.25 kJ, 1-ns laser pulses propagated through laser entrance holes in the front foil, and were focused to the back foil with an intensity of $\\sim$3 $\\times$ 10$^{16}$ W$/$cm$^{2}$. The intense laser-solid interaction induced a high voltage between the copper foils and generated a large current in the connecting coil. The proton data show $\\sim$40-50 Tesla magnetic fields at the center of the coil $\\sim$3-4 ns after laser irradiation. The experiments provide significant insight for future target designs that aim to develop a powerful source of external magnetic fields for various applications in high-energy-density science.",
+    "doi": "10.1063/1.4945643",
+    "pdf_url": "https://arxiv.org/pdf/2607.06946v1",
+    "journal": "Phys. Plasmas 23, 043106 (2016)",
+    "url": "http://arxiv.org/abs/2607.06946v1",
+    "fetched_at": "2026-07-09T02:26:21.151251+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07114v1",
+    "source": "arxiv",
+    "title": "How the Fusion of Onboard Sensors and V2X Data can Improve (or not) the Cooperative Perception of Connected Automated Vehicles",
+    "authors": [
+      "Amir Mohammadisarab",
+      "Miguel Sepulcre",
+      "Luca Lusvarghi",
+      "Javier Gozalvez"
+    ],
+    "year": 2026,
+    "abstract": "Automated vehicles rely on onboard sensors to perceive their surroundings and navigate autonomously. However, sensor performance may degrade under adverse weather conditions or when line-of-sight is obstructed. Cooperative perception (or collective perception) is expected to mitigate these limitations by enabling Connected and Automated Vehicles (CAVs) to share sensor data and collaboratively enhance situational awareness. Several studies have analyzed the potential of cooperative perception, yet the fusion of V2X data with information from onboard sensors has received limited focus. V2X data may contain errors that affect the quality of the fused data, and hence the effectiveness of cooperative perception. This study analyzes the impact of sensing measurement errors, V2X packet losses, an",
+    "doi": "10.1109/VTC2025-Spring65109.2025.11174443",
+    "pdf_url": "https://arxiv.org/pdf/2607.07114v1",
+    "journal": "Proc. 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)",
+    "url": "http://arxiv.org/abs/2607.07114v1",
+    "fetched_at": "2026-07-09T02:26:40.504415+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.06996v1",
+    "source": "arxiv",
+    "title": "Multimodal Smart Glove for Sign Language Recognition Using Deep Learning",
+    "authors": [
+      "Anh Thu Nguyen Ngoc",
+      "Tam Phong Truong",
+      "Thai Anh Nguyen Duong",
+      "Vu Linh Nguyen",
+      "Manh Duong Phung"
+    ],
+    "year": 2026,
+    "abstract": "Sign language recognition technologies can improve communication between deaf individuals and the broader community, but many existing systems face challenges in real-world deployment. This paper presents a deployable smart glove system for sign language recognition that integrates wearable sensing and deep learning. The glove incorporates flex sensors and an inertial measurement unit (IMU) to capture finger articulation and hand motion, while facial cues are obtained through a camera. Sensor data are transmitted via an ESP32-C6 microcontroller and processed using a long short-term memory (LSTM) network to model temporal gesture dynamics. Experimental results show that the proposed model achieves an overall recognition accuracy of approximately 95%. The trained model is further converted t",
+    "doi": "10.1007/978-3-032-29469-2_46",
+    "pdf_url": "https://arxiv.org/pdf/2607.06996v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.06996v1",
+    "fetched_at": "2026-07-09T02:26:40.504513+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.06739v1",
+    "source": "arxiv",
+    "title": "Hardware-aware Graph Neural Networks prunning for embedded event-based vision",
+    "authors": [
+      "Piotr Wzorek",
+      "Kamil Jeziorek",
+      "Tomasz Kryjak"
+    ],
+    "year": 2026,
+    "abstract": "Event-based cameras are gaining popularity as the sensor of choice for mobile robotics, due to their high performance in dynamic environments. However, these applications require efficient real-time data processing with low latency and power consumption. One strategy to meet these stringent requirements is hardware acceleration of efficient algorithms that preserve the temporal sparsity of event data. In this work, we propose an optimization strategy for Graph Convolutional Neural Networks models aimed at adapting their architecture to the limited resources of embedded heterogeneous FPGA platforms. Our method incorporates hardware-aware pruning and quantization, taking into account the trade-off between on-chip memory savings and inference accuracy. Strategic exploration of the design spac",
+    "doi": "10.23919/SPA65537.2025.11215154",
+    "pdf_url": "https://arxiv.org/pdf/2607.06739v1",
+    "journal": "2025 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA), Poznan, Poland, 2025, pp. 182-187",
+    "url": "http://arxiv.org/abs/2607.06739v1",
+    "fetched_at": "2026-07-09T02:26:40.504674+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.07356v1",
+    "source": "arxiv",
+    "title": "Observation of Self-Similarity in the Magnetic Fields Generated by the Ablative Nonlinear Rayleigh-Taylor Instability",
+    "authors": [
+      "L. Gao",
+      "P. M. Nilson",
+      "I. V. Igumenschev",
+      "G. Fiksel",
+      "R. Yan",
+      "J. R. Davies"
+    ],
+    "year": 2026,
+    "abstract": "Magnetic fields generated by the nonlinear Rayleigh-Taylor growth of laser-seeded three-dimensional broadband perturbations were measured in laser-accelerated planar targets using ultrafast proton radiography. The experimental data show self-similar behavior in the growing cellular magnetic field structures. These observations are consistent with a bubble competition and merger model that predicts the time evolution of the number and size of the bubbles, linking the cellular magnetic field structures with the Rayleigh-Taylor bubble and spike growth.",
+    "doi": "10.1103/PhysRevLett.110.185003",
+    "pdf_url": "https://arxiv.org/pdf/2607.07356v1",
+    "journal": "Phys. Rev. Lett. 110, 185003 (2013)",
+    "url": "http://arxiv.org/abs/2607.07356v1",
+    "fetched_at": "2026-07-09T02:26:46.664054+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.06965v1",
+    "source": "arxiv",
+    "title": "Magnetic field generation by the Rayleigh-Taylor instability in laser-driven planar plastic targets",
+    "authors": [
+      "L Gao",
+      "PM Nilson",
+      "IV Igumenschev",
+      "SX Hu",
+      "JR Davies",
+      "C Stoeckl"
+    ],
+    "year": 2026,
+    "abstract": "Magnetic fields generated by the Rayleigh-Taylor instability were measured in laser-accelerated planar foils using ultrafast proton radiography. Thin plastic foils were irradiated with $\\sim$4-kJ, 2.5-ns laser pulses focused to an intensity of $\\sim$10$^{14}$ W$/$cm$^{2}$ on the OMEGA EP Laser System. Target modulations were seeded by laser nonuniformities and amplified during target acceleration by the Rayleigh-Taylor instability. The experimental data show the hydrodynamic evolution of the target and MG-level magnetic fields generated in the broken foil. The experimental data are in good agreement with predictions from 2-D magnetohydrodynamic simulations.",
+    "doi": "10.1103/PhysRevLett.109.115001",
+    "pdf_url": "https://arxiv.org/pdf/2607.06965v1",
+    "journal": "Phys. Rev. Lett. 109, 115001 (2012)",
+    "url": "http://arxiv.org/abs/2607.06965v1",
+    "fetched_at": "2026-07-09T02:26:46.664203+00:00",
+    "material": "other"
   }
 ]
