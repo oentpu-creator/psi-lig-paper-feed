@@ -11474,5 +11474,26 @@
     "url": "http://arxiv.org/abs/2607.06965v1",
     "fetched_at": "2026-07-09T02:26:46.664203+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_27e314978b389ed3",
+    "source": "semantic_scholar",
+    "title": "A Multimodal Laser‐Induced Graphene‐Based Flexible Sensor for Soft Robotic Hand Environmental Perception",
+    "authors": [
+      "Youning Duo",
+      "Jinxi Duan",
+      "Xinyu Hao",
+      "Kai Tao",
+      "Xin Liu",
+      "Mingyuan Li"
+    ],
+    "year": 2025,
+    "abstract": "Human skin exhibits a complex layered architecture endowed with diverse sensory receptors, facilitating the perception of rich, multimodal information during environmental interactions. This biological paradigm has inspired the development of advanced multimodal flexible sensors and intelligent robotic systems. In this study, it presents a novel multimodal laser‐induced graphene (LIG)‐based flexible sensor (MLFS) that leverages laser processing to rapidly fabricate distinct functional layers of LIG with tunable properties. By integrating triboelectric and piezoresistive mechanisms, the MLFS enables comprehensive detection of proximity and contact stimuli, providing sensitive and reliable environmental feedback. The sensor is seamlessly embedded onto a soft robotic finger, endowing the robo",
+    "doi": "10.1002/aisy.202500900",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202500900",
+    "journal": "Advanced Intelligent Systems",
+    "url": "https://www.semanticscholar.org/paper/27e314978b389ed3016645fac9ba56c9bb65893b",
+    "fetched_at": "2026-07-13T02:11:39.843588+00:00",
+    "material": "LIG"
   }
 ]
