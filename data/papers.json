@@ -11515,5 +11515,179 @@
     "url": "https://www.semanticscholar.org/paper/34136b29fb78113ed37a8c83c3b76c35a142d45a",
     "fetched_at": "2026-07-14T01:57:14.132559+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2607.12827v1",
+    "source": "arxiv",
+    "title": "The MICADO first light imager for the ELT: an overview of the RAM analysis and consequent design and maintenance strategy",
+    "authors": [
+      "Federico Biondi",
+      "Yann Clénet",
+      "Patrick Caillier",
+      "Veronika Wimmer",
+      "Tristan Buey",
+      "Luis Neumeier"
+    ],
+    "year": 2026,
+    "abstract": "MICADO is a cryogenic near infrared Multi-AO Imaging Camera and Spectrometer developed for the first light operations at the ELT. It will operate in a \"Standalone\" configuration with a Single Conjugate Adaptive Optics module for a nominal period of two years. After this time, the system will be re-arranged in the \"MICADO-MORFEO\" configuration, being able to switch between the SCAO and a Multi Conjugate Adaptive Optics module in the later phase of the project. The lifetime requirement of minimum ten years, together with other demanding requisites about its availability and reliability triggered a meticulous FMECA analysis mainly focused on developing robust maintenance strategies. In this paper, we outline the assumptions and the boundaries of the MICADO RAM analysis, a collaborative effort",
+    "doi": "10.1117/12.3020567",
+    "pdf_url": "https://arxiv.org/pdf/2607.12827v1",
+    "journal": "Proc. SPIE 13099, 130990T (23 Aug 2024)",
+    "url": "http://arxiv.org/abs/2607.12827v1",
+    "fetched_at": "2026-07-15T01:52:10.426875+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12814v1",
+    "source": "arxiv",
+    "title": "The MICADO first-light imager for the ELT: first steps of the SCAO system MAIT",
+    "authors": [
+      "Yann Clénet",
+      "Eric Gendron",
+      "Fabrice Vidal",
+      "Mathieu Cohen",
+      "Frédéric Chapron",
+      "Arnaud Sevin"
+    ],
+    "year": 2026,
+    "abstract": "MICADO is the ELT first light instrument, an imager working at the diffraction limit of the telescope thanks to two adaptive optics (AO) modes: a single conjugate one (SCAO), available at the instrument first light and developed by the MICADO consortium, and a multi conjugate one (MCAO), developed by the MORFEO consortium.   Although the project final design review process is about to be completed, the review board and ESO acknowledged that \"the review of the final design can be considered complete for the majority of the MICADO sub-systems\" and agreed that MICADO can start manufacturing.   For the MICADO SCAO module, we have started the manufacturing of several parts: the majority of the SCAO optics and of the SCAO mechanics, the real-time computer software and the instrument control soft",
+    "doi": "10.1117/12.3018078",
+    "pdf_url": "https://arxiv.org/pdf/2607.12814v1",
+    "journal": "Proc. SPIE 13097, Adaptive Optics Systems IX, 1309728 (27 Aug 2024)",
+    "url": "http://arxiv.org/abs/2607.12814v1",
+    "fetched_at": "2026-07-15T01:52:10.427004+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12653v1",
+    "source": "arxiv",
+    "title": "Quantum metrology with undetected mid-infrared photons for applied non-destructive testing",
+    "authors": [
+      "Paul Gattinger",
+      "Andreas W. Schell",
+      "Maja Buchegger",
+      "Markus Brandstetter",
+      "Ivan Zorin"
+    ],
+    "year": 2026,
+    "abstract": "Metrology with undetected photons is an emerging technique that leverages quantum effects and photon correlations (entanglement) to retrieve valuable information in a target spectral range (e.g., mid-infrared, mid-IR) using measurements in an easily accessible domain (e.g., visible, near-IR). The underlying quantum process of spontaneous parametric down-conversion (SPDC) is utilized to generate non-degenerate correlated signal and idler photons to serve as detection and probing photons, respectively. Sensing with undetected photons enables important advantages, such as ultra-low probe powers, room-temperature operation, and shot-noise-limited detection. In this contribution, we apply a quantum nonlinear interferometer based on an SPDC source to perform applied mid-IR spectroscopy, mid-IR m",
+    "doi": "10.1007/s00502-026-01428-3",
+    "pdf_url": "https://arxiv.org/pdf/2607.12653v1",
+    "journal": "Elektrotech. Inftech. 143, 365-372, 2026",
+    "url": "http://arxiv.org/abs/2607.12653v1",
+    "fetched_at": "2026-07-15T01:52:10.427319+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.09915v1",
+    "source": "arxiv",
+    "title": "Photonic Theta Cavity: Engineering Bound States in the Continuum in Topological Resonators Beyond the Limitations of Near Field Coupling",
+    "authors": [
+      "Eric Seabron",
+      "Robert E. Coleman",
+      "Chuanyu Lian",
+      "Malcolm Bogroff",
+      "Carlos Rios",
+      "Antonio Levy"
+    ],
+    "year": 2026,
+    "abstract": "The Theta Cavity is a unique topological resonator architecture which utilizes interferometric coupling to overcome fundamental design limitations associated with near-field evanescent coupling which currently dominates the design space for integrated photonics. The defining device physics is established by the mirror symmetric cross junctions which preserves efficient power transfer between a waveguide and ring resonator creating a strongly correlated phase relationship between the multiple paths. The unique mode selection physics allows for interference driven suppression of radiative pathways enabling strong cavity confinement and the emergence of Bound States in the Continuum (BICs). Analytical models reveal non-Hermitian optical band structure displaying non-trivial topological transi",
+    "doi": "10.1021/acsphotonics.6c00426",
+    "pdf_url": "https://arxiv.org/pdf/2607.09915v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.09915v1",
+    "fetched_at": "2026-07-15T01:52:29.299549+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12684v1",
+    "source": "arxiv",
+    "title": "Lesion Segmentation in Moderate to Severe Traumatic Brain Injury: An nnU-Net Based Approach with Adaptive Normalization in the AIMS-TBI 2025 Challenge",
+    "authors": [
+      "Inhwa Son",
+      "Gaeun Lee",
+      "Sohyeon Sim",
+      "Kwang-Hyun Uhm"
+    ],
+    "year": 2026,
+    "abstract": "The segmentation of lesions in Moderate to Severe Traumatic Brain Injury (msTBI) from T1-weighted MRI presents a significant clinical challenge due to the profound heterogeneity of lesion characteristics in terms of size, shape, and location. To address this, the AIMS-TBI 2025 Challenge was organized to promote the development of robust and accurate segmentation algorithms. In this paper, we present our deep learning-based solution. Our methodology employs the nnU-Net framework with an adaptive intensity normalization strategy confined to the brain parenchyma, effectively reducing inter-subject variability and mitigating artifacts from non-brain structures. Upon final evaluation on the held-out test set, our method demonstrated highly competitive performance on the official leaderboard, ac",
+    "doi": "10.1007/978-3-032-16370-7_29",
+    "pdf_url": "https://arxiv.org/pdf/2607.12684v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.12684v1",
+    "fetched_at": "2026-07-15T01:52:51.925882+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12534v1",
+    "source": "arxiv",
+    "title": "A canonical two-scale Sonine fractional calculus induced by the Tricomi function",
+    "authors": [
+      "Ivano Colombaro",
+      "Marc Tudela-Pi"
+    ],
+    "year": 2026,
+    "abstract": "We introduce a Tricomi-type generalized fractional calculus in the Sonine kernel framework. The key result is that the Tricomi branch is a Stieltjes function in the admissible parameter range, so its reciprocal is a complete Bernstein function. This fact induces a Sonine fractional calculus together with the canonical Tricomi integral and the associated Riemann--Liouville-type and Caputo-type derivatives. We also prove that, within the Kummer class, the Tricomi branch is the unique Stieltjes representative, once the natural asymptotic normalization is fixed, and we derive the corresponding Lévy--Khintchine representation, Volterra formulation, and scalar Cauchy problem. A distinctive feature of the resulting operators is the emergence of two independent asymptotic orders.",
+    "doi": "10.1007/s13540-026-00556-z",
+    "pdf_url": "https://arxiv.org/pdf/2607.12534v1",
+    "journal": "Fract. Calc. Appl. Anal. (2026)",
+    "url": "http://arxiv.org/abs/2607.12534v1",
+    "fetched_at": "2026-07-15T01:53:11.851653+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12513v1",
+    "source": "arxiv",
+    "title": "Coherence enhancement of Rydberg polaritons",
+    "authors": [
+      "Xiao-Feng Shi",
+      "Yan Lu",
+      "Yuechun Jiao",
+      "Jianming Zhao"
+    ],
+    "year": 2026,
+    "abstract": "Quantum nonlinear optics by Rydberg polaritons can enable single-photon transistor and switch, single-photon source, and deterministic quantum information processing. A major hindrance in this study is the fast motional decoherence. Here, we devise a scheme to significantly enhance the coherence of Rydberg polariton by letting the atoms {\\it remember} their velocities, or, alternatively, by {\\it changing} the phase of Rydberg polariton according to its storage time. After the Rydberg polariton is prepared with a Rydberg state $|r_1\\rangle$, i.e., during the storage time, two laser fields induce a transition between $|r_1\\rangle$ and a nearby Rydberg state $|r_2\\rangle$ via a low-lying intermediate state $\\lvert f\\rangle$ which is largely detuned. In particular, we find that either a $2π\\ma",
+    "doi": "10.1103/z6dc-zrnh",
+    "pdf_url": "https://arxiv.org/pdf/2607.12513v1",
+    "journal": "Phys. Rev. Appl. 24, 044028 (2025)",
+    "url": "http://arxiv.org/abs/2607.12513v1",
+    "fetched_at": "2026-07-15T01:53:24.842971+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.12593v1",
+    "source": "arxiv",
+    "title": "Improving Autonomous Nano-drones Performance via Automated End-to-End Optimization and Deployment of DNNs",
+    "authors": [
+      "Vlad Niculescu",
+      "Lorenzo Lamberti",
+      "Francesco Conti",
+      "Luca Benini",
+      "Daniele Palossi"
+    ],
+    "year": 2026,
+    "abstract": "The evolution of energy-efficient ultra-low-power (ULP) parallel processors and the diffusion of convolutional neural networks (CNNs) are fueling the advent of autonomous driving nano-sized unmanned aerial vehicles (UAVs). These sub-10 cm robotic platforms are envisioned as next-generation ubiquitous smart-sensors and unobtrusive robotic-helpers. However, the limited computational/memory resources available aboard nano-UAVs introduce the challenge of minimizing and optimizing vision-based CNNs -- which to date require error-prone, labor-intensive iterative development flows. This work explores methodologies and software tools to streamline and automate all the deployment of vision-based CNN navigation on a ULP multicore system-on-chip acting as a mission computer on a Crazyflie 2.1 nano-UA",
+    "doi": "10.1109/JETCAS.2021.3126259",
+    "pdf_url": "https://arxiv.org/pdf/2607.12593v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.12593v1",
+    "fetched_at": "2026-07-15T01:53:33.509348+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.11282v1",
+    "source": "arxiv",
+    "title": "Barium-based Rydberg atom quantum technologies with long Rydberg coherence",
+    "authors": [
+      "Xiao-Feng Shi"
+    ],
+    "year": 2026,
+    "abstract": "The short Doppler-limited coherence time of the laser-excited Rydberg state, usually orders of magnitude shorter than the lifetime of the Rydberg state, hinders the Rydberg-mediated quantum technologies. Here, we show that a 649~nm~$-$~658~nm two-photon excitation of the $6sng~^1G_4$ Rydberg state from a long-lived d-orbital clock state of barium can be achieved with a two-photon wavevector that is tiny, which effectively removes the Doppler-limited decoherence. Moreover, the $6sng~^1G_4$ Rydberg state has strong dipole-dipole interaction due to small Förster defect with nearby Rydberg states and possesses long radiative lifetime. These can benefit quantum computing based on individually trapped neutral atoms, and can enable long-lived Rydberg polaritons in atomic media, which brings fresh",
+    "doi": "10.1103/bbv3-d4ch",
+    "pdf_url": "https://arxiv.org/pdf/2607.11282v1",
+    "journal": "Phys. Rev. A 112, 042401 (2025)",
+    "url": "http://arxiv.org/abs/2607.11282v1",
+    "fetched_at": "2026-07-15T01:53:55.379178+00:00",
+    "material": "other"
   }
 ]
