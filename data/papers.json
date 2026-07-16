@@ -11689,5 +11689,24 @@
     "url": "http://arxiv.org/abs/2607.11282v1",
     "fetched_at": "2026-07-15T01:53:55.379178+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_62044635596ad5cc",
+    "source": "semantic_scholar",
+    "title": "A Review of the Limitations of Porous Nanosystems in Drug Delivery and How to Improve Them",
+    "authors": [
+      "Samira Nasirizadeh",
+      "Alireza Ghasempour",
+      "F. Rahimi",
+      "Mahsa Sedighi"
+    ],
+    "year": 2025,
+    "abstract": "Background and Objectives: Modern drug delivery strategies using nano-systems have attracted atten - tion in recent years. There are several studies on porous silicon (Psi)-based nanosystems due to their im - pressive features, including large surface area, high pore volume, biocompatibility, and biodegradability. Today, most studies have focused on designing smart drug carriers that can specifically respond to physi - cal and chemical environmental changes such as magnetic field, pH, reducing agents, biomolecules, etc. However, their use has some limitations. This study aims to review the limitations of these nanosystems in drug delivery and investigate the solutions. Methods In this review study, to collect information, related articles in English were searched in electron - ic databases",
+    "doi": "10.32598/qums.19.2853.1",
+    "pdf_url": "http://journal.muq.ac.ir/files/site1/user_files_443964/nasirizadeh-A-10-2853-1-f7f0091.pdf",
+    "journal": "Qom Univ Med Sci",
+    "url": "https://www.semanticscholar.org/paper/62044635596ad5cc97914a8d9627c121366f0e8d",
+    "fetched_at": "2026-07-16T02:03:22.384394+00:00",
+    "material": "PSi"
   }
 ]
