@@ -11708,5 +11708,143 @@
     "url": "https://www.semanticscholar.org/paper/62044635596ad5cc97914a8d9627c121366f0e8d",
     "fetched_at": "2026-07-16T02:03:22.384394+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2607.15056v1",
+    "source": "arxiv",
+    "title": "The study of bulk damage of high gamma-irradiated $n^+$-in-$p$ silicon diodes",
+    "authors": [
+      "M. Mikestikova",
+      "P. Federicova",
+      "P. Gallus",
+      "R. Jirasek",
+      "J. Kozakova",
+      "J. Kroll"
+    ],
+    "year": 2026,
+    "abstract": "The bulk damage of $p$-type silicon sensors caused by gamma irradiation with high total ionizing doses has been investigated. The study was carried out on different types of $n^+$-in-$p$ silicon diodes with different oxygen concentrations and silicon bulk resistivities. The Secondary-Ion Mass Spectrometry technique was used to determine the relative concentration of oxygen in the individual samples. The measured diodes were irradiated by a $^{60}$Co gamma source to total ionizing doses ranging from 0.50 up to 8.28 MGy, and annealed for 80 minutes at 60°C. The main goal of the study was to characterize the gamma-radiation induced displacement damage by measuring IV and CV characteristics, and the evolution of the full depletion voltage with the total ionizing dose. The Transient Current Tec",
+    "doi": "10.1016/j.nima.2024.169432",
+    "pdf_url": "https://arxiv.org/pdf/2607.15056v1",
+    "journal": "Nuclear Instruments and Methods in Physics Research A 1064 (2024) 169432",
+    "url": "http://arxiv.org/abs/2607.15056v1",
+    "fetched_at": "2026-07-18T01:54:56.417133+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.14691v1",
+    "source": "arxiv",
+    "title": "Summary of quality control (QC) of ATLAS18 production ITk strip sensors",
+    "authors": [
+      "P. Federičováa",
+      "A. Affolder",
+      "K. Affolder",
+      "A. Awais",
+      "G. A. Beck",
+      "A. J. Bevan"
+    ],
+    "year": 2026,
+    "abstract": "To address the demanding operational requirements of the High-Luminosity upgrade of the Large Hadron Collider (HL-LHC), the ATLAS experiment is replacing its current Inner Detector with a new all-silicon Inner Tracker (ITk). The ITk will feature an active sensor area of 165 m2, with its outer tracking layers populated by approximately 18,000 ATLAS18 n+-in-p silicon strip sensors. The silicon sensors, available in eight geometries tailored to two barrel and six endcap module types, respectively, are designed to tolerate fluences of up to 1.6 x 10^15 neq/cm2 and ionizing doses of 66 Mrad. A comprehensive, multi-year Quality Control (QC) program is underway across multiple international institutes to evaluate these ITk strip sensors for mechanical and electrical conformity. The QC process inc",
+    "doi": "10.1016/j.nima.2026.171716",
+    "pdf_url": "https://arxiv.org/pdf/2607.14691v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.14691v1",
+    "fetched_at": "2026-07-18T01:55:04.465206+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.13932v1",
+    "source": "arxiv",
+    "title": "Radiation effects on surface and bulk properties of ATLAS18 silicon sensors under low- and high-dose gamma irradiation and annealing",
+    "authors": [
+      "Marcela Mikestikova",
+      "Vitaliy Fadeyev",
+      "Pavla Federicova",
+      "Petr Gallus",
+      "Jana Kozakova",
+      "Jiri Kroll"
+    ],
+    "year": 2026,
+    "abstract": "Silicon strip detectors for the ATLAS Inner Tracker (ITk) at the HL-LHC must withstand harsh radiation conditions, including fluences of up to 1.6E15 1 MeV n$_{eq}$/cm$^{2}$ and total ionizing doses (TID) of up to 66 Mrad. These requirements are met using radiation-hard n+-in-p technology implemented in the ATLAS18 silicon strip sensors currently under production. This work presents a combined study of gamma-irradiation effects in ATLAS18 silicon sensors, including both segmented miniature strip sensors (minis) and unsegmented MD8 diodes fabricated on ATLAS18 production wafers. The samples were irradiated with a $^{60}$Co gamma source to multiple low TIDs between 0.5 and 100 krad, corresponding to the dose range relevant for the early operational phase of the ITk tracker. Additional measur",
+    "doi": "10.1016/j.nima.2026.171812",
+    "pdf_url": "https://arxiv.org/pdf/2607.13932v1",
+    "journal": "Nucl. Instrum. Methods Phys. Res. A 1092 (2026) 171812",
+    "url": "http://arxiv.org/abs/2607.13932v1",
+    "fetched_at": "2026-07-18T01:55:04.465487+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.15027v1",
+    "source": "arxiv",
+    "title": "Man, Machine, and Masterpiece: Artistic Ownership in the AI Era",
+    "authors": [
+      "Sofi Gjing Jovanovska",
+      "Kuntal Ghosh",
+      "Daniel Muhu Njenga",
+      "Ahmed Mufassir",
+      "Shadan Sadeghian"
+    ],
+    "year": 2026,
+    "abstract": "The integration of AI-driven systems in creative work has sparked debates among artists and legal communities about notions of ownership. Yet there remains little consensus on how ownership should be defined and attributed when human and AI contributions are intertwined. To provoke critical reflection on these tensions, we designed ArtSplit, a provotype that explicitly quantifies human and AI contributions across different stages of creative work. Rather than aiming to resolve ownership, the provotype was used to elicit artists' responses to the idea of attributing ownership through measurable actions in the creative workflow. We argue that quantification fails to align with artists' understandings of creative intent and agency, and that efforts to measure ownership risk diluting long-stan",
+    "doi": "10.1145/3821402.3830156",
+    "pdf_url": "https://arxiv.org/pdf/2607.15027v1",
+    "journal": "NordiCHI '26 Adjunct: Adjunct Proceedings of the 14th Nordic Conference on Human-Computer Interaction, Vaasa, Finland, October 2026",
+    "url": "http://arxiv.org/abs/2607.15027v1",
+    "fetched_at": "2026-07-18T01:55:24.854329+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.14523v1",
+    "source": "arxiv",
+    "title": "SLIPT-Enabled Ground-to-UAV FSO Systems with Optical Reconfigurable Intelligent Surfaces",
+    "authors": [
+      "Luna Sugiyama",
+      "Phuc V. Trinh",
+      "Shinya Sugiura"
+    ],
+    "year": 2026,
+    "abstract": "This paper proposes an optical reconfigurable intelligent surface (ORIS)-assisted ground-to-unmanned aerial vehicle (UAV) free-space optical (FSO) communication system empowered by simultaneous lightwave information and power transfer (SLIPT). To overcome the line-of-sight (LoS) limitation of FSO-based SLIPT systems, we introduce an ORIS that reflects the laser beam towards a non-LoS UAV receiver. We model and analyze the combined channel characteristics, incorporating atmospheric loss, turbulence-induced fading, pointing error, and angle-of-arrival fluctuations due to UAV hovering. We derive closed-form expressions for harvested energy, outage probability, and symbol error rate (SER). Numerical results show that integrating ORIS improves EH efficiency while maintaining manageable outage a",
+    "doi": "10.1109/ICC59461.2026.11586808",
+    "pdf_url": "https://arxiv.org/pdf/2607.14523v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.14523v1",
+    "fetched_at": "2026-07-18T01:56:11.790230+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.13672v1",
+    "source": "arxiv",
+    "title": "Dual-pulse micronozzle acceleration of sub-GeV-class protons",
+    "authors": [
+      "D. Pan",
+      "M. Murakami"
+    ],
+    "year": 2026,
+    "abstract": "We propose a dual-pulse micronozzle acceleration scheme that enables phase-locked acceleration of laser-driven protons, mitigating the trade-off between maximum proton energy and laser-to-proton conversion efficiency. A delay-tuned synchronization window injects a compact proton front generated by a shaping prepulse into a quasistatic axial electric field driven by a delayed main pulse in a micronozzle cavity. Phase locking preserves the relative phase between the proton bunch and the accelerating field, suppresses thermal debunching, and prolongs the acceleration stage. At main-pulse intensities of order 10^21 W/cm^2, sub-GeV proton cutoff energies are obtained with a total laser-to-proton conversion efficiency of about 20%. The efficiency for protons above 100 MeV exceeds about 13%, indi",
+    "doi": "10.1103/kjnr-rfy9",
+    "pdf_url": "https://arxiv.org/pdf/2607.13672v1",
+    "journal": "Physical Review ACCELERATORS AND BEAMS 29, 073601 (2026)",
+    "url": "http://arxiv.org/abs/2607.13672v1",
+    "fetched_at": "2026-07-18T01:56:11.790363+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.13533v1",
+    "source": "arxiv",
+    "title": "Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design",
+    "authors": [
+      "Lin Jiaben",
+      "Tong Liyue",
+      "Wang Hui",
+      "Shao Mingfu",
+      "Yang Chen"
+    ],
+    "year": 2026,
+    "abstract": "Artificial Intelligence (AI) is profoundly transforming the paradigms of scientific research. Cutting-edge technologies such as Large Language Models (LLMs) and embodied intelligence are continuously pushing the boundaries of scientific instrumentation. Against this backdrop, this paper proposes a novel conceptual system: the Scientific-Intention Driven Embodied Intelligent Solar Telescope (SIDEST). The system is designed with three core layers to achieve three types of intelligent scientific research closed loops. First, the Scientific Intent Research and Demonstration Layer parses the research objectives and intents of scientists (e.g., solar physicists) through natural language interaction, achieving a closed loop for the generation and optimization of executable observation plans align",
+    "doi": "10.3788/LOP252270",
+    "pdf_url": "https://arxiv.org/pdf/2607.13533v1",
+    "journal": "Laser & Optoelectronics Progress, 2026, 63(8): 0839014",
+    "url": "http://arxiv.org/abs/2607.13533v1",
+    "fetched_at": "2026-07-18T01:56:11.790451+00:00",
+    "material": "other"
   }
 ]
