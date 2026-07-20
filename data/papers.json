@@ -11846,5 +11846,163 @@
     "url": "http://arxiv.org/abs/2607.13533v1",
     "fetched_at": "2026-07-18T01:56:11.790451+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.16172v1",
+    "source": "arxiv",
+    "title": "The Internet of Things for Smart Manufacturing: A Review",
+    "authors": [
+      "Hui Yang",
+      "Soundar Kumara",
+      "Satish Bukkapatnam",
+      "Fugee Tsung"
+    ],
+    "year": 2026,
+    "abstract": "The modern manufacturing industry is investing in new technologies such as the Internet of Things (IoT), big data analytics, cloud computing and cybersecurity to cope with system complexity, increase information visibility, improve production performance, and gain competitive advantages in the global market. These advances are rapidly enabling a new generation of smart manufacturing, i.e., a cyber-physical system tightly integrating manufacturing enterprises in the physical world with virtual enterprises in cyberspace. To a great extent, realizing the full potential of cyber-physical systems depends on the development of new methodologies on the Internet of Manufacturing Things (IoMT) for data-enabled engineering innovations. This paper presents a review of the IoT technologies and systems",
+    "doi": "10.1080/24725854.2018.1555383",
+    "pdf_url": "https://arxiv.org/pdf/2607.16172v1",
+    "journal": "IISE Transactions, 2019, 51(11), 1190-1216",
+    "url": "http://arxiv.org/abs/2607.16172v1",
+    "fetched_at": "2026-07-20T03:24:05.984040+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.16013v1",
+    "source": "arxiv",
+    "title": "Robust Monitoring of Arc Welding Processes: A Generalizable Framework with DVAE and Particle Filter",
+    "authors": [
+      "Yue Cao",
+      "Hai Lin",
+      "YuMing Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Arc welding processes are essential for continuous fabrication but prone to disturbances that impair weld quality, making real-time monitoring critical yet difficult due to complex visual patterns and nonlinear, time-varying dynamics. Deep learning shows promise but faces scalability limits because of its dependence on large labeled datasets and application-specific tuning. We explore whether a unified approach can characterize major arc welding processes across applications and improve scalability through consistent state monitoring. This paper introduces a robust and generalizable monitoring framework for arc welding. It combines unsupervised deep latent representation learning, which extracts compact features from weld pool images, with Bayesian filtering to handle persistent and fluctu",
+    "doi": "10.1016/j.jmapro.2026.01.039",
+    "pdf_url": "https://arxiv.org/pdf/2607.16013v1",
+    "journal": "Journal of Manufacturing Processes 160 (2026) 15-27",
+    "url": "http://arxiv.org/abs/2607.16013v1",
+    "fetched_at": "2026-07-20T03:24:05.984866+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.16140v1",
+    "source": "arxiv",
+    "title": "X-ray polarization of Z-type neutron star low-mass X-ray binaries -- II. Spectropolarimetric analysis",
+    "authors": [
+      "Andrea Gnarini",
+      "Francesco Ursini",
+      "Giorgio Matt",
+      "Stefano Bianchi",
+      "Fiamma Capitanio",
+      "Massimo Cocchi"
+    ],
+    "year": 2026,
+    "abstract": "IXPE has provided for the first time detailed energy- and time-resolved X-ray polarimetry of Z-type neutron star low-mass X-ray binaries (NS-LMXBs) as they move along their color-color diagrams (CCDs). These sources can reach the highest polarization observed for NS-LXMBs in the 2-8 keV range when they move along the horizontal branch. In a previous paper, we characterized the spectral state of a sample of Z-sources using the CCD and estimated the polarization with model-independent analysis. Here, we present detailed spectropolarimetric analysis for each source on each branch using data from IXPE, NICER, and NuSTAR. The continuum X-ray emission of all the sources is well described with a combination of thermal accretion disk emission plus a harder Comptonized component. In addition, refle",
+    "doi": "10.1051/0004-6361/202659608",
+    "pdf_url": "https://arxiv.org/pdf/2607.16140v1",
+    "journal": "Astronomy & Astrophysics, 711, A208 (2026)",
+    "url": "http://arxiv.org/abs/2607.16140v1",
+    "fetched_at": "2026-07-20T03:24:28.708284+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_ab6c0cb82fcdd6a5",
+    "source": "semantic_scholar",
+    "title": "Enhanced Laser‐Induced Graphene Microfluidic Integrated Sensors (LIGMIS) for On‐Site Biomedical and Environmental Monitoring",
+    "authors": [
+      "Zachary T. Johnson",
+      "Griffin Ellis",
+      "Cicero C. Pola",
+      "Christopher Banwart",
+      "A. McCormick",
+      "Gustavo L Milião"
+    ],
+    "year": 2025,
+    "abstract": "Abstract The convergence of microfluidic and electrochemical biosensor technologies offers significant potential for rapid, in‐field diagnostics in biomedical and environmental applications. Traditional systems face challenges in cost, scalability, and operational complexity, especially in remote settings. Addressing these issues, laser‐induced graphene microfluidic integrated sensors (LIGMIS) are presented as an innovative platform that integrates microfluidics and electrochemical sensors both comprised of laser‐induced graphene. This study advances the LIGMIS concept by resolving issues of uneven fluid transport, increased hydrophobicity during storage, and sensor biofunctionalization challenges. Key innovations include Y‐shaped reservoirs for consistent fluid flow, hydrophilic polyethyl",
+    "doi": "10.1002/smll.202500262",
+    "pdf_url": "https://doi.org/10.1002/smll.202500262",
+    "journal": "Small (Weinheim an Der Bergstrasse, Germany)",
+    "url": "https://www.semanticscholar.org/paper/ab6c0cb82fcdd6a5bdc46f6ad18024817681bd60",
+    "fetched_at": "2026-07-20T03:24:35.068385+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "ss_cceeae51cddc7483",
+    "source": "semantic_scholar",
+    "title": "High-response humidity sensing with graphene oxide/lignosulfonate and laser-induced graphene for respiratory health",
+    "authors": [
+      "Yanbo Peng",
+      "Yuhong Zhao",
+      "Ying Yuan",
+      "Wei Meng",
+      "Wenhe Jiang",
+      "Xiluan Wang"
+    ],
+    "year": 2025,
+    "abstract": "Most current commercial humidity sensors rely on precious metals and chemicals. In this study, alkali lignin produced in the paper industry was utilized to form a film with hydroxyethyl cellulose to generate laser-induced graphene (LIG) as an electrode material for a sensor by the laser-induction technique. LIG exhibits excellent conductivity, and the experimental results demonstrate that its resistivity can be adjusted by laser power without the necessity for additional conductive materials. A solution comprising a blend of graphene oxide and sodium lignosulfonate was introduced to the LIG surface in a dropwise manner, thereby establishing a sensing surface. This process resulted in the introduction of hydrophilic groups, including carboxyl, phenolic hydroxyl, and sulfonic acid. The integ",
+    "doi": "10.1039/d5ra01765c",
+    "pdf_url": "",
+    "journal": "RSC Advances",
+    "url": "https://www.semanticscholar.org/paper/cceeae51cddc74839145538eca2273c65fe0e938",
+    "fetched_at": "2026-07-20T03:24:35.068409+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2607.15975v1",
+    "source": "arxiv",
+    "title": "A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers",
+    "authors": [
+      "Ivana Pajic-Lijakovic",
+      "Milan Milivojevic",
+      "Peter V. E. McClintock"
+    ],
+    "year": 2026,
+    "abstract": "Collective migration of epithelial monolayers emerges from the interplay between mechanical interactions and biochemical signalling. Here, we present a phenomenological mechanobiological framework linking cell-scale orientational interactions to tissue-scale mechanics. We distinguish reversible and irreversible head-on and glancing collisions, showing that reversible interactions store orientational mechanical energy while preserving collision geometry, whereas irreversible interactions dissipate energy and alter cell orientation. The balance between energy storage and dissipation governs collective migration, mechanical feedback, and density-dependent processes including cell jamming and live cell extrusion. These interactions regulate cell elasticity, contractility, and adhesion, thereby",
+    "doi": "10.1016/j.biosystems.2026.105883",
+    "pdf_url": "https://arxiv.org/pdf/2607.15975v1",
+    "journal": "Biosystems 2026, 267:105883",
+    "url": "http://arxiv.org/abs/2607.15975v1",
+    "fetched_at": "2026-07-20T03:24:40.533730+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.15663v1",
+    "source": "arxiv",
+    "title": "Adaptive Model-Based Transfer Learning for Dynamic HVAC Control",
+    "authors": [
+      "Quang-Thang Le",
+      "Kevin Wijaya",
+      "Hsin-Yi Lai",
+      "Che-Kai Liu",
+      "Ching-Chun Huang"
+    ],
+    "year": 2026,
+    "abstract": "In this paper, we aim to automate the adjustment of air handling unit (AHU) setpoints within heating, ventilation, and air conditioning (HVAC) systems to maintain indoor temperatures at user-specified levels. A key challenge lies in obtaining sufficient high-quality sensor data from real buildings. To address this, we explore transfer learning and leverage simulation software to generate training data. We propose an adaptive model-based transfer learning approach for dynamic HVAC control, where the agent directly controls the source domain under conditions identical to the target domain. This eliminates the need for extensive target-specific knowledge to define data generation schedules and reduces the risk of collecting irrelevant samples, while also providing greater flexibility during l",
+    "doi": "10.1109/TASE.2026.3679728",
+    "pdf_url": "https://arxiv.org/pdf/2607.15663v1",
+    "journal": "IEEE Transactions on Automation Science and Engineering, vol. 23, 2026",
+    "url": "http://arxiv.org/abs/2607.15663v1",
+    "fetched_at": "2026-07-20T03:24:46.059113+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.15951v1",
+    "source": "arxiv",
+    "title": "Rendering 3D Gaussians on a Graph Processor",
+    "authors": [
+      "Nicholas Fry",
+      "Ignacio Alzugaray",
+      "Mark Pupilli",
+      "Paul H. J. Kelly",
+      "Andrew J. Davison"
+    ],
+    "year": 2026,
+    "abstract": "We present the first implementation of a 3D Gaussian renderer on an Intelligence Processing Unit (IPU), comprising 1,472 independent tiles with only on-chip SRAM; constraints that approximate properties of efficient sensor-processor architectures. Our input scenes are 3D Gaussian maps from real-world sequences. Each tile 'owns' a screen-space region of the framebuffer; Gaussian primitives are routed to destination tiles via Manhattan-distance hops on a north-east-west-south (NEWS) grid, then distributed to overlapping neighbours in an expanding tree pattern. Computation follows the IPU's Bulk Synchronous Parallel (BSP) model, with inter-tile communication defined at compile time. We show this hardware allows us to exploit spatial and temporal locality by enabling local data transfer betwee",
+    "doi": "10.2312/sr.20261017",
+    "pdf_url": "https://arxiv.org/pdf/2607.15951v1",
+    "journal": "Eurographics Symposium on Rendering (Symposium Track), 2026",
+    "url": "http://arxiv.org/abs/2607.15951v1",
+    "fetched_at": "2026-07-20T03:25:02.908714+00:00",
+    "material": "other"
   }
 ]
