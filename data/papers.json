@@ -12004,5 +12004,23 @@
     "url": "http://arxiv.org/abs/2607.15951v1",
     "fetched_at": "2026-07-20T03:25:02.908714+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.19310v1",
+    "source": "arxiv",
+    "title": "Distributed Delay-Based BIST for Mixed-Signal Circuits in Flexible Electronics",
+    "authors": [
+      "Paula Carolina Lozano Duarte",
+      "Sule Ozev",
+      "Mehdi Tahoori"
+    ],
+    "year": 2026,
+    "abstract": "Flexible electronics (FE) based on indium gallium zinc oxide thin-film transistors (IGZO-TFTs) are emerging for ultra-low-power wearable applications. However, lack of packaging, limited pins, and high device variability make conventional Automatic Test Equipment (ATE) impractical for testing analog/mixed-signal circuits in FE. This work presents a dual-purpose ring oscillator (RO) and voltage-controlled oscillator (VCO) serving as functional timing blocks and core structures for a distributed delay-based BIST framework. The oscillators achieve 1100x area reduction and 5600x lower power than previous IGZO-TFT designs. Lightweight digital BIST embedded within each RO stage enables stage-wise delay monitoring for defect detection. The BIST achieves 93% defect coverage for individual defects ",
+    "doi": "10.1109/ETS69887.2026.11591727",
+    "pdf_url": "https://arxiv.org/pdf/2607.19310v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.19310v1",
+    "fetched_at": "2026-07-22T02:04:50.849004+00:00",
+    "material": "other"
   }
 ]
