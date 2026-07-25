@@ -12022,5 +12022,26 @@
     "url": "http://arxiv.org/abs/2607.19310v1",
     "fetched_at": "2026-07-22T02:04:50.849004+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_2eaca44744d81937",
+    "source": "semantic_scholar",
+    "title": "Multifunctional and Flexible Ag@PEDOT Heterostructure‐Decorated Laser‐Induced Graphene Film for Body Thermal Therapy",
+    "authors": [
+      "Qinhua Zhou",
+      "Jing He",
+      "Xinmeng Hu",
+      "Zhengying Tu",
+      "Junwen Xie",
+      "Q. Zheng"
+    ],
+    "year": 2025,
+    "abstract": "Wearable heaters with multifunctional capabilities and high performance are in high demand for future personal thermal management. However, the development of such devices remains challenging due to limitations in flexibility, complex fabrication, inadequate Joule heating efficiency, insufficient electromagnetic interference (EMI) shielding, and poor antibacterial performance. Here, Ag@PEDOT heterostructures were decorated on laser‐induced graphene (LIG) through a simple spray‐coating process followed by a facile chemical synthetic method to deposit silver nanoparticles (AgNPs) onto the PEDOT layers. The resulting composite retains the intrinsic flexibility and comfort of the original graphene matrices, while demonstrating exceptional Joule heating characteristics—achieving a broad tempera",
+    "doi": "10.1002/cnl2.70092",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cnl2.70092",
+    "journal": "Carbon Neutralization",
+    "url": "https://www.semanticscholar.org/paper/2eaca44744d81937ed739775cea206bc4c924b9c",
+    "fetched_at": "2026-07-25T02:07:24.563041+00:00",
+    "material": "other"
   }
 ]
