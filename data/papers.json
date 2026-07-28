@@ -12043,5 +12043,178 @@
     "url": "https://www.semanticscholar.org/paper/2eaca44744d81937ed739775cea206bc4c924b9c",
     "fetched_at": "2026-07-25T02:07:24.563041+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23573v1",
+    "source": "arxiv",
+    "title": "Quantum Speed Limits and the Ultimate Scaling of the Quantum Sensors",
+    "authors": [
+      "Yusef Maleki"
+    ],
+    "year": 2026,
+    "abstract": "Quantum metrology promises sensitivity beyond classical strategies, yet it remains unsettled how quantum-enabled precision should scale with physical resources and how to interpret quantum advantage. We provide a physically grounded resource accounting that clarifies the true Heisenberg limit and resolves apparent super-Heisenberg paradoxes. We demonstrate that the Heisenberg limit is best viewed as an information-theoretic manifestation of the quantum speed limit. We illustrate these ideas with a simple, super-resolving phase-estimation protocol based on Rabi oscillations in two-level atoms driven on an $m$-photon resonance. In this setting, the phase error scales as $n^{-m/2}$, where $n$ is the average photon number. Recasting metrological sensitivity through quantum dynamical speed limi",
+    "doi": "10.3390/e28080836",
+    "pdf_url": "https://arxiv.org/pdf/2607.23573v1",
+    "journal": "Entropy, 28(8), 836 2026",
+    "url": "http://arxiv.org/abs/2607.23573v1",
+    "fetched_at": "2026-07-28T01:59:22.666795+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23456v1",
+    "source": "arxiv",
+    "title": "Fe-doping-induced band structure modification and cryogenic phase stability in Cs2AgBiBr6 single crystals",
+    "authors": [
+      "Yanan Li",
+      "Xuejiao Wu",
+      "Jidong Deng",
+      "Jinbao Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Despite its promise as a lead-free alternative, the practical application of Cs2AgBiBr6 in optoelectronics is limited by its wide band gap and detrimental intrinsic defects. To overcome these challenges, we synthesized Cs2AgBi0.5Fe0.5Br6 single crystals via a modified hydrothermal method. While both pristine and Fe-doped crystals undergo a structural phase transition near 125 K, Fe incorporation fundamentally alters its impact. The dopant simultaneously narrows the band gap in the high-temperature phase and suppresses the associated cryogenic structural instability. Our optical and X-ray structural studies establish Fe doping as a powerful strategy for tailoring the properties of Cs2AgBiBr6 , advancing its potential for high-performance, low-temperature optoelectronic and spintronic device",
+    "doi": "10.1016/j.ssc.2026.116319",
+    "pdf_url": "https://arxiv.org/pdf/2607.23456v1",
+    "journal": "Solid State Communications, Volume 409, 2026,116319, ISSN 0038-1098",
+    "url": "http://arxiv.org/abs/2607.23456v1",
+    "fetched_at": "2026-07-28T01:59:22.667154+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23218v1",
+    "source": "arxiv",
+    "title": "SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow",
+    "authors": [
+      "Andrija Nešković",
+      "Christian Ewert",
+      "Mladen Berekovic",
+      "Saleh Mulhem"
+    ],
+    "year": 2026,
+    "abstract": "Power-Side-Channel Leakage (PSCL) originates from architectural and micro-architectural artifacts in a processor and poses a severe threat to the confidentiality of cryptographic software. Consequently, pre-silicon PSCL evaluation is indispensable for secure hardware design. Existing frameworks are either limited by poor simulation scalability or fail to attribute leakage to the correct hardware signals and software instructions, thereby impeding a comprehensive root-cause analysis. This paper presents SPARC, an automated framework for pre-silicon PSCL evaluation and root-cause analysis. SPARC leverages macro-cell-level Information Flow Tracking (IFT) augmented with enhanced shadow logic that tags switching activity originating from secret-dependent data. By isolating this activity, SPARC ",
+    "doi": "10.1145/3831252.3834007",
+    "pdf_url": "https://arxiv.org/pdf/2607.23218v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.23218v1",
+    "fetched_at": "2026-07-28T01:59:28.422714+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.21996v1",
+    "source": "arxiv",
+    "title": "Gamma spectrometry with CsI(Tl), NaI(Tl) and CdWO4 scintillation crystals using a silicon photomultiplier",
+    "authors": [
+      "R. Yu. Chaplynskyi",
+      "F. A. Danevich",
+      "D. V. Kasperovych",
+      "V. R. Klavdiienko",
+      "V. V. Kobychev",
+      "E. E. Petrosian"
+    ],
+    "year": 2026,
+    "abstract": "This study investigated using of silicon photomultiplier (SiPM) for scintillation γ-spectrometry with CdWO4, CsI(Tl), and NaI(Tl) crystal scintillators. At room temperature, CsI(Tl) crystal scintillator provides the best performance, while the achievable energy resolution is lower compared to that obtained with conventional photomultiplier tube (PMT) with green-enhanced photocathode. These findings highlight the potential of SiPMs as a compact and cost-effective alternative to PMTs in nuclear physics applications, particularly for light portable spectrometers, such as radiation monitoring systems based on small unmanned aerial vehicles.",
+    "doi": "10.15407/jnpae2026.02.148",
+    "pdf_url": "https://arxiv.org/pdf/2607.21996v1",
+    "journal": "Nucl. Phys. At. Energy 2026, volume 27, issue 2, pages 148-152",
+    "url": "http://arxiv.org/abs/2607.21996v1",
+    "fetched_at": "2026-07-28T01:59:28.423013+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23053v1",
+    "source": "arxiv",
+    "title": "Hydrogen-Induced Sign Reversal in Magnetic Hysteresis Evolution of CoPd Alloys and Co/Pd Multilayers",
+    "authors": [
+      "S. S. Das",
+      "A. Gerber"
+    ],
+    "year": 2026,
+    "abstract": "Hydrogen absorption in magnetic thin film nanostructures can modulate their electronic, magnetic, and transport properties by modifying the electronic structure and lattice strain. However, the influence of composition and nanostructuring on these two competing effects is not well understood. We systematically investigate hydrogen-induced magnetic hysteresis in Co$_x$Pd$_{100-x}$ alloys, [Co(0.1 nm)/Pd(d)]$_{15}$, and [Co(0.2 nm)/Pd(d)]$_{15}$ multilayers, using extraordinary Hall effect characterizations (EHE) in air and 4% H$_2$/N$_2$ mixture. We show that the hydrogen-induced response is not universal, but depends strongly on composition and layer thickness. This reflects competition between Pd-related electronic effects and magnetoelastic anisotropy. In Pd-rich CoPd alloys and Co(0.2 n",
+    "doi": "10.1016/j.jallcom.2026.189655",
+    "pdf_url": "https://arxiv.org/pdf/2607.23053v1",
+    "journal": "Journal of Alloys and Compounds 1078 (2026) 189655",
+    "url": "http://arxiv.org/abs/2607.23053v1",
+    "fetched_at": "2026-07-28T01:59:39.992826+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.21891v1",
+    "source": "arxiv",
+    "title": "Enhanced Curie temperature and room-temperature 50-nm skyrmions achieved in hexagonal ferromagnet Mn5Ge3+x synthesized via a high-pressure method",
+    "authors": [
+      "Yongsen Zhang",
+      "Wei Liu",
+      "Meng Shi",
+      "Shuisen Zhang",
+      "Sheng Qiu",
+      "Yaodong Wu"
+    ],
+    "year": 2026,
+    "abstract": "The development of new high-temperature ultrasmall-size skyrmion materials holds immense significance for the promising applications of topological spintronic devices. In this study, we demonstrate that a high-pressure synthesis technique can significantly elevate the Curie temperature of Mn5Ge3+x crystals, from 294 K to 350 K. This enhancement is attributed to the combined effects of lattice contraction and increased Ge content, the conclusion supported by Density Functional Theory calculations. Additionally, our real-space magnetic imaging reveals the stability of dipolar skyrmions with diameters of approximately 50 nm at room temperature. Our micromagnetic simulations closely replicate the diverse experimental topological magnetic textures observed. Furthermore, magnetotransport measure",
+    "doi": "10.1007/s11433-025-2860-4",
+    "pdf_url": "https://arxiv.org/pdf/2607.21891v1",
+    "journal": "Sci. China Phys. Mech. Astron. 69, 247511 (2026)",
+    "url": "http://arxiv.org/abs/2607.21891v1",
+    "fetched_at": "2026-07-28T01:59:39.993104+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23718v1",
+    "source": "arxiv",
+    "title": "Melo: A Production LLM-Powered Music Recommendation Agent",
+    "authors": [
+      "Shijia Wang",
+      "Da Guo",
+      "Qiang Xiao",
+      "Fanghui Bi",
+      "Weisheng Li",
+      "Dongjing Wang"
+    ],
+    "year": 2026,
+    "abstract": "We describe Melo, an LLM-powered music recommendation agent deployed on NetEase Cloud Music. Melo is structured as a deterministic five-node state graph over heterogeneous tools, with a prompt- and state-machine-driven orchestration policy rather than a fine-tuned controller. At industrial scale, the bottleneck is not how smart the brain is but how the system detects and recovers from the mistakes that brain makes. Two production failure modes drove the design: entity hallucination, where the agent commits to interpretations unsupported by the live catalog or user-behavior index, and long-tail degradation, where over-constrained requests collapse to generic popular fallbacks. We address them with two complementary mechanisms. Inference-time entity grounding repurposes the production search",
+    "doi": "10.1145/3773078.3831935",
+    "pdf_url": "https://arxiv.org/pdf/2607.23718v1",
+    "journal": "Proceedings of the 20th ACM Conference on Recommender Systems (RecSys '26), September 27-October 02, 2026, Minneapolis, MN, USA",
+    "url": "http://arxiv.org/abs/2607.23718v1",
+    "fetched_at": "2026-07-28T01:59:45.861547+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23514v1",
+    "source": "arxiv",
+    "title": "Novel Claim or Déjà Vu? Rethinking \"Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking",
+    "authors": [
+      "Haorui He",
+      "Xinwen Chen",
+      "Dacheng Wen",
+      "Reynold Cheng",
+      "Francis C. M. Lau",
+      "Yupeng Li"
+    ],
+    "year": 2026,
+    "abstract": "Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation",
+    "doi": "10.1145/3767308.3836298",
+    "pdf_url": "https://arxiv.org/pdf/2607.23514v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.23514v1",
+    "fetched_at": "2026-07-28T01:59:45.861853+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.23486v1",
+    "source": "arxiv",
+    "title": "An adaptive multi-fuzzy logic model for diagnosing transformer faults using dynamic weight optimization",
+    "authors": [
+      "Kim-Anh Nguyen",
+      "Huy Hoang Le",
+      "Ba Tu Phung"
+    ],
+    "year": 2026,
+    "abstract": "Dissolved gas analysis (DGA) is crucial for diagnosing early power transformer failures. Traditional DGA interpretation methods like Duval Triangle, IEC ratio, Roger ratio, Doernenburg ratio and Key Gas are inconsistent and vary in accuracy, especially for multiple fault conditions. We propose an Adaptive Multi-Fuzzy Logic (AMFL) model integrating multiple DGA methods with fuzzy logic and a dynamic weight adjustment mechanism. Unlike existing approaches with fixed weights, this system iteratively evaluates each method's diagnostic performance, identifies multiple fault types, and adjusts weights based on fault prediction accuracy. A feedback-based optimization recalibrates weights after each cycle to ensure optimal solution convergence. The model, implemented in MATLAB/Simulink, is validat",
+    "doi": "10.1016/j.prime.2025.101048",
+    "pdf_url": "https://arxiv.org/pdf/2607.23486v1",
+    "journal": "e-Prime _ Advances in Electrical Engineering, Electronics and Energy. Volume 13, September 2025, 101048",
+    "url": "http://arxiv.org/abs/2607.23486v1",
+    "fetched_at": "2026-07-28T02:00:05.533887+00:00",
+    "material": "other"
   }
 ]
