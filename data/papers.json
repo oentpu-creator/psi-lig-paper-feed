@@ -12216,5 +12216,218 @@
     "url": "http://arxiv.org/abs/2607.23486v1",
     "fetched_at": "2026-07-28T02:00:05.533887+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26736v1",
+    "source": "arxiv",
+    "title": "Domain adaptation for handwriting trajectory reconstruction from IMU sensors",
+    "authors": [
+      "Florent Imbert",
+      "Romain Tavenard",
+      "Yann Soullard",
+      "Eric Anquetil"
+    ],
+    "year": 2026,
+    "abstract": "Digital pens are commonly used to write on digital devices, providing the handwriting trace and enhancing human-computer interation. This study focuses on a digital pen equipped with kinematic sensors, allowing users to write on any surface while simultaneously preserving a digital trajectory of handwriting. This technology holds significant potential as a valuable educational tool, particularly in classrooms where it can facilitate the process of learning to write. A major issue is based on the difference in captured signals between adults and children. For similar handwriting trace, we have large differences in sensor signals due to differences in speed and confidence in the handwriting gesture of children. To address this, we investigate a domain adaptation approach to build a unified i",
+    "doi": "10.1007/978-3-031-70645-5_1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26736v1",
+    "journal": "Document Analysis and Recognition, ICDAR 2024 Workshops",
+    "url": "http://arxiv.org/abs/2607.26736v1",
+    "fetched_at": "2026-07-30T01:52:09.024999+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.25080v1",
+    "source": "arxiv",
+    "title": "Cracking under pressure --- investigating mitigation approaches for silicon fractures on ATLAS strip tracker petals at cold temperatures",
+    "authors": [
+      "S. H. Abidi",
+      "J. -H. Arling",
+      "M. J. Basso",
+      "S. Beaupre",
+      "I. Bloch",
+      "A. J. Blue"
+    ],
+    "year": 2026,
+    "abstract": "For the High-Luminosity upgrade of the Large Hadron Collider, the ATLAS experiment will replace its current Inner Detector with an all-silicon Inner Tracker (ITk), consisting of pixel and strip detectors. The strip detector will consist of a central region or \"barrel\" assembled with staves and forward regions or \"end-caps\" assembled with petals. The ITk will nominally operate with liquid $\\textrm{CO}^2$ cooling at $-35\\,^\\circ\\textrm{C}$; however, in the event of cooling system failures, it is possible that sensors will experience temperatures below $-35\\,^\\circ\\textrm{C}$. At these low temperatures, it has been observed that the silicon sensors within modules --- the fundamental readout units of the detector --- can physically crack, rendering the modules inoperable. Understanding and res",
+    "doi": "10.1088/1748-0221/21/07/P07026",
+    "pdf_url": "https://arxiv.org/pdf/2607.25080v1",
+    "journal": "JINST 21 P07026 (2026)",
+    "url": "http://arxiv.org/abs/2607.25080v1",
+    "fetched_at": "2026-07-30T01:52:14.834733+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26826v1",
+    "source": "arxiv",
+    "title": "Paleodetectors for neutrino signals from diverse Galactic stellar collapses",
+    "authors": [
+      "Mahiro Yamasaki",
+      "Ken'ichiro Nakazato"
+    ],
+    "year": 2026,
+    "abstract": "The detectability of neutrinos from past Galactic core collapse supernovae (SNe) is investigated in terms of nuclear recoil tracks in ancient minerals, known as paleodetectors. To account for the diversity of core-collapse outcomes, variations in neutron star (NS) masses as well as failed SNe leading to black hole (BH) formation are taken into account. The role of the nuclear equation of state (EOS) is also considered, as it determines NS radii and maximum masses. The enhancement of sensitivity is quantified for models with larger neutrino emission. This emission reflects the gravitational energy released during core collapse and is larger for more compact remnants in the NS-forming case and for EOS with larger maximum masses in the BH-forming case. Furthermore, motivated by the hypothesis",
+    "doi": "10.1103/gys2-q6bk",
+    "pdf_url": "https://arxiv.org/pdf/2607.26826v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2607.26826v1",
+    "fetched_at": "2026-07-30T01:52:32.680536+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26666v1",
+    "source": "arxiv",
+    "title": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment",
+    "authors": [
+      "Zohra Souei",
+      "Muhammad Mushhood Ur Rehman",
+      "Harith Akram",
+      "Jocelyne Bloch",
+      "Stephan Chabardes",
+      "Alfonso Fasano"
+    ],
+    "year": 2026,
+    "abstract": "Artificial intelligence (AI) is increasingly explored across deep brain stimulation (DBS) for movement disorders, yet whether current systems are approaching deployment remains unclear. To characterise their scope, validation maturity, and translational readiness, we systematically evaluated 239 peer-reviewed studies published between 2000 and 2025, assessing AI methods, validation practices, and barriers constraining clinical translation. Research was dominated by Parkinson's disease and subthalamic nucleus targeting, with limited coverage of other disorders and targets. Most studies reported encouraging internal performance; however, external validation was rare, evaluations remained predominantly retrospective and single-centre, and more than one-quarter involved small-sample, high-dime",
+    "doi": "10.1038/s41746-026-03015-4",
+    "pdf_url": "https://arxiv.org/pdf/2607.26666v1",
+    "journal": "Souei, Z. et al. Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment. npj Digit. Med. (2026)",
+    "url": "http://arxiv.org/abs/2607.26666v1",
+    "fetched_at": "2026-07-30T01:52:38.984683+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26580v1",
+    "source": "arxiv",
+    "title": "Classification of Disease from Lungs X-ray Images using VGG16, VGG19 and ResNet50 Models",
+    "authors": [
+      "Nand Lal Yadav",
+      "Rajesh Kumar",
+      "Satyendra Singh",
+      "Sudhakar Singh"
+    ],
+    "year": 2026,
+    "abstract": "With the increase in the number of cases related to respiratory diseases, there is an urgent need to detect them early and diagnose them accurately. Convolutional neural networks have given promising results when used for diagnosing diseases using imaging tests. In this study, we investigate the potential of applying deep learning algorithms such as VGG16, VGG19, and ResNet50 for classification of lung ailments based on X-ray images. A detailed analysis of the aforementioned models' performances was conducted to assess how well they can classify various types of lung ailments, including pneumonia, tuberculosis, lung cancer, and normal lungs. In order to do that, these deep learning models were trained on a vast amount of X-ray images. The results of our study show that while all three mode",
+    "doi": "10.25258/ijddt.16.26s.117",
+    "pdf_url": "https://arxiv.org/pdf/2607.26580v1",
+    "journal": "International Journal of Drug Delivery Technology (IJDDT), Vol. 16, Issue 26s, pp.1101-1112, 2026",
+    "url": "http://arxiv.org/abs/2607.26580v1",
+    "fetched_at": "2026-07-30T01:52:38.984771+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26541v1",
+    "source": "arxiv",
+    "title": "Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis",
+    "authors": [
+      "Jiachen Qian",
+      "Junyu Li"
+    ],
+    "year": 2026,
+    "abstract": "Audio-capable foundation models enable end-to-end spoken interaction, but they also introduce safety risks beyond transcript content. It remains unclear how much jailbreak capability can arise from matched-text variation in speech delivery rather than from lexical rewriting or broader style transfer. We study this question by holding transcript content fixed and varying six speech-delivery presets whose acoustic attributes may co-vary. We present PJ-Break, a black-box evaluation protocol with presets targeting arousal, authority, and speaking rate, together with AdvAudio-Prosody, a 600-sample benchmark with acoustically verified attributes. On the exact post-QC Qwen2-Audio panel, the Q=1 Panic (38/95), Anger (35/95), and Fast (32/95) presets are all well above Neutral (4/95). The fixed six",
+    "doi": "10.1145/3767308.3835306",
+    "pdf_url": "https://arxiv.org/pdf/2607.26541v1",
+    "journal": "Proceedings of the 34th ACM International Conference on Multimedia (MM '26), November 10-14, 2026, Rio de Janeiro, Brazil",
+    "url": "http://arxiv.org/abs/2607.26541v1",
+    "fetched_at": "2026-07-30T01:52:38.984797+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26324v1",
+    "source": "arxiv",
+    "title": "Planning Waste-to-Energy-Coupled AI Data Centers Through Grade-Matched Cooling and Corridor Screening",
+    "authors": [
+      "Qi He",
+      "Chunyu Qu",
+      "Wenjie Zuo"
+    ],
+    "year": 2026,
+    "abstract": "AI data-center growth is increasingly constrained by limited deliverable electricity, interconnection capacity, and cooling demand. This study develops a boundary-consistent screening framework for waste-to-energy (WtE)-coupled AI data-center cooling. It treats cooling as an energy service that can be supplied through grade matching rather than only through electricity-driven mechanical chilling. The framework translates plant-side exportable heat into corridor-level planning metrics by accounting for thermal attenuation, absorption conversion, and parasitic electricity for delivery and auxiliaries. In a reference case, a regulated WtE plant processing 1500 t/day of municipal solid waste at 10 MJ/kg provides about 78.1 MWth of exportable heat. At a 20 km corridor, this yields about 53.0 MW",
+    "doi": "10.3390/thermo6020028",
+    "pdf_url": "https://arxiv.org/pdf/2607.26324v1",
+    "journal": "Thermo2026",
+    "url": "http://arxiv.org/abs/2607.26324v1",
+    "fetched_at": "2026-07-30T01:52:38.984889+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.27104v1",
+    "source": "arxiv",
+    "title": "Dual Enhancement of Superconductivity in FeSe/SrTiO3 via Orbital and Correlation Synergy",
+    "authors": [
+      "Guihao Jia",
+      "Jingming Yan",
+      "Yucong Peng",
+      "Shendong Su",
+      "Pei Ouyang",
+      "Xiaopeng Hu"
+    ],
+    "year": 2026,
+    "abstract": "In iron-based superconductors, the dz2 orbital band typically resides far below the Fermi level and has not been considered to participate in Cooper pairing. Here, using monolayer FeSe/SrTiO3 as a model system, we demonstrate that tip-induced tensile strain controllably shifts the dz2 band toward the Fermi level, driving a two-stage enhancement of superconductivity. In-plane lattice expansion first enhances electronic correlation, amplifying superconductivity in the initial stage. As strain further increases, the upward-shifted dz2 band hybridizes with the dxy band, reconstructing the pairing-active d-orbital bands and inducing a secondary, stronger gap enhancement. Collectively, these two stages enlarge the superconducting gap from 17.8 to 23.6 meV. Throughout this process, invariant Ferm",
+    "doi": "10.1073/pnas.2602209123",
+    "pdf_url": "https://arxiv.org/pdf/2607.27104v1",
+    "journal": "Proc. Natl. Acad. Sci. U.S.A. 123, e2602209123 (2026)",
+    "url": "http://arxiv.org/abs/2607.27104v1",
+    "fetched_at": "2026-07-30T01:52:44.700297+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26965v1",
+    "source": "arxiv",
+    "title": "Measurement of multiple mechanical properties from multi-dimensional signals in nanosecond laser ablation via PINN",
+    "authors": [
+      "Ying Zhou",
+      "Jian Wu",
+      "Ziyuan Song",
+      "Jinghui Li",
+      "Xinyu Guo",
+      "Hao Sun"
+    ],
+    "year": 2026,
+    "abstract": "Accurate evaluation of mechanical properties in steels under ageing or service conditions remains a major challenge. We propose a thermo-mechanical coupling framework for nanosecond laser ablation based on energy conservation, which is embedded into a physics-informed neural network (PINN) to enable simultaneous inversion of multiple mechanical properties. A thermo-mechanical coupling coefficient is defined to uniformly describe the dynamic allocation of input laser energy among thermal diffusion, mechanical work and plasma shielding across different deformation stages under laser irradiation. Furthermore, hard-to-measure physical characteristics in the coupled equation are replaced with experimentally accessible features obtained through the simultaneous acquisition of spectroscopic, shoc",
+    "doi": "10.1063/5.0301252",
+    "pdf_url": "https://arxiv.org/pdf/2607.26965v1",
+    "journal": "Y. Zhou, J. Wu, Z.Y. Song, J.H. Li, X.Y. Guo, H. Sun, Y.H. Hang, C.X. Pei, and X.W. Li, Appl. Phys. Lett. 127 (24), 244101 (2025)",
+    "url": "http://arxiv.org/abs/2607.26965v1",
+    "fetched_at": "2026-07-30T01:52:44.700552+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26733v1",
+    "source": "arxiv",
+    "title": "Online Handwriting Trajectory Reconstruction from Kinematic Sensors using Temporal Convolutional Network",
+    "authors": [
+      "Wassim Swaileh",
+      "Florent Imbert",
+      "Yann Soullard",
+      "Romain Tavenard",
+      "Eric Anquetil"
+    ],
+    "year": 2026,
+    "abstract": "Handwriting with digital pens is a common way to facilitate human-computer interaction through the use of Online Handwriting (OH) trajectory reconstruction. In this work, we focus on a digital pen equipped with sensors from which one wants to reconstruct the OH trajectory. Such a pen allows to write on any surface and to get the digital trace, which can help learning to write, by writing on paper, and can be useful for many other applications such as collaborative meetings, etc. In this paper, we introduce a novel processing pipeline that maps the sensor signals of the pen to the corresponding OH trajectory. Notably, in order to tackle the difference of sampling rates between the pen and the tablet (which provides ground truth information), our preprocessing pipeline relies on Dynamic Time",
+    "doi": "10.1007/s10032-023-00430-1",
+    "pdf_url": "https://arxiv.org/pdf/2607.26733v1",
+    "journal": "International Journal on Document Analysis and Recognition (IJDAR) May 2023",
+    "url": "http://arxiv.org/abs/2607.26733v1",
+    "fetched_at": "2026-07-30T01:53:10.381513+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.26708v1",
+    "source": "arxiv",
+    "title": "Mixture-of-experts for handwriting trajectory reconstruction from IMU sensors",
+    "authors": [
+      "Florent Imbert",
+      "Eric Anquetil",
+      "Yann Soullard",
+      "Romain Tavenard"
+    ],
+    "year": 2026,
+    "abstract": "The use of digital pens for online handwriting trajectory reconstruction is a prevalent method for human-computer interaction. In this study, we focus on a digital pen equipped with sensors where we aim at reconstructing the online handwriting trajectory. This pen enables writing on any surface and preserving the digital trace of handwriting. This type of pen could be used as an aid to learning to write in classroom. In this paper, we propose a new approach learning to finely reconstruct the touching trajectories while precisely analyzing the hovering part in order to position the next touching trace correctly. This relies on a Mixture-Of-Experts (MOE) approach. The first expert is dedicated for the pencil touch, and is named touching expert model. The second one is dedicated for the hover",
+    "doi": "10.1016/j.patcog.2024.111231",
+    "pdf_url": "https://arxiv.org/pdf/2607.26708v1",
+    "journal": "Pattern Recognition May 2025",
+    "url": "http://arxiv.org/abs/2607.26708v1",
+    "fetched_at": "2026-07-30T01:53:10.381540+00:00",
+    "material": "other"
   }
 ]
