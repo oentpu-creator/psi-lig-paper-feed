@@ -12429,5 +12429,24 @@
     "url": "http://arxiv.org/abs/2607.26708v1",
     "fetched_at": "2026-07-30T01:53:10.381540+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_f90a3367f8a9dfb8",
+    "source": "semantic_scholar",
+    "title": "Porous silicon a nanostructure for applications in nanoenergetic devices and biosensors",
+    "authors": [
+      "A. C. Borges",
+      "A. Quispe",
+      "Daniel Scodeler Raimundo",
+      "W. Salcedo"
+    ],
+    "year": 2025,
+    "abstract": "Porous silicon (SP) has established itself as a key material in the development of nanoenergetics and biosensors, standing out for its unique properties and ability to integrate into MEMS (Microelectromechanical Systems) systems. This work addresses the fabrication of SP nanostructures and SP microcavities using electrochemical anodizing and analyzes the impregnation of SP with solid oxidants for applications in micropropulsion and impulse generation. The reflectance spectrum is obtained so that the optical properties of SP and SP microcavities are studied so that optoelectronic devices have good performance. The results demonstrate the ability of SP to generate high combustion rates and its usefulness as an energy material in integrated systems, as well as its stability and efficiency tha",
+    "doi": "10.34117/bjdv11n9-021",
+    "pdf_url": "https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/download/81956/56199",
+    "journal": "Brazilian Journal of Development",
+    "url": "https://www.semanticscholar.org/paper/f90a3367f8a9dfb85d52d730972c4169b6905ca1",
+    "fetched_at": "2026-08-01T02:13:58.427993+00:00",
+    "material": "PSi"
   }
 ]
