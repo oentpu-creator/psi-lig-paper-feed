@@ -12448,5 +12448,24 @@
     "url": "https://www.semanticscholar.org/paper/f90a3367f8a9dfb85d52d730972c4169b6905ca1",
     "fetched_at": "2026-08-01T02:13:58.427993+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "ss_9338408686ff29d8",
+    "source": "semantic_scholar",
+    "title": "Impedance-based porous silicon biosensor functionalized with an ssDNA aptamer for Escherichia coli recognition.",
+    "authors": [
+      "H. Topsakal",
+      "Okan Aydoğan",
+      "A. Aygan",
+      "F. K. Cakirlar"
+    ],
+    "year": 2026,
+    "abstract": "The growing need for alternative bacterial recognition platforms has increased interest in aptamer-functionalized biosensors. This study evaluated a single-stranded DNA (ssDNA) aptamer-functionalized porous silicon platform for the recognition of Escherichia coli under controlled experimental conditions. A previously reported E. coli-binding E1 aptamer was immobilized on porous silicon, and aptamer-bacterium interactions were assessed using fluorescence microscopy and impedance spectroscopy. Fluorescence microscopy demonstrated aptamer binding in 58 of 62 E. coli clinical isolates, while no detectable fluorescence signal was observed with the tested non-target bacterial species, including Klebsiella pneumoniae, Staphylococcus aureus, Enterococcus faecium, and Pseudomonas aeruginosa. Impeda",
+    "doi": "10.1016/j.mimet.2026.107637",
+    "pdf_url": "",
+    "journal": "Journal of microbiological methods",
+    "url": "https://www.semanticscholar.org/paper/9338408686ff29d8f089f44bfb3bd6754c68477c",
+    "fetched_at": "2026-08-03T02:11:56.366661+00:00",
+    "material": "PSi"
   }
 ]
