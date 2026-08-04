@@ -12467,5 +12467,158 @@
     "url": "https://www.semanticscholar.org/paper/9338408686ff29d8f089f44bfb3bd6754c68477c",
     "fetched_at": "2026-08-03T02:11:56.366661+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2608.01016v1",
+    "source": "arxiv",
+    "title": "Predictive Formulas for Scattering Mean Free Path for General Disordered Dielectric Media Beyond the Long-Wavelength Regime",
+    "authors": [
+      "Jaeuk Kim",
+      "Salvatore Torquato"
+    ],
+    "year": 2026,
+    "abstract": "We derive predictive formulas for the scattering mean free path $\\ell_s$ of statistically homogeneous two-phase dielectric media in dimensions $d=1,2,3$. Unlike Mie-based estimates limited to identical circular or spherical scatterers, the formulas apply to arbitrarily shaped and polydisperse particulate media as well as nonparticulate media, with microstructure entering through the spectral density. The formulas are based on the exact strong-contrast expansion for the effective dynamic dielectric constant. We apply them to five nonhyperuniform and hyperuniform models and validate selected cases using finite-difference time-domain simulations. For $k_1/s \\lesssim 1$, where $k_1$ is the incident wavenumber and $s$ is the specific surface, the predictions agree well with simulations and are ",
+    "doi": "10.1002/adom.202503370",
+    "pdf_url": "https://arxiv.org/pdf/2608.01016v1",
+    "journal": "published: J. Kim and S. Torquato, Advanced Optical Materials, 14 e03370 (2026)",
+    "url": "http://arxiv.org/abs/2608.01016v1",
+    "fetched_at": "2026-08-04T01:57:26.488088+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.00578v1",
+    "source": "arxiv",
+    "title": "A semi-implicit double-point Material Point Method for both free-surface flow and seepage in deformable porous media",
+    "authors": [
+      "Mian Xie",
+      "Pedro Navas",
+      "Susana López-Querol"
+    ],
+    "year": 2026,
+    "abstract": "A new semi-implicit, two-phase, double-point formulation of the Material Point Method (MPM) for soil-water interaction with seepage and free-surface flows under large deformation is presented in this paper. The approach advances the water phase implicitly while keeping the soil phase explicit, enabling stable, efficient time integration in problems that involve rapid seepage and strong free-surface motion. The proposed framework models high-Reynolds-number interphase drag through a non-linear Darcy's law implemented for the first time within an incremental fractional step MPM formulation without enlarging the implicit solve. This methodology also enhances the numerical stability for fast flows and wave breaking via a hyperelastic constitutive treatment of slightly compressible viscous wate",
+    "doi": "10.1007/s00366-026-02369-3",
+    "pdf_url": "https://arxiv.org/pdf/2608.00578v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.00578v1",
+    "fetched_at": "2026-08-04T01:57:32.243112+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.29102v1",
+    "source": "arxiv",
+    "title": "VSTaI: Design and Characterization of Variable-Stiffness Tactile Interfaces Based on 3D-Printed Structured Fabrics",
+    "authors": [
+      "Yiting Mo",
+      "Xinyuan Mao",
+      "Jashan Preet Singh",
+      "Fernando Bello"
+    ],
+    "year": 2026,
+    "abstract": "Realistic palpation training requires reliable rendering of soft tissue stiffness changes in real time, which is difficult to achieve with conventional simulators. This paper presents a compact, variable-stiffness tactile interface (VSTaI) based on vacuum-induced jamming of 3D-printed structured fabrics. A vacuum-sealed fabric layer is sandwiched between two silicone layers, and stiffness is tuned by regulating internal pressure. Four fabric patterns with different geometric parameters were fabricated and evaluated using force-indentation tests under atmospheric and vacuum conditions. Across the tested pattern and geometry combinations, vacuum jamming increased stiffness significantly, producing an effective modulus from sub-megapascal to megapascal levels. Specifically, one configuration ",
+    "doi": "10.1007/978-3-032-32350-7_38",
+    "pdf_url": "https://arxiv.org/pdf/2607.29102v1",
+    "journal": "Haptics: Understanding Touch; Technology and Systems; Applications and Interaction. EuroHaptics 2026. Lecture Notes in Computer Science, vol 16594. Springer, Cham",
+    "url": "http://arxiv.org/abs/2607.29102v1",
+    "fetched_at": "2026-08-04T01:57:32.243727+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.00884v1",
+    "source": "arxiv",
+    "title": "Documentation vs. Code Patterns: What Drives LLM-Based Exception Oracle Generation?",
+    "authors": [
+      "Soneya Binta Hossain",
+      "Matthew B. Dwyer",
+      "Tasfia Tasnim"
+    ],
+    "year": 2026,
+    "abstract": "LLM-based test oracle generation (TOG) methods report high accuracy on exception oracle generation, but it remains unclear what evidence drives these predictions. In particular, do models use explicit exceptional-behavior documentation such as Javadoc @throws clauses, or do they rely on recurring patterns in tests, code, and documentation?   We investigate this question through a large-scale intervention-based study of three TOG systems spanning classifier-based and generative architectures and model sizes from roughly 110M to 7B parameters, evaluated on three real-world benchmarks comprising two generated-test datasets and a new benchmark of developer-written tests. We first remove Javadoc @throws clauses and find that accuracy changes only marginally, with the largest drop below one perc",
+    "doi": "10.1145/3832783.3837464",
+    "pdf_url": "https://arxiv.org/pdf/2608.00884v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.00884v1",
+    "fetched_at": "2026-08-04T01:57:49.579180+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.00940v1",
+    "source": "arxiv",
+    "title": "A Wideband Multibeam Planar Quasi-Yagi Array Antenna Based on Parasitic Pixel Strips",
+    "authors": [
+      "Jinyang Bi",
+      "Fan Qin",
+      "Chao Gu",
+      "Hailin Zhang"
+    ],
+    "year": 2026,
+    "abstract": "This letter presents a low-complexity parasitic pixel strip (PPS) structure for array antenna to generate six radiations with flexible beam control. To realize multibeam operation, three groups of symmetrical strip-shaped pixels are integrated with the feed antenna, the connection state of which can be controlled by PIN diode. Leveraging the reconfigurable parasitic configuration, the coupling path of the antenna can be strategically manipulated, achieving the desired multibeam property. Thus, by utilizing the PPS structure in conjunction with a planar quasi-Yagi antenna, this single antenna can operate at four states with beam direction towards 40°, -40°, 0°, along with a dual-beam at +/-45°, within the frequency range from 5.0 to 5.6 GHz. Moreover, a prototype of a 1 * 2 array with the P",
+    "doi": "10.1109/LAWP.2025.3556952",
+    "pdf_url": "https://arxiv.org/pdf/2608.00940v1",
+    "journal": "IEEE Antennas and Wireless Propagation Letters (Volume: 24, Issue: 7, July 2025)",
+    "url": "http://arxiv.org/abs/2608.00940v1",
+    "fetched_at": "2026-08-04T01:58:08.468278+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.00742v1",
+    "source": "arxiv",
+    "title": "Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More",
+    "authors": [
+      "Jake Watson",
+      "Sadaf R Alam",
+      "Christopher Woods",
+      "Abdelwahab Kawafi",
+      "Thomas Green",
+      "Ian Johnson"
+    ],
+    "year": 2026,
+    "abstract": "Kubernetes, as a container orchestration engine, has been widely used in cloud-native ecosystems for several years. In supercomputing ecosystems, especially where bare-metal performance for compute and network devices are considered, the adoption is somewhat limited. However, with the increasing diversity of use cases such as AI, secure and confidential computing for sensitive data, and mixed workload orchestration, a traditional, single-tenant batch computing system does not offer the flexibility and reproducibility to which public cloud users are accustomed. Note that Kubernetes is not considered a replacement for batch scheduling systems, which have powerful features for large-scale MPI jobs with thousands of network end points. Rather, it is a complementary service provided as part of ",
+    "doi": "10.1145/3837730.3837733",
+    "pdf_url": "https://arxiv.org/pdf/2608.00742v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.00742v1",
+    "fetched_at": "2026-08-04T01:58:08.468462+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.00496v1",
+    "source": "arxiv",
+    "title": "SkinSpline: A Body-Attached Skeleton-Supported Haptic Interface for Continuous Skin Deformation through Physical Interpolation",
+    "authors": [
+      "Liwen He",
+      "Xinyuan Wang",
+      "Jiachen Du",
+      "Zixin Chen",
+      "Yun Wang"
+    ],
+    "year": 2026,
+    "abstract": "We present SkinSpline, a body-attached skeleton-supported haptic interface that renders continuous skin deformation through physical interpolation of sparse mechanical actuation. SkinSpline combines a low-resolution array of rack-and-pinion linear actuators with an elastic interlocking skeleton that transforms discrete actuator motions into smooth surface deformation, enabling continuous cutaneous feedback without dense actuator arrays. The system includes a modular hardware architecture, a configurable control pipeline, and a visual interface supporting real-time configuration and actuation. We demonstrate SkinSpline through multiple scenarios, including wave rendering, video-synchronized rhythmic touch, visually driven water-wave feedback in VR, and sensor-based remote touch reproduction",
+    "doi": "10.1145/3830727.3834841",
+    "pdf_url": "https://arxiv.org/pdf/2608.00496v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.00496v1",
+    "fetched_at": "2026-08-04T01:58:28.847643+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2607.29056v1",
+    "source": "arxiv",
+    "title": "Strontium ${}^{1}S_{0}\\!\\rightarrow\\!{}^{1}P_{1}$ transition frequency measurements assisted by a photonic grating chip",
+    "authors": [
+      "Jaewhan Lee",
+      "Hyun Gyung Lee",
+      "Won-Kyu Lee",
+      "Huidong Kim",
+      "Dohyeon Kwon",
+      "Sang-Bum Lee"
+    ],
+    "year": 2026,
+    "abstract": "We measure the absolute frequency of the ${}^{1}S_{0}\\!\\rightarrow\\!{}^{1}P_{1}$ transition in strontium using two methods: fluorescence spectroscopy of a thermal atomic beam source from a compact low-power oven and velocity measurements of a slow atomic beam from a two-dimensional grating magneto-optical trap (2D gMOT). The measurements for both methods are performed in the same ultra-high vacuum chamber containing a diffraction grating chip which is placed below the strontium atoms that are being interrogated. The first method uses a probe laser beam incident on the grating chip such that the grating acts as an end mirror, with the first-order diffracted beam providing a retro-reflected probe beam. The counter-propagating laser beams traverse an atomic beam emitted from an oven, enabling",
+    "doi": "10.1088/1681-7575/ae8bb5",
+    "pdf_url": "https://arxiv.org/pdf/2607.29056v1",
+    "journal": "Jaewhan Lee et al 2026 Metrologia 63 045003",
+    "url": "http://arxiv.org/abs/2607.29056v1",
+    "fetched_at": "2026-08-04T01:58:35.090338+00:00",
+    "material": "other"
   }
 ]
