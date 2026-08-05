@@ -12620,5 +12620,252 @@
     "url": "http://arxiv.org/abs/2607.29056v1",
     "fetched_at": "2026-08-04T01:58:35.090338+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03622v1",
+    "source": "arxiv",
+    "title": "Sample-half-inserted quantum interferometer",
+    "authors": [
+      "Wei Li",
+      "Tao Xie",
+      "Yu-Hang Luo",
+      "Kang Zheng",
+      "Meiyu Peng",
+      "Hui Yang"
+    ],
+    "year": 2026,
+    "abstract": "Quantum technologies have been widely recognized as unprecedented opportunities for ultra-high precision metrology. As a celebrated example in modern quantum optics, the Hong-Ou-Mandel (HOM) interferometer is well-known for enabling temporal resolutions on the attosecond scale. However, the relatively low Fisher information per trial in ordinary HOM measurements typically necessitates tens of thousands of repetitions to achieve such precision. Here, we propose and demonstrate a sample-half-inserted HOM (SHOM) interferometer, which enhances the Fisher information by five orders of magnitude in a single interference event. By introducing an asymmetric photon-sample interaction, the SHOM configuration produces a distinctive dip-bump-dip interference structure, converting what was previously v",
+    "doi": "10.1103/hldy-gmnn",
+    "pdf_url": "https://arxiv.org/pdf/2608.03622v1",
+    "journal": "Physical Review Letters 135, 240201 (2025)",
+    "url": "http://arxiv.org/abs/2608.03622v1",
+    "fetched_at": "2026-08-05T01:56:45.299662+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03490v1",
+    "source": "arxiv",
+    "title": "Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation",
+    "authors": [
+      "Quoc Cuong Ninh",
+      "Huy Xuan Pham",
+      "Anh Tung Nguyen",
+      "Dinh Hoan Trinh"
+    ],
+    "year": 2026,
+    "abstract": "3D object detection using light detection and ranging (LiDAR) sensors requires a balance between accuracy and computational efficiency for onboard perception in autonomous driving and robotic navigation. Many existing LiDAR-based detection methods employ complex architectures to extract features, integrating large amounts of contextual information to enhance accuracy. This often results in significant computational costs, leading to suboptimal performance on resource-constrained embedded devices. In this study, we propose a knowledge distillation framework that transfers object-level voxel representations from a strong teacher model to lightweight student models through selective voxel-space feature alignment. Taking advantage of the linear-time sequence model with selective state spaces (",
+    "doi": "10.1109/LRA.2026.3719203",
+    "pdf_url": "https://arxiv.org/pdf/2608.03490v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.03490v1",
+    "fetched_at": "2026-08-05T01:56:45.300215+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03448v1",
+    "source": "arxiv",
+    "title": "Real-Time Smart Self-Mixing Interferometry Sensor With Embedded Neural Network",
+    "authors": [
+      "Pierre-Emmanuel Novac",
+      "Laurent Rodriguez",
+      "Stéphane Barland"
+    ],
+    "year": 2026,
+    "abstract": "Self-mixing interferometry is a measurement ap- proach in which a laser beam is re-injected into the emitting laser itself after reflection on a target. Information about the position of the target can be obtained from monitoring the voltage across the laser. However, analyzing this signal is difficult. In previous works, neural networks have been used with great success to process this data. In this article, we present an updated prototype of an integrated sensor based on self-mixing interferometry with embedded neural networks. It consists of a semiconductor laser (acting both as light emitter and detector) equipped with an embedded platform for data processing. The platform includes an ADC (Analog-to-Digital Converter) and an STM32U575ZI microcontroller. The microcontroller runs a resid",
+    "doi": "10.1109/TIM.2026.3718110",
+    "pdf_url": "https://arxiv.org/pdf/2608.03448v1",
+    "journal": "P. -E. Novac, L. Rodriguez and S. Barland, \"Real-time smart self-mixing interferometry sensor with embedded neural network,\" in IEEE Transactions on Instrumentation and Measurement, 2026",
+    "url": "http://arxiv.org/abs/2608.03448v1",
+    "fetched_at": "2026-08-05T01:56:45.300266+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.01245v1",
+    "source": "arxiv",
+    "title": "A Wireless Network Architecture for Monitoring of Hospitalized Patients",
+    "authors": [
+      "Luca Leonardi",
+      "Lucia Lo Bello",
+      "Gaetano Patti"
+    ],
+    "year": 2026,
+    "abstract": "Monitoring of vital parameters plays a key role in better understanding the clinical condition of hospitalized patients. In this perspective, the virtual biosensor for MEDIcal WARNing precursor (MEDIWARN) aims to help the medical team to take a prompt action in response to the evolution of patients' health condition. This paper presents the MEDIWARN network architecture and discusses the design challenges that such a system poses. Simulative assessments provide a preliminary evaluation of the system in realistic scenarios.",
+    "doi": "10.1109/ETFA46521.2020.9211950",
+    "pdf_url": "https://arxiv.org/pdf/2608.01245v1",
+    "journal": "25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Vienna, Austria, Sept. 2020, pp. 1327-1330",
+    "url": "http://arxiv.org/abs/2608.01245v1",
+    "fetched_at": "2026-08-05T01:56:56.433599+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03330v1",
+    "source": "arxiv",
+    "title": "Long-term Traffic Scene Prediction via Polynomial Representations in Autonomous Driving",
+    "authors": [
+      "Yue Yao"
+    ],
+    "year": 2026,
+    "abstract": "This thesis addresses fundamental challenges in traffic scene prediction for autonomous driving by introducing robust and computationally efficient models based on polynomial representations. While conventional sequence-based representations often struggle with noise and generalization, this work demonstrates that polynomial representations offer significant advantages in computational efficiency, generalization, and prediction plausibility. Through theoretical analysis and empirical validation, this thesis demonstrates that moderate-degree polynomials capture real-world motion dynamics with high fidelity without constraining predictive performance. Building on this foundation, a prediction model representing both trajectories and map geometry with polynomial representations achieves near ",
+    "doi": "10.17169/refubium-53174",
+    "pdf_url": "https://arxiv.org/pdf/2608.03330v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.03330v1",
+    "fetched_at": "2026-08-05T01:57:08.157216+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03560v1",
+    "source": "arxiv",
+    "title": "Control of collective activity to crystallize an oscillator gas",
+    "authors": [
+      "Marine Le Blay",
+      "Joshua H. K. Saldi",
+      "Alexandre Morin"
+    ],
+    "year": 2026,
+    "abstract": "Motility-induced phase separation occurs in assemblies of self-propelled units when activity is coupled negatively to density. In contrast, the consequences of a positive coupling between density and activity on the collective behaviour of active matter remain unexplored. Here, we show that collective activity can emerge from such a positive coupling among non-motile building blocks. We perform experiments with self-sustained oscillators powered by contact-charge electrophoresis. Although the oscillators are non-motile by design, they spontaneously form an active gas when confined together. The super-elastic nature of collisions constitutes a positive density-activity coupling and underlies the active gas properties. Elucidating the origin of binary collisions allows us to precisely contro",
+    "doi": "10.1038/s41567-025-02957-y",
+    "pdf_url": "https://arxiv.org/pdf/2608.03560v1",
+    "journal": "Nature Physics 21, 1412-1419 (2025)",
+    "url": "http://arxiv.org/abs/2608.03560v1",
+    "fetched_at": "2026-08-05T01:57:19.678541+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03350v1",
+    "source": "arxiv",
+    "title": "Electro-Magnetic Decoupling Preconditioner for Eddy Current Problems with External Circuit Coupling",
+    "authors": [
+      "Shingo Hiruma",
+      "Takeshi Mifune",
+      "Tetsuji Matsuo"
+    ],
+    "year": 2026,
+    "abstract": "This paper proposes an efficient and scalable preconditioning strategy for eddy current problems involving coupled external circuits. The approach, named Electro-Magnetic Decoupling (EMD) preconditioner, decomposes the discrete system into vector and scalar potential components and applies tailored preconditioners to each. In particular, strong preconditioning is applied to the scalar component to address the spectral degradation induced by the discrete Laplacian. The method was evaluated on four eddy current models with varying frequencies, conductor topologies, and excitation types. Compared to the conventional incomplete Cholesky preconditioner, the EMD approach achieved up to 20 times fewer iteration counts and up to 20 times faster iterative solver time. Moreover, the method supports ",
+    "doi": "10.1109/tmag.2025.3638880",
+    "pdf_url": "https://arxiv.org/pdf/2608.03350v1",
+    "journal": "vol. 62, no. 7, pp. 7203906-7203906, July 2026",
+    "url": "http://arxiv.org/abs/2608.03350v1",
+    "fetched_at": "2026-08-05T01:57:25.197285+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03168v1",
+    "source": "arxiv",
+    "title": "Efficient Optimal Mouse Sensor Position Estimation using Simulated Cursor Trajectories",
+    "authors": [
+      "Minhyeok Baek",
+      "Sunjun Kim"
+    ],
+    "year": 2026,
+    "abstract": "The optimal sensor position on a computer mouse can improve pointing performance, but existing calibration methods require time-consuming repetitions of pointing tasks. In this paper, we propose a novel calibration approach that dramatically reduces the time and effort required to determine a user's optimal mouse sensor position. Our method simulates cursor trajectories for different sensor positions using a dual-sensor mouse, eliminating the need for repetitive measurements with multiple sensor placements. By analyzing the straightness of the simulated paths, quantified by the mean absolute error (MAE) relative to an ideal straight-line path, we estimate the sensor position that would yield the most efficient pointing motion for the user. Our preliminary results indicate that the proposed",
+    "doi": "10.1145/3672539.3686345",
+    "pdf_url": "https://arxiv.org/pdf/2608.03168v1",
+    "journal": "UIST Adjunct 2024: Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology Article No.: 104, Pages 1 - 3",
+    "url": "http://arxiv.org/abs/2608.03168v1",
+    "fetched_at": "2026-08-05T01:57:42.849140+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03152v1",
+    "source": "arxiv",
+    "title": "Towards Wearable Opportunistic Crowdsensing for Open-Vocabulary Activity Data Collection Through User-Scheduled Trigger-Action Routines",
+    "authors": [
+      "Zeyu Wang",
+      "Yingke Ding",
+      "Mingze Gao",
+      "Zhuolun Ren",
+      "Alex Mariakakis",
+      "Yuanchun Shi"
+    ],
+    "year": 2026,
+    "abstract": "Collecting richly labeled wearable activity data in everyday settings remains difficult because retrospective annotation is costly and often imprecise. Prior data collection apps rely on a labor-intensive self-reporting strategy and primarily treat participants as crowd labelers. We present Pebbl, a feasibility-stage system that incentivizes in-situ labeling through opportunistic crowdsensing. Pebbl lets users author trigger-action recipes on a smartphone and receive just-in-time reminders for beneficial actions when a trigger is detected. In the prototype, triggers are a limited set with four common audio cues, while actions are described in open-vocabulary natural language. Each confirmed execution yields a short sensor window with explicit start/end boundaries and a user-authored action",
+    "doi": "10.1145/3831976",
+    "pdf_url": "https://arxiv.org/pdf/2608.03152v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.03152v1",
+    "fetched_at": "2026-08-05T01:57:42.849197+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.03040v1",
+    "source": "arxiv",
+    "title": "Calliphony: A Calligraphy-Driven Interface for Real-Time Generative Music Performance",
+    "authors": [
+      "Tristan Wu",
+      "Ruiji Yu",
+      "Gus Xia"
+    ],
+    "year": 2026,
+    "abstract": "While music generative models have recently gained significant attention, how they can be effectively integrated into live music performances still requires further exploration. This paper presents Calliphony, a calligraphy-driven interface for real-time generative music performance. Specifically, we build a low-latency pipeline that captures brush motion with an attachable sensor and maps it to control signals for real-time symbolic music generation. Using a generative model, the system produces multi-track MIDI in performance settings, while brush-derived control signals constrain event timing and activate additional musical layers. The generated melody is then extended with real-time harmony and additional voices, and finally rendered through a DAW for live staging. Calliphony contribut",
+    "doi": "10.5281/zenodo.20784121",
+    "pdf_url": "https://arxiv.org/pdf/2608.03040v1",
+    "journal": "Proceedings of the International Conference on New Interfaces for Musical Expression (NIME 2026), 2026",
+    "url": "http://arxiv.org/abs/2608.03040v1",
+    "fetched_at": "2026-08-05T01:57:42.849275+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.02899v1",
+    "source": "arxiv",
+    "title": "Lifshitz transitions and isospin polarization in twist-decoupled monolayer-bilayer graphene",
+    "authors": [
+      "Alex Boschi",
+      "Leonardo Sabattini",
+      "Sergey Slizovskiy",
+      "Vaidotas Mišeikis",
+      "Zewdu M. Gebeyehu",
+      "Stiven Forti"
+    ],
+    "year": 2026,
+    "abstract": "Bernal-stacked bilayer graphene (BLG) hosts correlated electronic phases tied to low-energy Lifshitz transitions at saddle points in its valence band. To access this regime, ultralow charge disorder and control over a vertical electric field are simultaneously required. Here, we employ a twist-decoupled monolayer (MLG) to bias a proximal BLG in the absence of an external displacement field (D). We thereby reveal three-fold degenerate quantum Hall states at D = 0, with multiple transitions driven by doping, magnetic and electric field. Spontaneous broken symmetry in the vicinity of the valence band edge is signaled by the emergence of quantum oscillations with anomalous frequencies and large quasiparticle mass. These results indicate that electronic interactions in BLG are preserved in pres",
+    "doi": "10.1103/7d2j-4p3c",
+    "pdf_url": "https://arxiv.org/pdf/2608.02899v1",
+    "journal": "Physical Review B 114, L111402 (2026)",
+    "url": "http://arxiv.org/abs/2608.02899v1",
+    "fetched_at": "2026-08-05T01:57:49.314308+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.02793v1",
+    "source": "arxiv",
+    "title": "Phase-Locked Time-Stretch Optical Coherence Tomography for Contrast-Enhanced Retinal Microangiography",
+    "authors": [
+      "Gyeong Hun Kim",
+      "Seongjin Bak",
+      "Hyung-Hoi Kim",
+      "Jun Geun Shin",
+      "Tae Joong Eom",
+      "Chang-Seok Kim"
+    ],
+    "year": 2026,
+    "abstract": "Optical coherence tomography angiography has transformed retinal vascular imaging by providing non-invasive, high-resolution visualization. However, achieving an optimal balance between field of view, resolution, and three-dimensional microvasculature contrast, particularly in deeper retinal layers, remains challenging. A phase-locked time-stretch optical coherence tomography microangiography system is developed to address these limitations with a 5-MHz A-line rate and sub-nm phase sensitivity. Utilizing a dual chirped fiber Bragg grating architecture, the swept-source laser achieves an extended coherence length of approximately 10 mm and a 102-nm bandwidth. A time-stretch analog-to-digital converter overcomes the limitations of conventional multi-MHz optical coherence tomography systems, ",
+    "doi": "10.1109/TMI.2025.3555112",
+    "pdf_url": "https://arxiv.org/pdf/2608.02793v1",
+    "journal": "IEEE Transactions on Medical Imaging, vol. 44, no. 7, pp. 2906-2920, July 2025",
+    "url": "http://arxiv.org/abs/2608.02793v1",
+    "fetched_at": "2026-08-05T01:57:49.314361+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.02045v1",
+    "source": "arxiv",
+    "title": "Mapping melliferous tree species in Kenya via one-class classification with hyperspectral unsupervised domain adaptation",
+    "authors": [
+      "Zhaozhi Luo",
+      "Janne Heiskanen",
+      "Ilja Vuorinne",
+      "Ian Ocholla",
+      "Shiqi Zhang",
+      "Saana Järvinen"
+    ],
+    "year": 2026,
+    "abstract": "The beekeeping sector holds significant potential for livelihood diversification among the agropastoral communities in Kenya. Melliferous tree species play a critical role by providing essential nectar sources for bees. However, limited knowledge of their precise spatial distributions constrains the full development of beekeeping. One-class classification (OCC) offers a practical solution for detecting single target species without requiring extensive labeled data from other classes. Although existing OCC methods perform well in trained domains, the generalization capability to unseen domains remains limited due to domain shift. To address these challenges, this study proposes a hyperspectral unsupervised domain adaptation OCC framework (HyUDA-One) for tree species mapping using airborne h",
+    "doi": "10.1016/j.isprsjprs.2025.12.028",
+    "pdf_url": "https://arxiv.org/pdf/2608.02045v1",
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing, 232 (2026), 638-655",
+    "url": "http://arxiv.org/abs/2608.02045v1",
+    "fetched_at": "2026-08-05T01:57:49.314595+00:00",
+    "material": "other"
   }
 ]
