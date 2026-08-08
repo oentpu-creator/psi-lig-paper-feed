@@ -12867,5 +12867,21 @@
     "url": "http://arxiv.org/abs/2608.02045v1",
     "fetched_at": "2026-08-05T01:57:49.314595+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_3cfd5ef7481eee9c",
+    "source": "semantic_scholar",
+    "title": "(\n Invited\n ) Engineering Porous Silicon Optical Biosensors: When Nanostructure, Mass Transport, and Surface Chemistry Converge",
+    "authors": [
+      "E. Segal"
+    ],
+    "year": 2026,
+    "abstract": "Anodized porous silicon films have been widely studied for biosensing applications, enabling label-free optical detection of numerous targets. Their appeal stems from the unique combination of tunable micro- and nanostructure with strong photonic properties, allowing precise control over pore size, layer thickness, and optical interference modes. Together with the large internal surface area, these attributes position PSi as a highly versatile optical transducer platform.\n However, our work has shown that this same nanostructure also introduces a fundamental bottleneck: analyte delivery to reactive sites inside the porous matrix is strongly limited by mass transport. In PSi biosensors, target molecules must diffuse from the bulk solution to the sensor surface and then infiltrate the porous",
+    "doi": "10.1149/ma2026-01341548mtgabs",
+    "pdf_url": "",
+    "journal": "ECS Meeting Abstracts",
+    "url": "https://www.semanticscholar.org/paper/3cfd5ef7481eee9cf659e956f5518c3b6ae78358",
+    "fetched_at": "2026-08-08T01:08:09.198205+00:00",
+    "material": "PSi"
   }
 ]
