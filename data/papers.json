@@ -12883,5 +12883,288 @@
     "url": "https://www.semanticscholar.org/paper/3cfd5ef7481eee9cf659e956f5518c3b6ae78358",
     "fetched_at": "2026-08-08T01:08:09.198205+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2608.13303v1",
+    "source": "arxiv",
+    "title": "Radio Properties of Narrow-Line and Broad-Line Seyfert 1 Galaxies",
+    "authors": [
+      "K. É. Gabányi",
+      "S. Komossa",
+      "A. Mezősi",
+      "E. Forgács-Dajka",
+      "S. Frey"
+    ],
+    "year": 2026,
+    "abstract": "Narrow-line Seyfert 1 (NLS1) galaxies host active galactic nuclei (AGN) with narrow optical emission lines of the broad-line region. This is often explained with a relatively lower mass of the central supermassive black hole and super-Eddington accretion. We compared the radio properties of large samples of NLS1 and broad-line Seyfert 1 (BLS1) galaxies compiled from the Sloan Digital Sky Survey. We cross-matched the NLS1 and BLS1 samples with the Faint Images of the Radio Sky at Twenty-Centimeters (FIRST) sky survey at 1.4 GHz and the first and second epoch data of the Very Large Array Sky Survey (VLASS) at 3 GHz. We calculated the radio spectral indices, the 1.4-GHz radio power, and the radio loudness. We found lower 1.4-GHz radio detection rates for the NLS1 galaxies. The median radio lo",
+    "doi": "10.3390/galaxies14040078",
+    "pdf_url": "https://arxiv.org/pdf/2608.13303v1",
+    "journal": "Galaxies, Vol. 14, No. 4, id. 78 (2026)",
+    "url": "http://arxiv.org/abs/2608.13303v1",
+    "fetched_at": "2026-08-15T00:53:27.357344+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13260v1",
+    "source": "arxiv",
+    "title": "Virtual Temperature Sensors in Power Transformers Using Neural Ordinary Differential Equations",
+    "authors": [
+      "Berk Hadzhamolla",
+      "Alexander Johannes Stasik",
+      "Signe Riemer-Sørensen"
+    ],
+    "year": 2026,
+    "abstract": "Accurate modeling and forecasting of power transformer thermal behavior are critical for reliability, asset lifetime, and optimized power system operation. Numerical approaches such as finite element methods (FEM) and computational fluid dynamics (CFD) offer high fidelity but are computationally expensive, require complex mesh generation, and are often impractical for real-time or large-scale applications, particularly when transformer geometries are unknown. Lumped-parameter thermal models are more practical but depend on transformer-specific thermal constants and may fail to capture dynamic responses under varying operating and environmental conditions. Purely data-driven machine learning methods, including artificial neural networks, convolutional neural networks, and long short-term me",
+    "doi": "10.36001/phme.2026.v9i1.4991",
+    "pdf_url": "https://arxiv.org/pdf/2608.13260v1",
+    "journal": "PHM Society European Conference, 9(1), 1-9, 2026",
+    "url": "http://arxiv.org/abs/2608.13260v1",
+    "fetched_at": "2026-08-15T00:53:27.357452+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13257v1",
+    "source": "arxiv",
+    "title": "Optical concept model of the future cosmology project BISOU",
+    "authors": [
+      "Morgane Loquet Le Gall",
+      "Bruno Maffei",
+      "Pierre Guiot",
+      "Creidhe O'Sullivan",
+      "Neil Trappe"
+    ],
+    "year": 2026,
+    "abstract": "We present an optical analysis of BISOU (Balloon Interferometer for Spectral Observations of the primordial Universe), an astronomical balloon-borne pathfinder spectrometer developed as part of a preparatory study for a future space mission aiming at measuring spectral distortions of the cosmic microwave background (CMB). The BISOU optical system is based on a differential polarizing Fourier Transform Spectrometer (FTS) that receives inputs from both a sky-facing telescope and an internal calibration source. The FTS focal planes are equipped with bolometric detectors coupled to multimode feed horns, with distinct focal planes dedicated to the low (90 - 300GHz) and high (0.3 - 1.5THz) frequency bands. The optical analysis first relies on ray-tracing simulations to establish the overall conf",
+    "doi": "10.1117/12.3098705",
+    "pdf_url": "https://arxiv.org/pdf/2608.13257v1",
+    "journal": "Proc. SPIE 14106, Optical Design and Engineering X, 141060M (26 May 2026)",
+    "url": "http://arxiv.org/abs/2608.13257v1",
+    "fetched_at": "2026-08-15T00:53:27.357479+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.12967v1",
+    "source": "arxiv",
+    "title": "Elastic properties of cubic silicon carbide with Si vacancies",
+    "authors": [
+      "Carlos P. Herrero",
+      "Eduardo R. Hernandez",
+      "Gabriela Herrero-Saboya"
+    ],
+    "year": 2026,
+    "abstract": "We investigate how silicon vacancies modify the elastic response and mechanical stability of cubic 3C-SiC. Our approach employs path-integral molecular dynamics simulations, including the classical-nuclei limit, based on an efficient tight-binding Hamiltonian, whose accuracy is validated against density-functional-theory calculations. This framework enables a quantitative assessment of nuclear quantum effects arising from zero-point motion. Across a broad range of temperatures and hydrostatic pressures, spanning both tensile and compressive regimes, silicon vacancies are found to substantially renormalize the elastic constants $C_{11}$, $C_{12}$, and $C_{44}$, as well as the bulk modulus, relative to the defect-free crystal. Inclusion of nuclear quantum motion produces an additional soften",
+    "doi": "10.1103/hccr-d1h4",
+    "pdf_url": "https://arxiv.org/pdf/2608.12967v1",
+    "journal": "Phys. Rev.B 114, 014109 (2026)",
+    "url": "http://arxiv.org/abs/2608.12967v1",
+    "fetched_at": "2026-08-15T00:53:34.220558+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.11729v1",
+    "source": "arxiv",
+    "title": "Molecule-specific diffusion and desorption of interstellar ices on carbonaceous dust",
+    "authors": [
+      "Yi-Hsuan Chiu",
+      "Tushar Suhasaria",
+      "Cornelia Jäger",
+      "Chun-Yi Lee",
+      "Ko-Ju Chuang",
+      "Thomas Henning"
+    ],
+    "year": 2026,
+    "abstract": "Interstellar ices form on dust grains in the coldest regions of molecular clouds and preserve key volatile reservoirs that could be incorporated into protoplanetary disks during star and planet formation. However, the effect of the dust surface composition on the ice structure and spectroscopic behavior remains poorly constrained. We present a comparative laboratory study of astrophysically relevant ices (CO, CO2, and H2O) deposited on inert calcium fluoride (CaF2) substrate and carbonaceous dust analogs under interstellar conditions. Infrared spectroscopy and temperature-programmed desorption reveal pronounced molecule-specific infrared spectral responses to the amorphous carbonaceous surface. CO and CO2 both exhibit broadened absorption bands, redshifted band positions, and delayed desor",
+    "doi": "10.1051/0004-6361/202661379",
+    "pdf_url": "https://arxiv.org/pdf/2608.11729v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.11729v1",
+    "fetched_at": "2026-08-15T00:53:34.220763+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.11172v1",
+    "source": "arxiv",
+    "title": "A reaction-diffusion system with nonconstant diffusion coefficients: exact and numerical solutions",
+    "authors": [
+      "Roman Cherniha",
+      "Galyna Kriukova"
+    ],
+    "year": 2026,
+    "abstract": "A Lotka-Volterra type system with porous diffusion, which can be used as an alternative model to the classical Lotka-Volterra system, is under study. Multiparameter families of exact solutions of the system in question   are constructed and their properties are established. It is shown that the solutions obtained can satisfy   the zero Neumann conditions, which are typical conditions for   mathematical models describing real-world processes. It is proved   that the system possesses two stable steady-state points   provided its coefficients are correctly-specified. In   particular, this occurs when the system models the prey-predator interaction.   The exact solutions are used for solving boundary-value problems. The analytical results are compared with numerical solutions   of the same bou",
+    "doi": "10.3390/axioms14090655",
+    "pdf_url": "https://arxiv.org/pdf/2608.11172v1",
+    "journal": "Axioms, 2025, vol.14, 655",
+    "url": "http://arxiv.org/abs/2608.11172v1",
+    "fetched_at": "2026-08-15T00:53:34.220984+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13011v1",
+    "source": "arxiv",
+    "title": "Exploring the unknown territory of Dromions of (2+1) dimensional Generalized Nonlinear Schrodinger Equation",
+    "authors": [
+      "C. Senthil Kumar",
+      "R. Radha"
+    ],
+    "year": 2026,
+    "abstract": "In this paper, we travel through an unknown territory of dromions, to unearth and show the new properties/attributes of dromions which have never been brought to the fore since they were first discovered by Boiti etal [1]. These new attributes are brought out by investigating a generalized (2+1) dimensional Nonlinear Schrodinger (NLS) equation by exploiting Truncated Painleve approach. The signatures that can be attributed to dromions include existence of firewall and reflection at the boundary, uneven distribution of energy among different bound states, amplitude dependence on adjacent dromions, etc. We have corroborated the main analytical results with numerical simulations also. We categorically state that these properties are universal and can be extracted in any (2+1) dimensional nonl",
+    "doi": "10.1016/j.wavemoti.2026.103809",
+    "pdf_url": "https://arxiv.org/pdf/2608.13011v1",
+    "journal": "Wave Motion 147 (2026) 103809",
+    "url": "http://arxiv.org/abs/2608.13011v1",
+    "fetched_at": "2026-08-15T00:53:53.301317+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13421v1",
+    "source": "arxiv",
+    "title": "Comparison of mechanical properties of Ag/W1-xTixB2.5 and pure silver coatings deposited by PLD/HIPIMS method",
+    "authors": [
+      "Katarzyna Zielińska",
+      "Mateusz Włoczewski",
+      "Rafał Psiuk",
+      "Jacek Hoffman",
+      "Ewa Wojtiuk",
+      "Piotr Bazarnik"
+    ],
+    "year": 2026,
+    "abstract": "Transition metal borides are attracting increasing interest due to their unique properties. They are not only characterised by very high hardness, but also considerable chemical and thermal stability. Silver, on the other hand, is a good material for increasing electrical and thermal conductivity, wear resistance and has antibacterial properties due to its biological characteristics. Combining these two materials can provide superhard bilayers with increased functional properties. In this study, it was decided to synthesise Ag/WB2.5, Ag/W0.76Ti0.24B2.5 coatings and compare their properties to the individual components. The silver coating was produced by pulsed laser deposition (PLD), while the WB2.5 and W0.76Ti0.24B2.5 coatings were formed by high-power pulsed magnetron sputtering (HiPIMS)",
+    "doi": "10.1016/j.ceramint.2026.05.210",
+    "pdf_url": "https://arxiv.org/pdf/2608.13421v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.13421v1",
+    "fetched_at": "2026-08-15T00:54:06.960058+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13351v1",
+    "source": "arxiv",
+    "title": "The Use of Learning Management Systems for Self-paced Learning: The Case at a South African Public Access Centre",
+    "authors": [
+      "Guidance Mthwazi",
+      "Meke Kapepo",
+      "Jean-Paul Van Belle"
+    ],
+    "year": 2026,
+    "abstract": "This study investigates the use of a Learning Management System (LMS) to support self-paced learning at a South African Public Access Centre (PAC), using the I-CAN Centre as a case study. Through semi-structured interviews with thirty-eight learners and thematic analysis, the research explores opportunities and challenges associated with LMS adoption. Findings reveal that PACs play a critical role in promoting ICT skills and digital inclusion, offering learners flexible access to learning resources and fostering empowerment. While LMS use enhances convenience and supports blended learning as the preferred approach, persistent challenges, such as poor connectivity, outdated infrastructure, and unclear course instructions, limit its effectiveness. These findings highlight the need for infras",
+    "doi": "10.5281/zenodo.20645724",
+    "pdf_url": "https://arxiv.org/pdf/2608.13351v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.13351v1",
+    "fetched_at": "2026-08-15T00:54:17.030137+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13216v1",
+    "source": "arxiv",
+    "title": "CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation",
+    "authors": [
+      "Jiin Choi",
+      "Kyung Hoon Hyun"
+    ],
+    "year": 2026,
+    "abstract": "LLM-based chat systems have become valuable tools for design practice, enabling rapid ideation and flexible task support. Yet these systems process designer utterances as generic sequences, maintaining context through recency rather than through any model of how the speaker organizes knowledge. In design conversation, this gap compounds as relational context decays between turns, identical words go unresolved across designers, and the conversation loops or restarts rather than deepens. We present CogChat, a real-time chat framework that grounds conversational AI in a personal heterogeneous knowledge graph constructed from each designer's input. The system extracts typed entities and relations into a heterogeneous graph, then applies a HGT (Heterogeneous Graph Transformer) to select structu",
+    "doi": "10.1145/3830398.3830724",
+    "pdf_url": "https://arxiv.org/pdf/2608.13216v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.13216v1",
+    "fetched_at": "2026-08-15T00:54:17.030252+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.12840v1",
+    "source": "arxiv",
+    "title": "ASPIRE-VINS: Adaptive Spline-based Visual-inertial Navigation System With Robust 3D Measurement Residuals",
+    "authors": [
+      "Kwangyik Jung",
+      "Eungchang Mason Lee",
+      "Taekjun Oh",
+      "Hyun Myung"
+    ],
+    "year": 2026,
+    "abstract": "Visual-inertial navigation systems estimate six-degree-of-freedom motion by fusing visual and inertial data. Modern discrete-time methods with IMU preintegration provide strong accuracy and efficiency, but keyframe-based representations can be less flexible when residuals must be evaluated at arbitrary timestamps or when motion-dependent temporal resolution is needed. Continuous-time splines address this issue by representing the trajectory as a smooth temporal function, but uniformly spaced knots can under-represent rapid dynamics or over-parameterize static intervals. This letter proposes ASPIRE-VINS, a continuous-time VINS framework that combines adaptive knot placement (AKP), multi-resolution splines (MRS), and 3D measurement-space residuals (3D-MSR). AKP allocates knots according to l",
+    "doi": "10.1109/LRA.2026.3711842",
+    "pdf_url": "https://arxiv.org/pdf/2608.12840v1",
+    "journal": "IEEE Robotics and Automation Letters, vol. 11, no. 9, pp. 10625-10632, 2026",
+    "url": "http://arxiv.org/abs/2608.12840v1",
+    "fetched_at": "2026-08-15T00:54:17.030419+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.12729v1",
+    "source": "arxiv",
+    "title": "Asymmetric Textured Image Sensors Based on Antenna Theory as Designed by Nature",
+    "authors": [
+      "Julian Juhi-Lian Ting"
+    ],
+    "year": 2026,
+    "abstract": "This work numerically validates the application of bio-inspired concepts on CMOS derived from bacterial photosynthetic light harvesters. We investigate a modification of symmetric inverted pyramid array CMOS image sensors into an asymmetrically shaped texture to explore the structural boundary of passive non-reciprocity. Diverging from traditional macroscopic continuum assumptions, we analyze whether structural asymmetry at sub-wavelength scales can induce non-reciprocal scattering under passive, linear, and time-invariant conditions. A theoretical framework based on perturbation theory is developed, estimating a potential efficiency enhancement of 5\\% to 15\\%. Numerical simulations performed via the MEEP finite-difference time-domain (FDTD) platform reveal that the linear response is high",
+    "doi": "10.1007/s11082-026-09083-w",
+    "pdf_url": "https://arxiv.org/pdf/2608.12729v1",
+    "journal": "Journal of Optics and Quantum Electronics (2026)",
+    "url": "http://arxiv.org/abs/2608.12729v1",
+    "fetched_at": "2026-08-15T00:54:37.088058+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.12568v1",
+    "source": "arxiv",
+    "title": "Spin Vector Control for Heisenberg-Inspired Probabilistic Computing",
+    "authors": [
+      "Yuanqiu Tan",
+      "Rahul Tripathi",
+      "Saleh Bunaiyan",
+      "Ryan Wagner",
+      "Neil Dilley",
+      "Kerem Camsari"
+    ],
+    "year": 2026,
+    "abstract": "Probabilistic bits (p-bits) have emerged as a cornerstone of probabilistic computing, enabling energy-efficient hardware implementation for probabilistic inference and combinatorial optimization. A critical challenge in advancing this field beyond binary p-bits lies in realizing and manipulating vector spin information, essential for mapping complex energy-based models such as the Heisenberg Hamiltonian.Here, we demonstrate a spintronic platform capable of real-space vector summation by using dual ferromagnetic spin injections into a monolayer graphene channel. By electrically tuning the spin polarization through independently controlled injection currents, we achieve continuous control over the magnitude and direction of the resulting spin accumulation vector. Experimental observations, s",
+    "doi": "10.21203/rs.3.rs-10568617/v1",
+    "pdf_url": "https://arxiv.org/pdf/2608.12568v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.12568v1",
+    "fetched_at": "2026-08-15T00:54:42.805947+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.11809v1",
+    "source": "arxiv",
+    "title": "Lithography-free patterning of SrTiO$_3$-based two-dimensional electron gases using direct atomic layer processing",
+    "authors": [
+      "Anshu Gupta",
+      "Karolis Parfeniukas",
+      "Amit Chanda",
+      "Thor Hvid-Olsen",
+      "Mira Baraket",
+      "Maksym Plakhotnyuk"
+    ],
+    "year": 2026,
+    "abstract": "We present a scalable and lithography-free strategy for the realization of a two-dimensional electron gas (2DEG) in TiO$_2$-patterned SrTiO$_3$ (100) via Al deposition using magnetron sputtering. A 15 nm thick TiO$_2$ layer, deposited by direct atomic layer processing, is employed to spatially define the conducting regions, enabling direct transport measurements without post-growth microfabrication. Upon Al deposition, an insulating AlO$_x$ overlayer is formed, and the region lacking the TiO$_2$ pattern leads to the creation of oxygen vacancies in SrTiO$_3$. These oxygen vacancies act as electron donors, populating the Ti 3$d$ conduction bands and giving rise to a confined 2DEG at the interface. Magneto-transport measurements reveal a sheet carrier density on the order of $\\approx5-7\\times",
+    "doi": "10.1063/5.0337387",
+    "pdf_url": "https://arxiv.org/pdf/2608.11809v1",
+    "journal": "Applied Physics Letters 129, 061903 (2026)",
+    "url": "http://arxiv.org/abs/2608.11809v1",
+    "fetched_at": "2026-08-15T00:54:42.806196+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.13454v1",
+    "source": "arxiv",
+    "title": "Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs",
+    "authors": [
+      "Yasith Samaradivakara",
+      "Valdemar Danry",
+      "Paul Liang",
+      "Pattie Maes"
+    ],
+    "year": 2026,
+    "abstract": "Knowing someone deeply means not just understanding what they say or do but also how they will likely think, react, and engage across situations. Such predictions could eventually inform systems to anticipate when the individual is about to deviate from their goal, catch regrettable behaviors before they are made, and surface blind spots before they take hold. While many interactive systems model users to enable more personalized interactions, most cannot make such behavioral predictions, as this often requires longitudinal observation and inference of how the individual's behaviors unfold across various everyday situations. In this work, we introduce a novel LLM-based predictive behavioral modeling approach that anticipates a user's likely behavior across everyday conversational situation",
+    "doi": "10.1145/3830398.3830532",
+    "pdf_url": "https://arxiv.org/pdf/2608.13454v1",
+    "journal": "The 39th Annual ACM Symposium on User Interface Software and Technology, UIST 2026",
+    "url": "http://arxiv.org/abs/2608.13454v1",
+    "fetched_at": "2026-08-15T00:54:48.692917+00:00",
+    "material": "other"
   }
 ]
