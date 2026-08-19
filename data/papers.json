@@ -13166,5 +13166,158 @@
     "url": "http://arxiv.org/abs/2608.13454v1",
     "fetched_at": "2026-08-15T00:54:48.692917+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16835v1",
+    "source": "arxiv",
+    "title": "Classical-limit formula for matrix elements between bound states of distinct one-dimensional potentials",
+    "authors": [
+      "K. Beloy"
+    ],
+    "year": 2026,
+    "abstract": "A classical-limit formula is derived for matrix elements between bound states of distinct one-dimensional potentials. We leave open the physical interpretation of the potentials, but generally envision them to be Born-Oppenheimer-type potentials with the position variable $x$ identifying with a slowly evolving degree of freedom of the system. For instance, $x$ could represent the internuclear separation in a diatomic molecule, with the potentials being potential energy curves for different electronic states. In this scenario, the matrix elements could be, e.g., conventional Franck-Condon factors. To test the derived formula, we assume functional forms for the potentials and operator that afford analytical solutions for the matrix elements. As the classical limit is approached, the computed",
+    "doi": "10.1103/kyjq-2fc4",
+    "pdf_url": "https://arxiv.org/pdf/2608.16835v1",
+    "journal": "APS Open Sci. 1, 000077 (2026)",
+    "url": "http://arxiv.org/abs/2608.16835v1",
+    "fetched_at": "2026-08-19T00:53:07.667976+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16804v1",
+    "source": "arxiv",
+    "title": "Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment",
+    "authors": [
+      "Keren Artiaga",
+      "Yang Li",
+      "Ercan Engin Kuruoglu",
+      "Wai Kin",
+      "Chan"
+    ],
+    "year": 2026,
+    "abstract": "Sign language serves as a vital means of communication for individuals with hearing impairments, yet recognition resources for the over 100 distinct sign languages are severely lacking. In response, we present our work on sign language recognition using transfer learning and the domain adaptation method TA3N, which utilizes the Temporal Relational Network (TRN) module for aligning multi-scale temporal relations. Our findings highlight the superior performance of Domain Adaptation to neural network-based transfer learning, particularly in improving recognition of American Sign Language (ASL). Our research also identifies the effectiveness of aligning shorter-term temporal features between source and target domains. In addition to using RGB, we conducted experiments using Optical Flow mode f",
+    "doi": "10.1007/s11042-023-16703-0",
+    "pdf_url": "https://arxiv.org/pdf/2608.16804v1",
+    "journal": "Multimedia Tools and Applications 83 (2024) 37025-37051",
+    "url": "http://arxiv.org/abs/2608.16804v1",
+    "fetched_at": "2026-08-19T00:53:07.668067+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16260v1",
+    "source": "arxiv",
+    "title": "TARDIS Lab: infrastructure for characterization and assembly of highly granular silicon calorimeter modules for LUXE and future Higgs Factories",
+    "authors": [
+      "Melissa Almanza-Soto",
+      "César Blanch",
+      "Shan Huang",
+      "Adrián Irles",
+      "Carlos Orero"
+    ],
+    "year": 2026,
+    "abstract": "The TARDIS Lab has been established at IFIC (CSIC-UV) to develop infrastructure and expertise in high-granularity silicon calorimetry. The laboratory provides an ISO7 clean-room environment and dedicated instrumentation for silicon sensor characterization and ultra-thin calorimeter module assembly. It supports developments of silicon-based high-granularity calorimetry concepts pursued within CERN DRD Calo (DRD6) and the FCAL Collaboration. These developments serve not only as technological prototypes of the electromagnetic calorimeters and luminometers at future Higgs-factory proposals (FCC-ee, Linear Collider Facility at CERN, International Linear Collider, etc.) but are also essential for the strong-field QED program of the LUXE experiment. We describe the laboratory infrastructure, asse",
+    "doi": "10.1140/epjp/s13360-026-08124-3",
+    "pdf_url": "https://arxiv.org/pdf/2608.16260v1",
+    "journal": "Eur. Phys. J. Plus 141, 901 (2026)",
+    "url": "http://arxiv.org/abs/2608.16260v1",
+    "fetched_at": "2026-08-19T00:53:13.392584+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16872v1",
+    "source": "arxiv",
+    "title": "Impression Share Prediction: An Offline Evaluation Task for Ranking Systems",
+    "authors": [
+      "Mohsen Malmir",
+      "Houssam Nassif",
+      "Danish Nasir Shaikh",
+      "Taher Rahgooy",
+      "Murat Ali Bayir"
+    ],
+    "year": 2026,
+    "abstract": "Offline evaluation is a major gateway before online evaluation of ranking models in A/B testing. Standard offline metrics measure predictive accuracy, but are only a surrogate for downstream utility: a model can improve them while redistributing impressions across objective buckets in ways that degrade downstream utility. No offline method surfaces these impression share shifts before online evaluation. We propose \\emph{impression share prediction} as an offline evaluation task: given a candidate ranking model, predict the distribution of impressions it would produce across objective buckets - impressions grouped by optimization goal (e.g., click, video view). The task is inherently counterfactual, since the candidate has never served live traffic. We propose a structural causal model of h",
+    "doi": "10.1145/3773078.3831809",
+    "pdf_url": "https://arxiv.org/pdf/2608.16872v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.16872v1",
+    "fetched_at": "2026-08-19T00:53:30.869915+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16678v1",
+    "source": "arxiv",
+    "title": "Oto-Meal: Earable Sensing with PPG and IMU for Personalized Meal Awareness",
+    "authors": [
+      "Yuxuan Hou",
+      "Jiao Li",
+      "Linshan Jiang",
+      "Jin Zhang"
+    ],
+    "year": 2026,
+    "abstract": "Meal awareness can help people reflect on hydration, chewing rhythm, and conversation-heavy meals, but many eating-sensing approaches rely on cameras, microphones, food photographs, or repeated self-logging. PPG and IMU offer a narrower sensing path by capturing physiological and motion patterns around meal-adjacent actions without raw audio, video, or photographs. We present Oto-Meal, an audio- and image-free earable prototype. Its pooled neural recognizer uses a two-stage event/rest gate and five-class behavior classifier. Separately, a within-user protocol evaluates a lightweight memory matcher built from labeled target-user examples. We invited seven volunteers and collected a seven-user dataset for mixed-user training, within-user memory evaluation, and modality ablation. The pooled m",
+    "doi": "10.1145/3798063.3841767",
+    "pdf_url": "https://arxiv.org/pdf/2608.16678v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.16678v1",
+    "fetched_at": "2026-08-19T00:53:30.870168+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16111v1",
+    "source": "arxiv",
+    "title": "RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction",
+    "authors": [
+      "Mianzhi Liu",
+      "Fan Xiao",
+      "Zhiliang Yu",
+      "Huayang Huang",
+      "Yuke Li",
+      "Yi Yang"
+    ],
+    "year": 2026,
+    "abstract": "Retrosynthesis is a cornerstone of drug discovery and organic synthesis. While data-driven deep learning models have shown remarkable progress, they autonomously learn reaction patterns from extensive datasets with limited integration of established chemical knowledge as priors.   To address this limitation, we introduce RetroMPA, a molecular property-aware, post-hoc enhancement module that injects chemical knowledge into the retrosynthesis pipeline. Rather than functioning as an independent SMILES sequence generator, RetroMPA is a broadly applicable, model-agnostic chemical filter designed to recalibrate and optimize the predictive pathways of existing algorithms.   This plug-and-play framework integrates seamlessly with a range of data-driven retrosynthesis methods, enhancing outputs wit",
+    "doi": "10.1021/acs.jcim.6c01506",
+    "pdf_url": "https://arxiv.org/pdf/2608.16111v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.16111v1",
+    "fetched_at": "2026-08-19T00:53:36.687766+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16413v1",
+    "source": "arxiv",
+    "title": "Tuning electronic properties and Schottky contact in graphene-based van der Waals heterostructures by electric gating and interlayer coupling",
+    "authors": [
+      "Poonam Sharma",
+      "Archana Sharma",
+      "Alok Shukla"
+    ],
+    "year": 2026,
+    "abstract": "Van der Waals heterostructures (vdW HTSs) incorporating graphene (GE) have been an active area of research, both theoretical and experimental, due to their potential to yield devices with a wide variety of applications. In this paper, first-principles calculations are employed to investigate C$_{6}$N$_{6}$/GE, hg-C$_{3}$N$_{4}$/GE, and C$_{6}$N$_{6}$/hg-C$_{3}$N$_{4}$ 2D vdW HTSs. A systematic analysis of structural and thermodynamic stability, electronic, mechanical, and optical properties of semiconductor/metal and semiconductor/semiconductor interfaces is performed. Both semiconductor/metal HTSs form $n$-type Schottky contacts, which can be converted into $p$-type Schottky or Ohmic contacts by tuning the external perpendicular electric field and the interlayer coupling. In the semicondu",
+    "doi": "10.1103/1qnh-zvzq",
+    "pdf_url": "https://arxiv.org/pdf/2608.16413v1",
+    "journal": "Phys. Rev. B 114, 105301 (2026)",
+    "url": "http://arxiv.org/abs/2608.16413v1",
+    "fetched_at": "2026-08-19T00:53:48.566398+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.16597v1",
+    "source": "arxiv",
+    "title": "Engineering Polarization Switching in VCSELs with Custom Aperture Shapes",
+    "authors": [
+      "Zifeng Yuan",
+      "Dewen Zhang",
+      "Hong-Lin Lin",
+      "Aaron Danner"
+    ],
+    "year": 2026,
+    "abstract": "We experimentally fabricate and measure vertical-cavity surface-emitting lasers (VCSELs) with custom aperture shapes, demonstrating predictable polarization control and switching, supporting their use in photonic computation schemes like Ising machines with polarization-based information encoding.",
+    "doi": "10.1364/CLEO_AT.2025.JPS200_47",
+    "pdf_url": "https://arxiv.org/pdf/2608.16597v1",
+    "journal": "CLEO: Applications and Technology 2025, Technical Digest Series (Optica Publishing Group, 2025), paper JPS200_47",
+    "url": "http://arxiv.org/abs/2608.16597v1",
+    "fetched_at": "2026-08-19T00:54:13.505624+00:00",
+    "material": "other"
   }
 ]
