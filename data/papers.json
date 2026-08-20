@@ -13319,5 +13319,248 @@
     "url": "http://arxiv.org/abs/2608.16597v1",
     "fetched_at": "2026-08-19T00:54:13.505624+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17089v1",
+    "source": "arxiv",
+    "title": "Over what length scale does an inorganic substrate perturb the structure of a glassy organic semiconductor?",
+    "authors": [
+      "Kushal Bagchi",
+      "Chuting Deng",
+      "Camille Bishop",
+      "Yuhui Li",
+      "Nicholas E Jackson",
+      "Lian Yu"
+    ],
+    "year": 2026,
+    "abstract": "While the bulk structure of vapor-deposited glasses has been extensively studied, structure at buried interfaces has received little attention, despite being important for organic electronic applications. To learn about glass structure at buried interfaces, we study the structure of vapor-deposited glasses of the organic semiconductor DSA-Ph (1,4-di-[4-(N,N-diphenyl)amino]styryl-benzene) as a function of film thickness; structure is probed with grazing incidence X-ray scattering. We deposit on silicon and gold substrates and span a film thickness range of 10-600 nm. Our experiments demonstrate that interfacial molecular packing in vapor-deposited glasses of DSA-Ph is more disordered compared to the bulk. At a deposition temperature near room temperature, we estimate ~ 8 nm near the substra",
+    "doi": "10.1021/acsami.0c06428",
+    "pdf_url": "https://arxiv.org/pdf/2608.17089v1",
+    "journal": "ACS Appl. Mater. Interfaces 2020, 12, 26717-26726",
+    "url": "http://arxiv.org/abs/2608.17089v1",
+    "fetched_at": "2026-08-20T00:53:17.306944+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17377v1",
+    "source": "arxiv",
+    "title": "Fresnel diffraction imaging of surface nanostructure using coherent resonant X-ray scattering",
+    "authors": [
+      "L. Burgard",
+      "C. Neupane",
+      "A. Balodhi",
+      "S. Bista",
+      "S. Butun",
+      "R. Jangid"
+    ],
+    "year": 2026,
+    "abstract": "We investigated surface nanostructures on an antiferromagnet MnBi$_2$Te$_4$ using a novel imaging technique, direct (real)-space and real time coherent X-ray imaging (direct-CXI). This technique has provided new insights into antiferromagnetic textures, including the formation of anti-phase antiferromagnetic (AFM) domains and thermal dynamics of AFM domains and domain walls. While this method produces real-space images of AFM textures without requiring a complex imaging retrieval process, its underlying imaging mechanism has not been fully understood, limiting a deep understanding of AFM textures and the information they contain. By investigating the well-defined structural characteristics of the nanostructures fabricated on MnBi$_2$Te$_4$, we elucidate the imaging principle of this novel ",
+    "doi": "10.1063/5.0273192",
+    "pdf_url": "https://arxiv.org/pdf/2608.17377v1",
+    "journal": "J. Appl. Phys. 138, 013902 (2025)",
+    "url": "http://arxiv.org/abs/2608.17377v1",
+    "fetched_at": "2026-08-20T00:53:28.631880+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.18052v1",
+    "source": "arxiv",
+    "title": "Electronic Reconstruction at the Quasicrystal-Moiré Crossover in Twisted Bilayer Graphene",
+    "authors": [
+      "Kuo-En Chang",
+      "Aitor Garcia-Ruiz",
+      "Ta-Lei Chou",
+      "Yen-Ting Liu",
+      "Sheng-Chin Ho",
+      "Yu-Chiang Hsieh"
+    ],
+    "year": 2026,
+    "abstract": "Large twist angles in twisted bilayer graphene are widely expected to be electronically trivial, with negligible interlayer coupling and no electronic reconstruction, in contrast to the rich moiré-driven band reconstruction and correlated physics that emerge at small twist angles. Here, we show that this paradigm breaks down near a twist angle of 29°, where the system crosses over between quasicrystalline and commensurate order. Atomic-resolution transmission electron microscopy directly reveals the coexistence of near-dodecagonal quasicrystalline symmetry and emerging moiré periodicity, indicating an intermediate, nonperiodic structural regime. Magnetotransport measurements uncover strong interlayer hybridization mediated by Umklapp scattering, manifested by magneto-intersubband oscillati",
+    "doi": "10.1103/jmsx-2g8l",
+    "pdf_url": "https://arxiv.org/pdf/2608.18052v1",
+    "journal": "Phys. Rev. Lett. 137, 076301 (2026)",
+    "url": "http://arxiv.org/abs/2608.18052v1",
+    "fetched_at": "2026-08-20T00:53:45.613678+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17921v1",
+    "source": "arxiv",
+    "title": "Hydrodynamics modeling of the water snow line in young protoplanetary disks with dust-size-dependent opacities",
+    "authors": [
+      "Eduard I. Vorobyov",
+      "Anastasiia Topchieva",
+      "Aleksandr Skliarevskii",
+      "Yaroslav Pavlyuchenkov",
+      "Konstanze Zwintz"
+    ],
+    "year": 2026,
+    "abstract": "Aims. We investigated the properties of the water snow line during the early stages of disk evolution, paying particular attention to the effects of gravitational instability and dust growth on the snow line's shape and position. Methods. We used the FEOSAD numerical hydrodynamics code to simulate the disk formation and evolution in the thin-disk limit. The simulations incorporate the coevolution of gas, dust, and volatiles, including dust growth, volatile phase transitions, and dust-size-dependent opacities. Results. The position of the water snow line is highly nonsteady during the considered disk evolution period, first moving outward during the disk build-up and then retreating back as the disk cools. Its form in the disk midplane deviates strongly from a circular shape in the early gr",
+    "doi": "10.1051/0004-6361/202660970",
+    "pdf_url": "https://arxiv.org/pdf/2608.17921v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.17921v1",
+    "fetched_at": "2026-08-20T00:53:45.613897+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17899v1",
+    "source": "arxiv",
+    "title": "Hidden Unbounded Potential and Re-Entrant Multifractalization in a Generalized Su-Schrieffer-Heeger Model",
+    "authors": [
+      "Yun-Yan Chen",
+      "Jia-Ming Zhang",
+      "Zhi Li"
+    ],
+    "year": 2026,
+    "abstract": "We study the multifractal criticality in a generalized Su-Schrieffer-Heeger model. The results show that the system supports not only critical phases but also re-entrance multifractalization (REM). By mapping the hopping term to an effective potential, we analytically prove that although the model has no explicit unbounded potential, a hidden unbounded potential is actually present-this is the key mechanism driving the emergence of multifractal critical phases. Moreover, one can get a condition where the competition between the explicit and hidden unbounded potentials is exactly balanced. Under this condition, the multifractal critical phase vanish, and the system returns to the extended phase. Based on this mechanism, we achieve both demultifractalization and re-entrant multifractalizatio",
+    "doi": "10.1103/zl58-4yxk",
+    "pdf_url": "https://arxiv.org/pdf/2608.17899v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.17899v1",
+    "fetched_at": "2026-08-20T00:53:45.613945+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17647v1",
+    "source": "arxiv",
+    "title": "Wavelength-Resolved Control of Photovoltaic Screening and Defect-Mediated Doping in Photo-Ferroelectric/Graphene Devices",
+    "authors": [
+      "Krishna Prasad Maity",
+      "Mohd Uvais",
+      "Jean-Francois Dayen",
+      "Bernard Doudin",
+      "Roman Gumeniuk",
+      "Bohdan Kundys"
+    ],
+    "year": 2026,
+    "abstract": "Ferroelectrics enable large charge doping of two-dimensional overlayers, but the coexistence of switching and nonswitching charge dynamics complicate electro-optical analysis. Here, we investigate the optoelectronic response of a ferroelectric/graphene device under 365 and 530 nm illumination, disentangling effects on ferroelectric dipole alignment from extrinsic current pathways. Graphene acts as a high-gain sensor, amplifying subtle polarization dynamics into a pronounced resistance difference. By resolving switching and nonswitching channels in dark and illuminated conditions, we reveal a competition between photovoltaic charge screening and defect-assisted excitation that governs device electrostatics. Above-band gap illumination generates free carriers that induce leaky ferroelectric ",
+    "doi": "10.1021/acsaelm.5c02316",
+    "pdf_url": "https://arxiv.org/pdf/2608.17647v1",
+    "journal": "ACS Appl. Electron. Mater. 8 (4): 1635 (2026)",
+    "url": "http://arxiv.org/abs/2608.17647v1",
+    "fetched_at": "2026-08-20T00:53:51.195936+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17244v1",
+    "source": "arxiv",
+    "title": "Maximum Tsallis Entropy Distributions for Robust and Efficient Sparse Learning from Correlated Data",
+    "authors": [
+      "Kai Yang",
+      "Masoud Asgharian",
+      "Celia M. T. Greenwood"
+    ],
+    "year": 2026,
+    "abstract": "This paper addresses the limitations of Gaussian distribution assumptions in statistical sparse learning, particularly in modeling correlated and heterogeneous data. Conventional Gaussian models often lack robustness towards outliers and underlying distribution assumptions. To overcome these limitations, we propose the use of the $q$Gaussian distribution, derived from Tsallis entropy maximization, as a robust alternative. This is notably relevant in biostatistics, where the presence of correlated observations and heterogeneity, such as in genetic and longitudinal studies, is prevalent. Our contributions include modeling of correlated data through the re-derived multivariate probability density function from Tsallis entropy maximization, thereby addressing the limitations inherent in conven",
+    "doi": "10.82308/38780",
+    "pdf_url": "https://arxiv.org/pdf/2608.17244v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.17244v1",
+    "fetched_at": "2026-08-20T00:53:51.196382+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17175v1",
+    "source": "arxiv",
+    "title": "Balancing Safety and Autonomy: Accessibility-Oriented Interventions in Generative AI for Cognitive Impairment",
+    "authors": [
+      "Yibo Meng",
+      "Jingruo Chen",
+      "Lyumanshan Ye",
+      "Bingyi Liu",
+      "Zhicong Lu"
+    ],
+    "year": 2026,
+    "abstract": "Generative AI systems are increasingly used by older adults with cognitive impairment for everyday tasks such as information seeking, health management, and communication. While these systems provide flexible, language-based support, their open-ended outputs introduce risks of over-reliance, misinterpretation, and inappropriate decision-making. Prior work has focused on usability and adoption, with limited attention to how system design shapes users' participation in decision-making and the distribution of agency in care contexts. We present a qualitative study of 45 individuals with cognitive impairment and their caregivers. We identify five accessibility-oriented mechanisms: AI Capability Constraint, Human Oversight Embedding, Cognitive Engagement Maintenance, Human-AI Relationship Regul",
+    "doi": "10.1145/3797867.3829017",
+    "pdf_url": "https://arxiv.org/pdf/2608.17175v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.17175v1",
+    "fetched_at": "2026-08-20T00:53:51.196414+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17745v1",
+    "source": "arxiv",
+    "title": "Bridging ambient- and high-pressure superconductivity in La$_2$LnNi$_2$O$_7$ films",
+    "authors": [
+      "Motoki Osada",
+      "Chieko Terakura",
+      "Shusaku Imajo",
+      "Jean-Baptiste Morée",
+      "Akiko Kikkawa",
+      "Masamichi Nakajima"
+    ],
+    "year": 2026,
+    "abstract": "The discovery of high critical-temperature $T_{\\mathrm{c}}$ superconductivity near 80 K in bilayer nickelates under high pressure has sparked extensive studies. While superconductivity exceeding 40 K was subsequently discovered at ambient pressure in compressively strained films, the relationship between ambient- and high-pressure regimes remains an open question. Here we present a systematic investigation of superconductivity in compressively strained La$_2$LnNi$_2$O$_7$ films (Ln = lanthanides) at ambient and high pressures. The normal-state resistivity at ambient pressure, revealed by suppressing superconductivity with magnetic fields of 59 T, tends toward $T^2$ behaviour. Under high pressure in a cubic-anvil cell, $T_{\\mathrm{c}}$ was enhanced from 41-42 K at ambient pressure to 67-73 ",
+    "doi": "10.1038/s41563-026-02695-3",
+    "pdf_url": "https://arxiv.org/pdf/2608.17745v1",
+    "journal": "Nature Materials (2026)",
+    "url": "http://arxiv.org/abs/2608.17745v1",
+    "fetched_at": "2026-08-20T00:54:10.013921+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17627v1",
+    "source": "arxiv",
+    "title": "Quantized Spin Hall Effect in Three-Dimensional Nodal-Ring Semimetal: Geometric Scaling and Symmetry-Engineered Spin Response",
+    "authors": [
+      "Jiali Chen",
+      "Chaoxi Cui",
+      "Zhi-Ming Yu",
+      "Wei Jiang",
+      "Yugui Yao"
+    ],
+    "year": 2026,
+    "abstract": "The anomalous Hall conductivity in magnetic Weyl semimetals scales linearly with the momentum separation between Weyl nodes, establishing a geometric paradigm for three-dimensional Hall responses. Here we discover an analogous phenomenon in the spin Hall effect: a quantized spin Hall conductivity (SHC) in nodal-ring semimetals that scales linearly with the nodal-ring radius $R$. From an ideal model with a single nodal ring, we derive analytically that the SHC inside the spin-orbit-coupled gap obeys $σ_{αβ}^{S, 3D}=σ_0^{S,2D} \\cdot (πR/2 π)$, where $σ_0^{S,2D}=(e^2/h) \\cdot (\\hbar/2 e)$ is the two-dimensional quantum spin Hall conductance. Crucially, the symmetry of the spin-orbit coupling acts as an independent switch: Rashba coupling generates purely conventional SHC components, while Wey",
+    "doi": "10.1103/74ky-d71n",
+    "pdf_url": "https://arxiv.org/pdf/2608.17627v1",
+    "journal": "Physical Review Letters 137, 086301 (2026)",
+    "url": "http://arxiv.org/abs/2608.17627v1",
+    "fetched_at": "2026-08-20T00:54:10.014132+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17448v1",
+    "source": "arxiv",
+    "title": "Multi-Sensor Edge Angle Detection for Performance Analysis in Ski Jumping",
+    "authors": [
+      "Ivan Simeonov",
+      "Lukas Schulthess",
+      "Hanna Mueller",
+      "Marc Nölke",
+      "Michele Magno",
+      "Luca Benini"
+    ],
+    "year": 2026,
+    "abstract": "In ski jumping, performance during the gliding phase depends on achieving an aerodynamic posture that maximizes the lift-to-drag ratio. In the V-style technique, the ski edge angle is a key determinant. Reducing the edge angle flattens the skis, increases their effective surface area, and improves aerodynamic lift, ultimately contributing to longer flight distances. Ski edge angles are biomechanically constrained by the limited range of ankle inversion. Current sensing solutions widely quantify these angles using multi-system approaches that combine sensor signals through geometric relations. Such configurations require instrumentation on both the boot and the ski, altering mass distribution, affecting balance during flight, and increasing system complexity. To overcome these limitations, ",
+    "doi": "10.1109/JSEN.2026.3725626",
+    "pdf_url": "https://arxiv.org/pdf/2608.17448v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.17448v1",
+    "fetched_at": "2026-08-20T00:54:10.014253+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.17440v1",
+    "source": "arxiv",
+    "title": "General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting",
+    "authors": [
+      "Mattis thor Straten",
+      "Yannick Wolker",
+      "Steffen Strohm",
+      "Prathvish Mithare",
+      "Ralf Krestel",
+      "Matthias Renz"
+    ],
+    "year": 2026,
+    "abstract": "Although Graph Neural Networks (GNNs) have made significant advances in spatio-temporal traffic forecasting, their performance is limited when they rely solely on sensor proximity or road-network topology. This paper presents a spatio-temporal prediction framework, developed to incorporate knowledge in various forms. This framework aims to improve sensor-level, contextual understanding of the environment. A general-purpose knowledge graph (e.g., Wikidata) is used to create semantic subgraphs around traffic sensors and generate knowledge graph embeddings that capture meaningful relationships, such as nearby points of interest, administrative hierarchies, and the functional roles of locations. These embeddings are then fused with conventional traffic sensor graphs to provide additional adjac",
+    "doi": "10.1109/MDM71479.2026.00016",
+    "pdf_url": "https://arxiv.org/pdf/2608.17440v1",
+    "journal": "M. t. Straten, et al. \"General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting,\" 2026 27th IEEE International Conference on Mobile Data Management (MDM), Athens, Greece, 2026, pp. 44-51",
+    "url": "http://arxiv.org/abs/2608.17440v1",
+    "fetched_at": "2026-08-20T00:54:10.014286+00:00",
+    "material": "other"
   }
 ]
