@@ -13562,5 +13562,98 @@
     "url": "http://arxiv.org/abs/2608.17440v1",
     "fetched_at": "2026-08-20T00:54:10.014286+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.19164v1",
+    "source": "arxiv",
+    "title": "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University",
+    "authors": [
+      "Weihao Qu",
+      "Ling Zheng",
+      "Chris Buzaid",
+      "Daniel Crawford"
+    ],
+    "year": 2026,
+    "abstract": "As generative AI reshapes professional and educational practice, institutions face a challenge: how to support diverse learners, from non-coders to advanced students, in building confidence and practice with AI-supported problem solving. Most institutional responses bifurcate into conceptual workshops for general audiences or technical courses for computer science majors, leaving few spaces where mixed-ability learners can engage common AI tasks at levels matched to their prior experience.   This experience report presents the LearnAI Framework, a two-layer model for just-in-time AI co-creation piloted at a comprehensive teaching university. The Wide-Exposure Layer embeds short presentations in existing courses to build AI awareness at scale, reaching students and faculty across 18 courses",
+    "doi": "10.1145/3795867.3831010",
+    "pdf_url": "https://arxiv.org/pdf/2608.19164v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.19164v1",
+    "fetched_at": "2026-08-21T00:57:04.090922+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.19030v1",
+    "source": "arxiv",
+    "title": "A Search for helium in the atmospheres of three sub-Neptunes and a super-Earth around M-dwarfs",
+    "authors": [
+      "Kiyoe Kawauchi",
+      "Norio Narita",
+      "Yuichi Ito",
+      "Akifumi Nakayama",
+      "Teruyuki Hirano",
+      "Masayuki Kuzuhara"
+    ],
+    "year": 2026,
+    "abstract": "Thousands of sub-Neptunes have been discovered mainly through space-based surveys such as Kepler and TESS. Their bulk compositions and internal structures are thought to reflect their formation and evolutionary pathways, and atmospheric observations provide constraints on these processes. The near-infrared helium triplet is a potential tracer of extended, escaping H/He atmospheres. Recent models that include geometric effects suggest that planets orbiting nearby late M dwarfs may offer favorable conditions for detecting this signal. Nevertheless, helium has been reported for only three planets around M dwarfs to date. We conducted high-resolution transmission spectroscopy of three sub-Neptunes (TOI-2136b, TOI-654b, and LP 791-18c) and a super-Earth (TOI-1634b) orbiting M dwarfs with the In",
+    "doi": "10.1093/pasj/psag104",
+    "pdf_url": "https://arxiv.org/pdf/2608.19030v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.19030v1",
+    "fetched_at": "2026-08-21T00:57:04.091160+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.18994v1",
+    "source": "arxiv",
+    "title": "TractorBeam: Personalized AI Sensemaking Support via Collaborative Machine Annotation",
+    "authors": [
+      "Sireesh Gururaja",
+      "Jordan Taylor",
+      "Emma Strubell"
+    ],
+    "year": 2026,
+    "abstract": "Language model-based systems which allow asking questions of documents have become popular tools for sensemaking. Despite their implied capability, these systems still suffer from issues of factuality and provenance, while encouraging confirmatory, rather than exploratory, research. We present TractorBeam, a browser extension-based mixed-initiative system that uses collaborative annotation as an interface metaphor for sensemaking, re-framing language model (LM) outputs as suggested highlights in a process that we call \\textit{collaborative machine annotation}. This metaphor allows us to present LM results in-context on PDF documents, directly addressing concerns of provenance and factuality, while allowing users to iteratively construct mental schemas and queries for language models direct",
+    "doi": "10.1145/3830397.3841814",
+    "pdf_url": "https://arxiv.org/pdf/2608.18994v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.18994v1",
+    "fetched_at": "2026-08-21T00:57:04.091255+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.18582v1",
+    "source": "arxiv",
+    "title": "Score-based Fading-Aware Decision Fusion",
+    "authors": [
+      "Domenico Ciuonzo"
+    ],
+    "year": 2026,
+    "abstract": "Distributed detection of an unknown deterministic signal is studied in a wireless sensor network with low-cost nodes. Sensors apply one-bit quantization to noisy observations and transmit over Rayleigh fading to a Fusion Center (FC). Score tests, including variants using observed Fisher information, are proposed as low-complexity alternatives to the generalized likelihood ratio test (GLRT). The FC performs joint decoding and fusion, optimizing quantizers in a channel-aware manner to improve asymptotic detection performance. Simulations confirm the appeal of score-based tests under realistic wireless conditions.",
+    "doi": "10.1109/LSP.2025.3591002",
+    "pdf_url": "https://arxiv.org/pdf/2608.18582v1",
+    "journal": "IEEE Signal Processing Letters 2025, Vol. 32, pp. 2952-2956",
+    "url": "http://arxiv.org/abs/2608.18582v1",
+    "fetched_at": "2026-08-21T00:57:40.022627+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.18969v1",
+    "source": "arxiv",
+    "title": "Fuzzy Accuracy Compensates for Label Subjectivity in Classification of Skin Tone Using Wearable Photoplethysmography Signals",
+    "authors": [
+      "Padmini Krishnadas",
+      "Urs Hackstein",
+      "Alen Bosnjakovic",
+      "Philip J. Aston"
+    ],
+    "year": 2026,
+    "abstract": "We consider the problem of classification of skin tone using photoplethysmography (PPG) signals with labels of the ordinal six-class Fitzpatrick skin tones. A typical accuracy for this task is a poor 40-55 %. However, the labels are subjectively determined by comparing the skin with a colour chart, and hence contain widespread small-scale inaccuracies. By working with a \"fuzzy accuracy\", which deems a prediction of skin tone class to be correct if its difference from the labelled class is not greater than one, much higher accuracy is obtained which provides more convincing evidence that skin tone can be accurately predicted from PPG signals. Three machine learning approaches were used, namely deep learning or tree-based approaches on raw PPG signals, deep learning on image representations ",
+    "doi": "10.1109/FUZZ69877.2026.11626495",
+    "pdf_url": "https://arxiv.org/pdf/2608.18969v1",
+    "journal": "https://ieeexplore.ieee.org/document/11626495 2026",
+    "url": "http://arxiv.org/abs/2608.18969v1",
+    "fetched_at": "2026-08-21T00:57:51.423823+00:00",
+    "material": "other"
   }
 ]
