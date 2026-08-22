@@ -13655,5 +13655,61 @@
     "url": "http://arxiv.org/abs/2608.18969v1",
     "fetched_at": "2026-08-21T00:57:51.423823+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.20039v1",
+    "source": "arxiv",
+    "title": "Anomalous behavior of native point defects in C2-ordered antiferromagnet $α$-MnO$_2$",
+    "authors": [
+      "Archana Sharma",
+      "Brahmananda Chakraborty"
+    ],
+    "year": 2026,
+    "abstract": "$α$-MnO$_2$ is an emerging material for electronic, optoelectronic, and energy applications, owing to its structural flexibility and defect-driven functionality. During synthesis of $α$-MnO$_2$, native oxygen vacancies readily form and are typically compensated by foreign dopants. A thorough understanding of intrinsic defects is therefore essential for enabling controlled extrinsic doping and optimizing material performance. Using density functional approach, we investigate the structural, electronic, magnetic, and optical properties of the ground state C2-type antiferromagnetic $α$-MnO$_2$ in the presence of native point defects, including interstitials, vacancies, and antisites. We compute their thermodynamic stability, incorporating electrostatic corrections to eliminate spurious long-r",
+    "doi": "10.1103/vvc9-3ryd",
+    "pdf_url": "https://arxiv.org/pdf/2608.20039v1",
+    "journal": "Phys. Rev. B 114 (2026) 084108",
+    "url": "http://arxiv.org/abs/2608.20039v1",
+    "fetched_at": "2026-08-22T00:53:10.677392+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.20213v1",
+    "source": "arxiv",
+    "title": "Explainability by Design: Structured Kolmogorov-Arnold Networks over Probabilistic Attributes for Speech Deepfake Source Tracing",
+    "authors": [
+      "Hoang H. Pham",
+      "Manasi Chhibber",
+      "Tomi H. Kinnunen"
+    ],
+    "year": 2026,
+    "abstract": "Modern speech synthesizers can produce highly realistic speech, making source tracing (i.e. identifying the generator behind a spoofed utterance) increasingly important for forensics, online content provenance, and platform accountability. Building on our prior work on transparent probabilistic attributes, which represent utterances as probability distributions over synthesizer sub-components, we extend speech deepfake source tracing with two key ingredients: multi-task training of the probabilistic attribute extractors and a structured Kolmogorov--Arnold Network (KAN) for attack classification. The probabilistic features are estimated jointly with a multi-task learning module built on a shared AASIST or SSL-AASIST countermeasure backbone. The resulting probabilistic feature embedding is c",
+    "doi": "10.2139/ssrn.7170780",
+    "pdf_url": "https://arxiv.org/pdf/2608.20213v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.20213v1",
+    "fetched_at": "2026-08-22T00:53:33.160037+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.19630v1",
+    "source": "arxiv",
+    "title": "Vorticity Dissipation Based Routing: A Fluid-Kinetic Framework for Loop-Free Transport in Ultra-Dense Networks",
+    "authors": [
+      "Wen-Yu Dong",
+      "Weiwei Jiang",
+      "Song Zhao",
+      "Rui-Si Han",
+      "Qi Bi",
+      "Sheng Chen"
+    ],
+    "year": 2026,
+    "abstract": "Discrete routing protocols in ultra-dense wireless networks are constrained by signaling overhead and transient routing loops that degrade radio-resource efficiency. While continuum modeling provides a scalable alternative, existing scalar density approaches lack the vector geometric structure required to characterize these topological anomalies. This paper introduces a fluid-kinetic framework, vorticity dissipation-based routing (VDR), utilizing the Helmholtz-Hodge decomposition. We demonstrate that the macroscopic traffic flux can be orthogonally decoupled into a demand-driven irrotational component and a loop-induced solenoidal component representing routing vorticity. Building on this insight, we define network vorticity as a macroscopic metric to quantify topological inefficiency. Rou",
+    "doi": "10.1109/TMC.2026.3722828",
+    "pdf_url": "https://arxiv.org/pdf/2608.19630v1",
+    "journal": "IEEE Trans. Mobile Comput., early access, Aug. 2026",
+    "url": "http://arxiv.org/abs/2608.19630v1",
+    "fetched_at": "2026-08-22T00:53:38.810125+00:00",
+    "material": "other"
   }
 ]
