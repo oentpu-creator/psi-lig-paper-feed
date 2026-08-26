@@ -13711,5 +13711,122 @@
     "url": "http://arxiv.org/abs/2608.19630v1",
     "fetched_at": "2026-08-22T00:53:38.810125+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.23434v1",
+    "source": "arxiv",
+    "title": "Comparison of mechanical and molecular measures of mobility during constant strain rate deformation of a PMMA glass",
+    "authors": [
+      "Benjamin Bending",
+      "M. D. Ediger"
+    ],
+    "year": 2026,
+    "abstract": "We performed constant strain rate deformation and stress relaxation on a poly(methyl methacrylate) glass at Tg - 19 K, utilizing three strain rates and initiating the stress relaxation over a large range of strain values. Following previous workers, we interpret the initial rate of decay of the stress during the relaxation experiment as a purely mechanical measure of mobility for the system. In our experiments, the mechanical mobility obtained in this manner changes by less than a factor of 3 prior to yield. During these mechanical experiments, we also performed an optical measurement of segmental mobility based upon the reorientation of a molecular probe; we observe that the probe mobility increases up to a factor of 100 prior to yield. In the post-yield regime, in contrast, the mobilitie",
+    "doi": "10.1002/polb.24110",
+    "pdf_url": "https://arxiv.org/pdf/2608.23434v1",
+    "journal": "JOURNAL OF POLYMER SCIENCE, PART B: POLYMER PHYSICS 2016, 54, 1957-1967",
+    "url": "http://arxiv.org/abs/2608.23434v1",
+    "fetched_at": "2026-08-26T00:55:59.149932+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.23148v1",
+    "source": "arxiv",
+    "title": "Development of an adaptive optics testbed at MPIA for the ELT/Planetary Camera and Spectrograph (PCS)",
+    "authors": [
+      "Raphaël Pourcelot",
+      "Thomas Bertram",
+      "Peter Bizenberger",
+      "Markus Feldt",
+      "Markus Kasper",
+      "Silvia Scheithauer"
+    ],
+    "year": 2026,
+    "abstract": "The Planetary Camera and Spectrograph (PCS) is a proposed second-generation instrument for the Extremely Large Telescope (ELT), dedicated to the direct imaging and characterization of exoplanets. To meet its demanding science requirements, PCS will incorporate an extreme adaptive optics (AO) system, building upon the heritage of existing ELT AO instruments such as ELT/METIS, as well as high-contrast AO systems at the ELT and the VLT, including SPHERE and its upcoming upgrade, SAXO+. PCS development requires extensive research and development to advance critical AO technologies. In this work, we present the Max Planck Institute for Astronomy (MPIA) plan for a modular testbed to validate key components and control strategies. This testbed will integrate two deformable mirrors, including a DM",
+    "doi": "10.1117/12.3104484",
+    "pdf_url": "https://arxiv.org/pdf/2608.23148v1",
+    "journal": "Proc. SPIE 14150, Adaptive Optics Systems X, 1415038 (19 Aug 2026)",
+    "url": "http://arxiv.org/abs/2608.23148v1",
+    "fetched_at": "2026-08-26T00:56:30.567276+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.22979v1",
+    "source": "arxiv",
+    "title": "SA-RSQ: A Versatile Sparse Representation Framework for Multi-modal Recommender Systems",
+    "authors": [
+      "Xiang Wang",
+      "Shigang Quan",
+      "Tingzhen Chang",
+      "Kang Yang",
+      "Sitong Chen",
+      "Yabo Fan"
+    ],
+    "year": 2026,
+    "abstract": "Deploying high-dimensional multimodal features in industrial recommender systems incurs substantial storage and latency overhead. Hard quantization is compact but introduces boundary distortion, whereas dense soft quantization couples representation quality to the limited storage budget. We propose Sparse Activation-based Residual Soft Quantization (SA-RSQ), which uses Top-K sparse routing and softmax weights to store compact (Index, Probability) tuples. The stored tuples decouple per-item storage from codebook dimensionality; for a fixed selected support, gradients propagate through the routing weights and weighted reconstruction without relying on a straight-through estimator. Experiments on a proprietary food-delivery advertising dataset show favorable reconstruction-performance and CTR",
+    "doi": "10.1145/3799682.3840131",
+    "pdf_url": "https://arxiv.org/pdf/2608.22979v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2608.22979v1",
+    "fetched_at": "2026-08-26T00:56:30.567360+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.22555v1",
+    "source": "arxiv",
+    "title": "Neighbor-embedded Graph Neural Network-based Crowd Delivery Traffic Management in Smart City",
+    "authors": [
+      "Kishu Gupta",
+      "Deepika Saxena",
+      "Ashutosh Kumar Singh",
+      "Chung-Nan Lee"
+    ],
+    "year": 2026,
+    "abstract": "The significant upsurge in vehicle traffic presents a considerable challenge in the pursuit of smart mobilization and transportation (SMT) worldwide. Current approaches primarily focus on vehicular traffic management through congestion prediction but fall short in addressing essential objectives such as traffic reduction and appropriate vehicle selection to alleviate congestion in smart cities ($SmCt$). To address these concerns, this work introduces a novel \\textit{Neighbor-Embedded Graph Neural Network-based Crowd Delivery Traffic Management} (NeCDM) Model, comprising two key components: the Traffic Congestion Prediction Unit (TCPu) and the Traffic Observation and Management Unit (TOMu). The TCPu utilizes Graph Neural Network (GNN) optimization to accurately predict traffic flow levels a",
+    "doi": "10.1109/TETCI.2026.3670691",
+    "pdf_url": "https://arxiv.org/pdf/2608.22555v1",
+    "journal": "IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 10, no. 3, pp. 2391-2403, June 2026",
+    "url": "http://arxiv.org/abs/2608.22555v1",
+    "fetched_at": "2026-08-26T00:56:30.567583+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.22251v1",
+    "source": "arxiv",
+    "title": "CAIA in Practice: Field Evaluation of an AI-Assisted Support System for Text-Based Online Counselling",
+    "authors": [
+      "Philipp Steigerwald",
+      "Nico Bienlein",
+      "Jennifer Burghardt",
+      "Mara Stieler",
+      "Robert Lehmann",
+      "Jens Albrecht"
+    ],
+    "year": 2026,
+    "abstract": "Rising global demand for mental health support creates significant service delivery challenges, with asynchronous email counselling serving as a crucial low-threshold channel for accessing care. This paper presents CAIA, a co-designed AI-based tool suite that demonstrates responsible AI integration into counselling practice through seven LLM-driven functions enhanced by retrieval-augmented generation. A field evaluation involved 34 professional counsellors conducting authentic sessions with trained student counsellees (36 threads, 321 messages, 1,257 AI outputs). User behaviour analysis confirms substantial adoption, revealing that professional autonomy and information accuracy are decisive for sustained acceptance, with counsellors particularly valuing interpretive functionalities that pr",
+    "doi": "10.1109/ICTAI66417.2025.00214",
+    "pdf_url": "https://arxiv.org/pdf/2608.22251v1",
+    "journal": "2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI), pp. 1476-1483",
+    "url": "http://arxiv.org/abs/2608.22251v1",
+    "fetched_at": "2026-08-26T00:56:30.567674+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2608.22588v1",
+    "source": "arxiv",
+    "title": "Waveform Design for Simultaneous MIMO Radar Sensing and Multi-User Communication",
+    "authors": [
+      "Berkan Kilic",
+      "Kenan Turbic",
+      "Slawomir Stanczak"
+    ],
+    "year": 2026,
+    "abstract": "This paper proposes a novel two-stage joint waveform design framework for multi-antenna Integrated Sensing and Communication (ISAC) systems that simultaneously enable Multiple-Input Multiple-Output (MIMO) radar sensing and Multi-User MIMO communication. First, a transmit waveform covariance matrix is designed by solving a convex matrix nearness problem for beampattern synthesis that simultaneously maximizes transmit power in desired directions and minimizes cross-directional correlations, while accommodating independent antenna power constraints and supporting interference suppression through radiation null steering. Second, a waveform conforming to the designed covariance is synthesized while additionally enforcing inter-user interference suppression via the zero-forcing approach and impo",
+    "doi": "10.1109/JSAC.2025.3610450",
+    "pdf_url": "https://arxiv.org/pdf/2608.22588v1",
+    "journal": "IEEE Journal on Selected Areas in Communications, vol. 44, pp. 263-277, 2026",
+    "url": "http://arxiv.org/abs/2608.22588v1",
+    "fetched_at": "2026-08-26T00:56:42.211994+00:00",
+    "material": "other"
   }
 ]
