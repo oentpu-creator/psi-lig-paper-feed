@@ -13828,5 +13828,47 @@
     "url": "http://arxiv.org/abs/2608.22588v1",
     "fetched_at": "2026-08-26T00:56:42.211994+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_c0cef6edd7086f4d",
+    "source": "semantic_scholar",
+    "title": "Laser-induced graphene electrode-based supercapacitors: insight on the influence of aqueous electrolytes on its energy storage potential",
+    "authors": [
+      "Jadan Resnik",
+      "U. Jaleel",
+      "Somashekara Bhat",
+      "Y. Sudhakar",
+      "Ankitha Rao",
+      "Vipin Cyriac"
+    ],
+    "year": 2025,
+    "abstract": "Flexible supercapacitors based on laser-induced graphene (LIG) have emerged as a promising solution for scalable and cost-effective energy storage applications owing to their ease of fabrication and eco-friendly nature. However, the role of aqueous electrolytes in energy storage and conduction in thin-film electrodes has not yet been well explored. This study focused on optimizing the laser parameters, including the laser speed and power, to enhance the properties of LIG electrodes while investigating the influence of different aqueous electrolytes on electrochemical performance. The optimized laser parameters were a laser speed of 180 mm s−1 and power of 40 W. The optimized electrodes were characterized using Raman spectroscopy, Fourier transform infrared spectroscopy, X-ray diffraction, ",
+    "doi": "10.1007/s10853-025-11069-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10853-025-11069-0.pdf",
+    "journal": "Journal of Materials Science",
+    "url": "https://www.semanticscholar.org/paper/c0cef6edd7086f4dd0cb13bd898f3ca35c30a544",
+    "fetched_at": "2026-08-30T03:05:49.643104+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_e152b329df2ff530",
+    "source": "semantic_scholar",
+    "title": "Laser‐Induced Graphene from Waste Almond Shells",
+    "authors": [
+      "Y. Steksova",
+      "A. Bressi",
+      "Marina Galliani",
+      "Attilio Marino",
+      "G. Ciofani",
+      "Eduardo Machado-Charry"
+    ],
+    "year": 2025,
+    "abstract": "Laser‐induced graphene (LIG) is a 3D conductive carbon material typically produced from petroleum‐based polymers via a one‐step laser‐induced pyrolysis in air, without chemicals. Recently, the focus has shifted toward bioderived and biodegradable precursors as potentially sustainable alternatives. Here, this approach is advanced by repurposing almond shells–an abundant raw agricultural by‐product–blended with chitosan to form almond shell composites (ASC). ASC exhibits over 60% weight loss after 90 days under soil burial. It serves both as a bioderived substrate for electronics and as a precursor for LIG. ASC is converted into LIG through UV and IR laser scribing, and its structure is thoroughly investigated. ASC‐LIG achieves sheet resistance values as low as 114.3 ± 0.9 Ω sq−1 (UV), and a",
+    "doi": "10.1002/adfm.202507462",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202507462",
+    "journal": "Advanced Functional Materials",
+    "url": "https://www.semanticscholar.org/paper/e152b329df2ff5307425e27a97252f1c2d46b627",
+    "fetched_at": "2026-08-30T03:05:49.643135+00:00",
+    "material": "LIG"
   }
 ]
