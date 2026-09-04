@@ -13987,5 +13987,79 @@
     "url": "https://www.semanticscholar.org/paper/c749806681d7eeddf76428ce2e010f6dfa99a897",
     "fetched_at": "2026-09-01T03:06:02.139058+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_1476c976d76cfe8b",
+    "source": "semantic_scholar",
+    "title": "Current density effects on the morphological characteristic and reflectance of n-type porous silicon prepared the laser-assisted anodization",
+    "authors": [
+      "Sehati",
+      "Cari",
+      "Agus Supriyanto",
+      "M. Abdullah",
+      "R. Suryana"
+    ],
+    "year": 2025,
+    "abstract": "Porous silicon (PSi) has been formed on n-type Si (100) substrates using the green laser-assisted electrochemical anodization method. Current densities during the anodization (etching) process were varied at 2, 4, 6, 8, and 10 mA/cm2. The surface morphologies of the prepared PSi samples were observed using Scanning Electron Microscopy (SEM), and their optical reflectances were investigated using a UV-Vis Spectrophotometer. The results showed that PSi was formed in circular shapes with homogenous pore distribution. Besides, the effects of various current densities were observed. The yields revealed that the higher current densities could produce PSi with larger average pore diameters, leading to declined reflectances.",
+    "doi": "10.1088/1742-6596/2945/1/012036",
+    "pdf_url": "https://doi.org/10.1088/1742-6596/2945/1/012036",
+    "journal": "Journal of Physics: Conference Series",
+    "url": "https://www.semanticscholar.org/paper/1476c976d76cfe8b525c5312079458d27a965979",
+    "fetched_at": "2026-09-04T02:28:34.268850+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_53c5137ba3966cfd",
+    "source": "semantic_scholar",
+    "title": "In situ reflectance spectroscopy for state-of-lithiation mapping of porous silicon anodes",
+    "authors": [
+      "Hyunsang Joo",
+      "Malina Helling",
+      "Damian Mroz",
+      "Nicha Wongkaew-Lenz",
+      "S. Nowak",
+      "Sun-Je Kim"
+    ],
+    "year": 2026,
+    "abstract": "",
+    "doi": "10.1016/j.jpowsour.2026.240342",
+    "pdf_url": "https://doi.org/10.1016/j.jpowsour.2026.240342",
+    "journal": "Journal of Power Sources",
+    "url": "https://www.semanticscholar.org/paper/53c5137ba3966cfd6d8db644e96989a74f5cc71b",
+    "fetched_at": "2026-09-04T02:28:34.268882+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_13eb12095a154472",
+    "source": "semantic_scholar",
+    "title": "Morphology of Single and Multilayerd Porous Silicon and Variation of Reflectance with Etching Parameters",
+    "authors": [
+      "R. Dash",
+      "Arnab Bhattacharyya"
+    ],
+    "year": 2022,
+    "abstract": "",
+    "doi": "10.2139/ssrn.4249505",
+    "pdf_url": "https://doi.org/10.2139/ssrn.4249505",
+    "journal": "SSRN Electronic Journal",
+    "url": "https://www.semanticscholar.org/paper/13eb12095a154472a3a5ea789814d1d1a7af6f01",
+    "fetched_at": "2026-09-04T02:28:34.269075+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "ss_130970c119224968",
+    "source": "semantic_scholar",
+    "title": "Kubelka-Munk function, Urbach energy and Kramer–Kronig method in porous silicon",
+    "authors": [
+      "Faten AL feel"
+    ],
+    "year": 2025,
+    "abstract": "Porous silicon (PS) samples were fabricated using electrochemical etching and characterized by atomic force microscopy, which showed that the surface roughness increases with porosity. The optical properties and the influence of porosity were investigated through specular and diffuse reflectance, transmission, and absorption measurements. Analysis of the diffuse reflectance spectra using the Kubelka–Munk function revealed that the optical band gap widens as porosity increases, indicating modifications in the electronic structure due to pore formation. The Urbach energy, determined from the absorption edge, also increases with porosity as a result of the higher density of unsaturated surface bonds. The dielectric constant, calculated via the Kramers–Kronig method, shows an increase in both ",
+    "doi": "10.26577/phst20251223",
+    "pdf_url": "https://doi.org/10.26577/phst20251223",
+    "journal": "Physical Sciences and Technology",
+    "url": "https://www.semanticscholar.org/paper/130970c11922496814b5eb2873263d6ba6ff9bf2",
+    "fetched_at": "2026-09-04T02:28:34.269096+00:00",
+    "material": "PSi"
   }
 ]
