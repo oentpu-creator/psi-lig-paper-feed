@@ -14061,5 +14061,63 @@
     "url": "https://www.semanticscholar.org/paper/130970c11922496814b5eb2873263d6ba6ff9bf2",
     "fetched_at": "2026-09-04T02:28:34.269096+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2609.03841v1",
+    "source": "arxiv",
+    "title": "The Casimir free energy of peptide films on a silicon substrate: Impact of dielectric-to-metal transition in silicon and nanoparticles in peptide",
+    "authors": [
+      "G. L. Klimchitskaya",
+      "V. M. Mostepanenko"
+    ],
+    "year": 2026,
+    "abstract": "Using the Lifshitz theory of the van der Waals and Casimir forces, we calculate the Casimir free energy of thin peptide films deposited on silicon substrates. The Casimir free energy is found as a function of film thickness for different fractions of water in the film, in the presence of either nonmagnetic or magnetic nanoparticles, and under the impact of irradiation of a silicon substrate with laser pulses or dopants resulting in the dielectric-to-metal phase transition. It is shown that for a dielectric silicon there is the borderline value of the film thickness, such that the Casimir free energy is negative and contributes to the film stability for thicker films, but is positive and makes the film less stable for thinner ones. According to our results, the borderline value of peptide f",
+    "doi": "10.1063/5.0349756",
+    "pdf_url": "https://arxiv.org/pdf/2609.03841v1",
+    "journal": "J. Chem. Phys. v.165, 094704 (2026)",
+    "url": "http://arxiv.org/abs/2609.03841v1",
+    "fetched_at": "2026-09-05T02:29:22.067142+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.00902v1",
+    "source": "arxiv",
+    "title": "H II region filling factors in NGC 628: Luminosity-size relation and connection with polycyclic aromatic hydrocarbon emission",
+    "authors": [
+      "Lorena Aragüete Riesco",
+      "José M. Vílchez",
+      "Salvador Duarte Puertas",
+      "Laurie Rousseau-Nepton",
+      "Carmelle Robert",
+      "René Pierre Martin"
+    ],
+    "year": 2026,
+    "abstract": "Understanding the internal structure of H II regions is fundamental for constraining star formation processes in galaxies. We investigated how the filling factor (FF) relates to luminosity, size, electron density, and H$α$ equivalent width (EW(H$α$)) in H II regions, and explored its connection with polycyclic aromatic hydrocarbon (PAH)-to-dust emission as a possible tracer of evolutionary stages. We analyzed 622 H II regions in NGC~628, combining 475 regions from SIGNALS and 147 from PHANGS-MUSE. We derived their luminosities, emission-line fluxes, radii, electron densities, and FF, and used PHANGS-JWST/MIRI imaging to quantify the PAH-to-dust ratio $R_{\\rm PAH}$ from the 7.7, 11.3, and 21~$μ$m bands. Higher FF and EW(H$α$) values are found in luminous regions, whereas more extended regio",
+    "doi": "10.1051/0004-6361/202557698",
+    "pdf_url": "https://arxiv.org/pdf/2609.00902v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.00902v1",
+    "fetched_at": "2026-09-05T02:29:22.067473+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.00262v1",
+    "source": "arxiv",
+    "title": "Creeping flows through confined arrays of cylinders",
+    "authors": [
+      "Sean Bohling",
+      "Sri Savya Tanikella",
+      "J. P. Raimondi",
+      "Nathan Jones",
+      "Emilie Dressaire"
+    ],
+    "year": 2026,
+    "abstract": "Hair-covered appendages serve a variety of purposes in Nature, from chemical sensing and particle capture on the antennae of a crustacean to drag generation on bristled wings. At low to intermediate Reynolds numbers, these finite porous media experience three flow regimes. At low Reynolds numbers, the flow goes around the porous structure; this is the paddle or rake regime. As the Reynolds number increases, so does the relative flow rate through the array. If the fluid exits the structure mostly laterally, the flow is in the deflection regime. If the fluid exits downstream, the flow is in the sieve regime. Confining structures, such as the animal body or larger hairs, have been hypothesized to focus the flow on the hair-covered region. We investigate the influence of confinement on the flo",
+    "doi": "10.1103/thgg-p9gm",
+    "pdf_url": "https://arxiv.org/pdf/2609.00262v1",
+    "journal": "Bohling, S. K., Tanikella, S. S., Raimondi, J. P., Jones, N. D. & Dressaire, E. Creeping flows through confined arrays of cylinders. Phys. Rev. Fluids 11, 064104 (2026)",
+    "url": "http://arxiv.org/abs/2609.00262v1",
+    "fetched_at": "2026-09-05T02:29:22.067540+00:00",
+    "material": "other"
   }
 ]
