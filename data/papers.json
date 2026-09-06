@@ -14119,5 +14119,87 @@
     "url": "http://arxiv.org/abs/2609.00262v1",
     "fetched_at": "2026-09-05T02:29:22.067540+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.03876v1",
+    "source": "arxiv",
+    "title": "Performance of Nanoring-based Transparent Conductors: a Computational Investigation",
+    "authors": [
+      "Gijs Vanoppen",
+      "Jef Hooyberghs",
+      "Wim Deferme",
+      "Bart Cleuren"
+    ],
+    "year": 2026,
+    "abstract": "Metallic nanoring networks can serve as promising flexible transparent electrodes. These materials are crucial components in a wide range of applications, including solar cells, touchscreens and displays. In this work, a computational investigation considers in detail (i) the electrical conductance and optical performance of nanoring networks and (ii) the breakdown of these networks due to electrical damage. The electrical resistance of both the nanorings and the contacts between the rings (junctions) is taken into account. In part (i), the effects of 5 parameters on the electrical sheet resistance and optical transparency are presented. It is shown that several parameter combinations achieve better performance in comparison to indium tin oxide, currently the most widely used transparent e",
+    "doi": "10.1002/pssa.70408",
+    "pdf_url": "https://arxiv.org/pdf/2609.03876v1",
+    "journal": "physica status solidi (a) applications and materials science 2026, 223, e70408",
+    "url": "http://arxiv.org/abs/2609.03876v1",
+    "fetched_at": "2026-09-06T02:30:53.552546+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.02632v1",
+    "source": "arxiv",
+    "title": "Spin Hall Magnetoresistance in Antiferromagnetic Insulators",
+    "authors": [
+      "Stephan Geprägs",
+      "Matthias Opel",
+      "Johanna Fischer",
+      "Philipp Schwenke",
+      "Matthias Althammer",
+      "Hans Huebl"
+    ],
+    "year": 2026,
+    "abstract": "Antiferromagnetic materials promise improved performance for spintronic applications, as they are robust against external magnetic field perturbations and allow for faster magnetization dynamics compared to ferromagnets. The direct observation of the antiferromagnetic state, however, is challenging due to the absence of a macroscopic magnetization. We show that the spin Hall magnetoresistance (SMR) is a versatile tool to probe the antiferromagnetic spin structure via simple electrical transport experiments by investigating the easy-plane antiferromagnetic insulators alpha-Fe2O3 (hematite) and NiO in bilayer heterostructures with a Pt heavy-metal top electrode. While rotating an external magnetic field in three orthogonal planes, we record the longitudinal and the transverse resistivities o",
+    "doi": "10.1109/INTERMAGShortPapers58606.2023.10228841",
+    "pdf_url": "https://arxiv.org/pdf/2609.02632v1",
+    "journal": "2023 IEEE International Magnetic Conference - Short Papers INTERMAG Short Papers, 1-2 (2023)",
+    "url": "http://arxiv.org/abs/2609.02632v1",
+    "fetched_at": "2026-09-06T02:30:53.553006+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.02631v1",
+    "source": "arxiv",
+    "title": "Nonreciprocal Magnon Hanle Effect in Antiferromagnetic $α$-Fe$_2$O$_3$",
+    "authors": [
+      "Janine Gückelhorn",
+      "Sebastián de-la-Peña",
+      "Monika Scheufele",
+      "Matthias Grammer",
+      "Matthias Opel",
+      "Stephan Geprägs"
+    ],
+    "year": 2026,
+    "abstract": "The precession of the magnon pseudospin about the equilibrium pseudofield, the latter capturing the nature of magnonic eigenexcitations in an antiferromagnet, gives rise to the magnon Hanle effect. Its realization via electrically injected and detected spin transport in an antiferromagnetic insulator demonstrates its high potential for devices and as a convenient probe for magnon eigenmodes and the underlying spin interactions in the antiferromagnet. Here, we observe a non-reciprocity in the Hanle signal measured in alpha-Fe2O3 using two spatially separated Pt electrodes as spin injector and detector. Interchanging their roles alters the detected magnon spin signal. The recorded difference depends on the applied magnetic field and reverses sign when the signal passes its nominal maximum at",
+    "doi": "10.1109/INTERMAGShortPapers58606.2023.10228477",
+    "pdf_url": "https://arxiv.org/pdf/2609.02631v1",
+    "journal": "2023 IEEE International Magnetic Conference - Short Papers INTERMAG Short Papers, 1-2 (2023)",
+    "url": "http://arxiv.org/abs/2609.02631v1",
+    "fetched_at": "2026-09-06T02:30:53.553049+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.02567v1",
+    "source": "arxiv",
+    "title": "Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice",
+    "authors": [
+      "Ryohei Nemoto",
+      "Xiangzhi Meng",
+      "Behzad Mortezapour",
+      "Alexander Weismann",
+      "Saya Nakano",
+      "Masahisa Tsuchiizu"
+    ],
+    "year": 2026,
+    "abstract": "Lattice geometry plays a fundamental role in the behavior of Bloch electrons in a crystal. The diatomic Kagome lattice, an extension of the honeycomb and Kagome lattices, is predicted to give rise to emergent and topological phenomena, but its experimental investigation has been limited thus far. Here, we fabricate a diatomic Kagome lattice through self-assembly of a triptycene derivative with phenazine moieties (Trip-Phz)---a $\\mathrm{C_3}$-symmetric, non-planar $π$-conjugated molecule. Our scanning tunneling microscopy (STM) observations show that Trip-Phz forms a highly ordered diatomic Kagome lattice terminated by zigzag-type edges on the Pb(111) surface. Combined STM measurements and tight-binding calculations provide direct evidence for the existence of the edge states that correspon",
+    "doi": "10.1021/acs.nanolett.6c03195",
+    "pdf_url": "https://arxiv.org/pdf/2609.02567v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.02567v1",
+    "fetched_at": "2026-09-06T02:30:53.553130+00:00",
+    "material": "other"
   }
 ]
