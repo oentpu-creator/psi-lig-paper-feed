@@ -14201,5 +14201,158 @@
     "url": "http://arxiv.org/abs/2609.02567v1",
     "fetched_at": "2026-09-06T02:30:53.553130+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.13744v1",
+    "source": "arxiv",
+    "title": "Room-Temperature Storage of Entanglement in a Silicon Carbide Quantum Node",
+    "authors": [
+      "Shuo Ren",
+      "Rui-Jian Liang",
+      "Qi-Cheng Hu",
+      "Zhen-Xuan He",
+      "Ji-Yang Zhou",
+      "Wu-Xi Lin"
+    ],
+    "year": 2026,
+    "abstract": "Robust entanglement at room temperature is a central challenge for solid-state quantum information processing and quantum-enhanced sensing. Here we demonstrate room-temperature storage of entanglement in a silicon carbide (SiC) quantum node by coherently transferring an electron-nuclear entangled state onto long-lived nuclear-spin memory qubits. Using a shallow single color center in 4H-SiC, conventionally denoted PL6, we realize a fully addressable three-qubit register composed of one electron-spin processor and two strongly coupled $^{29}$Si nuclear-spin memory qubits. This platform enables the deterministic generation of high-fidelity entangled states, including a nuclear-spin Bell state with a fidelity of $94 \\pm 2\\%$ and a three-qubit Greenberger-Horne-Zeilinger (GHZ)-type state with ",
+    "doi": "10.1103/454t-n78h",
+    "pdf_url": "https://arxiv.org/pdf/2609.13744v1",
+    "journal": "Phys. Rev. Lett. 137, 100803 (2026)",
+    "url": "http://arxiv.org/abs/2609.13744v1",
+    "fetched_at": "2026-09-16T02:53:36.723732+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.13618v2",
+    "source": "arxiv",
+    "title": "1D Convection-Diffusion in Porous Media: A Unified Solution from Bounded Domain to Half-Space",
+    "authors": [
+      "Koffi Ognandon Ayena",
+      "Frédéric Holweck",
+      "Amah Séna D'almeida"
+    ],
+    "year": 2026,
+    "abstract": "We present an analytical solution for 1D atmospheric pollutant dispersion in a bounded domain. Using coordinate transformation and spectral decomposition, we obtain a Fourier series solution for time-dependent wind velocity. For constant wind, Laplace inversion yields dual representations via residue calculus and Poisson summation. The solution extends to semi-infinite domains, recovering classical error-function profiles.",
+    "doi": "10.37418/amsj.15.3.4",
+    "pdf_url": "https://arxiv.org/pdf/2609.13618v2",
+    "journal": "Advances in Mathematics: Scientific Journal 15(3) (2026) 393-419",
+    "url": "http://arxiv.org/abs/2609.13618v2",
+    "fetched_at": "2026-09-16T02:53:36.723795+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.17382v1",
+    "source": "arxiv",
+    "title": "Assessing ionospheric effects on image quality in the LOFAR Decametre Sky Survey",
+    "authors": [
+      "Cristina-Maria Cordun",
+      "Harish K. Vedantham",
+      "Maaijke Mevius"
+    ],
+    "year": 2026,
+    "abstract": "The terrestrial ionosphere is a major limitation for high angular resolution imaging at decametre wavelengths. Its rapidly varying and direction-dependent phase errors can defocus sources, reduce recovered flux densities, and produce strong field-to-field variations in image quality. We investigate these effects using three overlapping pointings from the LOFAR Decametre Sky Survey (LoDeSS), observed under different ionospheric conditions. Using phase-calibration solutions on a bright source, we derive the spatial diffractive scale, the temporal decorrelation time, and the angular scale over which direction-dependent calibration solutions can be transferred before residual phase errors become significant. These metrics are reflected in the final image quality. The field with the weakest ion",
+    "doi": "10.1117/12.3101297",
+    "pdf_url": "https://arxiv.org/pdf/2609.17382v1",
+    "journal": "Proceedings of SPIE, Vol. 14153, 3101297 (2026)",
+    "url": "http://arxiv.org/abs/2609.17382v1",
+    "fetched_at": "2026-09-16T02:53:57.128075+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.17345v1",
+    "source": "arxiv",
+    "title": "Spatially-resolved methane decomposition in a short glow discharge: insights into suprathermal hydrogen and radical chemistry",
+    "authors": [
+      "Shurik Yatom"
+    ],
+    "year": 2026,
+    "abstract": "This work presents the spatially resolved mapping of methane decomposition chemistry in a short direct-current glow discharge, revealing segregated zones for dissociation and polymerization in an Ar-CH4 mixture at 400 mTorr. Laser-induced fluorescence (LIF), two-photon absorption LIF (TALIF), and optical emission spectroscopy (OES), are used to map the absolute number densities of atomic hydrogen (H), methylidyne (CH), and dicarbon (C2) radicals. The results reveal a segregated chemical environment driven by the non-local electron kinetics. The primary dissociation of methane is confined to the cathode sheath (< 4 mm), where the H atom density peaks at a value (). Analysis of the Halpha} line profile identifies two distinct suprathermal H atom populations with peak kinetic energies of ~110",
+    "doi": "10.1088/1361-6595/ae94a9",
+    "pdf_url": "https://arxiv.org/pdf/2609.17345v1",
+    "journal": "Shurik Yatom 2026 Plasma Sources Sci. Technol. 35 085024",
+    "url": "http://arxiv.org/abs/2609.17345v1",
+    "fetched_at": "2026-09-16T02:53:57.128112+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.17118v1",
+    "source": "arxiv",
+    "title": "Enhancing Procedural Writing Through Personalized Example Retrieval: A Case Study on Cooking Recipes",
+    "authors": [
+      "Paola Mejia-Domenzain",
+      "Jibril Frej",
+      "Seyed Parsa Neshaei",
+      "Luca Mouchel",
+      "Tanya Nazaretsky",
+      "Thiemo Wambsganß"
+    ],
+    "year": 2026,
+    "abstract": "Writing high-quality procedural texts is a challenging task for many learners. While example-based learning has shown promise as a feedback approach, a limitation arises when all learners receive the same content without considering their individual input or prior knowledge. Consequently, some learners struggle to grasp or relate to the feedback, finding it redundant and unhelpful. To address this issue, we present RELEX, an adaptive learning system designed to enhance procedural writing through personalized example-based learning. The core of our system is a multi-step example retrieval pipeline that selects a higher quality and contextually relevant example for each learner based on their unique input. We instantiate our system in the domain of cooking recipes. Specifically, we leverage ",
+    "doi": "10.1007/s40593-024-00405-1",
+    "pdf_url": "https://arxiv.org/pdf/2609.17118v1",
+    "journal": "International Journal of Artificial Intelligence in Education, 35, 330-366 (2025)",
+    "url": "http://arxiv.org/abs/2609.17118v1",
+    "fetched_at": "2026-09-16T02:53:57.128245+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.16831v1",
+    "source": "arxiv",
+    "title": "Pinching-Antenna System With Movable Waveguides: Modeling and Optimization",
+    "authors": [
+      "Jingze Ding",
+      "Zijian Zhou",
+      "Bingli Jiao",
+      "Rui Zhang"
+    ],
+    "year": 2026,
+    "abstract": "This paper proposes a movable waveguide (MW)-enabled pinching-antenna system (PASS), in which each waveguide is connected via a flexible cable and can be linearly moved by drivers. By simultaneously moving the MWs and the pinching antennas (PAs) on them, MW-enabled PASS can effectively track user locations and form flexible array geometries for efficient beamforming. We first examine the special case with a single user and derive the closed-form solutions for the optimal MW positions as well as an upper bound on the user rate. Furthermore, we develop a two-step optimization algorithm to maximize the achievable rate for the user, where the first step determines the optimal MW positions using the derived closed-form solutions, and the second step alternately optimizes the PA positions throug",
+    "doi": "10.1109/TWC.2026.3733419",
+    "pdf_url": "https://arxiv.org/pdf/2609.16831v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.16831v1",
+    "fetched_at": "2026-09-16T02:54:31.683482+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.16600v1",
+    "source": "arxiv",
+    "title": "A 420 GOPS/W CGRA with a Configurable MAC and Dynamic Truncation",
+    "authors": [
+      "Yi Sheng Chong",
+      "Rakshith Harish",
+      "Rajesh Chandrasekhara Panicker",
+      "Vishnu P. Nambiar",
+      "Anh Tuan Do"
+    ],
+    "year": 2026,
+    "abstract": "Edge devices demand for highly efficient yet flexible processing capability to handle dynamic real-time workloads. Coarse grain reconfigurable architecture (CGRA) emerges as a suitable accelerator candidate in edge devices, because they are as flexible as general purpose processors and offer high efficiency close to that of domain specific accelerators. However, a typical CGRA requires two cycles for a multiply-and-accumulate (MAC) operation, and workloads such as neural network inference and signal processing involve many MAC operations, resulting in long CGRA processing time. This work proposes a CGRA that has configurable MAC units in the processing elements (PEs) that can perform an addition (ADD) or multiplication (MUL) or a MAC by using the same multiplier and adder, in a single cycl",
+    "doi": "10.1109/ISCAS58744.2024.10558192",
+    "pdf_url": "https://arxiv.org/pdf/2609.16600v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.16600v1",
+    "fetched_at": "2026-09-16T02:54:31.683651+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.16419v1",
+    "source": "arxiv",
+    "title": "Commissioning the AIP's ultrafast laser Inscription facility: defining the parameter space for type-I waveguide fabrication",
+    "authors": [
+      "Rima Islam",
+      "Aline N. Dinkelaker",
+      "Abani Shankar Nayak",
+      "Kalaga Madhav",
+      "Martin Roth"
+    ],
+    "year": 2026,
+    "abstract": "Astrophotonics offers a compact, stable alternative to bulk optics in traditional astronomical instrumentation, spanning high-precision spectroscopy to high-contrast interferometry. However, the strict requirements for throughput, accuracy, precision, and stability require tailored manufacturing processes that go beyond standard telecommunications technology. This work presents the iterative experimental and statistical methods used to determine the optimal laser-writing conditions for passive waveguides in silica glass using a femtosecond laser inscription setup. We systematically explored the parameter space by varying pulse energy, repetition rate, translation speed, and scan numbers to identify the optimal conditions for Type-1 waveguides, characterized by a positive refractive-index m",
+    "doi": "10.1117/12.3104824",
+    "pdf_url": "https://arxiv.org/pdf/2609.16419v1",
+    "journal": "Proc. SPIE 14148, Optical and Infrared Interferometry and Imaging X, 141483C (2026)",
+    "url": "http://arxiv.org/abs/2609.16419v1",
+    "fetched_at": "2026-09-16T02:54:58.779777+00:00",
+    "material": "other"
   }
 ]
