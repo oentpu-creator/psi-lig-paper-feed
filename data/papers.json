@@ -14354,5 +14354,85 @@
     "url": "http://arxiv.org/abs/2609.16419v1",
     "fetched_at": "2026-09-16T02:54:58.779777+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.18783v1",
+    "source": "arxiv",
+    "title": "s-MDM: Generative Virtualization of Multi-Device Hardware Variations for Portable DL-SCA",
+    "authors": [
+      "Niloufar Sayadi",
+      "Marten van Dijk",
+      "Chenglu Jin"
+    ],
+    "year": 2026,
+    "abstract": "Deep Learning-based Side-Channel Analysis (DL-SCA) frequently suffers from catastrophic performance degradation across unseen hardware due to printed circuit board routing differences, silicon process variations, and measurement noise shifts. This poster presents the Synthetic Multiple Device Model (s-MDM), a zero-target-trace generative framework designed to improve cross-device portability. s-MDM combines a structured cVAE generator, a Walsh-Hadamard leakage anchor, continuous style modulation, and decoupled leakage-style--domain critics to synthesize virtual source-device profiles offline. Benchmarked on 32-bit side-channel traces (AES_PTv2), s-MDM maps a precise operational boundary: while physical MDM remains superior on identical electrical clones (D4), s-MDM achieves consistently lo",
+    "doi": "10.1145/3830454.3846456",
+    "pdf_url": "https://arxiv.org/pdf/2609.18783v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.18783v1",
+    "fetched_at": "2026-09-17T02:56:28.965108+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.18659v1",
+    "source": "arxiv",
+    "title": "The Nancy Grace Roman Space Telescope Coronagraph Community Participation Program",
+    "authors": [
+      "Dmitry Savransky",
+      "Vanessa P. Bailey",
+      "Schuyler G. Wolff",
+      "Maxwell A. Millar-Blanchaer",
+      "Jason Wang",
+      "Lisa Altinier"
+    ],
+    "year": 2026,
+    "abstract": "In preparation for the operational phase of the Nancy Grace Roman Space Telescope, NASA has created the Coronagraph Community Participation Program (CPP) to prepare for and execute Coronagraph Instrument technology demonstration observations. The CPP is composed of 7 small, US-based teams, selected competitively via the Nancy Grace Roman Space Telescope Research and Support Participation Opportunity, members of the Roman Project Team, and international partner teams from ESA, JAXA, CNES, and the Max Planck Institute for Astronomy. The primary goals of the CPP are to prepare simulation tools, target databases, and data reduction software for the execution of the Coronagraph Instrument observation phase. Here, we present the current status of the CPP and its working groups, along with plans ",
+    "doi": "10.1117/12.3020514",
+    "pdf_url": "https://arxiv.org/pdf/2609.18659v1",
+    "journal": "D. Savransky et al. \"The Nancy Grace Roman Space Telescope coronagraph community participation program\", Proc. SPIE 13092, 2024",
+    "url": "http://arxiv.org/abs/2609.18659v1",
+    "fetched_at": "2026-09-17T02:56:28.965467+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.18646v1",
+    "source": "arxiv",
+    "title": "A homogeneous analysis of archival and new low-resolution spectra of YZ Cancri",
+    "authors": [
+      "Zhibin Dai",
+      "Lihuan Yu",
+      "Jiao Li",
+      "Xuefei Chen",
+      "Zhanwen Han"
+    ],
+    "year": 2026,
+    "abstract": "YZ Cancri is an SU UMa-type dwarf nova with sparse and heterogeneous optical spectroscopy. We present a homogeneous analysis of archival outburst-related spectra and seven new low-resolution quiescent spectra. We consistently characterize the Balmer, He I, Fe II, O I, and occasional He II and Bowen features, and assess which state-dependent differences are robustly supported. We applied a common continuum-normalization and line-measurement procedure, measuring equivalent widths, integrated line intensities, and selected profile parameters, and comparing line morphologies and intensity ratios between quiescent and outburst-related states. Because the spectra have modest and nonuniform resolving power and are not orbital-phase resolved, profile widths and centroid shifts are used only as rel",
+    "doi": "10.1051/0004-6361/202661949",
+    "pdf_url": "https://arxiv.org/pdf/2609.18646v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.18646v1",
+    "fetched_at": "2026-09-17T02:56:28.965504+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.18645v1",
+    "source": "arxiv",
+    "title": "The emergence of a [WC] star in Sakurai's object",
+    "authors": [
+      "W. Marcolino",
+      "P. A. M. van Hoof",
+      "V. C. Maria",
+      "H. Todt",
+      "G. C. Van de Steene",
+      "J. A. Toalá"
+    ],
+    "year": 2026,
+    "abstract": "Sakurai's object provides a rare opportunity to observe stellar evolution on human timescales.Since its born-again event and detection in 1996, its evolution has been extensively monitored, and recent optical spectroscopy has suggested the emergence of [WR]-type emission features. In this Letter, we present a secure spectroscopic identification of its central star based on new VLT/FORS2 observations and NLTE expanding atmosphere models. Several observed emission lines arise in a [WR]-type stellar wind, establishing the central star as a [WR] object. The strongest stellar features are due to C II-III and He I. We derive the stellar and wind parameters of Sakurai's object and discuss its evolutionary status. The [WR] star is much cooler (Teff ~ 30.5 kK) than the born-again star V605 Aql (Tef",
+    "doi": "10.1093/mnras/stag1533",
+    "pdf_url": "https://arxiv.org/pdf/2609.18645v1",
+    "journal": "MNRAS, Volume 552, Issue 1, October 2026, stag1533",
+    "url": "http://arxiv.org/abs/2609.18645v1",
+    "fetched_at": "2026-09-17T02:56:28.965554+00:00",
+    "material": "other"
   }
 ]
