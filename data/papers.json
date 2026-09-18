@@ -14434,5 +14434,144 @@
     "url": "http://arxiv.org/abs/2609.18645v1",
     "fetched_at": "2026-09-17T02:56:28.965554+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20671v1",
+    "source": "arxiv",
+    "title": "Local constraints on alcohol--thioalcohol analogs in G35.2N",
+    "authors": [
+      "Xuefang Xu",
+      "Shanghuo Li",
+      "Qian Gou",
+      "Chunguo Duan",
+      "Laurent Pagani",
+      "Di Li"
+    ],
+    "year": 2026,
+    "abstract": "The chemistry of sulfur-bearing complex organic molecules in dense star-forming environments remains uncertain, partly because the dominant sulfur reservoirs in dense gas and ices are poorly identified. Alcohol--thioalcohol pairs allow direct comparisons of structurally related O- and S-bearing molecules. We present ALMA Band 6 observations of CH$_3$OH/CH$_3$SH and C$_2$H$_5$OH/C$_2$H$_5$SH toward three spectral-extraction positions (MM3-pos, MM4-pos, and MM5-pos) in the MM3--MM5 region of G35.2N. Local thermodynamic equilibrium modeling yields column densities and abundance ratios. CH$_3$OH column densities were inferred from $^{13}$CH$_3$OH assuming $^{12}$C/$^{13}$C = 50 to mitigate optical-depth effects. CH$_3$OH, CH$_3$SH, and C$_2$H$_5$OH are robustly constrained at all three positio",
+    "doi": "10.1051/0004-6361/202661403",
+    "pdf_url": "https://arxiv.org/pdf/2609.20671v1",
+    "journal": "Astronomy & Astrophysics, 2026, Volume 713, Number 67",
+    "url": "http://arxiv.org/abs/2609.20671v1",
+    "fetched_at": "2026-09-18T02:43:06.543723+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20642v1",
+    "source": "arxiv",
+    "title": "All-Fiber Broadband Wavelength-Division Multiplexing using Heterogeneous Photonic Lanterns",
+    "authors": [
+      "Abani Shankar Nayak",
+      "Julius Goehring",
+      "Martin M. Roth",
+      "Kalaga Madhav"
+    ],
+    "year": 2026,
+    "abstract": "This work presents an all-fiber broadband wavelength-division multiplexing architecture using 1x7 heterogeneous photonic lanterns (PLs), specifically PL-(6+1) and PL-(4+3). By combining mismatched single-mode cores, namely SM450 and SMF28, without rigid geometric constraints, these devices break system degeneracy and enable passive, wavelength-selective spatial routing. Experimental characterization reveals distinct dual-regime performance across a wide spectral range. In the visible band (350-740 nm), the devices function as multi-channel broadband collectors, effectively guiding light across all channels without spatial separation. Conversely, in the H-band (1520-1610 nm), core asymmetries lift mode degeneracy and maximize propagation constant (beta) matching conditions, thereby enabling",
+    "doi": "10.1117/12.3102473",
+    "pdf_url": "https://arxiv.org/pdf/2609.20642v1",
+    "journal": "Proc. SPIE 14154, Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation VII, 141542F (2026)",
+    "url": "http://arxiv.org/abs/2609.20642v1",
+    "fetched_at": "2026-09-18T02:43:06.543810+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20608v1",
+    "source": "arxiv",
+    "title": "Formation of Ryugu's parent planetesimal beyond the CO$_{2}$ snow line from small pebbles: insights from thermal evolution modeling",
+    "authors": [
+      "Sota Arakawa",
+      "Hidenori Genda",
+      "Noriyuki Kawasaki",
+      "Wataru Fujiya",
+      "Yosei Iwasaki",
+      "Shigeru Wakita"
+    ],
+    "year": 2026,
+    "abstract": "Astronomical observations of planet-forming circumstellar disks indicate that planetesimals form from 0.1-mm- to 1-cm-sized dust aggregates, commonly called ``pebbles.'' When such pebbles accrete beyond the water snow line, the resulting icy planetesimals undergo water--rock differentiation and develop porous pebble-pile cores whose voids are saturated with liquid water. Circulation of this water enhances heat transport in the core, suppressing the temperature rise caused by the decay of radionuclides. In this study, we constrain the accretion age and constituent pebble size of Ryugu's parent planetesimal by modeling the thermal evolution of icy planetesimals and comparing the results with the precipitation ages and temperatures of aqueously formed minerals identified in samples returned f",
+    "doi": "10.1016/j.epsl.2026.119903",
+    "pdf_url": "https://arxiv.org/pdf/2609.20608v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.20608v1",
+    "fetched_at": "2026-09-18T02:43:06.543927+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20347v1",
+    "source": "arxiv",
+    "title": "STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks",
+    "authors": [
+      "Bowen Lu",
+      "Mugen Peng",
+      "Yaohua Sun",
+      "Hongyu Wang",
+      "Kerui Guo",
+      "Wenjia Xu"
+    ],
+    "year": 2026,
+    "abstract": "LEO satellite networks feature dynamic topologies, time-varying links, and diverse service requirements, which make conventional routing schemes difficult to support fine-grained quality-of-service (QoS) provisioning. Existing studies mainly optimize routing over network states with predefined objectives, but rarely address the practical challenge of translating unstructured natural-language service requests into adaptive routing decisions. To bridge this gap, we propose STR-Agent, an LLM-driven framework for QoS-aware routing in LEO satellite networks. The key innovation of STR-Agent lies in unifying intent perception, tool-based execution, experience accumulation, and reflection-based policy adaptation within a single agent architecture. Specifically, the Perception Module converts natur",
+    "doi": "10.1109/ICCC70295.2026.11680183",
+    "pdf_url": "https://arxiv.org/pdf/2609.20347v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.20347v1",
+    "fetched_at": "2026-09-18T02:43:49.506361+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20359v1",
+    "source": "arxiv",
+    "title": "Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+    "authors": [
+      "Gianluca Mittone",
+      "Marco Aldinucci"
+    ],
+    "year": 2026,
+    "abstract": "The symbiotic scaling of artificial intelligence models and high-performance computing systems continually creates algorithmic challenges in their convergence. Foundation models (FMs) are a crucial example, requiring months-long training on thousands of cutting-edge GPUs. Sharded data parallelism (DP) is the dominant strategy to accelerate such computations by splitting data and models across multiple GPUs. However, it incurs prohibitive communication overhead when deployed at scale, particularly on multi-tier interconnects with heterogeneous performance. Inspired by the efficient communication principles of federated learning (FL), this work introduces two hybrid algorithms - FL+FSDP and FL+HSDP - interleaving sharded DP with FedAvg-style aggregations. Such approaches decouple large DP de",
+    "doi": "10.1007/978-3-032-35251-4_30",
+    "pdf_url": "https://arxiv.org/pdf/2609.20359v1",
+    "journal": "Euro-Par 2026: Parallel Processing - 32nd European Conference on Parallel and Distributed Processing, Pisa, Italy, August 24-28, 2026, Proceedings, Part II",
+    "url": "http://arxiv.org/abs/2609.20359v1",
+    "fetched_at": "2026-09-18T02:44:06.931054+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.20009v1",
+    "source": "arxiv",
+    "title": "Distributed Edge Inference: an Experimental Study on Multiview Detection",
+    "authors": [
+      "Gianluca Mittone",
+      "Giulio Malenza",
+      "Marco Aldinucci",
+      "Robert Birke"
+    ],
+    "year": 2026,
+    "abstract": "Computing is evolving rapidly to cater to the increasing demand for sophisticated services, and Cloud computing lays a solid foundation for flexible on-demand provisioning. However, as the size of applications grows, the centralised client-server approach used by Cloud computing increasingly limits the applications' scalability. To achieve ultra-scalability, cloud/edge/fog computing converges into the compute continuum, completely decentralising the infrastructure to encompass universal, pervasive resources. The compute continuum makes devising applications benefitting from this complex environment a challenging research problem. We put the opportunities the compute continuum offers to the test through a real-world multi-view detection model (MvDet) implemented with the FastFL C/C++ high-p",
+    "doi": "10.1145/3603166.3632561",
+    "pdf_url": "https://arxiv.org/pdf/2609.20009v1",
+    "journal": "Proceedings of the {IEEE/ACM} 16th International Conference on Utility and Cloud Computing, {UCC} 2023, Taormina (Messina), Italy, December 4-7, 2023",
+    "url": "http://arxiv.org/abs/2609.20009v1",
+    "fetched_at": "2026-09-18T02:44:06.931235+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.19321v1",
+    "source": "arxiv",
+    "title": "Encapsulation epitaxy of air-stable monolayer superconducting films for quantum circuits and qubits",
+    "authors": [
+      "Xudong Zheng",
+      "Sameia Zaman",
+      "Kenan Zhang",
+      "Connor A Occhialini",
+      "Haowei Xu",
+      "Zhien Wang"
+    ],
+    "year": 2026,
+    "abstract": "Two-dimensional (2D) superconductors are an emerging platform for strongly correlated physics and quantum information science. Their reduced dimensionality, atomically flat interfaces, and high crystallinity are attractive for realizing compact lumped-element devices in superconducting circuits. However, synthesizing large-area, monolayer 2D superconductors remains challenging because of their susceptibility to oxidation. Here, we report an \"encapsulation epitaxy\" mechanism that enables the growth of large-area, air-stable, monolayer superconducting NbSe2 films and explore their use in superconducting quantum circuits. A 2D encapsulation layer, such as graphene or hexagonal boron nitride (hBN), pre-deposited on a 3D substrate (e.g., SiO2 or Si3N4), serves both as a template for epitaxial g",
+    "doi": "10.1038/s41586-026-10865-1",
+    "pdf_url": "https://arxiv.org/pdf/2609.19321v1",
+    "journal": "Nature 656, 349-356 (2026)",
+    "url": "http://arxiv.org/abs/2609.19321v1",
+    "fetched_at": "2026-09-18T02:44:30.545629+00:00",
+    "material": "other"
   }
 ]
