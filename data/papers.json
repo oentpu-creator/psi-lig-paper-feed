@@ -14573,5 +14573,65 @@
     "url": "http://arxiv.org/abs/2609.19321v1",
     "fetched_at": "2026-09-18T02:44:30.545629+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.21697v1",
+    "source": "arxiv",
+    "title": "Integrating Approximate Logic Synthesis into Approximate High-Level Synthesis",
+    "authors": [
+      "Jian Shi",
+      "Ruicheng Dai",
+      "Chang Meng",
+      "Yue Yang",
+      "Weikang Qian"
+    ],
+    "year": 2026,
+    "abstract": "Approximate high-level synthesis (HLS) and approximate logic synthesis (ALS) are two techniques for generating approximate circuits. They operate at different granularities. Approximate HLS typically modifies instructions in a control and data flow graph, whereas ALS modifies gates and interconnects in a gate-level netlist. The absence of a unified framework combining these techniques limits the potential for joint optimization. To bridge this gap, we propose to integrate ALS into the flow of approximate HLS. This integration expands the design space of approximate HLS by introducing fine-grained approximation induced by ALS, thereby generating approximate circuits with higher quality. Experimental results show that under the same error bound, our method reduces the hardware cost by 11% on",
+    "doi": "10.1145/3831252.3834065",
+    "pdf_url": "https://arxiv.org/pdf/2609.21697v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.21697v1",
+    "fetched_at": "2026-09-21T02:51:52.734963+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.21435v1",
+    "source": "arxiv",
+    "title": "Iterative Single-Loop Coordination of Transmission and Distribution Systems and DER Aggregators with Limited Information Sharing",
+    "authors": [
+      "Robert Sosnowski",
+      "Yury Dvorkin",
+      "Marcin Baszynski",
+      "Charalambos Konstantinou"
+    ],
+    "year": 2026,
+    "abstract": "The growing integration of DERs underscores the importance of unified coordination across TSO, DSO, and aggregator levels. This paper proposes a coordination method between TSO, DSOs and DER aggregators, based on a transparent, well-scalable, and decentralized single-loop iterative mechanism with limited information sharing. The approach enables iterative price-based coordination between adjacent levels, where the higher-level entities provide price signals and the lower-level ones respond with desired power schedules. The proposed method uses the proximal-gradient-based iterative co-optimization algorithm extended to a three-level case, which enjoys convergence characteristic of proximal algorithms. The performance of the proposed approach is compared with both a centralized formulation a",
+    "doi": "10.1016/j.epsr.2026.113348",
+    "pdf_url": "https://arxiv.org/pdf/2609.21435v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.21435v1",
+    "fetched_at": "2026-09-21T02:51:58.643210+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.21252v1",
+    "source": "arxiv",
+    "title": "A report on the First Technology Demonstration mission of the Little UV Camera (LUVCam1)",
+    "authors": [
+      "Coby Silayan",
+      "Suresh Sivanandam",
+      "Aaron Tohuvavohu",
+      "Albert Lau",
+      "Marianna Dafčíková",
+      "Mark Barnet"
+    ],
+    "year": 2026,
+    "abstract": "Here we report on the status of the first on-orbit technology demonstration of the Little UV Camera (LUVCam1). LUVCam1 is a 0.4U payload aboard the 2U cubesat GRBBeta that was launched in July 2024. The primary objective of the mission was to qualify the GSENSE4040 CMOS sensor and its readout electronics in preparation for the Quick UltraVIolet Kilonova Surveyor (QUVIK; Werner et al. \\cite{Werner22, Werner24}) satellite. LUVCam will serve as the primary scientific camera for this mission. We report on the performance of the GSENSE4040FSI sensor used on LUVCam1, beginning with its in-lab characterization followed by an assessment of its on-orbit performance using astronomical observations made by LUVCam1. The camera remains operational two years later and has taken pictures of the Moon and ",
+    "doi": "10.1117/12.3104899",
+    "pdf_url": "https://arxiv.org/pdf/2609.21252v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.21252v1",
+    "fetched_at": "2026-09-21T02:52:32.331923+00:00",
+    "material": "other"
   }
 ]
