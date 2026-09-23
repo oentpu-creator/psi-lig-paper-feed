@@ -14826,5 +14826,148 @@
     "url": "http://arxiv.org/abs/2609.22461v1",
     "fetched_at": "2026-09-22T02:53:23.252649+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.26589v1",
+    "source": "arxiv",
+    "title": "The second Little UV Camera (LUVCam2) mission",
+    "authors": [
+      "Emily Hu",
+      "Suresh Sivanandam",
+      "Albert Lau",
+      "Coby Silayan",
+      "Mark Barnet",
+      "Shaojie Chen"
+    ],
+    "year": 2026,
+    "abstract": "The second Little UltraViolet Camera (LUVCam2) is a 80mm-diameter dual UV-optical space telescope that will observe the UV flares around low-mass stars, with planned flight as a $\\sim$1.4U payload aboard the 3U CubeSat BRNOsat in late 2027. We present the concept of operations, full system architecture, optomechanical, and electrical design for LUVCam2. LUVCam2 is the second technology demonstration for the LUVCam electronics board, with the first LUVCam (LUVCam1) still operating in low-Earth orbit (launched July 2024). The main upgrade of LUVCam2 is the use of the backside-illuminated GSENSE4040BSI CMOS sensor, promising significant improvement to UV quantum efficiency over the frontside-illuminated model used in LUVCam1. Other upgrades to LUVCam2 include the incorporation of the LUVCam o",
+    "doi": "10.1117/12.3105210",
+    "pdf_url": "https://arxiv.org/pdf/2609.26589v1",
+    "journal": "Emily Hu, Suresh Sivanandam, Albert Lau, et al. \"The second little ultraviolet camera (LUVCam2) mission\", Proc. SPIE 14146, Space Telescopes and Instrumentation 2026: Ultraviolet to Gamma Ray, 141461T (17 Aug 2026)",
+    "url": "http://arxiv.org/abs/2609.26589v1",
+    "fetched_at": "2026-09-23T02:52:10.171543+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.25423v1",
+    "source": "arxiv",
+    "title": "Objective Video Quality Assessment in FWA-Based Over-the-Top Content Delivery Across Open Source 5G Networks",
+    "authors": [
+      "Nelson Ion",
+      "FlÁvio Silva",
+      "Paulo Silva",
+      "Ricardo Silva",
+      "Mathews Lima",
+      "Daniel Luna"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents a comprehensive experimental video quality assessment in 5G-based Fixed Wireless Access (FWA) networks, leveraging a real open source 5G network testbed. Addressing the critical need for robust UHD video delivery, the study systematically investigates the impact of transmission modes (SISO and MIMO), modulation schemes (64-QAM and 256-QAM), and network load (one to five users) on both network throughput and perceived video quality. Unlike simulation-based approaches, our methodology integrates automated streaming campaigns with objective full-reference Quality of Experience (QoE) metrics (PSNR, ssim, and VMAF) computed from 4K video streams delivered via MPEG-DASH, enabling frame-level correlation between network performance and user experience. Key findings demonstrate",
+    "doi": "10.1109/ACCESS.2026.3679215",
+    "pdf_url": "https://arxiv.org/pdf/2609.25423v1",
+    "journal": "IEEE Access, 2026",
+    "url": "http://arxiv.org/abs/2609.25423v1",
+    "fetched_at": "2026-09-23T02:52:57.892878+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.26628v1",
+    "source": "arxiv",
+    "title": "The observation of bulk superconductivity in Rhombohedral ReO3 under pressure",
+    "authors": [
+      "S. Huyan",
+      "R. F. S. Penacchio",
+      "L-L. Wang",
+      "J. Schmidt",
+      "D. Zhang",
+      "B. Lavina"
+    ],
+    "year": 2026,
+    "abstract": "Understanding how lattice geometry enables superconductivity in oxides remains a central challenge. Here, we report a systematic study of ReO3 up to 80 GPa. Synchrotron X-ray diffraction, Raman spectroscopy, electrical transport, dc magnetic susceptibility, and first-principles calculations establish a sequence of pressure-induced structural transitions, from cubic Pm-3m to Im-3 followed by the emergence of a rhombohedral R-3c phase accompanied by bulk superconductivity with a maximum Tc, onset ~17.5 K. DC magnetic susceptibility and trapped-flux magnetization measurements demonstrate that bulk superconductivity is confined to the pressure range where R-3c phase is dominant. Density functional theory calculations show strong electron-phonon coupling in the hR24-R-3c structure, with substan",
+    "doi": "10.1016/j.mtphys.2026.102206",
+    "pdf_url": "https://arxiv.org/pdf/2609.26628v1",
+    "journal": "S. Huyan, R.F.S. Penacchio, L.-L. Wang et al., Materials Today Physics, 67, 102206 (2026)",
+    "url": "http://arxiv.org/abs/2609.26628v1",
+    "fetched_at": "2026-09-23T02:53:03.916574+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.26610v1",
+    "source": "arxiv",
+    "title": "Semantic Abstraction for Natural Language Inference: a Methodological Framework for Discovering and Compensating Semantic Knowledge and Reasoning Gaps in Large Language Models",
+    "authors": [
+      "David Torres-Moreno",
+      "Jorge Hermosillo-Valadez"
+    ],
+    "year": 2026,
+    "abstract": "Despite their outstanding performance on many NLP tasks, LLMs face serious challenges related to semantic abstraction. In this study, we are interested in understanding how LLMs leverage abstract semantic knowledge in natural language inference (NLI), which requires sophisticated linguistic capabilities to interpret implicit meanings, contextual conceptual relationships, and semantic connections between words and phrases. To this end, we propose a methodological framework for constructing new semantic knowledge at a higher level of abstraction, which we define under the notions of semantic compatibility and incompatibility for NLI. In this framework, the meaning of the lexical-semantic relations between the premise and the hypothesis is reconfigured to achieve a more flexible semantic netw",
+    "doi": "10.1016/j.knosys.2025.114825",
+    "pdf_url": "https://arxiv.org/pdf/2609.26610v1",
+    "journal": "Knowledge-Based Systems, 2026, 114825",
+    "url": "http://arxiv.org/abs/2609.26610v1",
+    "fetched_at": "2026-09-23T02:53:03.916619+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.24854v1",
+    "source": "arxiv",
+    "title": "Anisotropic Surface State Band Splitting and Low Energy Flat Bands in 3d Correlated Topological Kondo Insulator Candidate FeSb$_2$",
+    "authors": [
+      "Ziling Cao",
+      "Jie Pang",
+      "Yu Xu",
+      "Taimin Miao",
+      "Bo Liang",
+      "Wenpei Zhu"
+    ],
+    "year": 2026,
+    "abstract": "FeSb$_2$ is a correlated narrow-gap semiconductor that has often been discussed as a $3d$-electron Kondo insulator candidate and exhibits a low-temperature resistance plateau with possible surface-dominated conduction. We carried out a systematic high-resolution laser-based angle-resolved photoemission spectroscopy (ARPES) study of FeSb$_2$ to investigate its electronic structure. The surface states around the zone center show clear anisotropic splitting. When the temperature is lowered into the resistance plateau regime ($<6\\,\\mathrm{K}$), the surface states remain robust, but their photoemission peaks become much sharper and gain spectral weight. Two distinct flat-band-like features are observed at low energy. One is located at $\\sim$127 meV below the Fermi level, which exists only along",
+    "doi": "10.1088/1674-1056/ae6d9f",
+    "pdf_url": "https://arxiv.org/pdf/2609.24854v1",
+    "journal": "Chinese Physics B 35, 097901 (2026)",
+    "url": "http://arxiv.org/abs/2609.24854v1",
+    "fetched_at": "2026-09-23T02:53:34.137424+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.24712v1",
+    "source": "arxiv",
+    "title": "Observation of Replica Symmetry Breaking in Filamentation and Multifilamentation",
+    "authors": [
+      "André C. A. Siqueira",
+      "Guillermo Palacios",
+      "Jessica E. Q. Bautista",
+      "Anderson M. Amaral",
+      "Albert S. Reyna",
+      "Edilson L. Falcão-Filho"
+    ],
+    "year": 2026,
+    "abstract": "We report the experimental observation and characterization of Replica Symmetry Breaking (RSB) manifestation while analyzing the transverse intensity profile of pulses in filamentation experiments using sapphire crystal and distilled water, excited by a femtosecond laser centered at 800 nm. The RSB arises from the competition between self-focusing and plasma defocusing, subject to local fluctuations in the nonlinear refractive index generated by plasma via multiphoton excitation, which subsequently promotes frustration among modes. Our results confirm the existence of glassy-like photonic states not only in multifilamentation, as previously reported [W. Ettoumi, J. Kasparian, and J. Wolf, \"Spin-glass model governs laser multiple filamentation,\" Phys. Rev. Lett., vol. 115, no. 3, pp. 033902",
+    "doi": "10.1515/nanoph-2024-0592",
+    "pdf_url": "https://arxiv.org/pdf/2609.24712v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.24712v1",
+    "fetched_at": "2026-09-23T02:53:34.137574+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.24643v1",
+    "source": "arxiv",
+    "title": "Replica Symmetry Breaking in the Quasi Mode Locked Regime of Titanium Sapphire Lasers",
+    "authors": [
+      "Nicolas P. Alves",
+      "Ricardo V. M. de Almeida Filho",
+      "Isaac C. Nunes",
+      "Gleison S. Bezerra",
+      "Cid B. de Araújo",
+      "Marcio H. G. de Miranda"
+    ],
+    "year": 2026,
+    "abstract": "Recent observations of replica symmetry breaking (RSB) in ytterbium-based mode-locked fiber lasers have revealed glassy behavior in the quasi-mode-locked (QML) regime. Here, we investigate whether this behavior is restricted to a specific laser implementation or represents a more general feature of mode-locked systems. By analyzing statistical correlations of spectral intensity fluctuations through the Parisi overlap and Pearson correlation parameters, we study two Titanium:sapphire laser systems: a homemade cavity and a commercial laser. In both cases, clear signatures of RSB are observed in the QML regime, while replica-symmetric behavior is recovered in the amplified spontaneous emission (ASE) and standard mode-locked (SML) regimes. These results demonstrate the occurrence of RSB in Tit",
+    "doi": "10.1038/s41598-026-70225-x",
+    "pdf_url": "https://arxiv.org/pdf/2609.24643v1",
+    "journal": "Sci Rep (2026)",
+    "url": "http://arxiv.org/abs/2609.24643v1",
+    "fetched_at": "2026-09-23T02:53:34.137617+00:00",
+    "material": "other"
   }
 ]
