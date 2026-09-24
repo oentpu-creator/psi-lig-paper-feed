@@ -14969,5 +14969,60 @@
     "url": "http://arxiv.org/abs/2609.24643v1",
     "fetched_at": "2026-09-23T02:53:34.137617+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.28114v1",
+    "source": "arxiv",
+    "title": "Watching What We Eat: Information Quality and Body Image in Diet-Related YouTube Videos",
+    "authors": [
+      "Maddalena Ghiotti",
+      "Daniela Paolotti",
+      "Yelena Mejova"
+    ],
+    "year": 2026,
+    "abstract": "The widespread use of social media, particularly image- and video-based platforms, has turned them into key sources of both normative and informational content related to health and diet. This may contribute to the development of disordered eating behaviors or, potentially, eating disorders. This study uses mixed-methods analysis applied to 3129 YouTube videos about diet and weight loss in order to quantify the level of risk of low-quality information and heightened focus on the body image. We adapt three quality measurement frameworks from the literature -- PRHISM, HONcode and SMEC -- to the online video context, perform manual annotation of a sample of the data, and design an LLM content characterization pipeline to score the videos on the quality of their content and the focus on the hu",
+    "doi": "10.1145/3794786.3830741",
+    "pdf_url": "https://arxiv.org/pdf/2609.28114v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.28114v1",
+    "fetched_at": "2026-09-24T02:42:49.207650+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.28164v1",
+    "source": "arxiv",
+    "title": "Gamma-ray emission toward supergiant shells in the Large Magellanic Cloud",
+    "authors": [
+      "Qixin Yu",
+      "Olaf Reimer",
+      "Anita Reimer"
+    ],
+    "year": 2026,
+    "abstract": "The Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way, is considered to be a very good target for investigations of diffuse gamma-ray emission. Observations have shown that diffuse emissions are related to the large- and small-scale structures of the LMC. Particularly, it has been suggested that some of the small-scale bright diffuse emissions coincide with supergiant shells (SGSs) previously identified based on H$α$ images. We analyzed the gamma-ray emission from the LMC using more than 15 years of observations with the \\textit{Fermi} Large Area Telescope in the energy range of 300$\\,$MeV-300$\\,$GeV. A dedicated spatial and spectral analysis was made for diffuse emission components of the LMC. Particularly, we evaluated the emissions from SGSs in detail using phenomenologi",
+    "doi": "10.1051/0004-6361/202660237",
+    "pdf_url": "https://arxiv.org/pdf/2609.28164v1",
+    "journal": "A&A, 713, A236 (2026)",
+    "url": "http://arxiv.org/abs/2609.28164v1",
+    "fetched_at": "2026-09-24T02:42:54.742369+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.27672v1",
+    "source": "arxiv",
+    "title": "Direct observation of the electronic structure of even-layer puckered SnTe monolayer films on graphene",
+    "authors": [
+      "Satoru Ichinokura",
+      "Shunsuke Tsuda",
+      "Kiyohisa Tanaka",
+      "Koichiro Yaji"
+    ],
+    "year": 2026,
+    "abstract": "We report a direct observation of the electronic structure of monolayer SnTe on graphene by angle-resolved photoemission spectroscopy. By combining low-energy electron diffraction, momentum microscopy, core-level spectroscopy, and first-principles calculations, we show that the observed monolayer-limit electronic structure is consistent with a puckered even-layer biatomic-layer building block rather than a nonpuckered square-flat structure. The observed band dispersion and its polarization dependence are reproduced by a puckered structure with a substrate-renormalized buckling amplitude. We further show that graphene actively interacts with ultrathin SnTe by selecting its in-plane orientational texture, renormalizing the buckling amplitude, and modifying the local interfacial electrostatic",
+    "doi": "10.1103/p3hj-vdc2",
+    "pdf_url": "https://arxiv.org/pdf/2609.27672v1",
+    "journal": "Phys. Rev. B 114, 165408 (2026)",
+    "url": "http://arxiv.org/abs/2609.27672v1",
+    "fetched_at": "2026-09-24T02:43:00.379862+00:00",
+    "material": "other"
   }
 ]
