@@ -15024,5 +15024,23 @@
     "url": "http://arxiv.org/abs/2609.27672v1",
     "fetched_at": "2026-09-24T02:43:00.379862+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2609.30115v1",
+    "source": "arxiv",
+    "title": "Orbital Error Dynamics: Self-Organized Criticality, Ephemeral Parameter Resonance, and Non-Linear Biological Ontologies in Zero-Storage Neural Synthesis",
+    "authors": [
+      "Volkan Dağlı",
+      "Zerrin Dağlı",
+      "Dağhan Dağlı"
+    ],
+    "year": 2026,
+    "abstract": "Modern deep neural networks treat parameters as static floating-point matrices stored in physical memory, incurring Von Neumann memory bottlenecks and representation collapse. We formulate Orbital Error Dynamics (OED), an analytical framework wherein synaptic weights are not stored masses (O(W)), but transient topological resonances (O(1)) derived procedurally from the complex quadratic polynomial map z_{n+1} = z_n^2 + c. We introduce the Bent Sine Wave Hypothesis, demonstrating that non-equilibrium living systems emerge when harmonic waves curl inward through environmental drag toward the cardioid cusp (c = 1/4). We define the Observer Horizon Geometry in parameter space, identifying interior resonance shoulder loci X_upper = (0.25, +0.18) and X_lower = (0.25, -0.18) between the fixed-poi",
+    "doi": "10.5281/zenodo.22900465",
+    "pdf_url": "https://arxiv.org/pdf/2609.30115v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2609.30115v1",
+    "fetched_at": "2026-09-25T02:58:55.067052+00:00",
+    "material": "other"
   }
 ]
