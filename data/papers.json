@@ -15042,5 +15042,25 @@
     "url": "http://arxiv.org/abs/2609.30115v1",
     "fetched_at": "2026-09-25T02:58:55.067052+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_817e4d4346970d9a",
+    "source": "semantic_scholar",
+    "title": "Enhancement of porous silicon photoluminescence using (Ni) treatment",
+    "authors": [
+      "M. Nabil",
+      "M. Elnouby",
+      "N. Gayeh",
+      "A. Sakr",
+      "H. Motaweh"
+    ],
+    "year": 2017,
+    "abstract": "A new method has been developed to improve the photoluminescence intensity of porous silicon (PS). Self-organized (PS) can be used in various fields. The deposition of metal nanoparticles (Ni) allows utilizing the obtained nano-composite for numerous applications such as sensor technology, biomedicine, and many more. (Ni/PS) nano-composite powders are prepared using Ni deposition on the PS powder surface. The (Ni/PS) powders became hydrophilic by the deposited Ni nanoparticles. At the different percentages of (Ni: PS), at a higher percentage than (3:1) the values of the crystallite size of Ni and PS are nearly equivalent which suggests the saturation case of PS surface by Ni particles. It also depends on the deposition time value. In this study, that is the commercialization of nanostructu",
+    "doi": "10.1088/1757-899X/248/1/012001",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/248/1/012001/pdf",
+    "journal": "IOP Conference Series: Materials Science and Engineering",
+    "url": "https://www.semanticscholar.org/paper/817e4d4346970d9a527a968a4803cfb4bb487ed0",
+    "fetched_at": "2026-10-04T03:49:02.547794+00:00",
+    "material": "PSi"
   }
 ]
