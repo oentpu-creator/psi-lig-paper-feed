@@ -15141,5 +15141,22 @@
     "url": "https://www.semanticscholar.org/paper/41d4f90c6a82f4228a6b6eafa472564226d1e41f",
     "fetched_at": "2026-10-08T04:02:58.516009+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "ss_b9065732c72e4932",
+    "source": "semantic_scholar",
+    "title": "Porous silicon nanoparticles in drug delivery, regenerative medicine, and biosensing: a translational review",
+    "authors": [
+      "Yi-Wang-Zhong-Chao-Fan-Li-Yuan-Jiang-Jun-Qiang-Cai Ding",
+      "Bin Ma"
+    ],
+    "year": 2026,
+    "abstract": "Porous silicon nanoparticles (pSiNPs) have become a versatile platform for biomedical applications owing to their tunable pore structure, high surface area (200–800 m2/g), intrinsic biodegradability into orthosilicic acid, and versatile surface chemistry. This review systematically examines the synthesis strategies (electrochemical etching, magnesiothermic reduction, stain etching, laser ablation), composite fabrication with biocompatible polymers (PCL, PLGA, chitosan, PEG), and surface functionalization approaches that govern pSiNP performance in biological environments. We evaluate preclinical evidence across four major application domains: (i) targeted drug delivery, where pH-responsive and MMP-cleavable gating strategies have demonstrated up to 7-fold lower off-target toxicity in murin",
+    "doi": "10.3389/fbioe.2026.1790476",
+    "pdf_url": "https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1790476/pdf",
+    "journal": "Frontiers in Bioengineering and Biotechnology",
+    "url": "https://www.semanticscholar.org/paper/b9065732c72e49327248c3345c013ece5ad9fef8",
+    "fetched_at": "2026-10-09T04:07:54.607222+00:00",
+    "material": "PSi"
   }
 ]
