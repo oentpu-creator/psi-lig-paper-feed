@@ -15158,5 +15158,26 @@
     "url": "https://www.semanticscholar.org/paper/b9065732c72e49327248c3345c013ece5ad9fef8",
     "fetched_at": "2026-10-09T04:07:54.607222+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "ss_455ffd905835a40f",
+    "source": "semantic_scholar",
+    "title": "Leakage-Aware Cross-Pressure Forecasting of Laser-Induced Graphene Flexible Sensor Responses under Small Independent-Sample Conditions",
+    "authors": [
+      "Zu-Ning Bai",
+      "Yu Dai",
+      "Ze-Kun Dong",
+      "Hao-Yuan Tan",
+      "Dong-Hua Jiang",
+      "Guang-Zhi He"
+    ],
+    "year": 2026,
+    "abstract": "Random partitioning of overlapping sliding windows and scarcity of complete experimental curves are two prevalent issues in the predictive evaluation of flexible sensor dynamic response. However, existing research rarely quantifies their impacts simultaneously. This paper establishes a strictly isolated evaluation protocol using four complete LIG response curves at 10, 20, 30, and 50 kPa as independent experimental units. By auditing the leakage-type random window protocol, we quantify its optimistic bias: in single-step and 12-step prediction tasks, 98.9% and 100% of the test targets, respectively, are exposed to the training window coverage, resulting in artificially high $\\mathrm{R}^{2}$ values of 0.0846 and 0.0368 for OLS. Under complete curve isolation, Ridge and OLS achieve average $",
+    "doi": "10.1109/METMS70800.2026.11706634",
+    "pdf_url": "",
+    "journal": "2026 6th International Conference on Mechanical, Electronics and Electrical and Automation Control (METMS)",
+    "url": "https://www.semanticscholar.org/paper/455ffd905835a40ffd8d479299e84bd9386befec",
+    "fetched_at": "2026-10-15T02:49:28.852497+00:00",
+    "material": "LIG"
   }
 ]
