@@ -15179,5 +15179,244 @@
     "url": "https://www.semanticscholar.org/paper/455ffd905835a40ffd8d479299e84bd9386befec",
     "fetched_at": "2026-10-15T02:49:28.852497+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2610.29920v1",
+    "source": "arxiv",
+    "title": "In-orbit anomaly and recovery of IXPE detector 2",
+    "authors": [
+      "Fabio Muleri",
+      "Luca Baldini",
+      "Sudip Chakraborty",
+      "Chien-Ting Chen",
+      "Enrico Costa",
+      "Ettore del Monte"
+    ],
+    "year": 2026,
+    "abstract": "The Imaging X-ray Polarimetry Explorer (IXPE) is a joint NASA-ASI mission launched in December 2021 to measure the linear polarization of celestial X-ray sources in the 2-8 keV energy range. The payload comprises three identical telescopes, each combining grazing-incidence X-ray optics with a focal-plane photoelectric polarimeter based on the Gas Pixel Detector technology. On 14 April 2025, the second detector experienced an anomaly that significantly altered the electrical behavior of the ASIC responsible for reading out the photoelectron track images. In this contribution, we describe the effect of the anomaly on the instrumental response and the actions taken to mitigate its effects and recover the scientific observations of the instrument.",
+    "doi": "10.1117/12.3104504",
+    "pdf_url": "https://arxiv.org/pdf/2610.29920v1",
+    "journal": "Proc. SPIE 14146, Space Telescopes and Instrumentation 2026: Ultraviolet to Gamma Ray, 141461C (17 Aug 2026)",
+    "url": "http://arxiv.org/abs/2610.29920v1",
+    "fetched_at": "2026-10-22T02:53:28.881445+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29828v1",
+    "source": "arxiv",
+    "title": "Early versus Late RGB-Infrared Fusion for Counter-UAV Detection: A Comparative Study",
+    "authors": [
+      "Alberto De Zan",
+      "Denis Tavaris",
+      "Gian Luca Foresti",
+      "Ivan Scagnetto"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents a novel strategy for UAV detection through visible (RGB) and infrared (IR) fusion, in order to improve accuracy and precision in harsh environments and weather conditions. In this research, two opposite approaches have been studied and implemented: the first concerns image-level (early) fusion, which merges two different spectra into a single image to which one detector is applied. On the other hand, the second approach, called decision-level (late) fusion, focuses on blending together the output bounding boxes of two different detection pipelines, aiming to create a common result that can be applied to both spectra simultaneously. Both strategies have been extensively tested in a dedicated environment, which included alternating low and high brightness scenes, differen",
+    "doi": "10.1109/ACCESS.2026.3735919",
+    "pdf_url": "https://arxiv.org/pdf/2610.29828v1",
+    "journal": "A. De Zan, D. Tavaris, G. L. Foresti and I. Scagnetto, Early Versus Late RGB-Infrared Fusion for Counter-UAV Detection: A Comparative Study, IEEE Access, vol. 14, pp. 149702-149712, 2026",
+    "url": "http://arxiv.org/abs/2610.29828v1",
+    "fetched_at": "2026-10-22T02:53:28.881636+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.28967v1",
+    "source": "arxiv",
+    "title": "Strain-Induced Interfacial Bond Evolution and Facet-dependent Strain Response of Electronic Properties in Oxidized Silicon Nanowires",
+    "authors": [
+      "Yasir Mahmood",
+      "Daniel Wines",
+      "Viviana Dovale-Farelo",
+      "Kamal Choudhary",
+      "Lucas M Hale"
+    ],
+    "year": 2026,
+    "abstract": "Silicon nanowires (Si NWs) have emerged as promising candidates for next-generation nanoelectronic devices due to their tunable electronic properties, and compatibility with aggressive scaling requirements. The integration of strain further enhances their performance by modulating carrier mobility, band structure, and transport behavior without altering material chemistry. Within the NW, the silicon-silicon dioxide (Si-SiO$_{2}$) interface serves as a critical region where strain redistribution and suboxide bonding collectively influence the mechanical and electronic response. Here, we combine reactive force field molecular dynamics and first-principles calculations to investigate how oxidation-induced interfacial structure and crystallographic facet orientation govern strain-dependent bon",
+    "doi": "10.1021/acs.jpcc.6c01336",
+    "pdf_url": "https://arxiv.org/pdf/2610.28967v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.28967v1",
+    "fetched_at": "2026-10-22T02:53:34.650016+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.26159v1",
+    "source": "arxiv",
+    "title": "The RUBIK satellite payload concept: a 3D-segmented plastic scintillation-based particle tracking detector",
+    "authors": [
+      "Roman Bergert",
+      "Dzmitry Kazlou",
+      "Hartmut Schotte",
+      "Niclas Fiedler",
+      "Hans-Georg Zaunick",
+      "Kilian-Simon Baumann"
+    ],
+    "year": 2026,
+    "abstract": "We present the design concept and first experimental results of RUBIK, a three-dimensional resolving plastic scintillation detector developed as a scientific payload for the Research and Observation in Medium Earth Orbit satellite mission of the Institute of Space Systems of the University of Stuttgart. The name RUBIK is inspired by the Rubik's Cube, a familiar example of a three-dimensional segmented structure, reflecting the 5x5x5 modular arrangement of the sensitive volume. The sensitive volume consists of 125 PVT-based plastic scintillator unit cubes, each penetrated by two perpendicularly aligned wavelength-shifting fibres, which guide scintillation photons to silicon photomultipliers (SiPMs), providing 50 independent readout channels. Custom readout electronics, comprising two discri",
+    "doi": "10.1088/1748-0221/21/10/P10016",
+    "pdf_url": "https://arxiv.org/pdf/2610.26159v1",
+    "journal": "Roman Bergert et al 2026 JINST 21 P10016",
+    "url": "http://arxiv.org/abs/2610.26159v1",
+    "fetched_at": "2026-10-22T02:53:34.650226+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.26502v1",
+    "source": "arxiv",
+    "title": "Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten",
+    "authors": [
+      "Mary K Chessey",
+      "José Julio Gutiérrez Moreno",
+      "Sajjan Singh Mehta",
+      "Paolo Settembri",
+      "Arda Erbasan",
+      "Dominik Freinberger"
+    ],
+    "year": 2026,
+    "abstract": "Plasma-facing components (PFCs) in future fusion reactors must withstand extreme environments, making tungsten (W) a prime candidate material due to its high thermal conductivity, high melting temperature, low sputtering yield, low tritium absorption. However, neutron irradiation introduces complex nanostructural defects that severely degrade these critical properties. In this work, we use Non-Equilibrium Molecular Dynamics (NEMD) simulations coupled with the Creation Relaxation Algorithm (CRA) to investigate the lattice thermal conductivity (kappa) of W across a wide range of irradiation doses. Systems treated with different doses up to 1.8 canonical displacements per atom (cdpa) were simulated to generate and study diverse defect structures, including vacancies and self-interstitial atom",
+    "doi": "10.1016/j.jnucmat.2026.156988",
+    "pdf_url": "https://arxiv.org/pdf/2610.26502v1",
+    "journal": "Journal of Nuclear Materials, 156988, 633, 2026",
+    "url": "http://arxiv.org/abs/2610.26502v1",
+    "fetched_at": "2026-10-22T02:53:48.170098+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29739v1",
+    "source": "arxiv",
+    "title": "Electric-field tunable spin texture in dual-gated HfS$_2$/graphene van der Waals heterostructures",
+    "authors": [
+      "Haozhe Yang",
+      "Zhendong Chi",
+      "Eoin Dolan",
+      "Josep Ingla-Aynés",
+      "Beatriz Martín-García",
+      "Witold Skowroński"
+    ],
+    "year": 2026,
+    "abstract": "Spin-charge interconversion provides the essential link between spin information and electrical signals in spintronic devices. In spin-orbit coupled systems, spin-charge interconversion can contain multiple components associated with different spin-polarization directions, reflecting the underlying spin texture. Tuning this spin texture therefore provides a way to control not only the magnitude of spin-charge interconversion, but also the balance among its different components. Graphene-based van der Waals heterostructures provide an attractive platform for this purpose because interfacial spin-orbit coupling can host multiple spin-charge interconversion channels that couple to different spin-polarization directions. Here, we demonstrate electric-field control of spin texture in a dual-gat",
+    "doi": "10.1021/acsnano.6c12747",
+    "pdf_url": "https://arxiv.org/pdf/2610.29739v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.29739v1",
+    "fetched_at": "2026-10-22T02:53:54.030872+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29858v1",
+    "source": "arxiv",
+    "title": "Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition",
+    "authors": [
+      "Mingxuan Chen",
+      "Chao Chen",
+      "Siqi Jiang",
+      "Shuxiang Qiao",
+      "Hongyan Lu",
+      "Di Zhang"
+    ],
+    "year": 2026,
+    "abstract": "The iron-based ferromagnetic materials have emerged as a promising system for spintronics due to their high Curie temperatures and significant anomalous Hall effect (AHE) driven by Berry curvature. While there have been investigations into the epitaxial growth of non-layered iron-based ferromagnetic materials, the realization of high-quality single crystal thin films continues to be a formidable obstacle. Meanwhile, the issues such as grain boundary scattering further hinder their characterization and application. Here, we report the first chemical vapor deposition (CVD) synthesis of single-crystalline cubic D0$_3$-Fe$_3$Ge nanoplates. This compound represents a substantial departure from the conventional hexagonal phases typically observed in the Fe-Ge system. Structural characterizations",
+    "doi": "10.1021/acsami.6c14914",
+    "pdf_url": "https://arxiv.org/pdf/2610.29858v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.29858v1",
+    "fetched_at": "2026-10-22T02:54:06.390030+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29780v1",
+    "source": "arxiv",
+    "title": "JointLight: Human-Centric Video Relighting with Asynchronous RGB-Irradiance Joint Modeling",
+    "authors": [
+      "Henglei Lv",
+      "Bailin Deng",
+      "Xiaoqiang Liu",
+      "Yichen Wang",
+      "Haoxian Zhang",
+      "Pengfei Wan"
+    ],
+    "year": 2026,
+    "abstract": "Understanding and modeling light transport in human-centric scenes is a longstanding challenge. While recent progress in diffusion models has boosted research in relighting, precise illumination control still lags, primarily due to the scarcity of diverse, high-quality, precisely labeled video relighting datasets. Existing end-to-end relighting approaches model light transport implicitly through neural networks, which substantially complicates controllability. In contrast, some works resort to path-traced irradiance cues as an explicit blueprint for light transport. However, such constructed irradiance cues are prone to artifacts and hinder generative quality when directly used as control signals. With the key observation that noise corruption removes high-frequency artifacts and preserves",
+    "doi": "10.1145/3829340.3842252",
+    "pdf_url": "https://arxiv.org/pdf/2610.29780v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.29780v1",
+    "fetched_at": "2026-10-22T02:54:12.333122+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29654v1",
+    "source": "arxiv",
+    "title": "Probabilistic Machine Learning for Short-Term Atmospheric Seeing Forecasting",
+    "authors": [
+      "Mary-Joe Medlej",
+      "Rahul Srinivasan",
+      "Simon Prunet",
+      "Aziz Ziad",
+      "Christophe Giordano"
+    ],
+    "year": 2026,
+    "abstract": "Accurate short-term forecasting of atmospheric seeing is of significant interest for astronomical observations and free-space optical communication systems, where rapid variations in optical turbulence can affect system performance and operational planning. In this work, we benchmark machine learning models for predicting atmospheric seeing up to two hours in advance, with a particular focus on probabilistic forecasting and uncertainty quantification. We compare two probabilistic approaches, Gaussian Processes (GPs) and a normalizing-flow- based model (FloTS), against deterministic recurrent neural network (RNN) and long short-term memory (LSTM) baselines. All models are trained and evaluated on seeing measurements from the Maunakea summit. We assess the models using both deterministic met",
+    "doi": "10.1117/12.3103367",
+    "pdf_url": "https://arxiv.org/pdf/2610.29654v1",
+    "journal": "Proc. of SPIE Vol. 14152, 141520J (2026)",
+    "url": "http://arxiv.org/abs/2610.29654v1",
+    "fetched_at": "2026-10-22T02:54:12.333235+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29568v1",
+    "source": "arxiv",
+    "title": "Mixture of Flow Matching and Particle Filter for Proprioception-Based Online Contact Estimation",
+    "authors": [
+      "Seo Wook Han",
+      "Min Jun Kim"
+    ],
+    "year": 2026,
+    "abstract": "In this article, we propose ContactFlowFilter, a novel approach for contact estimation that determines the number of active contacts, their locations, and the associated force vectors. We consider a robot manipulator equipped with joint torque sensors and a base force/torque sensor; such a proprioceptive-only setup presents a challenging inverse problem characterized by (i) multi-modality from non-unique solutions, (ii) temporal dependencies in state evolution, and (iii) discrete contact events involving contact addition/removal. Existing approaches, such as particle filters (PFs) and learning-based methods, often struggle to address these challenges simultaneously. To overcome this, ContactFlowFilter integrates a generative model into the PF framework. The recursive structure of the PF ca",
+    "doi": "10.1109/TRO.2026.3723975",
+    "pdf_url": "https://arxiv.org/pdf/2610.29568v1",
+    "journal": "IEEE Transactions on Robotics, vol. 42, pp. 3646-3665, 2026",
+    "url": "http://arxiv.org/abs/2610.29568v1",
+    "fetched_at": "2026-10-22T02:54:34.773896+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29259v1",
+    "source": "arxiv",
+    "title": "General Relativistic Simulations of the Nonlinear Evolution of r-modes in Rapidly Rotating Neutron Stars",
+    "authors": [
+      "Justin K. Yu",
+      "Andrew Melatos"
+    ],
+    "year": 2026,
+    "abstract": "The r-modes in rotating neutron stars are a promising source of continuous gravitational waves, and may grow or be excited to amplitudes $α\\lesssim1$. We perform general relativistic simulations of nonlinear $l=|m|=2$ r-modes in a rapidly rotating neutron star with spin frequency $f_{spin}\\approx792$ Hz, relaxing the Cowling and small-$α$ approximations. The star is idealised as an unmagnetised, one-component, perfect fluid with a polytropic equation of state. The r-mode frequency is measured to be $f_{r-mode}=1014$ Hz for initial amplitude $α_0=0.2$. The dimensionless frequency $κ\\approx0.7197$ agrees with an estimate from linear perturbation theory to within 1.7%. $f_{r-mode}$ increases quadratically with amplitude, and $κ$ decreases by 3.4% across simulations where $α_0$ is varied throu",
+    "doi": "10.3847/1538-4357/aeb4b7",
+    "pdf_url": "https://arxiv.org/pdf/2610.29259v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.29259v1",
+    "fetched_at": "2026-10-22T02:54:34.774054+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.29474v1",
+    "source": "arxiv",
+    "title": "Extending Affordance Segmentation for Wearable Robots to Multi-Object Images",
+    "authors": [
+      "Simone Lugani",
+      "Matteo Montani",
+      "Paolo Gastaldo",
+      "Rodolfo Zunino",
+      "Edoardo Ragusa"
+    ],
+    "year": 2026,
+    "abstract": "This paper proposes a refinement to existing vision-based portable pipelines for the recognition of graspable object parts. Such pipelines can effectively support automatic grasp selection and preshaping in upper-limb prosthetic devices. However, realistic scenarios in which multiple objects are present still represent a challenge. The proposed method exploits a minor modification to the conventional hardware setup and a custom training approach to extend the applicability of vision-based pipelines. A laser pointer is introduced in the setup as an effective mechanism for object disambiguation. Accordingly, a suitable retraining of the deep convolutional neural networks supporting recognition of graspable parts is implemented. A mixed reality strategy allows the reuse of available high-qual",
+    "doi": "10.1109/COINS69995.2026.11715600",
+    "pdf_url": "https://arxiv.org/pdf/2610.29474v1",
+    "journal": "Proceedings of IEEE COINS 2026, IEEE, 2026",
+    "url": "http://arxiv.org/abs/2610.29474v1",
+    "fetched_at": "2026-10-22T02:54:40.518025+00:00",
+    "material": "other"
   }
 ]
