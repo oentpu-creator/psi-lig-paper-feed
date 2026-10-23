@@ -15418,5 +15418,100 @@
     "url": "http://arxiv.org/abs/2610.29474v1",
     "fetched_at": "2026-10-22T02:54:40.518025+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_907cabcf6f350339",
+    "source": "semantic_scholar",
+    "title": "Optical and Electrical Characterization of Er/Yb‐Doped Porous Silicon for Advanced Photovoltaic Applications",
+    "authors": [
+      "Aldo M. C. Gomes",
+      "D. R. Huanca"
+    ],
+    "year": 2025,
+    "abstract": "This study examines the optical and electrical properties of erbium‐ and ytterbium‐doped porous silicon (PS). Reflectance, absorbance, and impedance measurements reveal that doping with 0.005 M Er(NO3)3 and Yb(NO3)3 significantly enhances absorbance, with Yb achieving a 225% increase compared to undoped PS. Thermal oxidation further boosts absorbance by up to 300% in the near‐infrared (NIR) region, attributed to the formation of Er2Si2O7, Er2SiO5, and Yb2Si2O7 confirmed by energy dispersive X‐ray spectroscopy and X‐ray diffraction. Despite these changes, Kubelka–Munk analysis shows no significant bandgap alteration for indirect transitions. The improved optical absorption, particularly in the NIR, suggests potential for enhancing photovoltaic device efficiency. Electrically, impedance spec",
+    "doi": "10.1002/pssa.202500414",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pssa.202500414",
+    "journal": "physica status solidi (a)",
+    "url": "https://www.semanticscholar.org/paper/907cabcf6f35033959560c4c4cdda401d92504b4",
+    "fetched_at": "2026-10-23T02:57:27.928950+00:00",
+    "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2610.31627v1",
+    "source": "arxiv",
+    "title": "Workload-Aware Monitoring for AI-RAN",
+    "authors": [
+      "Babak Azkaei",
+      "Georgios Exarchakos",
+      "Kishor Chandra Joshi"
+    ],
+    "year": 2026,
+    "abstract": "AI-RAN platforms are expected to share CPU and GPU resources between radio workloads and AI services. Aggregate telemetry reports operating conditions, but timing changes may reflect different workloads, processors, or measurement boundaries. We propose workload-aware monitoring that associates radio-work descriptors with processing paths, timing boundaries, and operating context before comparing like with like. In 16 over-the-air downlink experiments, hybrid dispatch (CPU for transport blocks (TBs) below 4,096 bytes and GPU otherwise) has 29.66% and 22.93% lower mean host-callback durations than direct GPU dispatch, without and with a synthetic GPU co-runner, respectively. Grouping locates the separation in small TBs, while large-TB callback-duration ranges overlap. These observations ide",
+    "doi": "10.1145/3843179.3858061",
+    "pdf_url": "https://arxiv.org/pdf/2610.31627v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.31627v1",
+    "fetched_at": "2026-10-23T02:57:33.741309+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.31567v1",
+    "source": "arxiv",
+    "title": "Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery",
+    "authors": [
+      "Heather Jin Hee Kim",
+      "Mohsen Alishahi",
+      "Kyuin Park",
+      "Mikaila K. Roncevich",
+      "Larissa M. Shepherd",
+      "Cara M. Nunez"
+    ],
+    "year": 2026,
+    "abstract": "Objective: Iontophoretic drug delivery has primarily relied on current modulation to regulate drug transport. Here, we investigate hydrogel geometry, microstructure, and local electric fields as alternative mechanisms for controlling transdermal delivery. Methods: Bovine serum albumin (BSA) was encapsulated in polypyrrole-polyvinyl alcohol (PPy-PVA) hydrogels. Five geometries, including Hilbert curve-based designs, were fabricated to vary pore architecture and local electric field distributions. We optimized PPy content, drug loading, and current density. Electric fields were evaluated using finite element analysis, and microstructures were characterized by scanning electron microscopy. Drug transport was assessed using Franz diffusion cells with artificial membranes. Results: Hydrogel geo",
+    "doi": "10.1109/TBME.2026.3744496",
+    "pdf_url": "https://arxiv.org/pdf/2610.31567v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.31567v1",
+    "fetched_at": "2026-10-23T02:57:39.543261+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.31295v1",
+    "source": "arxiv",
+    "title": "Model Predictive Control of Wind Turbines: A Model-Oriented Review of Prediction Models, Control Objectives, and Nonlinear Aerodynamic Formulations",
+    "authors": [
+      "Roya Khalili-Amirabadi",
+      "Mohsen Jalaeian-Farimani",
+      "Mahdi Ghane"
+    ],
+    "year": 2026,
+    "abstract": "Model predictive control (MPC) has been applied to wind-turbine regulation with markedly different internal prediction models, ranging from linearized low-order turbine models to nonlinear, aeroelastic, floating, and data-driven predictors. This review organizes the literature primarily by the model propagated by the controller and treats model order, predictor representation, MPC formulation, control objective, and validation plant as separate descriptors. Primary studies show that low-order linear or piecewise-affine predictors are attractive for constrained power and speed regulation, whereas flexible drivetrain, structural, and floating models are needed when drivetrain twist, tower motion, blade loads, or platform dynamics are explicit control quantities. Nonlinear and economic MPC st",
+    "doi": "10.65098/jimcs.01.2026.35.41",
+    "pdf_url": "https://arxiv.org/pdf/2610.31295v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.31295v1",
+    "fetched_at": "2026-10-23T02:57:52.966014+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.31149v1",
+    "source": "arxiv",
+    "title": "Navigating human-robot interaction challenges in private and residential aged care homes",
+    "authors": [
+      "David Ahmedt-Aristizabal",
+      "Mohammad Ali Armin",
+      "Akila Pemasiri",
+      "Harshala Gammulle",
+      "Tharindu Fernando",
+      "David Silvera-Tawil"
+    ],
+    "year": 2026,
+    "abstract": "This chapter explores how robotic systems and ambient intelligence can enhance care for older adults in residential aged care (RAC) homes and private homes. Although these settings differ, we frame both as extreme and challenging environments for human-robot interaction (HRI), characterised by cluttered and dynamic layouts, diverse resident needs, and limited on-site technical support. We review embodied and non-embodied systems that assist with daily living, safety monitoring, and social engagement, highlighting hybrid deployments where robots complement fixed and wearable sensors. To ensure these technologies are usable and effective, design considerations consider the cognitive, physical, and social needs of older adults. Interaction design prioritises accessibility for older adults wit",
+    "doi": "10.1016/B978-0-443-29266-8.00010-4",
+    "pdf_url": "https://arxiv.org/pdf/2610.31149v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.31149v1",
+    "fetched_at": "2026-10-23T02:58:10.868750+00:00",
+    "material": "other"
   }
 ]
