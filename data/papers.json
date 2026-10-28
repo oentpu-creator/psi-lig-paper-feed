@@ -15513,5 +15513,42 @@
     "url": "http://arxiv.org/abs/2610.31149v1",
     "fetched_at": "2026-10-23T02:58:10.868750+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.36369v1",
+    "source": "arxiv",
+    "title": "The formation of silicon-carbon chain molecules in IRC+10216",
+    "authors": [
+      "T. J. Millar"
+    ],
+    "year": 2026,
+    "abstract": "Linear silicon-carbon chain molecules, SiC$_n$ (n = 3--6), have been detected in the circumstellar envelope of the carbon-rich AGB star IRC+10216. Here, we discuss the mechanisms likely to be at work in the synthesis of chains up to SiC$_8$ and present for the first time a detailed comparison between observations and model calculations. Using a combination of measured and postulated rate coefficients, we show that the column densities of the silicon carbide molecules observed in IRC+10216 can be reproduced to with a factor of four. Furthermore, our model calculations suggest that the column densities of SiC$_7$ and SiC$_8$ are a factor of 2--4 less than that of SiC$_6$. We discuss the influence of neutral-neutral reactions involving parent SiC$_2$ on chain growth and show that their neglec",
+    "doi": "10.1093/mnras/stag2050",
+    "pdf_url": "https://arxiv.org/pdf/2610.36369v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2610.36369v1",
+    "fetched_at": "2026-10-28T03:34:56.849388+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2610.33759v1",
+    "source": "arxiv",
+    "title": "Development of an FPGA-Based Readout System and Functional Characterization of a Custom NSX1 ASIC for X-ray instrumentation",
+    "authors": [
+      "Nabin Poudyal",
+      "Wayne Baumgartner",
+      "Sukanya Chakrabarti",
+      "Gianluigi De Geronimo",
+      "Wesley Hodge",
+      "Peter Jenke"
+    ],
+    "year": 2026,
+    "abstract": "We developed an FPGA-based readout system for a front-end ASIC (NSX1) with 64 channels to read out a large- area silicon drift detector used in X-ray detection instruments such as the Wide Field Monitor module for the STROBE-X mission concept. The FPGA acts as a central controller for the NSX1 configuration, implementing trigger handling and event sequencing, precise event timestamping, control of an external ADC for digitization, and data transfer to the host PC. The system enables comprehensive ASIC characterization; here, we demonstrate preliminary ASIC functionality and characterization tests using a calibrated pulser for two programmable linear gain responses of 375 mV/fC and 750 mV/fC. These preliminary results validate the low-noise performance of the NSX1 ASIC and demonstrate succe",
+    "doi": "10.1117/12.3109646",
+    "pdf_url": "https://arxiv.org/pdf/2610.33759v1",
+    "journal": "Proc. SPIE 14157, SPIE Astronomical Telescopes + Instrumentation, 2026",
+    "url": "http://arxiv.org/abs/2610.33759v1",
+    "fetched_at": "2026-10-28T03:34:56.849814+00:00",
+    "material": "other"
   }
 ]
