@@ -15550,5 +15550,126 @@
     "url": "http://arxiv.org/abs/2610.33759v1",
     "fetched_at": "2026-10-28T03:34:56.849814+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_4aae9f15c8bf8a18",
+    "source": "semantic_scholar",
+    "title": "Highly pure water generation via solar driven evaporation and photodegradation based on laser-induced graphene",
+    "authors": [
+      "Hong Zhong",
+      "Zhongyu Lai",
+      "Dan Xu",
+      "Shifeng Wang"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.solmat.2025.113406",
+    "pdf_url": "",
+    "journal": "Solar Energy Materials and Solar Cells",
+    "url": "https://www.semanticscholar.org/paper/4aae9f15c8bf8a18ca4a8ac46cada6d5e3030e28",
+    "fetched_at": "2026-10-29T03:57:03.020844+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_76014c15691efb85",
+    "source": "semantic_scholar",
+    "title": "Robust Laser‐Induced Graphene‐Boron‐Doped Diamond Nanowall Hybrid Nanostructures with Enhanced Field Electron Emission Performance for Microplasma Illumination Devices",
+    "authors": [
+      "Mohsen Khodadadi Yazdi",
+      "M. Ficek",
+      "M. Brzhezinskaya",
+      "Shradha Suman",
+      "S. K. Sethy",
+      "K. J. Sankaran"
+    ],
+    "year": 2025,
+    "abstract": "This investigation introduces a scalable fabrication method for laser‐induced graphene (LIG)‐boron‐doped diamond nanowall (BDNW) hybrid nanostructures, designed for field electron emission (FEE) cathode materials in microplasma illumination (μPI) devices. The two‐step process involves fabricating BDNWs via microwave plasma‐enhanced chemical vapor deposition, followed by drop‐casting BDNW dispersion onto polyimide foils to create LIG‐BDNW hybrid nanostructures. Topographic studies reveal that BDNWs on LIG boosts surface area and prevent graphene restacking. High‐resolution transmission electron microscopy confirms precise BDNW decoration, creating sharp edges and high porosity. The effects of boron and nitrogen dopants, highlighted by Raman spectroscopy, are corroborated by near‐edge X‐ray ",
+    "doi": "10.1002/smsc.202400430",
+    "pdf_url": "https://doi.org/10.1002/smsc.202400430",
+    "journal": "Small Science",
+    "url": "https://www.semanticscholar.org/paper/76014c15691efb85229d269509d20d821fa5c240",
+    "fetched_at": "2026-10-29T03:57:03.020850+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_263513adede1ab28",
+    "source": "semantic_scholar",
+    "title": "Machine Learning-Assisted Multimodal Early Screening of Lung Cancer Based on a Multiplexed Laser-Induced Graphene Immunosensor.",
+    "authors": [
+      "Yongsheng Cai",
+      "Li-Hui Ke",
+      "Anxu Du",
+      "Jiancheng Dong",
+      "Zitong Gai",
+      "Lichun Gao"
+    ],
+    "year": 2025,
+    "abstract": "Lung cancer remains the leading cause of cancer-related mortality worldwide, largely due to late-stage diagnosis. Early detection is critical for improving patient outcomes, yet current screening methods, such as low-dose computed tomography (CT), often lack the sensitivity and specificity required for early-stage detection. Here, we present a multimodal early screening platform that integrates a multiplexed laser-induced graphene (LIG) immunosensor with machine learning to enhance the accuracy of lung cancer diagnosis. Our platform enables the rapid, cost-effective, and simultaneous detection of four tumor markers─neuron-specific enolase (NSE), carcinoembryonic antigen (CEA), p53, and SOX2─with limits of detection (LOD) as low as 1.62 pg/mL. By combining proteomic data from the immunosens",
+    "doi": "10.1021/acsnano.5c02822",
+    "pdf_url": "",
+    "journal": "ACS nano",
+    "url": "https://www.semanticscholar.org/paper/263513adede1ab288ae61c91a41c067cc86f67e8",
+    "fetched_at": "2026-10-29T03:57:03.020855+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_03029ab5331f14b2",
+    "source": "semantic_scholar",
+    "title": "Simplifying the Incorporation of Laser-Induced Graphene into Microfluidic Devices.",
+    "authors": [
+      "Maxwell D. Bridges",
+      "Emie Marin",
+      "Avishek Banik",
+      "Charles S. Henry"
+    ],
+    "year": 2025,
+    "abstract": "Laser-induced graphene (LIG) electrodes have many attractive properties that make them promising platforms for many electrochemical applications. However, their fabrication is currently limited to a small number of substrates, with the most widely used being polyimide. Incorporating LIG electrodes into microfluidic devices is challenging because it requires transfer onto other substrates compatible with microfluidics. Transferring LIG electrodes to other substrates has been demonstrated, but it requires complicated mechanical procedures that impact electrode performance. Here, a simple transfer process has been developed that maintains the structural and electrochemical integrity of the LIG electrodes. The transferred LIG electrodes were characterized using morphological and electrochemica",
+    "doi": "10.1021/acsami.5c04078",
+    "pdf_url": "",
+    "journal": "ACS applied materials & interfaces",
+    "url": "https://www.semanticscholar.org/paper/03029ab5331f14b2d327210c4a42cc1171622e17",
+    "fetched_at": "2026-10-29T03:57:03.020896+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_ba54d3b8ad354ffe",
+    "source": "semantic_scholar",
+    "title": "Is laser-induced graphene (LIG) environmentally sustainable? Laboratory-scale life cycle assessment of LIG from petroleum- and bio-derived precursors",
+    "authors": [
+      "Agata Costanzo",
+      "A. Bressi",
+      "Marco Frey",
+      "F. Greco",
+      "M. Niero"
+    ],
+    "year": 2025,
+    "abstract": "This study explores the application of Life Cycle Assessment (LCA) to the production of laser-induced graphene (LIG), a graphene-based material obtained through direct laser ablation of carbon-rich precursors. LIG has been hailed as a sustainable alternative to conventional graphene production technologies due to the potential use of renewable feedstocks; however, no LCA has yet assessed its actual environmental performance. This study presents the first LCA of lab-scale LIG production from one petroleum-derived polymer (polyimide) and two bio-derived sources, based on maize starch and waste almond shell powder, respectively. It identifies process hotspots, focusing on energy demand and precursor contributions, and also highlights methodological challenges in early-stage LCA of emerging te",
+    "doi": "10.1007/s11367-025-02524-w",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11367-025-02524-w.pdf",
+    "journal": "The International Journal of Life Cycle Assessment",
+    "url": "https://www.semanticscholar.org/paper/ba54d3b8ad354ffe4a119ca2fa29611930b87cd7",
+    "fetched_at": "2026-10-29T03:57:03.020907+00:00",
+    "material": "LIG"
+  },
+  {
+    "paper_id": "ss_16b84d62ee6d0483",
+    "source": "semantic_scholar",
+    "title": "Kraft-Based Femtosecond Laser-Induced Graphene for Electrochemical Dopamine Sensing.",
+    "authors": [
+      "Shutong Gao",
+      "Xiaomeng Bian",
+      "Hao Bi",
+      "Wen-Qiang Xing",
+      "Ruige Su",
+      "Mi-Sheng Liang"
+    ],
+    "year": 2025,
+    "abstract": "In this work, laser-induced graphene from kraft paper (kraft paper-LIG) was employed for the nonenzymatic electrochemical sensing of dopamine (DA). We reported the fabrication and characterization of a disposable, cost-effective, kraft-based electrochemical dopamine sensor with the sensing electrode consisting of laser-induced graphene derived from kraft paper. Kraft paper-LIG was formed by the femtosecond laser modification of kraft paper into a three-dimensional (3D) graphene arrangement. Our study labeled that the electrochemical activity of kraft paper-LIG can be improved via a dual pass (defocused, followed by focused lasing). Kinetic analysis showed that the effective heterogeneous electron transfer rate constant of kraft paper-LIG was 2.8 × 10-3 cm s-1 using Fe(CN)63-/4- as a redox ",
+    "doi": "10.1021/acs.langmuir.4c04568",
+    "pdf_url": "",
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "url": "https://www.semanticscholar.org/paper/16b84d62ee6d0483b442d13353032d247f31838f",
+    "fetched_at": "2026-10-29T03:57:03.020928+00:00",
+    "material": "LIG"
   }
 ]
