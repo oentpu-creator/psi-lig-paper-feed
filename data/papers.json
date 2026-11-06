@@ -15671,5 +15671,170 @@
     "url": "https://www.semanticscholar.org/paper/16b84d62ee6d0483b442d13353032d247f31838f",
     "fetched_at": "2026-10-29T03:57:03.020928+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2611.06239v1",
+    "source": "arxiv",
+    "title": "Finite-time mixing and reaction in packed bed reactors",
+    "authors": [
+      "Dario Maggiolo",
+      "Lucien Magson",
+      "Gunther Munz",
+      "Diego Sampedro",
+      "Angela Sasic Kalagasidis"
+    ],
+    "year": 2026,
+    "abstract": "We investigate mixing dynamics in porous media at finite times, using pore-scale lattice-Boltzmann simulations combined with Lagrangian particle tracking. We compute fluid deformation in randomly packed beds based on the moving Protean frame approach introduced by Lester 2018. From the extracted Lagrangian kinematics, we construct a mixing model based on lamellar aggregation that well predicts the Eulerian scalar fields obtained from simulations. Our results reveal an early time mixing regime dominated by shear-driven fluid deformation, where solute mixing arises from the random overlap of diffusive concentration elements. In this regime, mixing proceeds slowly and follows a temporal decay of concentration variance, $σ_c^2 \\sim Pe^{-α/(2α+1)} t^{-1/2}$, where Pe is the Peclet number and $α",
+    "doi": "10.1017/jfm.2026.11461",
+    "pdf_url": "https://arxiv.org/pdf/2611.06239v1",
+    "journal": "Journal of Fluid Mechanics , Volume 1034 , 10 May 2026 , A9",
+    "url": "http://arxiv.org/abs/2611.06239v1",
+    "fetched_at": "2026-11-06T04:42:23.124140+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.08167v1",
+    "source": "arxiv",
+    "title": "Reflective Nature Experiences in Virtual Reality",
+    "authors": [
+      "Shiva Ghasemi",
+      "Maddie Oehler",
+      "Annie Xenakis",
+      "Jeffrey Jiarui Yang",
+      "Scott McCrickard"
+    ],
+    "year": 2026,
+    "abstract": "This paper presents the design and evaluation of an accessible virtual reality (VR) nature experience developed to promote mindfulness, reduce stress, and support emotional well-being. The system immerses users in a calming natural environment through realistic landscapes, ambient soundscapes, guided breathing exercises, and interactive checkpoints that encourage reflection. Accessibility was a central design consideration, particularly for users with diverse physical and sensory abilities or limited access to natural environments and traditional mindfulness resources. A pilot study with 10 participants indicated that the experience could support relaxation and emotional well-being. Participants also reported greater immersion with continuous movement than with teleportation, highlighting ",
+    "doi": "10.1145/3860405.3860626",
+    "pdf_url": "https://arxiv.org/pdf/2611.08167v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.08167v1",
+    "fetched_at": "2026-11-06T04:42:40.707138+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.08282v1",
+    "source": "arxiv",
+    "title": "Mitigating scanning-induced systematics in Hipparcos and implications for Gaia astrometry",
+    "authors": [
+      "Avraham Binnenfeld",
+      "Sahar Shahaf",
+      "Richard I. Anderson",
+      "Hans-Walter Rix",
+      "Shay Zucker"
+    ],
+    "year": 2026,
+    "abstract": "Space-based astrometric missions such as Hipparcos and Gaia rely on one-dimensional scanning strategies that couple the measured signals with both observation times and scanning geometry. This coupling can introduce spurious periodicities and complicate their interpretation. We present a non-parametric extension of the phase-distance correlation (PDC) periodogram that quantifies and reduces dependence on scan geometry at the period-search stage. Using Hipparcos data, we identified recurrent periodicities associated with characteristic scanning-law timescales and showed that they are strongly suppressed by the scan-angle-controlled statistic. We then applied the method to Gaia Data Release 4 (DR4) prerelease epoch astrometry, where a recurrent ~54-day feature is suppressed across multiple s",
+    "doi": "10.1051/0004-6361/202661484",
+    "pdf_url": "https://arxiv.org/pdf/2611.08282v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.08282v1",
+    "fetched_at": "2026-11-06T04:42:53.169986+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.07779v1",
+    "source": "arxiv",
+    "title": "Flexible Piezoelectric Tactile Sensing System for Intelligent Object Recognition",
+    "authors": [
+      "Razan Khalifeh",
+      "Mohamad Yaacoub",
+      "Christian Gianoglio",
+      "Moustafa Saleh",
+      "Maurizio Valle",
+      "Yahya Abbass"
+    ],
+    "year": 2026,
+    "abstract": "Tactile sensing provides information about object properties that can improve robotic grasping and manipulation. However, accurate object recognition during the early stages of grasping remains challenging, particularly under strict real-time constraints. This study presents a flexible, distributed piezoelectric tactile sensing system for early-stage object recognition. The system was experimentally evaluated using six everyday objects and three recognition approaches: feature-based classification using support vector machines (SVMs), raw-signal classification using 1D convolutional neural networks (1D-CNNs) and convolutional recurrent neural networks (C-RNNs), and spatiotemporal heatmap classification using a 2D-CNN. The effects of sensor count and temporal window size on recognition accu",
+    "doi": "10.1109/JSEN.2026.3669666",
+    "pdf_url": "https://arxiv.org/pdf/2611.07779v1",
+    "journal": "IEEE SENSORS JOURNAL, VOL. 26, NO. 8, 15 APRIL 2026",
+    "url": "http://arxiv.org/abs/2611.07779v1",
+    "fetched_at": "2026-11-06T04:42:59.155062+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.07726v1",
+    "source": "arxiv",
+    "title": "Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers",
+    "authors": [
+      "Mohammadreza Firoozalizadeh",
+      "Zakiye Rostamirad",
+      "Arman Barghi",
+      "Ahmad Kalhor",
+      "Mohammadreza Nayeri",
+      "Mehdi Tale Masouleh"
+    ],
+    "year": 2026,
+    "abstract": "Object rearrangement in cluttered tabletop scenes is challenging, especially in wide workspaces where dual-arm systems improve coverage and efficiency. Limited free space often necessitates buffering, while objects near or across the shared reachability region of the manipulators must be transferred under careful coordination to avoid inter-arm collisions. Conventional inter-arm transfer typically relies on a fixed handoff configuration, which constrains where and how objects are exchanged, enforces spatiotemporal synchronization of the arms, and reduces flexibility in dense layouts. This paper presents a dual-arm rearrangement framework that combines movable stacking with Gap-Aware Push Transfer for asynchronous cross-boundary exchange. The method scans the shared boundary to identify col",
+    "doi": "10.1109/ICEE70628.2026.11710769",
+    "pdf_url": "https://arxiv.org/pdf/2611.07726v1",
+    "journal": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
+    "url": "http://arxiv.org/abs/2611.07726v1",
+    "fetched_at": "2026-11-06T04:42:59.155169+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.07485v1",
+    "source": "arxiv",
+    "title": "A Unified Multi-Encoder Framework for Music Lyric Intelligibility Assessment: Bridging Invasive and Non-Invasive Paradigms",
+    "authors": [
+      "Jing Yang",
+      "Shenghao Liao",
+      "Shuqing Zhang",
+      "Yongyi Deng",
+      "Pan Li",
+      "Zerui Han"
+    ],
+    "year": 2026,
+    "abstract": "Lyric intelligibility significantly impacts music engagement and comprehension, especially for hearing-impaired individuals. Existing speech intelligibility metrics perform poorly in musical contexts due to differences in prosody, timing, and spectral dynamics. We propose a unified multi-encoder framework that supports both invasive and non-invasive modeling for robust lyric intelligibility prediction. By capturing complementary local acoustic-semantic alignments, global musical semantics, and ASR-derived textual cues, our method achieves superior performance over baselines on the ICASSP 2026 Cadenza dataset, with the best model achieving 26.61 RMSE, a $9.2$\\% improvement over the baseline, demonstrating its flexibility and robustness.",
+    "doi": "10.1109/ICASSP55912.2026.11462827",
+    "pdf_url": "https://arxiv.org/pdf/2611.07485v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.07485v1",
+    "fetched_at": "2026-11-06T04:42:59.155375+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.07638v1",
+    "source": "arxiv",
+    "title": "Triaxial $μ$-PIC for resolving Multi-Hit Ambiguity",
+    "authors": [
+      "A. Takada",
+      "M. Abe",
+      "Y. Yoshida",
+      "T. Okeda",
+      "J. D. Parker",
+      "K. Miuchi"
+    ],
+    "year": 2026,
+    "abstract": "The micro pixel chamber ($μ$-PIC), a type of micro-pattern gaseous detectors (MPGD), features pixel electrodes structured similarly to a sliced proportional counter. Conventionally, $μ$-PIC electrodes are connected to orthogonal strip electrodes to reduce the number of readout circuits; however, this configuration introduces multi-hit ambiguity when tracing winding tracks or during high-rate operations. A well-known solution to this problem is the adoption of an additional readout axis. To this end, we designed a new electrode structure using Garfield++ simulations and fabricated a triaxial $μ$-PIC based on through-glass-via (TGV) technology. This triaxial $μ$-PIC achieved a high gas gain of $1.1\\times 10^4$ and the energy resolution of 22\\% (FWHM) at 5.9~keV, Furthermore, the false-hit pr",
+    "doi": "10.1016/j.nima.2026.172204",
+    "pdf_url": "https://arxiv.org/pdf/2611.07638v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.07638v1",
+    "fetched_at": "2026-11-06T04:43:23.312331+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.06714v1",
+    "source": "arxiv",
+    "title": "Adaptive Optics for the Extremely Large Telescope: overcoming Point Spread Function challenges with MORFEO",
+    "authors": [
+      "Carmelo Arcidiacono",
+      "Elisa Portaluri",
+      "Marco Gullieuszik",
+      "Michele Cantiello",
+      "Francesca Annibali",
+      "Guido Agapito"
+    ],
+    "year": 2026,
+    "abstract": "MORFEO is the multi-conjugate adaptive optics (MCAO) relay for the Extremely Large Telescope (ELT) of the European Southern Observatory. It combines the adaptive mirrors of the telescope (M4-M5) with two post-focal deformable mirrors to deliver a stable, diffraction-limited point spread function over a field approaching 1'. MORFEO senses the atmosphere using six sodium laser guide stars and up to three natural guide stars distributed across a $\\sim$160'' technical field, enabling sky coverage levels of order 50% at the South Galactic Pole. Through its two gravity-invariant ports, MORFEO feeds the MICADO first-light imager and spectrograph with a corrected field of 51''and HARMONI, the high-angular resolution integral field spectrograph. SHARP, a concept for a multi-object near-infrared spe",
+    "doi": "10.1016/j.newast.2026.102559",
+    "pdf_url": "https://arxiv.org/pdf/2611.06714v1",
+    "journal": "New Astronomy 126, 102559 (2026)",
+    "url": "http://arxiv.org/abs/2611.06714v1",
+    "fetched_at": "2026-11-06T04:43:23.312676+00:00",
+    "material": "other"
   }
 ]
