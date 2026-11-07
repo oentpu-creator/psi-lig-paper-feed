@@ -15836,5 +15836,23 @@
     "url": "http://arxiv.org/abs/2611.06714v1",
     "fetched_at": "2026-11-06T04:43:23.312676+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_6fd61255cb28f7a9",
+    "source": "semantic_scholar",
+    "title": "A Novel pressure sensors fabricated from laser-induced graphene on polyimide film: A step towards advanced wearable technology",
+    "authors": [
+      "G. Jabbar",
+      "M. M. Abud",
+      "Mohand M. Azzawi"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s12596-025-02808-2",
+    "pdf_url": "",
+    "journal": "Journal of Optics",
+    "url": "https://www.semanticscholar.org/paper/6fd61255cb28f7a9788a69b9bdf8bf7fab2265a6",
+    "fetched_at": "2026-11-07T04:12:37.252186+00:00",
+    "material": "LIG"
   }
 ]
