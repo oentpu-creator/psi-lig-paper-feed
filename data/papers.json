@@ -15854,5 +15854,23 @@
     "url": "https://www.semanticscholar.org/paper/6fd61255cb28f7a9788a69b9bdf8bf7fab2265a6",
     "fetched_at": "2026-11-07T04:12:37.252186+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "ss_35d673f234b7fe85",
+    "source": "semantic_scholar",
+    "title": "Retraction Note to: Highly conductive supercapacitor based on laser-induced graphene and silver nanowires",
+    "authors": [
+      "Seyed Ali Hossini Moradi",
+      "N. Ghobadi",
+      "Fateh Zahrabi"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1007/s10854-025-16340-3",
+    "pdf_url": "",
+    "journal": "Journal of Materials Science: Materials in Electronics",
+    "url": "https://www.semanticscholar.org/paper/35d673f234b7fe8519eed5d24b3d963816f770c3",
+    "fetched_at": "2026-11-14T04:34:48.016196+00:00",
+    "material": "LIG"
   }
 ]
