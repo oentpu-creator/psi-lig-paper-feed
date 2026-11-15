@@ -15872,5 +15872,41 @@
     "url": "https://www.semanticscholar.org/paper/35d673f234b7fe8519eed5d24b3d963816f770c3",
     "fetched_at": "2026-11-14T04:34:48.016196+00:00",
     "material": "LIG"
+  },
+  {
+    "paper_id": "arxiv_2611.17018v1",
+    "source": "arxiv",
+    "title": "Exploring Socially Acceptable 3D Feedback Design for Inclusive Small-Group Conversation",
+    "authors": [
+      "Qianjie Wei",
+      "Yifan Li",
+      "Zhen Bai"
+    ],
+    "year": 2026,
+    "abstract": "Prior research has shown that providing feedback on group dynamics can improve the quality of small-group conversations. However, publicly delivered feedback that targets specific individuals may reduce social acceptability due to negative experiences such as social pressure, embarrassment, and resistance. This work investigates how public feedback can be designed to remain socially acceptable while maintaining its effectiveness in XR-based small-group conversations. Informed by social science and HCI literature, we identified three design strategies (incorporate humor, reduce social attention, and use indirectness) and proposed a set of metaphor- and agent-based 3D feedback probes. We then conducted a two-phase study: (1) an online survey with 50 participants to examine how such feedback ",
+    "doi": "10.1145/3859404",
+    "pdf_url": "https://arxiv.org/pdf/2611.17018v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.17018v1",
+    "fetched_at": "2026-11-15T04:22:44.570099+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.16208v1",
+    "source": "arxiv",
+    "title": "Origin of the angular momentum of filaments in the local Universe",
+    "authors": [
+      "V. G. Gurzadyan",
+      "N. N. Fimin",
+      "V. M. Chechetkin"
+    ],
+    "year": 2026,
+    "abstract": "Velocity gradients compatible with rotation have been reported across certain nearby cosmic filaments. We show that rotational momentum might be generated in filaments in the local Universe in the presence of a cosmological constant (local dark energy) based on the theorem stating the general function for the equivalence of the gravitational field of a sphere and that of a point mass. We investigated how the cosmological constant modifies the finite-time acquisition and retention of angular momentum in an open filamentary core. Although its isotropic force exerts no direct axial torque, rotational motion can be seeded by tidal interactions with surrounding matter and incoming streams. Early tidal torques establish an imbalance in axial angular momentum, while the subsequent orbit crossing ",
+    "doi": "10.1051/0004-6361/202662955",
+    "pdf_url": "https://arxiv.org/pdf/2611.16208v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.16208v1",
+    "fetched_at": "2026-11-15T04:22:44.570355+00:00",
+    "material": "other"
   }
 ]
