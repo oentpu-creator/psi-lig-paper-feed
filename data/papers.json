@@ -15908,5 +15908,124 @@
     "url": "http://arxiv.org/abs/2611.16208v1",
     "fetched_at": "2026-11-15T04:22:44.570355+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.22566v1",
+    "source": "arxiv",
+    "title": "A Copper-Inducible Yeast Biosensor with Bioluminescent Readout: Mathematical Modeling, Experimental Validation, and Photodetector Coupling for Molecular Communication in IoBNT",
+    "authors": [
+      "Nikolaos Ntetsikas",
+      "Styliana Kyriakoudi",
+      "Ariel Klavaris",
+      "Antonis Kirmizis",
+      "Chrysostomos Chrysostomou",
+      "Ian F. Akyildiz"
+    ],
+    "year": 2026,
+    "abstract": "Engineered living biosensors constitute promising model organisms for bringing Molecular Communications (MC) closer to practical applications. However, challenges associated with their development and characterization have resulted in the relevant literature being limited in the MC domain, . In this paper, we contribute in this direction by leveraging engineered yeast as a basis to detect heavy metals such as copper. The biosensor's development is supported by a validated mathematical characterization and analysis for possible integration in an MC system. Different from the existing literature, mathematical representations of the major biological processes within the yeast copper detoxification pathway are integrated into a comprehensive framework that predicts the time evolution of the CU",
+    "doi": "10.1109/TMBMC.2026.3754668",
+    "pdf_url": "https://arxiv.org/pdf/2611.22566v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.22566v1",
+    "fetched_at": "2026-11-18T05:34:12.857968+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.21101v1",
+    "source": "arxiv",
+    "title": "Evaluation of Performance of the p-stop fabrication process variations in ATLAS18 strip sensors, Pre- and Post-Irradiation",
+    "authors": [
+      "J. Kozakova",
+      "A. Affolder",
+      "K. Affolder",
+      "A. Awais",
+      "E. Bach",
+      "G. A. Beck"
+    ],
+    "year": 2026,
+    "abstract": "The High-Luminosity upgrade of the Large Hadron Collider (HL-LHC) requires the replacement of the ATLAS Inner Detector with a new all-silicon Inner Tracker (ITk). Radiation-hard n-in-p micro-strip sensors were developed for use in the ITk. During quality control (QC) and quality assurance (QA) procedures performed on ATLAS18 production sensors and test chips, ATLAS ITk strip sensor institutes identified instances of low p-stop density in certain production batches. To investigate the origin of these issues and to try some technological improvements, two dedicated sample batches with four variations of the p-stop fabrication process were produced. These process types (1-4) were systematically evaluated to determine their effectiveness and uniformity. In total, 56 full-size sensors, along wi",
+    "doi": "10.1016/j.nima.2026.171783",
+    "pdf_url": "https://arxiv.org/pdf/2611.21101v1",
+    "journal": "Nuclear Instruments and Methods in Physics Research A 1091 (2026) 171783",
+    "url": "http://arxiv.org/abs/2611.21101v1",
+    "fetched_at": "2026-11-18T05:34:12.858417+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.21087v1",
+    "source": "arxiv",
+    "title": "Experimental Evidence of Elastic Instability in Viscoelastic Kolmogorov Flow",
+    "authors": [
+      "Christophe Brouzet",
+      "Mayank Chopra",
+      "Dario Vincenzi",
+      "Jason R. Picardo",
+      "Atul Varshney"
+    ],
+    "year": 2026,
+    "abstract": "Inertialess elastic instabilities can profoundly affect transport in complex-fluid flows, from mixing in microfluidic devices and displacement through porous media to polymer processing. While such instabilities are well understood in flows with curved streamlines, their origin in rectilinear flows like the prototypical Kolmogorov flow remains unresolved. Here, we report the first experimental evidence of the center-mode elastic instability, at vanishing inertia, in a confined quasi-two-dimensional viscoelastic Kolmogorov flow, driven by electromagnetic forcing. The instability is characterized by the emergence of \"arrow-shaped\" structures in the velocity field, which fluctuates chaotically as the forcing strength increases. We reproduce these observations in simulations of the Oldroyd-B m",
+    "doi": "10.1103/xbgn-y3x2",
+    "pdf_url": "https://arxiv.org/pdf/2611.21087v1",
+    "journal": "Phys. Rev. Lett. (2026)",
+    "url": "http://arxiv.org/abs/2611.21087v1",
+    "fetched_at": "2026-11-18T05:34:12.858438+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.20740v1",
+    "source": "arxiv",
+    "title": "High-quality intrinsic circular dichroism in silicon-based bound states in the continuum metasurfaces via strong coupling",
+    "authors": [
+      "Leyi Zhu",
+      "Tian Sang",
+      "Guanhua Yang",
+      "Chenyang Wang"
+    ],
+    "year": 2026,
+    "abstract": "Bound states in the continuum (BICs) can significantly enhance spin-selective light-matter interactions. However, current BIC metasurfaces generally rely on single or multiple chiral BIC modes to enhance circular dichroism (CD), limiting their application in functional integrated devices. This paper proposes a method that utilizes the strong coupling effect in BIC metasurfaces to achieve intrinsic CD with both a high quality factor (Q-factor) and high efficiency. The metasurface is designed as a silicon-based cross-shaped nanohole array, which can simultaneously support a TM-like BIC mode and a TE-like guided-mode resonance (GMR) mode. By introducing under-etching to break the out-of-plane symmetry and tuning the in-plane asymmetry parameter, strong coupling between the quasi-BIC (QBIC) mo",
+    "doi": "10.7498/aps.75.20260185",
+    "pdf_url": "https://arxiv.org/pdf/2611.20740v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.20740v1",
+    "fetched_at": "2026-11-18T05:34:12.858540+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.23193v1",
+    "source": "arxiv",
+    "title": "Performance analysis of a Rydberg atom THz radiometer concept",
+    "authors": [
+      "Richard J. Murchie",
+      "Petronilo Martin-Iglesias",
+      "Julian Hofmann",
+      "Christophe Buisset"
+    ],
+    "year": 2026,
+    "abstract": "THz receiver technology lies between electronics and photonics; as such, its implementation is not as mature. This warrants investigation into alternative THz receivers such as Rydberg atom sensors, which are highly susceptible to electric fields. In particular, the conversion architecture has been demonstrated to coherently transduce thermal radiation. This system offers room-temperature operation and does not necessarily require a local oscillator at the frequency of the input signal. We provide an assessment of the feasibility of such sensors for THz radiometry within the context of Earth observation.",
+    "doi": "10.1117/12.3116900",
+    "pdf_url": "https://arxiv.org/pdf/2611.23193v1",
+    "journal": "Richard J. Murchie, Petronilo Martin-Iglesias, Julian Hofmann, et al. \"Performance analysis of a Rydberg atom THz radiometer concept\", Proc. SPIE 14279, Sensors, Systems, and Next-Generation Satellites XXX, 1427912 (13 Nov 2026)",
+    "url": "http://arxiv.org/abs/2611.23193v1",
+    "fetched_at": "2026-11-18T05:36:24.806230+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.22394v1",
+    "source": "arxiv",
+    "title": "Formal Analysis of a Fault-Tolerant Extension of the ROSACE Flight Controller",
+    "authors": [
+      "Marco Bozzano",
+      "Alessandro Cimatti",
+      "Moussa Fall",
+      "Stefano Tonetta"
+    ],
+    "year": 2026,
+    "abstract": "Autonomous avionics controllers must satisfy stringent real-time functional and performance require- ments even in the presence of run-time faults. In this paper, we analyze ROSACE, an open-source control engineering benchmark for flight control systems, focusing on its run-time resilience against faults such as sensor noise and sensor failures. We extend the benchmark with an FDIR (Fault Detection, Identification and Recovery) component based on Triple Modular Redundancy.   Our approach builds upon COMPASTA, a tool for Model-Based Design developed on top of the TASTE tool by ESA. COMPASTA enables the modeling and injection of faults into a system's design. Moreover, it implements a simulation-based verification and validation workflow, automating the generation and execution of a set of t",
+    "doi": "10.4204/EPTCS.457.5",
+    "pdf_url": "https://arxiv.org/pdf/2611.22394v1",
+    "journal": "EPTCS 457, 2026, pp. 54-71",
+    "url": "http://arxiv.org/abs/2611.22394v1",
+    "fetched_at": "2026-11-18T05:36:24.806548+00:00",
+    "material": "other"
   }
 ]
