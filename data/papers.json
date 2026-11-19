@@ -16027,5 +16027,23 @@
     "url": "http://arxiv.org/abs/2611.22394v1",
     "fetched_at": "2026-11-18T05:36:24.806548+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.24631v1",
+    "source": "arxiv",
+    "title": "Hydrodynamics of robotic micro-swimmers in confinement",
+    "authors": [
+      "Giovanni Corsi",
+      "Giovanni Noselli",
+      "Antonio DeSimone"
+    ],
+    "year": 2026,
+    "abstract": "Inspired by seminal work by E.M. Purcell, we discuss the problem of predicting and optimizing the performance of autonomous robots swimming in confinement. Our approach is based on the explicit numerical resolution of the fluid flow induced by the swimmer, and it is validated experimentally on a cm-size prototype composed of a cargo head and a rotating propulsive tail. Using hydrodynamic scaling, we predict the performance of replicas of our prototype scaled down to mm- and sub-mm-size to test the feasibility of autonomous micro-robots navigating in narrow vessels. The main result of our theoretical, computational, and experimental analysis is that, while hydrodynamics seems to place no fundamental obstruction to the vision of autonomous micro-robots navigating in narrow lumens inside the ",
+    "doi": "10.1103/pjxx-5vd4",
+    "pdf_url": "https://arxiv.org/pdf/2611.24631v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.24631v1",
+    "fetched_at": "2026-11-19T05:32:00.480095+00:00",
+    "material": "other"
   }
 ]
