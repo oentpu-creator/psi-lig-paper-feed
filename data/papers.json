@@ -16045,5 +16045,65 @@
     "url": "http://arxiv.org/abs/2611.24631v1",
     "fetched_at": "2026-11-19T05:32:00.480095+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.26367v1",
+    "source": "arxiv",
+    "title": "Contactless Estimation of Respiratory Frequency Using 3D-CNN on Thermal Images",
+    "authors": [
+      "Federica Gioia",
+      "Filippo Pura",
+      "Alberto Greco",
+      "Dario Piga",
+      "Arcangelo Merla",
+      "Marco Forgione"
+    ],
+    "year": 2026,
+    "abstract": "Monitoring physiological parameters such as respiratory rate ($f_R$) is essential for diagnosing and managing various pathological conditions. Thermal imaging offers a promising contactless alternative to traditional methods, which often rely on partially invasive sensors or obtrusive wearable systems. However, existing approaches for $f_R$ estimation from thermal signals typically require extensive pre-processing and manual or semi-automatic region-of-interest (ROI) tracking, limiting their practical applicability. This study proposes a deep learning-based method for estimating $f_R$ directly from thermal videos, eliminating the need for complex pre-processing and ROI tracking. A 3D Convolutional Neural Network (3D-CNN) is developed to operate on raw thermal video data. To address challen",
+    "doi": "10.1109/JBHI.2025.3567141",
+    "pdf_url": "https://arxiv.org/pdf/2611.26367v1",
+    "journal": "IEEE Journal of Biomedical and Health Informatics, 29(10), 7387-7395, 2025",
+    "url": "http://arxiv.org/abs/2611.26367v1",
+    "fetched_at": "2026-11-22T04:40:30.215709+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.26213v1",
+    "source": "arxiv",
+    "title": "Unusual increase in electrical and thermal conductivity of severely deformed CrMnFeCoNi high-entropy alloy: Roles of disordering and nanostructuring in electron and phonon transport",
+    "authors": [
+      "Jacqueline Hidalgo-Jiménez",
+      "Payam Edalati",
+      "Md Amirul Islam",
+      "Makoto Arita",
+      "Dmitry Chernyshov",
+      "Bidyut Baran Saha"
+    ],
+    "year": 2026,
+    "abstract": "This work investigates how defect engineering and nanostructuring via severe plastic deformation influence electrical and thermal transport in the high-entropy alloy CrMnFeCoNi. High-pressure torsion (HPT) for up to N = 4 turns produces a hierarchical defect structure, including deformation twins at low strains, dislocations and Lomer-Cottrell locks at intermediate strains, and a high fraction of high-angle grain boundaries at large strains. While hardness naturally increases and saturates at ~520 Hv, both electrical and thermal conductivity exhibit an unusual increase upon HPT processing (from 0.953 MS m-1 and 10.3 W m-1 K-1 after homogenization to 1.003 +- 0.005 MS m-1 and 14.4 W m-1 K-1 after N = 4). Analysis based on the Wiedemann-Franz law indicates a modest increase in electron trans",
+    "doi": "10.1016/j.jallcom.2026.192440",
+    "pdf_url": "https://arxiv.org/pdf/2611.26213v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.26213v1",
+    "fetched_at": "2026-11-22T04:40:30.215804+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.25907v1",
+    "source": "arxiv",
+    "title": "Ab-initio study of magnetic interaction in RNiO2: role of rare-earth size and epitaxial strain",
+    "authors": [
+      "Ramasamy Murugesan",
+      "Shiyu Deng",
+      "Marie-Bernadette Lepetit"
+    ],
+    "year": 2026,
+    "abstract": "In this paper we present a systematic first-principles investigation of the structure and nearest-neighbor magnetic exchange interactions in the infinite-layer RNiO2 thin-film series (R = La-Lu), under the constrain of different substrates. Density functional theory calculations are first employed to optimize the crystal structures, while CAS+DDCI correlated wave-function calculations were used for the determination of the magnetic exchanges. This methodology allows to obtain magnetic interactions in good agreement with RIXS experimental estimations. In the pristine case, our results confirm that the structure of RNiO2 (except for R = La and Ce) adopts the I4/mcm space group, characterized by an out-of-plane rotation of the NiO4 plaquettes. This result remains valid under substrate constra",
+    "doi": "10.1103/s243-k2dm",
+    "pdf_url": "https://arxiv.org/pdf/2611.25907v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.25907v1",
+    "fetched_at": "2026-11-22T04:40:30.216017+00:00",
+    "material": "other"
   }
 ]
