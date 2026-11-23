@@ -16105,5 +16105,25 @@
     "url": "http://arxiv.org/abs/2611.25907v1",
     "fetched_at": "2026-11-22T04:40:30.216017+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_da426ef845266733",
+    "source": "semantic_scholar",
+    "title": "Optical modeling of a GaAs-defect 1D porous silicon photonic crystal for high-sensitivity γ-ray detection",
+    "authors": [
+      "Shaimaa El-Shemy",
+      "A. Aly",
+      "Emad Nady",
+      "Gaurav Malik",
+      "Heedae Kim"
+    ],
+    "year": 2025,
+    "abstract": ": Radiation sensors are vital for applications in medical diagnostics, environmental monitoring, and nuclear safety. However, conventional sensors often suffer from limited sensitivity and poor operational stability. In this work, we theoretically propose a high-performance γ -ray radiation sensor based on a one-dimensional porous silicon photonic crystal (1D PhC) incorporating a gallium arsenide (GaAs) defect layer and porous silicon layers infiltrated with chalcogenide glass compositions (Se 70 S 30 ₋ x Sb x ). The sensing mechanism is governed by monitoring the shift in defect mode resonance within the photonic bandgap as a function of γ -ray dose (0-500 kGy). Dose dependent refractive index variations in the irradiated chalcogenide glasses were modeled using Bruggeman’s effective mediu",
+    "doi": "10.21203/rs.3.rs-7926019/v1",
+    "pdf_url": "https://www.researchsquare.com/article/rs-7926019/latest.pdf",
+    "journal": "Journal of the Korean Physical Society",
+    "url": "https://www.semanticscholar.org/paper/da426ef84526673361288fd2f7c914a6f47b8daa",
+    "fetched_at": "2026-11-23T05:13:43.904746+00:00",
+    "material": "PSi"
   }
 ]
