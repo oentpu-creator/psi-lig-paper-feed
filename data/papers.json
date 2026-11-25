@@ -16125,5 +16125,127 @@
     "url": "https://www.semanticscholar.org/paper/da426ef84526673361288fd2f7c914a6f47b8daa",
     "fetched_at": "2026-11-23T05:13:43.904746+00:00",
     "material": "PSi"
+  },
+  {
+    "paper_id": "arxiv_2611.32451v1",
+    "source": "arxiv",
+    "title": "Electron spin relaxation and coherence times of silicon vacancies in 4H-SiC",
+    "authors": [
+      "Irene Donà",
+      "Michele Segantini",
+      "Gianluca Marcozzi",
+      "Nguyen Tien Son",
+      "Takeshi Ohshima",
+      "Ha Duong Ngo"
+    ],
+    "year": 2026,
+    "abstract": "Color defect centers carrying electron spins in solid crystals like diamond and silicon carbide (SiC) are promising candidates for qubits and quantum sensors, with SiC material being particularly interesting due to its compatibility with the existing semiconductor technology. Here we investigated the electron spin properties of silicon vacancy centers (V1 and V2) both electron spin $S = 3/2$ in 4H-SiC in the temperature range $T=80-300$~K using electron paramagnetic resonance (EPR). The EPR spectrum shows central and satellite lines, where the former ones originate from V1 and V2 centers, as well as from unknown defect center X. The analysis of continuous wave EPR measurements revealed a spin concentration of $c_{\\mathrm{V1}}=1.47\\pm0.3\\times10^{14}$, $c_{\\mathrm{V2}}=5.6\\pm1.12\\times10^{1",
+    "doi": "10.1103/bg36-b6bs",
+    "pdf_url": "https://arxiv.org/pdf/2611.32451v1",
+    "journal": "Physical Review B 114, 274413 (2026)",
+    "url": "http://arxiv.org/abs/2611.32451v1",
+    "fetched_at": "2026-11-25T06:32:44.390973+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.32939v1",
+    "source": "arxiv",
+    "title": "One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens",
+    "authors": [
+      "Yi-Jun Chen",
+      "I-Tsen Hsieh",
+      "Li-Wun Chang"
+    ],
+    "year": 2026,
+    "abstract": "Conversational AI systems trained on large-scale web corpora inevitably encode the cultural values and interactional norms embedded in their training data, yet our understanding of how deployed LLMs reflect or reinforce culture-specific social expectations remains limited. This study examined how supportive versus challenging chatbot interaction styles shape user experience and continuance intention, and whether people-pleasing tendency (PPT) moderates these effects across cultures. Taiwanese (N = 49) and Korean (N = 52) participants completed a collaborative tourism-planning task. Results showed that: (1) supportive chatbots consistently led to higher continuance intention, satisfaction, and trust; (2) PPT did not moderate these effects; and (3) cultural variation emerged only in perceive",
+    "doi": "10.18653/v1/2026.c3nlp-1.15",
+    "pdf_url": "https://arxiv.org/pdf/2611.32939v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.32939v1",
+    "fetched_at": "2026-11-25T06:33:23.081087+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.32699v1",
+    "source": "arxiv",
+    "title": "The W Transform: an additional powerful tool for astrophysical time-series analysis",
+    "authors": [
+      "P. D. S. de Lima",
+      "D. O. Fontinele",
+      "R. L. Gomes",
+      "B. L. Canto Martins",
+      "J. M. de Araújo",
+      "Y. Wang"
+    ],
+    "year": 2026,
+    "abstract": "This work introduces the W Transform (WT) for astrophysical applications and explores its similarities and differences to the Continuous Wavelet Transform (CWT), in photometric stellar light curves (LCs). We tested both techniques on synthetic data, producing LCs with different noise levels and numbers of gaps, and applied them to LCs from TESS space mission. The analysis focused on six stars: the solar analog TIC 276293046, the ultra-cool dwarf TIC 359892714, the $γ$ Dor pulsator TIC 164173105, the eclipsing binary TIC 355151781, the hosting planet star TIC 142276270, and the brown dwarf TIC 102076870. Overall, the results were in agreement, except for stars with LCs presenting sector-to-sector differences in structures or changes in the number of gaps, reflecting time-dynamic effects in ",
+    "doi": "10.3847/1538-4357/aec125",
+    "pdf_url": "https://arxiv.org/pdf/2611.32699v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.32699v1",
+    "fetched_at": "2026-11-25T06:33:23.081240+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.32275v1",
+    "source": "arxiv",
+    "title": "On the Design of a Slow Control Interlock System for the European GateMate FPGA",
+    "authors": [
+      "Vitalii Burtsev",
+      "Daniele Passaretti",
+      "Daniel Anders",
+      "Christof Pfannenmueller",
+      "Fabian Lurz",
+      "Thilo Pionteck"
+    ],
+    "year": 2026,
+    "abstract": "Slow Control Systems (SCSs) are essential for the monitoring, configuration, and protection of distributed safety-critical systems in scientific, industrial, and medical applications. Although software-based SCS architectures offer flexibility and scalability, they suffer from software aging and non-deterministic latencies, which limit long-term reliability and timely reaction to critical errors, often requiring additional hardware interlock systems. This paper presents an FPGA-centric lightweight Slow Control Interlock System (SCIS) designed to achieve deterministic ultra-low-latency reaction times in long-running dependable systems. System parameters are acquired and fused at runtime in a Supervisory Monitor Unit (SMU), enabling real-time fault condition classification and prioritization",
+    "doi": "10.1109/NorCAS71164.2026.11791249",
+    "pdf_url": "https://arxiv.org/pdf/2611.32275v1",
+    "journal": "2026 IEEE Nordic Circuits and Systems Conference (NorCAS)",
+    "url": "http://arxiv.org/abs/2611.32275v1",
+    "fetched_at": "2026-11-25T06:34:19.191558+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.31896v1",
+    "source": "arxiv",
+    "title": "Moiré-Induced Interlayer Electron-Phonon Coupling in Graphene/hBN Superlattices",
+    "authors": [
+      "Dasol Kim",
+      "Zhengguang Lu",
+      "Tonghang Han",
+      "Guorui Chen",
+      "Tianyi Han",
+      "Jixiang Yang"
+    ],
+    "year": 2026,
+    "abstract": "Electron-phonon coupling (EPC) plays a vital role in the electrical and optical properties of materials, ranging from superconductivity to charge dynamics. In moiré superlattices, out-of-plane vibrations can modulate the moiré potential and enhance interlayer EPC. Here we report the first direct observation of a resonance arising from coupling between moiré electronic excitations and phonons in graphene-based moiré superlattices. Using Fourier-transform infrared photocurrent spectroscopy, we detect the nominally silent hexagonal boron nitride (hBN) out-of-plane optical (ZO) phonon as a pronounced absorption peak. The phonon interferes with moiré flat-band excitations to form a characteristic Fano resonance. Displacement field-dependent measurements confirm that the feature originates from ",
+    "doi": "10.1103/jvzb-xh9d",
+    "pdf_url": "https://arxiv.org/pdf/2611.31896v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.31896v1",
+    "fetched_at": "2026-11-25T06:34:56.555955+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.31566v1",
+    "source": "arxiv",
+    "title": "The other side of the saturation coin: an experiment to perform saturation of fluorescence spectroscopy in undergraduate laboratories",
+    "authors": [
+      "G. Quiroz-Sánchez",
+      "L. M. Hoyos-Campo",
+      "J. Flores-Mijangos",
+      "F. Ramírez-Martínez",
+      "J. Jiménez-Mier"
+    ],
+    "year": 2026,
+    "abstract": "This article presents an experimental study of saturation and hyperfine pumping effects observed in fluorescence spectra when two counter-propagating beams of light interact with an atomic vapor sample. The experiment focuses on the D2 transition of atomic 87Rb by measuring changes in fluorescence emission as a room-temperature cell is exposed to two counter propagating laser beams of nearly equal intensity. The setup is comparable in complexity to saturated absorption spectroscopy experiments commonly conducted in many undergraduate laboratories but offers the advantage of a complementary view of the atom-light interaction not often found in educational laboratories. The basic theory that is needed to interpret the spectra is also presented. First, an analysis of the timescales involved i",
+    "doi": "10.1119/5.0314108",
+    "pdf_url": "https://arxiv.org/pdf/2611.31566v1",
+    "journal": "arXiv",
+    "url": "http://arxiv.org/abs/2611.31566v1",
+    "fetched_at": "2026-11-25T06:34:56.556057+00:00",
+    "material": "other"
   }
 ]
