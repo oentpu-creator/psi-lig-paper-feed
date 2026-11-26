@@ -16247,5 +16247,46 @@
     "url": "http://arxiv.org/abs/2611.31566v1",
     "fetched_at": "2026-11-25T06:34:56.556057+00:00",
     "material": "other"
+  },
+  {
+    "paper_id": "ss_263b0d9d7d8fe6d3",
+    "source": "semantic_scholar",
+    "title": "One step laser-induced Fe3O4 loaded 3D graphene electrode for electrochemical sensing and supercapacitor applications",
+    "authors": [
+      "Yi-Jing Ai",
+      "B. Ara",
+      "Bao-Li Wang",
+      "Mansoor Ahmad",
+      "Xiao Han",
+      "Li-Si Wang"
+    ],
+    "year": 2025,
+    "abstract": "",
+    "doi": "10.1016/j.microc.2025.112776",
+    "pdf_url": "",
+    "journal": "Microchemical Journal",
+    "url": "https://www.semanticscholar.org/paper/263b0d9d7d8fe6d33e6b6a4eecc6c1478fe54754",
+    "fetched_at": "2026-11-26T06:27:14.147425+00:00",
+    "material": "other"
+  },
+  {
+    "paper_id": "arxiv_2611.34116v1",
+    "source": "arxiv",
+    "title": "Tunable quantum metric driven nonlinear valley Hall effect in the PT-symmetric sliding antiferroelectric MoS$_2$",
+    "authors": [
+      "Wen-Xin Jiang",
+      "Zhen-Hao Gong",
+      "Zhigang Gui",
+      "M. Umar Farooq",
+      "Li Huang"
+    ],
+    "year": 2026,
+    "abstract": "The quantum metric, the real part of a quantum geometric tensor, plays an important role in fundamental transport and optical responses of quantum materials. While net quantum metric effects are typically realized by breaking both time-reversal (T) and inversion (P) symmetries, valley-contrast mechanisms enable the probing of quantum geometry in centrosymmetric, nonmagnetic systems, revealing physical signatures beyond Berry curvature. Here, we design a four-layer MoS$_2$ platform that combines sliding antiferroelectric order with strain-induced $C_{3z}$ breaking to realize a quantum metric driven nonlinear valley Hall effect (NVHE) under preserved P and T symmetries. Reversible interlayer sliding (ABBA $\\leftrightarrow$ BAAB) provides nonvolatile electrical control of the valley response.",
+    "doi": "10.1103/p9sb-k9fj",
+    "pdf_url": "https://arxiv.org/pdf/2611.34116v1",
+    "journal": "Phys. Rev. B 113, 235116 (2026)",
+    "url": "http://arxiv.org/abs/2611.34116v1",
+    "fetched_at": "2026-11-26T06:27:45.858580+00:00",
+    "material": "other"
   }
 ]
